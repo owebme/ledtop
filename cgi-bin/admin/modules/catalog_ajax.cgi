@@ -20,6 +20,64 @@ $db = new Core::DB();
 
 my $catalog = new Core::DB::Catalog();
 
+if (param('saveCatalog')) {
+
+	my $item = JSON_take(param('saveCatalog'));
+	my $result = $item->{"data"};
+	if ($result){
+	
+		sub jsonArray {
+			my %data = ();
+			my $array = shift;
+			my $pos = 0;
+			foreach my $item(@$array){
+				$pos++;
+				my %row = (
+					$item->{"id"} => $pos
+				);
+				%data = (%data, %row);
+				if ($item->{"children"}){
+					my $children = jsonArray($item->{"children"});
+					%data = (%data, %{$children});
+				}				
+			}
+			return \%data;
+		}
+		
+		my $data = jsonArray($result);
+	
+		while (my ($id, $pos) = each(%{$data})){
+			$db->update("UPDATE cat_category SET `c_pos`='".$pos."' WHERE c_id='".$id."'");
+		}
+		
+		my @binds;
+		my $links = $db->query("SELECT p_cid FROM cat_category_links WHERE bind = '0'");
+		foreach my $link(@$links){
+			push(@binds, $link->{"p_cid"});
+		}
+
+		foreach my $item(@$result){
+			my $id = $item->{"id"};
+			$db->delete("DELETE FROM cat_category_links WHERE id = '".$id."'");
+			if ($item->{"links"}){
+				my $providers = $item->{"links"};
+				foreach my $provider(@$providers){
+					my $p_id = $provider->{"id"};
+					my $items = $provider->{"items"};
+					foreach my $link(@$items){
+						my $title = $link->{"title"};
+						from_to($title, "utf-8", "cp1251");
+						$db->insert("INSERT INTO `cat_category_links` (`id`, `p_id`, `p_cid`, `name`, `bind`) VALUES('".$id."', '".$p_id."', '".$link->{"id"}."', '".$title."', '".($link->{"id"} ~~ @binds ? "0" : "1")."')");
+						#print $id." - ".$p_id." - ".$link->{"id"}." - ".$link->{"title"}." - ".($link->{"id"} ~~ @binds ? "0" : "1")."\n";
+					}
+				}
+			}
+		}
+		
+		print "true";
+	}
+}
+
 if (param('changeProvider')) {
 
 	my $item = JSON_take(param('changeProvider'));

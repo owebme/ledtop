@@ -16,8 +16,6 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 
 	Nestable.prototype = {
 	
-		data: {},
-	
 		controlAction: false,
 		
 		init: function(data){
@@ -371,7 +369,7 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 						},
 						avail = false;
 						
-					if (!data) data = [];
+					if (typeof data !== "object") data = [];
 					
 					for (var i=0; i < data.length; i++){
 						if (data[i].id == $provider.id){
@@ -396,11 +394,38 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 			});
 		},
 		
-		getDate: function(){
+		getData: function(){
 		
 			return this.tree.nestable("serialize");
-		}
+		},
 		
+		getLinks: function(){
+		
+			var $links = {};
+			
+			this.tree.find(".dd-item").each(function(){
+				var $item = $(this),
+					links = $item.data("links");
+					
+				if (links && links.length){
+					
+					for (var i=0; i < links.length; i++){
+						var id = links[i].id;
+						if (!$links[id]) $links[id] = [];
+						
+						var items = links[i].items;
+						
+						if (items.length){
+							for (var j=0; j < items.length; j++){
+								$links[id].push(items[j].id);
+							}
+						}
+					}
+				}
+			});
+			
+			return $links;
+		}
 	};
 	
 	var Provider = function(){};
@@ -421,7 +446,7 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 			this.id = data.id;
 			this.title = data.title;
 			this.color = data.color;
-			this.tree = $(data.tree);
+			this.tree = this.syncLinks($(data.tree));
 			this.control = $(data.control);
 			
 			this.control.on("click", function(e){
@@ -483,7 +508,10 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 					$select.removeClass("catalog-provider-select-active");
 					$select_value.data("id", $item.data("id"));
 					$select_value.children().text($item.text());
-					$select_value.attr("class", "item " + $item.data("color"));
+					$select_value.attr("class", "item catalog-b-" + $item.data("color"));
+					_this.id = $item.data("id");
+					_this.title = $item.text();
+					_this.color = $item.data("color");
 
 					$utils.XHR("changeProvider", {
 						provider: $item.data("alias")
@@ -491,9 +519,7 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 					
 						$catalog.draggable(false, true);
 					
-						var $html = $(data);
-					
-						_this.tree.html($html);
+						_this.tree.html(_this.syncLinks($(data)));
 						
 						$catalog.draggable();
 						
@@ -510,6 +536,25 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 					}
 				}
 			});
+		},
+		
+		syncLinks: function($data){		
+			var _this = this,
+				links = $catalog.getLinks();
+		
+			$data.find(".dd-item").each(function(){
+				var $item = $(this),
+					id = $item.data("id");
+					
+				if (links[_this.id]){
+					var data = links[_this.id];
+					for (var i=0; i < data.length; i++){
+						if (data[i] == id) $item.addClass("dd-item-hidden");
+					}
+				}
+			});
+			
+			return $data;
 		},
 		
 		expand: function(item){
@@ -546,12 +591,28 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 		control: "#control-primary",
 		select: "#category-select"
 	});
+	
 	$provider.init({
 		id: 1,
 		title: "Alright",
 		color: "red",
 		tree: "#catalog-secondary",
 		control: "#control-secondary"
+	});
+	
+	$content.find("#catalog-save").on("click", function(){
+		var $btn = $(this);
+		if (!$btn.hasClass("a-button-loading")){
+			console.dir($catalog.getData());
+			$btn.addClass("a-button-loading");
+			$utils.XHR("saveCatalog", {
+				data: $catalog.getData()
+			}, function(data){
+				if (data === true){
+					$btn.removeClass("a-button-loading");
+				}
+			});
+		}
 	});
 	
 	// $("body").on("keydown", function(e){
@@ -563,6 +624,8 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 	var $utils = {};
 	
 	$utils.XHR = function(method, data, callback, type){
+	
+		if (!data) return;
 	
 		if ($utils.XHR.request) $utils.XHR.request.abort();
 	

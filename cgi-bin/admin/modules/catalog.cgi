@@ -91,13 +91,31 @@ $content_html=qq~$content_html<table id="sheet">
 			<button class="btn" data-action="collapse-all">Свернуть все</button>
 		</div>';
 		
+	my %data_providers=""; my $providers="";  my $provider_value=""; my $i=0;
+	my $result = $db->query("SELECT * FROM catalog_providers ORDER BY date ASC");
+	foreach my $item(@$result){
+		$i++;
+		$providers .= '<div class="toogle-menu-item catalog-b-'.$item->{color}.'" data-color="'.$item->{color}.'" data-id="'.$item->{id}.'" data-alias="'.$item->{alias}.'">'.$item->{name}.'</div>';
+		if ($i == 1) {
+			$provider_value = '<div data-id="'.$item->{id}.'" class="item catalog-b-'.$item->{color}.'">
+						<span class="value">'.$item->{name}.'</span>
+					</div>';
+		}
+		%data_providers = (%data_providers,
+			$item->{"id"} => {
+				"title" => $item->{"name"},
+				"color" => $item->{"color"}		
+			}
+		);
+	}
+		
 	my $tree = '<div class="dd" id="catalog-primary">
 			<ol class="dd-list">';
 			
 	my $select="";
 	my $result = $db->query("SELECT c_id, c_name FROM cat_category WHERE c_pid = '0' ORDER BY c_pos ASC");
 	foreach my $item(@$result){
-		$tree .= '<li class="dd-item dd3-item dd-collapsed" data-id="'.$item->{c_id}.'" data-links="[{&quot;id&quot;:&quot;1&quot;,&quot;title&quot;:&quot;Alright&quot;,&quot;color&quot;:&quot;red&quot;,&quot;items&quot;:[{&quot;id&quot;:&quot;11&quot;,&quot;title&quot;:&quot;Светодиоды&quot;},{&quot;id&quot;:&quot;12&quot;,&quot;title&quot;:&quot;Источники питания&quot;}]},{&quot;id&quot;:&quot;2&quot;,&quot;title&quot;:&quot;Geniled&quot;,&quot;color&quot;:&quot;green&quot;,&quot;items&quot;:[{&quot;id&quot;:&quot;11&quot;,&quot;title&quot;:&quot;Управление светом&quot;},{&quot;id&quot;:&quot;12&quot;,&quot;title&quot;:&quot;Блоки питания 5V&quot;},{&quot;id&quot;:&quot;13&quot;,&quot;title&quot;:&quot;Блоки питания 12V&quot;}]}]">
+		$tree .= '<li class="dd-item dd3-item dd-collapsed" data-id="'.$item->{c_id}.'" data-links="'.getLinks($item->{c_id}).'">
 			<div class="dd-handle dd3-handle"></div>
 			<div class="dd3-content" data-pk="'.$item->{c_id}.'">
 				<span class="dd-content-value">'.$item->{c_name}.'</span>
@@ -110,6 +128,25 @@ $content_html=qq~$content_html<table id="sheet">
 		$tree .= '</li>';
 	}
 	
+	sub getLinks {
+		my $id = shift;
+		my $result=""; my $p_id="";
+		my $links = $db->query("SELECT * FROM cat_category_links WHERE id = '".$id."' ORDER BY p_id ASC");
+		foreach my $link(@$links){
+			if ($p_id == $link->{"p_id"}){$result .=',';}
+			if ($p_id != $link->{"p_id"}){
+				$result .= $p_id ? ']},' : '';
+				$result .= '{"id":"'.$link->{"p_id"}.'","title":"'.$data_providers{$link->{"p_id"}}->{"title"}.'","color":"'.$data_providers{$link->{"p_id"}}->{"color"}.'","items":[';
+			}
+			$result .='{"id":"'.$link->{"p_cid"}.'","title":"'.$link->{"name"}.'"}';
+			$p_id = $link->{"p_id"};
+		}
+		if ($result) {
+			$result =~ s/"/&quot;/g;
+			return '['.$result.']}]';
+		}
+	}
+	
 	sub recMenuPrimary {
 		my $id = shift;
 		my $level = shift;
@@ -119,7 +156,7 @@ $content_html=qq~$content_html<table id="sheet">
 		my $result = $db->query("SELECT c_id, c_name FROM cat_category WHERE c_pid='".$id."' ORDER BY c_pos ASC;");
 		if ($result){
 			foreach my $item(@$result){
-				$text .= '<li class="dd-item dd3-item dd-collapsed" data-id="'.$item->{c_id}.'" data-links="[{&quot;id&quot;:&quot;1&quot;,&quot;title&quot;:&quot;Alright&quot;,&quot;color&quot;:&quot;red&quot;,&quot;items&quot;:[{&quot;id&quot;:&quot;11&quot;,&quot;title&quot;:&quot;Светодиоды&quot;},{&quot;id&quot;:&quot;12&quot;,&quot;title&quot;:&quot;Источники питания&quot;}]},{&quot;id&quot;:&quot;2&quot;,&quot;title&quot;:&quot;Geniled&quot;,&quot;color&quot;:&quot;green&quot;,&quot;items&quot;:[{&quot;id&quot;:&quot;11&quot;,&quot;title&quot;:&quot;Управление светом&quot;},{&quot;id&quot;:&quot;12&quot;,&quot;title&quot;:&quot;Блоки питания 5V&quot;},{&quot;id&quot;:&quot;13&quot;,&quot;title&quot;:&quot;Блоки питания 12V&quot;}]}]">
+				$text .= '<li class="dd-item dd3-item dd-collapsed" data-id="'.$item->{c_id}.'" data-links="'.getLinks($item->{c_id}).'">
 					<div class="dd-handle dd3-handle"></div>
 					<div class="dd3-content" data-pk="'.$item->{c_id}.'">
 						<span class="dd-content-value">'.$item->{c_name}.'</span>
@@ -136,9 +173,9 @@ $content_html=qq~$content_html<table id="sheet">
 		}
 		$text .= '</ol>';
 		return $text;
-	};	
+	};
 
-	$content_html .='
+	$content_html .= '
 		<div class="catalog-content">
 			<div class="catalog-tab">
 				<div class="catalog-header">
@@ -157,22 +194,11 @@ $content_html=qq~$content_html<table id="sheet">
 	$content_html .= $tree.'</ol></div>';
 	
 	$content_html .= '</div>';
-	
-	my $providers=""; my $first=""; my $i=0;
-	my $result = $db->query("SELECT * FROM catalog_providers ORDER BY date ASC");
-	foreach my $item(@$result){
-		$i++;
-		$providers .= '<div class="toogle-menu-item catalog-b-'.$item->{color}.'" data-color="catalog-b-'.$item->{color}.'" data-id="'.$item->{id}.'" data-alias="'.$item->{alias}.'">'.$item->{name}.'</div>';
-		if ($i == 1) {
-			$first = '<div data-id="'.$item->{id}.'" class="item catalog-b-'.$item->{color}.'">
-						<span class="value">'.$item->{name}.'</span>
-					</div>';
-		}
-	}
+
 	$content_html .= '<div class="catalog-tab">
 						<div class="catalog-header catalog-header-right">
 							<div class="catalog-provider-select">
-								'.$first.'
+								'.$provider_value.'
 								<div class="toogle-menu">
 									'.$providers.'
 								</div>

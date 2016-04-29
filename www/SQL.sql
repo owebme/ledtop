@@ -12,11 +12,12 @@ INSERT INTO `catalog_providers` VALUES
 (2, 'Geniled', 'green', 'geniled', '2016-04-27 02:18:42');
 
 CREATE TABLE IF NOT EXISTS `cat_category_links` (
-  `c_id` int(11) NOT NULL,
+  `id` int(11) NOT NULL,
   `p_id` int(11) NOT NULL,
+  `p_cid` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,  
   `bind` tinyint(1) NOT NULL DEFAULT '1',
-  KEY (`c_id`)
+  KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=cp1251;
 
 alter table catalog_alright add index (c_pid);

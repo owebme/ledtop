@@ -1030,6 +1030,10 @@ body:not([x|x]) .a-button.a-button-little.plus {padding:2px 4px;}
 .a-button.not-active:active {color:#333 !important;}
 .a-button.plus {font-size:22px; position:relative; top:3px; color:#666666;}
 .a-button.ok {font-size:15px; position:relative; top:1px; color:#666666; text-transform:uppercase;}
+.a-button-loading {cursor:default;}
+.a-button-loading.light:hover {box-shadow:0 0 0px 3px rgba(255, 204, 0, 0.3), 0 2px 0 -1px rgba(255, 255, 255, 0.15);}
+.a-button-loading:after {top:50%; left:50%; width:24px; height:24px; margin:-13px 0 0 -12px; background:url(/admin/img/ajax-loader_lite.gif) no-repeat !important; box-shadow:none !important; z-index:2;}
+.a-button-loading:before {background:rgba(255,255,255,.7) !important; box-shadow:none !important; opacity:1; z-index:1;}
 
 /* / PRODUCT_PARAMS */
 
@@ -1546,8 +1550,9 @@ body:not([x|x]) #clients-group #category ul .plus {padding:1px 3px !important;}
 
 .option-strong {font-weight:bold;}
 .select2-results li.option-blue .select2-result-label {color:#158ffe;}
-#catalog-primary {width:410px; max-width:410px;}
-#catalog-secondary {float:right; width:390px; max-width:390px;}
+#catalog-primary {width:410px; max-width:410px; min-height:400px;}
+#catalog-secondary {float:right; width:390px; max-width:390px; min-height:400px;}
+.catalog-b-gray {color:#fff !important; background:#c2cace !important;}
 .catalog-b-red {color:#fff !important; background:#ec5a71 !important;}
 .catalog-b-green {color:#fff !important; background:#9dd084 !important;}
 .catalog-b-yellow {color:#52505b !important; background:#fedb55 !important;}

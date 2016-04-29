@@ -1,0 +1,89 @@
+/* 
+ * 	Core Owl Carousel CSS File
+ *	v1.3.3
+ */
+
+/* clearfix */
+.owl-carousel .owl-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+/* display none until init */
+.owl-carousel{
+	display: none;
+	position: relative;
+	width: 100%;
+	-ms-touch-action: pan-y;
+}
+.owl-carousel .owl-wrapper{
+	display: none;
+	position: relative;
+	-webkit-transform: translate3d(0px, 0px, 0px);
+	cursor:url(grab.cur.ico) 16 16,url(grab.cur.ico),move;
+	cursor:-moz-grab;
+}
+.owl-carousel .owl-wrapper-outer{
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+.owl-carousel .owl-wrapper-outer.autoHeight{
+	-webkit-transition: height 500ms ease-in-out;
+	-moz-transition: height 500ms ease-in-out;
+	-ms-transition: height 500ms ease-in-out;
+	-o-transition: height 500ms ease-in-out;
+	transition: height 500ms ease-in-out;
+}
+	
+.owl-carousel .owl-item{
+	float: left;
+}
+.owl-controls .owl-page,
+.owl-controls .owl-buttons div{
+	cursor: pointer;
+}
+.owl-controls {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* mouse grab icon */
+.grabbing, .grabbing * { 
+    cursor:url(grabbing.cur.ico) 16 16,url(grabbing.cur.ico),move !important;
+	cursor:-moz-grabbing !important;
+}
+
+/* fix */
+.owl-carousel  .owl-wrapper,
+.owl-carousel  .owl-item{
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility:    hidden;
+	-ms-backface-visibility:     hidden;
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+}
+
+.scroller.related .owl-controls {position:absolute;z-index:3;margin:-71px 0 0;top:50%;left:0;right:0;}
+.scroller.related .owl-prev{background:#bb418c; opacity:0.8; height:120px;width:120px;border-radius:120px;display:block;text-indent:-9999px;position:absolute;left:-76px}
+.scroller.related .owl-prev:after{position:absolute;content:'';display:block;left:100%;right:auto;top:50%;bottom:auto;width:21px;height:35px;background:url('sprite.png') no-repeat 0 -62px;z-index:1}
+.scroller.related .owl-prev:after{margin:-17px 0 0 -40px;z-index:4}
+.scroller.related .owl-prev.disabled{opacity:0.4}
+.scroller.related .owl-next{background:#bb418c; opacity:0.8; height:120px;width:120px;border-radius:120px;display:block;text-indent:-9999px;position:absolute;right:-64px}
+.scroller.related .owl-next:after{position:absolute;content:'';display:block;left:100%;right:auto;top:50%;bottom:auto;width:21px;height:35px;background:url('sprite.png') no-repeat 0 -62px;z-index:1}
+.scroller.related .owl-next:after{margin:-17px 0 0 -40px;z-index:4}
+.scroller.related .owl-next.disabled{opacity:0.4}
+.scroller.related .owl-next:after{background-position:-24px -62px;margin:-17px 0 0 -100px}
+
+.product-gallery .owl-controls {position:absolute;z-index:3;margin:-71px 0 0;top:50%;left:0;right:0;}
+.product-gallery .owl-prev {position:absolute; top:33px; left:-42px; width:76px; height:76px; text-indent:-9999px; background:url('arrs-gallery.png') no-repeat 0 0; opacity:0.95;}
+.product-gallery .owl-next {position:absolute; top:33px; right:-47px; width:76px; height:76px; text-indent:-9999px; background:url('arrs-gallery.png') no-repeat -77px 0; opacity:0.95;}
+.product-gallery .owl-prev.disabled, .product-gallery .owl-next.disabled {opacity:0.75;}

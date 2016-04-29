@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "ArialNarrow";
+    src: url("/admin/css/font-face/Arial_Narrow.eot");
+    src: url("/admin/css/font-face/Arial_Narrow.eot?#iefix") format("embedded-opentype"),
+         url("/admin/css/font-face/Arial_Narrow.ttf") format("truetype"),
+         url("/admin/css/font-face/Arial_Narrow.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'MyriadProWeb';
+  src: url('/admin/css/font-face/myriadpro-webfont.eot');
+  src: url('/admin/css/font-face/myriadpro-webfont.eot?#iefix') format('embedded-opentype'), url('/admin/css/font-face/myriadpro-webfont.woff') format('woff'), url('/admin/css/font-face/myriadpro-webfont.ttf') format('truetype'), url('myriadpro-webfont.svg#MyriadProWeb') format('svg');
+  font-weight: bold;
+  font-style: bold;
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Medium';
+	src: url('/admin/css/font-face/HelveticaNeueCyr-Medium.eot');
+	src: local('O'), url('/admin/css/font-face/HelveticaNeueCyr-Medium.otf') format('truetype'), url('/admin/css/font-face/HelveticaNeueCyr-Medium.woff') format('woff'), url('/admin/css/font-face/HelveticaNeueCyr-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{ 
+	font-family: 'HelveticaNeueCyr';
+	src: url('/admin/css/font-face/HelveticaNeueCyr-Light.otf');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/admin/css/font-face/PT_Sans.eot');
+  src: url('/admin/css/font-face/PT_Sans.eot?#iefix') format('embedded-opentype'),
+  src: url('/admin/css/font-face/PT_Sans.ttf') format('truetype');
+  src: local('PT Sans'), local('PTSans-Regular'), url('/admin/css/font-face/PT_Sans.woff') format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'), url(iLJc6PpCnnbQjYc1Jq4v0z8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(PIbvSEyHEdL91QLOQRnZ14raN7vELC11_xip9Rz-hMs.woff) format('woff');
+}

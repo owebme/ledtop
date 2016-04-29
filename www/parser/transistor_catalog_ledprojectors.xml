@@ -1,0 +1,4910 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<data created="Tue, 07 Jul 2015 05:01:28 GMT">
+<product>
+<article>015270</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FL-Slim-10W White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>-1</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1072.31</price1>
+<price2>760.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 850 lm; max: 900 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">10 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">155 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">133 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">55 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015270/</techinfo>
+<pdf/>
+<img id="766B5F53AD1FE34EBBF3EB8DB59A9B4E" type="jpg" modified="Tue, 30 Jun 2015 05:29:58 GMT">http://assets.transistor.ru/img/product/userlogo/766B5F53AD1FE34EBBF3EB8DB59A9B4E.jpg</img>
+<descript>Светодиодный прожектор LED 10Вт, защита IP65, цвет БЕЛЫЙ 5500-6000К, световой поток 850-900 люмен. Питание 85-295V AC, мощность 10Вт</descript>
+</product>
+<product>
+<article>014984</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-10W-PIR Warm White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1979.64</price1>
+<price2>1404</price2>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 3 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 650 lm</value>
+</values>
+</param>
+<param order="4" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">10 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">81 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">115 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">200 мм</value>
+</values>
+</param>
+<param order="10" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014984/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="0F0A28376BFFFD439EBAF125176A73BA" type="jpg" modified="Mon, 12 Nov 2012 08:54:39 GMT">http://assets.transistor.ru/img/product/userlogo/0F0A28376BFFFD439EBAF125176A73BA.jpg</img>
+<descript>Светодиодный прожектор, мощность 10 Вт. Цвет ТЕПЛЫЙ белый. Световой поток 650лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 700 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>014985</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-10W-PIR White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1979.64</price1>
+<price2>1404</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 820 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">10 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">81 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">115 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">200 мм</value>
+</values>
+</param>
+<param order="9" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014985/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="0F0A28376BFFFD439EBAF125176A73BA" type="jpg" modified="Mon, 12 Nov 2012 08:54:39 GMT">http://assets.transistor.ru/img/product/userlogo/0F0A28376BFFFD439EBAF125176A73BA.jpg</img>
+<descript>Светодиодный прожектор, мощность 10 Вт. Цвет холодный белый. Световой поток 820 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 700 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>015265</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FL-Slim-20W White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>3134.43</price1>
+<price2>2223</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 1 700 lm; max: 1 800 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">20 W</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015265/</techinfo>
+<pdf/>
+<img id="BB45C51E87790A4BAE6E508D3BA5918C" type="jpg" modified="Tue, 30 Jun 2015 05:44:26 GMT">http://assets.transistor.ru/img/product/userlogo/BB45C51E87790A4BAE6E508D3BA5918C.jpg</img>
+<descript>Светодиодный прожектор LED 20Вт, защита IP65, цвет БЕЛЫЙ 5500-6000К, световой поток 1700-1800 люмен. Питание 85-295V AC, мощность 20Вт</descript>
+</product>
+<product>
+<article>014990</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-20W-PIR Warm White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>9</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>3835.55</price1>
+<price2>2720.25</price2>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 1 365 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">20 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">109 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">180 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">230 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014990/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="B02D7F04061B7347A88168B5126D023C" type="jpg" modified="Thu, 11 Oct 2012 07:57:40 GMT">http://assets.transistor.ru/img/product/userlogo/B02D7F04061B7347A88168B5126D023C.jpg</img>
+<descript>Светодиодный прожектор, мощность 20 Вт. Цвет теплый белый. Световой поток 1365 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 1300 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>014440</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-20W-PIR White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>3835.55</price1>
+<price2>2720.25</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 1 575 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">20 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">109 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">180 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">230 мм</value>
+</values>
+</param>
+<param order="9" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014440/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="B02D7F04061B7347A88168B5126D023C" type="jpg" modified="Thu, 11 Oct 2012 07:57:40 GMT">http://assets.transistor.ru/img/product/userlogo/B02D7F04061B7347A88168B5126D023C.jpg</img>
+<descript>Светодиодный прожектор, мощность 20 Вт. Цвет теплый холодный. Световой поток 1575 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 1300 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>015933</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор FL-30W-220V XL White</name>
+<developer>ANR</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>2227.1</price1>
+<price2>1579.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 6 000 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 100 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">55 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">200 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">225 мм</value>
+</values>
+</param>
+<param order="9" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">1 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015933/</techinfo>
+<pdf/>
+<img id="6E1F9749F401E140980A9CC6D39193F7" type="jpg" modified="Fri, 23 Aug 2013 09:45:14 GMT">http://assets.transistor.ru/img/product/userlogo/6E1F9749F401E140980A9CC6D39193F7.jpg</img>
+<descript>30Вт / БЕЛЫЙ 6000-6500K / 2100лм / 120°/ Плоский. Размер 220 х 225 х 55 мм. Серый алюминиевый корпус IP66, черное закаленное стекло. Питание AC100-240V/50Hz, кабель 20см.</descript>
+</product>
+<product>
+<article>015264</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FL-Slim-30W White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>4330.46</price1>
+<price2>3071.25</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 2 550 lm; max: 2 700 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">81 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">178 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">215 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015264/</techinfo>
+<pdf modified="Thu, 31 Jan 2013 07:42:42 GMT">http://www.transistor.ru/pdf/arlight/leddevices/lamp/AR-FL-Slim-30W_White.pdf</pdf>
+<img id="E1E53CC8286D6A4F8399580FA46E89F4" type="jpg" modified="Tue, 30 Jun 2015 05:45:33 GMT">http://assets.transistor.ru/img/product/userlogo/E1E53CC8286D6A4F8399580FA46E89F4.jpg</img>
+<descript>Светодиодный прожектор LED 30Вт, защита IP65, цвет БЕЛЫЙ 5500-6000К, световой поток 2550-2700 люмен. Питание 85-295V AC, мощность 30Вт</descript>
+</product>
+<product>
+<article>014986</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-30W-PIR Warm White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5773.95</price1>
+<price2>4095</price2>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 1 900 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">152 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">225 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">185 мм</value>
+</values>
+</param>
+<param order="9" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014986/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="4D156B123487AB49AA7A74FF7B20FB01" type="jpg" modified="Mon, 08 Oct 2012 11:46:09 GMT">http://assets.transistor.ru/img/product/userlogo/4D156B123487AB49AA7A74FF7B20FB01.jpg</img>
+<descript>Светодиодный прожектор, мощность 30 Вт. Цвет белый теплый. Световой поток 1900 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 2500 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>014987</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-30W-PIR White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5773.95</price1>
+<price2>4095</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 240 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">152 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">225 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">185 мм</value>
+</values>
+</param>
+<param order="9" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014987/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="4D156B123487AB49AA7A74FF7B20FB01" type="jpg" modified="Mon, 08 Oct 2012 11:46:09 GMT">http://assets.transistor.ru/img/product/userlogo/4D156B123487AB49AA7A74FF7B20FB01.jpg</img>
+<descript>Светодиодный прожектор, мощность 30 Вт. Цвет белый холодный. Световой поток 2240 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 2500 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>015329</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FLB-50W-220V White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5361.53</price1>
+<price2>3802.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 3 300 lm; max: 3 400 lm</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">50 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">130 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">290 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">235 мм</value>
+</values>
+</param>
+<param order="10" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">1 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015329/</techinfo>
+<pdf modified="Fri, 08 Nov 2013 12:38:16 GMT">http://www.transistor.ru/pdf/arlight/leddevices/lamp/AR-FLB-50W-220V_White.pdf</pdf>
+<img id="2BA41999629AFE4F9F1BFADD152FC3B9" type="jpg" modified="Tue, 18 Sep 2012 14:15:48 GMT">http://assets.transistor.ru/img/product/userlogo/2BA41999629AFE4F9F1BFADD152FC3B9.jpg</img>
+<descript>Светодиодный прожектор 50Вт цвет БЕЛЫЙ 6000К, вх.напряжение: 85V~264V AC, 50/60HZ; Power Factor:&gt;0.95; св\д EPILEDS; св.поток: 3300-3400lm; IP 65; Cable:H05 VDE 50CM, Габариты: 290х235х150mm</descript>
+</product>
+<product>
+<article>014996</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-50W-PIR Warm White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>7</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>8908.38</price1>
+<price2>6318</price2>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 900 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">50 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">172 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">288 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">238 мм</value>
+</values>
+</param>
+<param order="9" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014996/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="4D156B123487AB49AA7A74FF7B20FB01" type="jpg" modified="Mon, 08 Oct 2012 11:46:09 GMT">http://assets.transistor.ru/img/product/userlogo/4D156B123487AB49AA7A74FF7B20FB01.jpg</img>
+<descript>Светодиодный прожектор, мощность 50 Вт. Цвет белый теплый. Световой поток 2900 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 3500 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>014997</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор BR-FL-50W-PIR White (Black, AC220V)</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>8908.38</price1>
+<price2>6318</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 3 400 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">50 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">172 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">288 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">238 мм</value>
+</values>
+</param>
+<param order="9" id="41">
+<name>Особенность</name>
+    <unit/>
+<values total="1">
+<value order="0">Датчик PIR</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014997/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 12:12:53 GMT">http://www.transistor.ru/pdf/Projector/BR-FL-xxW-PIR_progektor.pdf</pdf>
+<img id="4D156B123487AB49AA7A74FF7B20FB01" type="jpg" modified="Mon, 08 Oct 2012 11:46:09 GMT">http://assets.transistor.ru/img/product/userlogo/4D156B123487AB49AA7A74FF7B20FB01.jpg</img>
+<descript>Светодиодный прожектор, мощность 50 Вт. Цвет белый холодный. Световой поток 3400 лм. Питание AC190V~265V. Встроенный драйвер и датчик движения/освещенности. Вес 3500 гр. Угол обзора датчика 120x60град.</descript>
+</product>
+<product>
+<article>015292</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FL-Slim-100W White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>21033.68</price1>
+<price2>14917.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 8 500 lm; max: 9 000 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">184 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">272 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">309 мм</value>
+</values>
+</param>
+<param order="9" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">1 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015292/</techinfo>
+<pdf modified="Fri, 01 Feb 2013 06:50:32 GMT">http://www.transistor.ru/pdf/arlight/leddevices/lamp/AR-FL-Slim-100W_White.pdf</pdf>
+<img id="9FDF50187FBF3F4BBF803860B01006C1" type="jpg" modified="Wed, 08 May 2013 08:34:08 GMT">http://assets.transistor.ru/img/product/userlogo/9FDF50187FBF3F4BBF803860B01006C1.jpg</img>
+<descript>Светодиодный прожектор LED 100Вт (2х50), защита IP65, цвет БЕЛЫЙ 5500-6500К, световой поток 8500-9000 люмен. Питание 100-240V AC, мощность 100Вт</descript>
+</product>
+<product>
+<article>015295</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FL-Slim-150W White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>28209.87</price1>
+<price2>20007</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 12 750 lm; max: 13 500 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">150 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">187 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">310 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">375 мм</value>
+</values>
+</param>
+<param order="9" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">2 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015295/</techinfo>
+<pdf modified="Fri, 01 Feb 2013 06:51:30 GMT">http://www.transistor.ru/pdf/arlight/leddevices/lamp/AR-FL-Slim-150W_White.pdf</pdf>
+<img id="B7F0FB7A76D50042B871900BF8B176FA" type="jpg" modified="Wed, 08 May 2013 08:34:49 GMT">http://assets.transistor.ru/img/product/userlogo/B7F0FB7A76D50042B871900BF8B176FA.jpg</img>
+<descript>Светодиодный прожектор 150Вт (2х70), защита IP65, цвет БЕЛЫЙ 5500-6500К, световой поток 12750-13500 люмен. Питание 100- 240VAC, мощность 150Вт.</descript>
+</product>
+<product>
+<article>015294</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="570">Светодиодные прожекторы / Осветительные / Floodlight, угол 120°</group>
+<name prefix="">Светодиодный прожектор AR-FL-Slim-200W White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>39180.38</price1>
+<price2>27787.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 17 000 lm; max: 18 000 lm</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">200 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">192 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">340 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">400 мм</value>
+</values>
+</param>
+<param order="9" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">4 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015294/</techinfo>
+<pdf modified="Wed, 04 Dec 2013 11:01:40 GMT">http://www.transistor.ru/pdf/Projector/015294_200W.pdf</pdf>
+<img id="992F89354BDDFA41828A6A75C8DFF318" type="jpg" modified="Wed, 08 May 2013 08:35:30 GMT">http://assets.transistor.ru/img/product/userlogo/992F89354BDDFA41828A6A75C8DFF318.jpg</img>
+<descript>Светодиодный прожектор 200Вт (4х50), защита IP65, цвет БЕЛЫЙ 5500-6500К, световой поток 17000-18000 люмен. Питание 100-240V AC, мощность 200Вт. Вес 11кг</descript>
+</product>
+<product>
+<article>014441</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="572">Светодиодные прожекторы / Осветительные / Floodlight RGB</group>
+<name prefix="">Светодиодный прожектор BR-FL-10W-RGB IR24B (Black, AC220V)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1525.97</price1>
+<price2>1082.25</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>015824</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 120 lm; max: 140 lm</value>
+<value order="1">typ: 180 lm; max: 220 lm</value>
+<value order="2">typ: 45 lm; max: 55 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">10 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">86 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">115 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">82 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014441/</techinfo>
+<pdf/>
+<img id="5C4B771FEEB2D147BD64B1A72A7CED29" type="jpg" modified="Mon, 16 Feb 2015 06:01:22 GMT">http://assets.transistor.ru/img/product/userlogo/5C4B771FEEB2D147BD64B1A72A7CED29.jpg</img>
+<descript>RGB светодиодный прожектор с ИК-пультом. Встроенный контроллер.
+Черный корпус. Мощность 10 Вт; Питание AC100-240V; Встроенный драйвер. Размеры 115х86х82 мм. Вес 0.7кг.</descript>
+</product>
+<product>
+<article>014989</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="572">Светодиодные прожекторы / Осветительные / Floodlight RGB</group>
+<name prefix="">Светодиодный прожектор BR-FL-20W-RGB IR24B (Black, AC220V)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>2886.98</price1>
+<price2>2047.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>015824</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 250 lm</value>
+<value order="1">typ: 370 lm</value>
+<value order="2">typ: 100 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">20 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">110 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">180 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">140 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014989/</techinfo>
+<pdf/>
+<img id="EECC76B216D0CE4BBC6B234A0905C10F" type="jpg" modified="Wed, 08 May 2013 08:43:01 GMT">http://assets.transistor.ru/img/product/userlogo/EECC76B216D0CE4BBC6B234A0905C10F.jpg</img>
+<descript>RGB светодиодный прожектор с ИК-пультом. Встроенный контроллер.
+Черный корпус. Мощность 20 Вт; Питание AC100-240V; Встроенный драйвер. Размеры 180х140х110 мм. Вес 1.3кг.</descript>
+</product>
+<product>
+<article>014988</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="572">Светодиодные прожекторы / Осветительные / Floodlight RGB</group>
+<name prefix="">Светодиодный прожектор BR-FL-30W-RGB IR24B (Black, AC220V)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>3959.28</price1>
+<price2>2808</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>015824</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 420 lm</value>
+<value order="1">typ: 610 lm</value>
+<value order="2">typ: 180 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">100 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">225 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">185 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014988/</techinfo>
+<pdf/>
+<img id="B8886139185D19498DE3D6AC2F3211E5" type="jpg" modified="Wed, 08 May 2013 08:42:39 GMT">http://assets.transistor.ru/img/product/userlogo/B8886139185D19498DE3D6AC2F3211E5.jpg</img>
+<descript>RGB светодиодный прожектор с ИК-пультом. Встроенный контроллер.
+Черный корпус. Мощность 30 Вт; Питание AC100-240V; Встроенный драйвер. Размеры 225х185х130 мм. Вес 2.5кг.</descript>
+</product>
+<product>
+<article>014991</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="572">Светодиодные прожекторы / Осветительные / Floodlight RGB</group>
+<name prefix="">Светодиодный прожектор BR-FL-60W-RGB IR24B (Black, AC220V)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>45</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5773.95</price1>
+<price2>4095</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>015824</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 1 180 lm</value>
+<value order="1">typ: 1 810 lm</value>
+<value order="2">typ: 520 lm</value>
+</values>
+</param>
+<param order="3" id="34">
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120x60</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">60 W</value>
+</values>
+</param>
+<param order="6" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">150 мм</value>
+</values>
+</param>
+<param order="7" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">285 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">235 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014991/</techinfo>
+<pdf/>
+<img id="1DDE0600D4948148B05FE8A3839AF86E" type="jpg" modified="Fri, 12 Apr 2013 10:57:44 GMT">http://assets.transistor.ru/img/product/userlogo/1DDE0600D4948148B05FE8A3839AF86E.jpg</img>
+<descript>RGB светодиодный прожектор с ИК-пультом. Встроенный контроллер.
+Черный корпус. Мощность 60 Вт; Питание AC100-240V; Встроенный драйвер. Размеры 285х235х150 мм. Вес 3.5кг.</descript>
+</product>
+<product>
+<article>016684</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="578">Светодиодные прожекторы / Осветительные / Линейные SL80, угол 120°</group>
+<name prefix="">Светодиодный Прожектор SL80M-500-90NI-120deg White (220V,100W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>12372.75</price1>
+<price2>8775</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 9 000 lm; max: 10 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">90 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/016684/</techinfo>
+<pdf modified="Thu, 11 Sep 2014 11:04:05 GMT">http://www.transistor.ru/pdf/Projector/016684_SL80M-500-90NI-120deg.pdf</pdf>
+<img id="E5A2A6B17DB52E40858DE03EB2384665" type="jpg" modified="Fri, 25 Oct 2013 09:35:39 GMT">http://assets.transistor.ru/img/product/userlogo/E5A2A6B17DB52E40858DE03EB2384665.jpg</img>
+<descript>Осветительный прожектор 500мм SL80M IP65. Светодиоды NICHIA (Japan) 1.4W 90шт, цвет БЕЛЫЙ 5000K, св.поток 9000-10000лм, угол 120°. Мощность 100Вт. Питание 100-240VAC. Размеры 500х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>016762</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="578">Светодиодные прожекторы / Осветительные / Линейные SL80, угол 120°</group>
+<name prefix="">Светодиодный Прожектор SL80M-1000-180NI-120deg White(220V,200W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>7</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>18559.13</price1>
+<price2>13162.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 18 000 lm; max: 20 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">180 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">200 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/016762/</techinfo>
+<pdf modified="Thu, 23 Jan 2014 11:04:53 GMT">http://www.transistor.ru/pdf/Projector/016762_SL80M-1000-88NI.pdf</pdf>
+<img id="91A41D230049244C981CCCE2E09A9564" type="jpg" modified="Wed, 20 Nov 2013 10:05:44 GMT">http://assets.transistor.ru/img/product/userlogo/91A41D230049244C981CCCE2E09A9564.jpg</img>
+<descript>Осветительный прожектор 1000мм SL80M IP65. Светодиоды NICHIA (Japan) 1.4W 180шт, цвет БЕЛЫЙ 6000K, св.поток 18000-20000лм, угол 120°. Мощность 200Вт. Питание 100-240VAC. Размеры 1000х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>018278</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-100W-25deg White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>17321.85</price1>
+<price2>12285</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 9 500 lm; max: 10 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">240 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">25 °</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+<param order="7" id="40">
+<name>Диаметр</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">348 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">435 мм</value>
+</values>
+</param>
+<param order="9" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018278/</techinfo>
+<pdf modified="Thu, 17 Jul 2014 13:54:40 GMT">http://www.transistor.ru/pdf/Projector/AHB-100W-XXdeg_White.pdf</pdf>
+<img id="CC211DFA8C17084995836100BA3AEDB5" type="jpg" modified="Thu, 17 Jul 2014 07:32:19 GMT">http://assets.transistor.ru/img/product/userlogo/CC211DFA8C17084995836100BA3AEDB5.jpg</img>
+<descript>Светодиодный алюминиевый прожектор мощность 100W, цвет свечения БЕЛЫЙ 5500-6500К, 240 св\д smd 3020, вх. напряжение AC100V-240V~ 50-60HZ, световой поток 9500-10000lm, угол освещ. 25°. Класс защиты IP Grade: IP65. Под заказ углы 25°/45°/60°/90°/120°</descript>
+</product>
+<product>
+<article>018273</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-100W-45deg White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>17321.85</price1>
+<price2>12285</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 9 500 lm; max: 10 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">240 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+<param order="7" id="40">
+<name>Диаметр</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">348 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">435 мм</value>
+</values>
+</param>
+<param order="9" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018273/</techinfo>
+<pdf modified="Thu, 17 Jul 2014 13:54:40 GMT">http://www.transistor.ru/pdf/Projector/AHB-100W-XXdeg_White.pdf</pdf>
+<img id="CC211DFA8C17084995836100BA3AEDB5" type="jpg" modified="Thu, 17 Jul 2014 07:32:19 GMT">http://assets.transistor.ru/img/product/userlogo/CC211DFA8C17084995836100BA3AEDB5.jpg</img>
+<descript>Светодиодный алюминиевый прожектор мощность 100W, цвет свечения БЕЛЫЙ 5500-6500К, 240 св\д smd 3020, вх. напряжение AC100V-240V~ 50-60HZ, световой поток 9500-10000lm, угол освещ. 45°. Класс защиты IP Grade: IP65. Под заказ углы 25°/45°/60°/90°/120°</descript>
+</product>
+<product>
+<article>018272</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-100W-60deg White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>17321.85</price1>
+<price2>12285</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 9 500 lm; max: 10 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">240 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">60 °</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+<param order="7" id="40">
+<name>Диаметр</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">348 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">435 мм</value>
+</values>
+</param>
+<param order="9" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018272/</techinfo>
+<pdf modified="Thu, 17 Jul 2014 13:54:40 GMT">http://www.transistor.ru/pdf/Projector/AHB-100W-XXdeg_White.pdf</pdf>
+<img id="CC211DFA8C17084995836100BA3AEDB5" type="jpg" modified="Thu, 17 Jul 2014 07:32:19 GMT">http://assets.transistor.ru/img/product/userlogo/CC211DFA8C17084995836100BA3AEDB5.jpg</img>
+<descript>Светодиодный алюминиевый прожектор мощность 100W, цвет свечения БЕЛЫЙ 5500-6500К, 240 св\д smd 3020, вх. напряжение AC100V-240V~ 50-60HZ, световой поток 9500-10000lm, угол освещ. 60°. Класс защиты IP Grade: IP65. Под заказ углы 25°/45°/60°/90°/120°</descript>
+</product>
+<product>
+<article>018275</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-100W-90deg White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>17321.85</price1>
+<price2>12285</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 9 500 lm; max: 10 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">240 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">90 °</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+<param order="7" id="40">
+<name>Диаметр</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">348 мм</value>
+</values>
+</param>
+<param order="8" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">435 мм</value>
+</values>
+</param>
+<param order="9" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018275/</techinfo>
+<pdf modified="Thu, 17 Jul 2014 13:54:40 GMT">http://www.transistor.ru/pdf/Projector/AHB-100W-XXdeg_White.pdf</pdf>
+<img id="CC211DFA8C17084995836100BA3AEDB5" type="jpg" modified="Thu, 17 Jul 2014 07:32:19 GMT">http://assets.transistor.ru/img/product/userlogo/CC211DFA8C17084995836100BA3AEDB5.jpg</img>
+<descript>Светодиодный алюминиевый прожектор мощность 100W, цвет свечения БЕЛЫЙ 5500-6500К, 240 св\д smd 3020, вх. напряжение AC100V-240V~ 50-60HZ, световой поток 9500-10000lm, угол освещ. 90°. Класс защиты IP Grade: IP65. Под заказ углы 25°/45°/60°/90°/120°</descript>
+</product>
+<product>
+<article>013354</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор Светильник AHB-100W-45 White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>2</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>12372.75</price1>
+<price2>8775</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 8 000 lm; max: 8 500 lm</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">100 W</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/013354/</techinfo>
+<pdf/>
+<img id="346ECA100B27F84B9E0062DE5001A7CB" type="jpg" modified="Thu, 29 Dec 2011 08:45:52 GMT">http://assets.transistor.ru/img/product/userlogo/346ECA100B27F84B9E0062DE5001A7CB.jpg</img>
+<descript>Промышленный подвесной светодиодный прожектор 100Вт. Цвет БЕЛЫЙ 5500K-6500K. Угол освещения 45°. Питание 85-295V AC 50-60HZ, PF&gt;0.95 Св.поток 8000-8500 люмен. IP65. Диапазон рабочих температур -30°С +50°С. Вес 6.5kg</descript>
+</product>
+<product>
+<article>013365</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор Светильник AHB-150W-45 White</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>16497</price1>
+<price2>11700</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 12 000 lm; max: 12 500 lm</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">150 W</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/013365/</techinfo>
+<pdf/>
+<img id="297E40ECED3B7F48A70DD042A79CEDB1" type="jpg" modified="Thu, 29 Dec 2011 09:07:03 GMT">http://assets.transistor.ru/img/product/userlogo/297E40ECED3B7F48A70DD042A79CEDB1.jpg</img>
+<descript>Промышленный подвесной светодиодный прожектор 150Вт. Цвет БЕЛЫЙ 5500K-6500K. Угол освещения 45°. Питание 85-295V AC 50-60HZ, PF&gt;0.95 Св.поток 12000-12500 люмен. Диапазон рабочих температур -30°С +50°С. Вес: 6.6kg</descript>
+</product>
+<product>
+<article>017234</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-300W-60BI White</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>58564.35</price1>
+<price2>41535</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 24 000 lm; max: 27 000 lm</value>
+</values>
+</param>
+<param order="4" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">300 W</value>
+</values>
+</param>
+<param order="5" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017234/</techinfo>
+<pdf/>
+<img id="1F81697F9AD6574B9C9D4C4334280BC5" type="jpg" modified="Thu, 13 Feb 2014 08:21:32 GMT">http://assets.transistor.ru/img/product/userlogo/1F81697F9AD6574B9C9D4C4334280BC5.jpg</img>
+<descript>Светодиодный прожектор мощность 300W, цвет свечения 5500-6500К, входное напряжение AC100V-240V~ 50-60HZ, световой поток 24000-27000lm, регулируемый угол освещ. 25°/60°/90°. Класс защиты IP Grade: IP65.</descript>
+</product>
+<product>
+<article>017245</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-400W-60BI White</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>78608.21</price1>
+<price2>55750.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 32 000 lm; max: 36 000 lm</value>
+</values>
+</param>
+<param order="4" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">400 W</value>
+</values>
+</param>
+<param order="5" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017245/</techinfo>
+<pdf/>
+<img id="1F81697F9AD6574B9C9D4C4334280BC5" type="jpg" modified="Thu, 13 Feb 2014 08:21:32 GMT">http://assets.transistor.ru/img/product/userlogo/1F81697F9AD6574B9C9D4C4334280BC5.jpg</img>
+<descript>Светодиодный прожектор мощность 400W, цвет свечения 5500-6500К, входное напряжение AC100V-240V~ 50-60HZ, световой поток 32000-36000lm, регулируемый угол освещ. 25°/60°/90°. Класс защиты IP Grade: IP65.</descript>
+</product>
+<product>
+<article>017244</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="633">Светодиодные прожекторы / Осветительные / Подвесные High Bay</group>
+<name prefix="">Светодиодный прожектор AHB-480W-60BI White</name>
+<developer>ANR</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>86609.25</price1>
+<price2>61425</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">min: 5 500 K; max: 6 500 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 38 400 lm; max: 40 800 lm</value>
+</values>
+</param>
+<param order="4" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">480 W</value>
+</values>
+</param>
+<param order="5" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017244/</techinfo>
+<pdf/>
+<img id="1F81697F9AD6574B9C9D4C4334280BC5" type="jpg" modified="Thu, 13 Feb 2014 08:21:32 GMT">http://assets.transistor.ru/img/product/userlogo/1F81697F9AD6574B9C9D4C4334280BC5.jpg</img>
+<descript>Светодиодный прожектор мощность 480W, цвет свечения 5500-6500К, входное напряжение AC100V-240V~ 50-60HZ, световой поток 38400-40800lm, регулируемый угол освещ. 25°/60°/90°. Класс защиты IP Grade: IP65.</descript>
+</product>
+<product>
+<article>012422</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор WW8002 White 220V (24x1W, 990mm)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>2</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>4124.25</price1>
+<price2>2925</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="1" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="2" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">24 шт</value>
+</values>
+</param>
+<param order="3" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">72 °</value>
+</values>
+</param>
+<param order="4" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="5" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">24 W</value>
+</values>
+</param>
+<param order="6" id="22">
+<name>Габариты</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">988x143x81</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/012422/</techinfo>
+<pdf modified="Thu, 03 May 2012 11:12:15 GMT">http://www.transistor.ru/pdf/arlight/leddevices/lamp/prozhektor-WW8002.pdf</pdf>
+<img id="39DFF0D3DFDB7B4A92B6AD85D1739396" type="jpg" modified="Thu, 29 Sep 2011 11:48:32 GMT">http://assets.transistor.ru/img/product/userlogo/39DFF0D3DFDB7B4A92B6AD85D1739396.jpg</img>
+<descript>990мм прожектор F-серии для наружной подсветки и заливки стен, влагозащита IP65. Цвет БЕЛЫЙ 6000К, питание 220-240VAC. Мощность 24W, угол 72°, размер 988x143x81мм</descript>
+</product>
+<product>
+<article>017997</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-300-12AR-45deg Warm White(220V,30W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>30</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>4784.13</price1>
+<price2>3393</price2>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 3 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 500 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">12 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017997/</techinfo>
+<pdf modified="Thu, 11 Sep 2014 11:06:15 GMT">http://www.transistor.ru/pdf/Projector/017997_SL80-300-12AR-45deg.pdf</pdf>
+<img id="698D131279919645B4F6F6F83F5A1593" type="jpg" modified="Wed, 18 Dec 2013 10:07:40 GMT">http://assets.transistor.ru/img/product/userlogo/698D131279919645B4F6F6F83F5A1593.jpg</img>
+<descript>Архитектурный прожектор 300мм SL80 IP65. Светодиоды ARPL-3W 12шт, цвет БЕЛЫЙ ТЕПЛЫЙ 3000K, св.поток 2500лм, угол 45°. Мощность 30Вт. Питание AC 220V. Размеры 300х85х80. Настенные крепления 1шт в к-те.</descript>
+</product>
+<product>
+<article>017346</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-300-12AR-45deg White (220V, 30W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>28</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>4784.13</price1>
+<price2>3393</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 000 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">12 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017346/</techinfo>
+<pdf modified="Wed, 12 Feb 2014 13:22:20 GMT">http://www.transistor.ru/pdf/Projector/017346_015691_SL80-300-12AR-45deg_Arlight.pdf</pdf>
+<img id="698D131279919645B4F6F6F83F5A1593" type="jpg" modified="Wed, 18 Dec 2013 10:07:40 GMT">http://assets.transistor.ru/img/product/userlogo/698D131279919645B4F6F6F83F5A1593.jpg</img>
+<descript>Архитектурный прожектор 300мм SL80 IP65. Светодиоды ARPL-3W 12шт, цвет БЕЛЫЙ 6000K, св.поток 2000лм, угол 45°. Мощность 30Вт. Питание DC 220V. Размеры 300х85х80. Настенные крепления 1шт в к-те.</descript>
+</product>
+<product>
+<article>017025</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-330-12AR-45deg GREEN (220V, 36W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>45</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5361.53</price1>
+<price2>3802.5</price2>
+<color1>green</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="green">typ: 525 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 1 200 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">12 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">36 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">330 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">330 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017025/</techinfo>
+<pdf modified="Fri, 13 Dec 2013 13:02:42 GMT">http://www.transistor.ru/pdf/Projector/017025_SL80-330-12AR-45deg.pdf</pdf>
+<img id="09EC461CA80D0A4E8F16DB50EC38CC4C" type="jpg" modified="Wed, 18 Dec 2013 10:00:21 GMT">http://assets.transistor.ru/img/product/userlogo/09EC461CA80D0A4E8F16DB50EC38CC4C.jpg</img>
+<descript>Прожектор для подсветки деревьев 330мм SL80 IP65. Светодиоды ARPL-3W 12шт, цвет ЗЕЛЕНЫЙ, св.поток 1200лм, угол 45°. Мощность 36Вт. Питание AC 100-240V. Размеры 330х85х80. Настенное крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>019056</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-500-20NF-30deg White (220V, 24W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>18</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>6186.38</price1>
+<price2>4387.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 100 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">20 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">24 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/019056/</techinfo>
+<pdf modified="Thu, 23 Jan 2014 11:03:43 GMT">http://www.transistor.ru/pdf/Projector/015567_SL80-500-20NI-30deg.pdf</pdf>
+<img/>
+<descript>Архитектурный прожектор 500мм SL80 IP65. Светодиоды NICHIA NF 20шт, цвет БЕЛЫЙ 6000K, св.поток 2100лм, угол 30°. Мощность 24Вт. Питание AC 100-240V. Размеры 500х85х80. В коробке 2шт. Настенные крепления в к-те.</descript>
+</product>
+<product>
+<article>015564</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-24NI-30deg White (220V, 30W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>7836.08</price1>
+<price2>5557.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 500 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">24 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015564/</techinfo>
+<pdf modified="Thu, 23 Jan 2014 11:02:19 GMT">http://www.transistor.ru/pdf/Projector/015564_SL80-1000-24NI-30deg.pdf</pdf>
+<img id="6D683DBAFFCDDD4D8E8A0FFC59ACC314" type="jpg" modified="Fri, 01 Nov 2013 09:39:44 GMT">http://assets.transistor.ru/img/product/userlogo/6D683DBAFFCDDD4D8E8A0FFC59ACC314.jpg</img>
+<descript>Архитектурный прожектор 1000мм SL80 IP65. Светодиоды NICHIA NS3W183А 24шт, цвет БЕЛЫЙ 6000K, св.поток 2500лм, угол 30°. Мощность 30Вт. Питание AC 100-240V. Размеры 1000х85х80. Настенные крепления в к-те.</descript>
+</product>
+<product>
+<article>017178</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-25NF-30deg Day (220V, 30W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>6</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>7836.08</price1>
+<price2>5557.5</price2>
+<color1>day_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="day_white">Белый (дневной)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 4 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 500 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">25 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017178/</techinfo>
+<pdf modified="Thu, 06 Feb 2014 11:27:49 GMT">http://www.transistor.ru/pdf/Projector/017178_017253_017179_SL80-1000-25NF-30deg.pdf</pdf>
+<img id="6D683DBAFFCDDD4D8E8A0FFC59ACC314" type="jpg" modified="Fri, 01 Nov 2013 09:39:44 GMT">http://assets.transistor.ru/img/product/userlogo/6D683DBAFFCDDD4D8E8A0FFC59ACC314.jpg</img>
+<descript>Архитектурный прожектор 1000мм SL80 IP65. Светодиоды NICHIA NF2 25шт, цвет ДНЕВНОЙ 4000K, св.поток 2500лм, угол 30°. Мощность 30Вт. Питание AC 100-240V. Размеры 1000х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>017179</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-25NF-30deg White (220V, 30W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>2</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>7836.08</price1>
+<price2>5557.5</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 2 500 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">25 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">30 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017179/</techinfo>
+<pdf modified="Thu, 06 Feb 2014 11:27:49 GMT">http://www.transistor.ru/pdf/Projector/017178_017253_017179_SL80-1000-25NF-30deg.pdf</pdf>
+<img id="6D683DBAFFCDDD4D8E8A0FFC59ACC314" type="jpg" modified="Fri, 01 Nov 2013 09:39:44 GMT">http://assets.transistor.ru/img/product/userlogo/6D683DBAFFCDDD4D8E8A0FFC59ACC314.jpg</img>
+<descript>Архитектурный прожектор 1000мм SL80 IP65. Светодиоды NICHIA NF2 25шт, цвет БЕЛЫЙ 6000K, св.поток 2500лм, угол 30°. Мощность 30Вт. Питание AC 100-240V. Размеры 1000х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>017252</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-40NF-30deg White (220V, 48W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>25</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>9073.35</price1>
+<price2>6435</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 4 200 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">40 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">48 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017252/</techinfo>
+<pdf modified="Thu, 06 Feb 2014 11:27:38 GMT">http://www.transistor.ru/pdf/Projector/017252_SL80-1000-40NF-30deg.pdf</pdf>
+<img id="BDD8F93B4E64C94CBC932AF4F3195046" type="jpg" modified="Tue, 05 Nov 2013 12:10:27 GMT">http://assets.transistor.ru/img/product/userlogo/BDD8F93B4E64C94CBC932AF4F3195046.jpg</img>
+<descript>Архитектурный прожектор 1000мм SL80 IP65. Светодиоды NICHIA NF2 40шт, цвет БЕЛЫЙ 6000K, св.поток 4200лм, угол 30°. Мощность 48Вт. Питание AC 100-240V. Размеры 1000х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>015565</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="577">Светодиодные прожекторы / Направленные / Линейные SL80, угол 10-60°</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-40NI-30deg White (220V, 48W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>9898.2</price1>
+<price2>7020</price2>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 4 200 lm</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">40 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">48 W</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="11" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015565/</techinfo>
+<pdf modified="Thu, 23 Jan 2014 11:02:53 GMT">http://www.transistor.ru/pdf/Projector/015565-SL80-1000-40NI-30deg.pdf</pdf>
+<img id="BDD8F93B4E64C94CBC932AF4F3195046" type="jpg" modified="Tue, 05 Nov 2013 12:10:27 GMT">http://assets.transistor.ru/img/product/userlogo/BDD8F93B4E64C94CBC932AF4F3195046.jpg</img>
+<descript>Архитектурный прожектор 1000мм SL80 IP65. Светодиоды NICHIA NS3W183А 40шт, цвет БЕЛЫЙ 6000K, св.поток 4200лм, угол 30°. Мощность 48Вт. Питание AC 100-240V. Размеры 1000х85х80. Настенные крепления в к-те.</descript>
+</product>
+<product>
+<article>012470</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор WW5001 RGB 24V (12x3W, 540mm)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>1</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>4124.25</price1>
+<price2>2925</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="1" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">12 шт</value>
+</values>
+</param>
+<param order="2" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">50 °</value>
+</values>
+</param>
+<param order="3" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="1">24 V</value>
+</values>
+</param>
+<param order="4" id="22">
+<name>Габариты</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">543x35x58</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/012470/</techinfo>
+<pdf modified="Tue, 05 Jun 2012 10:15:46 GMT">http://www.transistor.ru/pdf/arlight/leddevices/lamp/prozhektor-WW5001-WW5010-RGB.pdf</pdf>
+<img id="6720F91DEF0C8648A37F5308DFE47C4D" type="jpg" modified="Thu, 29 Sep 2011 11:48:32 GMT">http://assets.transistor.ru/img/product/userlogo/6720F91DEF0C8648A37F5308DFE47C4D.jpg</img>
+<descript>540мм 12-LED RGB прожектор SLIM для наружной подсветки и заливки стен, влагозащита IP65. Цвет RGB 3x1W, питание 24VDC, управление внешним RGB-контроллером. Мощность 36W, угол 50°, размер 543x35x58мм</descript>
+</product>
+<product>
+<article>018672</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-300-9AR-30deg RGB (12V, 27W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>31</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5196.56</price1>
+<price2>3685.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 300 lm</value>
+<value order="1">typ: 520 lm</value>
+<value order="2">typ: 240 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">9 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">27 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018672/</techinfo>
+<pdf/>
+<img id="9C58552C9CB9394E94BE401CE29FF2C5" type="jpg" modified="Fri, 01 Nov 2013 08:47:37 GMT">http://assets.transistor.ru/img/product/userlogo/9C58552C9CB9394E94BE401CE29FF2C5.jpg</img>
+<descript>Герметичный RGB, длина 300мм, светодиоды ARPL-3W x 9шт, угол 30°. Мощность 27Вт, питание DC 12V. Св.поток: R-300лм, G-520лм, B-240лм. Управление 12В RGB-контроллером (ШИМ). Размеры 300х85х80. Настенные крепления 1шт в к-те. Защита IP65</descript>
+</product>
+<product>
+<article>015701</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-300-9AR-45deg RGB (12V, 27W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<possible></possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5196.56</price1>
+<price2>3685.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 300 lm</value>
+<value order="1">typ: 520 lm</value>
+<value order="2">typ: 240 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">9 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">27 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">300 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015701/</techinfo>
+<pdf modified="Wed, 12 Feb 2014 13:23:41 GMT">http://www.transistor.ru/pdf/Projector/015701_SL80-300-9AR-45deg_RGB_Arlight.pdf</pdf>
+<img id="9C58552C9CB9394E94BE401CE29FF2C5" type="jpg" modified="Fri, 01 Nov 2013 08:47:37 GMT">http://assets.transistor.ru/img/product/userlogo/9C58552C9CB9394E94BE401CE29FF2C5.jpg</img>
+<descript>Герметичный RGB, длина 300мм, светодиоды ARPL-3W x 9шт, угол 45°. Мощность 27Вт, питание DC 12V. Св.поток: R-300лм, G-520лм, B-240лм. Управление 12В RGB-контроллером (ШИМ). Размеры 300х85х80. Настенные крепления 1шт в к-те. Защита IP65</descript>
+</product>
+<product>
+<article>018673</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-500-9AR-30deg RGB-DMX (220V, 27W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>9485.78</price1>
+<price2>6727.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 300 lm</value>
+<value order="1">typ: 520 lm</value>
+<value order="2">typ: 240 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">9 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">27 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018673/</techinfo>
+<pdf/>
+<img id="049C58F2D409CA4084740D43095296DD" type="jpg" modified="Wed, 18 Dec 2013 08:30:23 GMT">http://assets.transistor.ru/img/product/userlogo/049C58F2D409CA4084740D43095296DD.jpg</img>
+<descript>IP65 / 500мм / ARPL-3W x 9шт / угол 30° / 27Вт / DMX512 / AC 220V. Св.поток: красный 300лм, зеленый 520лм, синий 240лм.Управление по протоколу DMX. Размеры 500х85х80. Настенные крепления 2шт в к-те.
+Встроенных программ нет.</descript>
+</product>
+<product>
+<article>016496</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-500-9AR-45deg RGB (12V, 27W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>47</stock>
+<possible>-1</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5938.92</price1>
+<price2>4212</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 300 lm</value>
+<value order="1">typ: 520 lm</value>
+<value order="2">typ: 240 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">9 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">27 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/016496/</techinfo>
+<pdf modified="Thu, 06 Feb 2014 11:27:45 GMT">http://www.transistor.ru/pdf/Projector/016496_SL80-500-9AR-45deg.pdf</pdf>
+<img id="97D857BCA35D1C4CA709AF01D1BDED21" type="jpg" modified="Fri, 15 Nov 2013 06:50:15 GMT">http://assets.transistor.ru/img/product/userlogo/97D857BCA35D1C4CA709AF01D1BDED21.jpg</img>
+<descript>IP65 / 500мм / ARPL-3W x 9шт / угол 45° / 27Вт / 12VDC. Св.поток: красный 300лм, зеленый 520лм, синий 240лм. Управление любыми RGB-контроллерами (ШИМ). Размеры 500х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>016497</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-500-9AR-45deg RGB-DMX (220V, 27W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>9485.78</price1>
+<price2>6727.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 300 lm</value>
+<value order="1">typ: 520 lm</value>
+<value order="2">typ: 240 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">9 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">27 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/016497/</techinfo>
+<pdf modified="Thu, 19 Dec 2013 06:27:32 GMT">http://www.transistor.ru/pdf/Projector/016497_SL80-500-9AR-45deg_RGB-DMX.pdf</pdf>
+<img id="049C58F2D409CA4084740D43095296DD" type="jpg" modified="Wed, 18 Dec 2013 08:30:23 GMT">http://assets.transistor.ru/img/product/userlogo/049C58F2D409CA4084740D43095296DD.jpg</img>
+<descript>IP65 / 500мм / ARPL-3W x 9шт / угол 45° / 27Вт / DMX512 / AC 220V. Св.поток: красный 300лм, зеленый 520лм, синий 240лм.Управление по протоколу DMX. Размеры 500х85х80. Настенные крепления 2шт в к-те.
+Встроенных программ нет.</descript>
+</product>
+<product>
+<article>018678</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-27AR-30deg RGB (12V, 80W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>44</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>9485.78</price1>
+<price2>6727.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 900 lm</value>
+<value order="1">typ: 1 600 lm</value>
+<value order="2">typ: 720 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">27 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">30 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">80 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018678/</techinfo>
+<pdf/>
+<img id="343AC077E1323A4CA832F31FE954502A" type="jpg" modified="Tue, 05 Nov 2013 12:08:27 GMT">http://assets.transistor.ru/img/product/userlogo/343AC077E1323A4CA832F31FE954502A.jpg</img>
+<descript>IP65 / 1000мм / ARPL-3W x 27шт / угол 30° / 80Вт / DC 12V. Св.поток: красный 900лм, зеленый 1600лм, синий 720лм. Управление любыми RGB-контроллерами (ШИМ). Размеры 1000х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+<product>
+<article>015690</article>
+<category id="18">Светодиодные прожекторы</category>
+<group id="641">Светодиодные прожекторы / Направленные / Линейные SL80, RGB</group>
+<name prefix="">Светодиодный Прожектор SL80-1000-27AR-45deg RGB (12V, 80W)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>44</stock>
+<possible>0</possible>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>9485.78</price1>
+<price2>6727.5</price2>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Прожектор</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="3">
+<value order="0">typ: 900 lm</value>
+<value order="1">typ: 1 600 lm</value>
+<value order="2">typ: 720 lm</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">27 шт</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">80 W</value>
+</values>
+</param>
+<param order="7" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="8" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">80 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">85 мм</value>
+</values>
+</param>
+<param order="10" id="32">
+<name>Габарит</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015690/</techinfo>
+<pdf modified="Thu, 06 Feb 2014 11:27:44 GMT">http://www.transistor.ru/pdf/Projector/015690_SL80-1000-27AR-45deg_RGB_Arlight.pdf</pdf>
+<img id="343AC077E1323A4CA832F31FE954502A" type="jpg" modified="Tue, 05 Nov 2013 12:08:27 GMT">http://assets.transistor.ru/img/product/userlogo/343AC077E1323A4CA832F31FE954502A.jpg</img>
+<descript>IP65 / 1000мм / ARPL-3W x 27шт / угол 45° / 80Вт / DC 12V. Св.поток: красный 900лм, зеленый 1600лм, синий 720лм. Управление любыми RGB-контроллерами (ШИМ). Размеры 1000х85х80. Настенные крепления 2шт в к-те.</descript>
+</product>
+</data>

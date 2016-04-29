@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login/*
+Disallow: /upload/*
+Host: ledtop-shop.ru

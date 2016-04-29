@@ -1,0 +1,45 @@
+
+		$url_site=".ledtop2.ru";
+		$dirs_site="www";
+		$cache_mode="0";
+		$email_feedback="sale\@ledtop.ru";
+		$email_orders="sale\@ledtop.ru";
+		$robot_help="0";
+		$maket_page="2";
+		$maket_article="3";		
+		$maket_news="2";
+		$maket_gallery="1";
+		$maket_catalog="2";
+		$maket_product="2";
+		$maket_product_compare="1";
+		$maket_basket="2";
+		$maket_private="4";
+		
+		
+		$dirs_home="../$dirs_site";
+		$dirs_css="../../../$dirs_site/";
+		$dirs_fonts="";		
+		$dirs_img="../../../$dirs_site/uploads";
+		$dirs_catalog="../../../$dirs_site/files/catalog";
+		$dirs_catalog_www="/files/catalog";
+		$dirs_catalog_www2="../$dirs_site/files/catalog";		
+		$dirs_foto="../../../$dirs_site/files/gallery";
+		$dirs_foto_www="/files/gallery";
+		$dirs_foto_www2="../$dirs_site/files/gallery";
+		$dirs_gallery_css="../../../$dirs_site/admin/site/css/gallery";
+		$dirs_news="../../../$dirs_site/files/news";
+		$dirs_news_www="/files/news";
+		$dirs_news_www2="../$dirs_site/files/news";
+		$dirs_slides="../../../$dirs_site/files/slides";
+		$dirs_slides_www="/files/slides";
+		$dirs_slides_www2="../$dirs_site/files/slides";
+		$dirs_banners="../../../$dirs_site/files/banners";
+		$dirs_banners_www="/files/banners";
+		$dirs_banners_www2="../$dirs_site/files/banners";
+		$dirs_public="../../../$dirs_site/files/public";
+		$dirs_public_www="/files/public";
+		$dirs_public_www2="../$dirs_site/files/public";
+		$dirs_video="../../../$dirs_site/files/video";
+		$dirs_video_www="/files/video";
+		$dirs_video_www2="../$dirs_site/files/video";
+		

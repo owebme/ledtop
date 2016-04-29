@@ -1,0 +1,20 @@
+
+/* FEEDBACK */
+
+div#feedback_page table td input {padding-top:4px\0/;}
+* html div#feedback_page table td input {padding-top:4px;}
+*+html div#feedback_page table td input {padding-top:4px;}
+
+div#feedback_page table td input:focus {width:207px\0/;}
+* html div#feedback_page table td input:focus {width:207px;}
+*+html div#feedback_page table td input:focus {width:207px;}
+
+div#feedback_page table td textarea:focus {width:207px\0/; margin-bottom:7px\0/;}
+* html div#feedback_page table td textarea:focus {width:207px; margin-bottom:7px;}
+*+html div#feedback_page table td textarea:focus {width:207px; margin-bottom:7px;}
+
+div#feedback_page table td input.button {padding-bottom:3px\0/;}
+* html div#feedback_page table td input.button {padding-bottom:3px;}
+*+html div#feedback_page table td input.button {padding-bottom:3px;}
+
+/* / FEEDBACK */

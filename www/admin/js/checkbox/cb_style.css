@@ -1,0 +1,23 @@
+div.cb
+{
+ width: 16px;
+ height: 15px;
+ border: 0;
+ background: url(../../img/radio.png) 0px 0px no-repeat;
+ margin-left:2px;
+ margin-right:6px;
+ float: left;
+ cursor: pointer;
+}
+div.cb:hover {
+	background: url(../../img/radio.png) 0px -32px no-repeat;
+}
+
+div.cb.checked
+{
+ background: url(../../img/radio.png) 0px -16px no-repeat;
+}
+div.cb.checked:hover
+{
+ background: url(../../img/radio.png) 0px -48px no-repeat;
+}

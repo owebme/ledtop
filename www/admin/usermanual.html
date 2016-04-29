@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+<head>
+    <title>Руководство пользователя UpleCMS</title>
+    <meta name="description" content="Руководство пользователя UpleCMS" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+    <meta http-equiv="Content-Language" content="ru" />
+	<script type="text/javascript">
+	$(function(){
+		$("div#manual div.head a").click(function(){
+			if ($(this).parent().next().attr("class") == "container"){
+				$(this).parent().next().slideDown(250, "easeOutSine").addClass("open");
+			}
+			else {
+				$(this).parent().next().slideUp(250, "easeOutSine").removeClass("open");
+			}	
+			return false
+		});
+		$("div#manual a.getDomen").each(function(){
+			$(this).attr("href", "http://"+location.hostname+$(this).html())
+			$(this).html("http://"+location.hostname+$(this).html());
+			$(this).removeClass("getDomen");
+			$(this).attr("target", "_blank");
+		});
+	});
+	</script>
+</head>
+<style>
+
+  div#manual * {margin: 0px;padding: 0px;}
+  div#manual { max-width:800px; padding:5%;}
+  div#manual h1{font-family: "Arial", Arial, Helvetica; font-size:31.5px; color:#3e3e3e; letter-spacing:-0.4px; font-weight:normal; margin:0px; padding:20px 0px 35px 0px;}
+  div#manual h2{color: #999999; font-family: Arial, Helvetica; font-size:25.5px; letter-spacing:-0.3px; font-weight:normal; margin:0px; padding:30px 0px 14px 0px;}
+  div#manual div.head a{display:inline-block; color: #45688E; font-family: Arial, Helvetica; font-size:21.5px; line-height:26px; letter-spacing:-0.2px; font-weight:normal; margin:8px 0px 0px 0px; text-decoration:none; border-bottom:1px dashed #45688E;}
+  div#manual div.head a:hover{border-bottom:none; margin-bottom:1px;}
+  div#manual p{color:#363636;font-family: Arial, Helvetica; font-size:14px;  padding:0px 0px 5px 0px;}
+  div#manual p.note{font-family: Arial, Helvetica; font-size:12px; padding:10px; border-left: 4px solid #e0e0e0; background-color:#f0f0f0; margin-top:10px;margin-bottom:10px;}
+  div#manual a{color:#45688E;}
+  div#manual a:hover{text-decoration:none;}
+  div#manual ul{padding-top:3px; padding-bottom:5px; font-family: Arial, Helvetica; font-size:1rpx; padding-left:20px;}
+  div#manual ul li{padding:3px; list-style-type: disc; font-size:12px;}
+  div#manual ol{font-family: Arial, Helvetica; padding-left:20px;}
+  div#manual ol li{padding:3px; font-size:12px;}
+  div#manual ul.contents{list-style:none;}
+  div#manual div.container {display:none; padding-top:15px; padding-bottom:15px;}
+  div#manual em.notic{font-style:normal; color:#777777; border-bottom:1px dotted #AAAAAA; font:12px "Arial", Helvetica; text-transform:uppercase;}
+  div.clear {clear:both;}
+  
+</style>
+<body>
+
+<div id="manual">
+
+	<h1 name="usermanual" id="usermanual">Руководство пользователя <span style="color:#AAAAAA;">Uple</span>CMS</h1>
+
+	<h2>Часто задаваемые вопросы</h2>
+
+	<div class="head"><a href="#" name="uploadFiles" id="uploadFiles">Загрузка файлов на сайт, как вставить картинку?</a></div>
+	<div class="container">
+		<p>Для того, чтобы загрузить файлы на сайт, просто перетащите их в окно обраузера или воспользуйтесь вверху черной кнопкой "ЗАГРУЗИТЬ". Все загруженные Вами файлы будут находиться в корневой папке "/uploads".</p>
+		<p><em class="notic">Примечание:</em> файлы можно загружать большим количеством, а не загружая по одному.</p><br>
+
+		<p>Загруженные файлы можно вставить на страницу или новость сайта, будь то картинка или другого формата файл, через текстовый редактор, которым вы наполняете ваш сайт, посредством подписанных кнопок "вставить картинку" или сделайте ссылку на файл.</p>
+		
+		<img src="/admin/img/manual/uploads.png" alt="">
+		
+	</div>
+	
+	<div class="head"><a href="#" name="creatLinks" id="creatLinks">Как сделать ссылку на файл или прайс?</a></div>
+	<div class="container">
+		<p>Загрузите файлы на сайт, как это сделать описано выше «Загрузка файлов на сайт, как вставить картинку?»</p>
+
+		<p>Далее в текстовом редакторе выделите текст, который будет являться ссылкой, например "Скачать", нажмите на панели редактора "Сделать ссылкой" и выберите нужный вам файл.</p>
+	</div>
+	
+	<div class="head"><a href="#" name="yamarket" id="yamarket">Как загружать товары в яндекс.маркет?</a></div>
+	<div class="container">
+		<p>Для этого у вас должен быть установлен специальный модуль, проверить его наличие возможно, зайдя в раздел «<a target="_blank" href="/cgi-bin/admin/engine/index.cgi?adm_act=settings">Настройки</a>» блок «Yandex.Маркет».</p><br>
+
+		<p>Если модуль установлен, товары в формате YML автоматически формируются по адресу: <a class="getDomen">/products.xml</a>. Инструкцию по работе с прайс-листом яндекс.маркета вы можете посмотреть <a target="_blank" href="http://help.yandex.ru/partnermarket/export/feed.xml">здесь</a>.</p>
+	</div>	
+
+	<div class="head"><a href="#" name="makets" id="makets">Где изменить основные шаблоны сайта и стили?</a></div>
+	<div class="container">
+		<p>Перейдите в соотствующие разделы «<a target="_blank" href="/cgi-bin/admin/engine/index.cgi?adm_act=maket&num_edit=1">Макет сайта</a>» «<a target="_blank" href="/cgi-bin/admin/engine/index.cgi?adm_act=maket&css_edit=ok">Стили сайта</a>».</p>
+	</div>
+	
+	<div class="head"><a href="#" name="templates" id="templates">Где поменять верстку к товарам, новостям и т.д.?</a></div>
+	<div class="container">
+		<p>Перейдите в соотствующий раздел «<a target="_blank" href="/cgi-bin/admin/engine/index.cgi?adm_act=template">Модули</a>».</p>
+	</div>	
+	
+</div>
+</body>
+</html>

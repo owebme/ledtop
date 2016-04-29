@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="Lyno_Stan_CYR_files/intl.css" type="text/css"?>
+<parsererror xmlns="http://www.mozilla.org/newlayout/xml/parsererror.xml">Ошибка синтаксического анализа XML: некорректно
+Адрес: http://molodost.bz/default//fonts/Lyno_Stan_CYR.svg
+Строка 1042, символ 29:<sourcetext>    &lt;glyph glyph-name="KN&amp;RP" horiz-adv-x="810" 
+----------------------------^</sourcetext></parsererror>

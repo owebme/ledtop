@@ -1,0 +1,4 @@
+<Files access>
+order allow,deny
+deny from all
+</Files>

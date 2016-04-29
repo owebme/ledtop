@@ -1,0 +1,196 @@
+/*
+	styles for select
+*/
+.cusel,
+.jScrollPaneDrag,
+.jScrollArrowUp,
+.jScrollArrowDown {
+	background: url(../../img/pages_select_category.png) no-repeat;
+}
+.cusel { /* общий вид селекта включая стрелку справа */
+	height: 31px;
+	background-position: left top;
+	display: inline-block;
+	position: relative;
+	cursor: pointer;
+	font-size: 14px;
+}
+.cuselFrameRight { /* левая чсть селект. обыно скругление и левая граница */
+	position: absolute;
+	z-index: 2;
+	top: 0;
+	right: 0;
+	height: 100%;
+	width: 42px;
+	background-position: right top;
+}
+
+.cuselText { /* контейнер для отображенного текста селект */
+	height: 14px;
+	padding: 6px 0 0 7px; /* подбираем отступы и высоту для видимого текста в селекте */
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+	z-index: 1;
+	font: 12px Arial, "Helvetica CY", "Nimbus Sans L", sans-serif; /* шрифты */
+	position: absolute;
+	top: 2px;
+	left: 4px;
+}
+* html .cuselText { /* высота блока для текста для ие6 */
+	height: 22px;
+}
+.cusel span { /* оформление оптиона */
+	display: block;
+	cursor: pointer;
+	white-space: nowrap;
+	padding: 5px 15px 6px 24px; /* паддинг справа - это отступ текста от ползунка */
+	width:274px;
+	overflow:hidden;
+	zoom: 1;
+	margin-left:15px;
+	font: 12px Arial, "Helvetica CY", "Nimbus Sans L", sans-serif; /* шрифты */
+	background: url(../../img/pages_select_option.png) bottom left no-repeat;
+}
+.cusel span.point {
+	font:bold 11px Verdana;
+	color:#404040;
+	text-transform:uppercase;
+}
+.cusel span:hover,
+.cusel .cuselOptHover { /* реакция оптиона на наведение */
+	background: #003399;
+	background: url(../../img/pages_select_option_active.png) no-repeat;
+}
+.cusel .cuselActive { /* оформление активного оптиона в списке */
+	background: url(../../img/pages_select_option_active.png) no-repeat;
+	color:#2e2e2e;
+	font-size:12px;
+	cursor: default;
+	padding: 5px 15px 6px 24px;
+	margin-top:5px;
+}
+
+/*
+	styles for focus and hover
+*/
+
+.cuselFocus {
+	background-position: 0px -31px;
+}
+
+.cuselOpen,
+.cuselFocus.cuselOpen {
+	background-image: url(../../img/pages_select_category_focus.png);
+	background-position: 0px 0px;
+	z-index:10;
+}
+
+/*
+	styles for disabled select
+*/
+.classDisCusel,
+.classDisCusel .cuselFrameRight {
+	background-image: url(../images/selects-2-dis.png) !important;
+	cursor: default;
+	color: #ccc;
+}
+.classDisCusel .cuselText {
+	cursor: default;
+}
+
+
+/*
+	styles for scrollbar
+*/
+.cusel-scroll-wrap { /* контейнер для блока с прокруткой */
+	display: block;
+	visibility: hidden;
+	position: absolute;
+	left: 0;
+	top: 100%;
+	background: #fff; /* фон выпадающего списка */
+	min-width: 100%;
+	width: auto;
+}
+.jScrollPaneContainer {
+	position: relative;
+	overflow: hidden;
+	z-index: 5;
+	background: url(../../img/pages_select_option_bg.png) repeat-y;
+}
+.jScrollPaneContainer.noactive {
+	background: url(../../img/pages_select_option_bg2.png) repeat-y;
+}
+.jScrollPaneContainerEnd {
+	width:363px;
+	height:15px;
+	background: url(../../img/pages_select_option_end_bg.png) no-repeat 0px 0px;
+	z-index:10;
+	position:relative;
+	top:-5px;
+}
+.jScrollPaneContainerEnd.noactive {
+	width:363px;
+	height:15px;
+	background: url(../../img/pages_select_option_end_bg.png) no-repeat -15px 0px;
+}
+
+.jScrollPaneTrack { /* трек для ползунка прокрутки */
+	height: 100%;
+	width: 15px !important;
+	position: absolute;
+	top: 0;
+	right: 8px;
+	background: url(../../img/pages_select_scroll_track.png) top left repeat-y;
+}
+.jScrollPaneDrag { /* ползунок */
+	position: absolute;
+	cursor: pointer;
+	width: 15px !important;
+	height: 61px !important;
+	right: 0px;
+	background: url(../../img/pages_select_scroll_drag.png) top left no-repeat;
+	
+}
+
+.jScrollPaneDragTop {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.jScrollPaneDragBottom {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+}
+.jScrollArrowUp { /* стрелка вверх */
+	position: absolute;
+	top: 5px;
+	right: 8px;
+	width: 15px !important;
+	height: 15px !important;
+	cursor: pointer;
+	overflow: hidden;
+	background: url(../../img/pages_select_scroll_up.png) top left no-repeat;
+}
+.jScrollArrowDown { /* стрелка вниз */
+	width: 15px !important;
+	height: 15px !important;
+	position: absolute;
+	top: auto;
+	bottom: 5px;
+	right: 8px;
+	cursor: pointer;
+	overflow: hidden;
+	background: url(../../img/pages_select_scroll_down.png) top left no-repeat;
+}
+
+.cusel-scroll-pane {
+	padding-top:5px;
+	background: url(../../img/pages_select_option_bg_top.png) top left no-repeat;
+	padding-bottom:28px;
+	width:363px !important;
+}

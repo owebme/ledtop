@@ -1,0 +1,85 @@
+AddDefaultCharset 'windows-1251'
+AddHandler server-parsed .shtml .shtm .ssi .htm .html
+ErrorDocument 404 /cgi-bin/index.cgi?error=404
+php_flag display_errors off
+Options -Indexes
+
+RewriteEngine on
+#RewriteCond %{HTTP_REFERER} ledimpressgroup.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ahrefs.com
+RewriteRule .* – [F]
+RewriteCond %{HTTPS} on
+#RewriteRule .* http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,QSA]
+RewriteRule ^robots\.txt$ robots-https.txt
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ajax/$ cgi-bin/ajax.cgi [L,QSA]
+RewriteRule ^remember/$ cgi-bin/private.cgi?alias=remember [L]
+RewriteRule ^register/$ cgi-bin/private.cgi?alias=register [L]
+RewriteRule ^private/$ cgi-bin/private.cgi?alias=private [L]
+RewriteRule ^private/(.+)$ cgi-bin/private.cgi?alias=private&section=$1 [L]
+RewriteRule ^auth/$ cgi-bin/private.cgi?alias=auth [L]
+RewriteRule ^pages/(.+)$ cgi-bin/index.cgi?alias=$1 [L]
+RewriteRule ^public/$ cgi-bin/articles.cgi [L]
+RewriteRule ^public/page_(.+)$ cgi-bin/articles.cgi?page=$1 [L,QSA]
+RewriteRule ^public/video/$ cgi-bin/articles.cgi?alias=video [L]
+RewriteRule ^public/(.+)$ cgi-bin/articles.cgi?alias=$1 [L]
+RewriteRule ^news/(.+)$ cgi-bin/news.cgi?alias=$1 [L]
+RewriteRule ^news/$ cgi-bin/news.cgi [L]
+#RewriteRule ^poleznoe/$ cgi-bin/seo.cgi [L]
+#RewriteRule ^poleznoe/page_(.+)$ cgi-bin/seo.cgi?page=$1 [L]
+#RewriteRule ^poleznoe/(.+)$ cgi-bin/seo.cgi?alias=$1 [L]
+RewriteRule ^gallery/$ cgi-bin/gallery.cgi [L]
+RewriteRule ^gallery/img=(.+)$ cgi-bin/gallery.cgi?img_num=$1 [L,QSA]
+RewriteRule ^gallery/(.+)/img=(.+)$ cgi-bin/gallery.cgi?alias=$1&img_num=$2 [L,QSA]
+RewriteRule ^gallery/(.+)/$ cgi-bin/gallery.cgi?alias=$1 [L]
+RewriteRule ^catalog/search/$ cgi-bin/catalog_search.cgi [L,QSA]
+RewriteRule ^catalog/filter/$ cgi-bin/catalog_filter.cgi [L,QSA]
+RewriteRule ^catalog/(.+)/page_(.+)$ cgi-bin/catalog.cgi?alias=$1&page=$2 [L,QSA]
+RewriteRule ^catalog/(.+)$ cgi-bin/catalog.cgi?alias=$1 [L,QSA]
+RewriteRule ^catalog/$ cgi-bin/catalog.cgi?alias=cat_list [L]
+RewriteRule ^products/(\d+)$ cgi-bin/product.cgi?article=$1 [L]
+RewriteRule ^products/(.+)/(.+)$ cgi-bin/product.cgi?article=$1&alias=$2 [L,QSA]
+RewriteRule ^products/(.+)-(\d+)$ cgi-bin/product.cgi?article=$1&alias=$2 [L,QSA]
+RewriteRule ^products/compare$ cgi-bin/product_compare.cgi [L]
+RewriteRule ^products.xml$ cgi-bin/product_yml.cgi [L]
+RewriteRule ^products_market.xml$ cgi-bin/product_yml.cgi [L]
+RewriteRule ^basket/$ cgi-bin/basket.cgi [L,QSA]
+RewriteRule ^payment/(.*)$ cgi-bin/payment.cgi?$1 [L,QSA]
+RewriteRule ^sitemap.xml$ cgi-bin/sitemap_xml.cgi [L]
+RewriteRule ^export/csv/(.+)$ admin/scripts/catalog/export.php?type=$1 [L]
+RewriteRule ^import/csv/$ admin/scripts/catalog/import.php [L]
+RewriteRule ^admin/clients/$ cgi-bin/admin/engine/index.cgi?adm_act=clients [L]
+
+RedirectMatch 301 /about/contacts/$ /pages/contacts
+RedirectMatch 301 /about/vacancy/$ /pages/vacancy
+RedirectMatch 301 /about/$ /pages/company
+RedirectMatch 301 /about/certificate\.php$ /pages/company
+RedirectMatch 301 /about/vacancy/index\.php$ /pages/company
+RedirectMatch 301 /faq/$ /pages/faq
+RedirectMatch 301 /payment_and_delivery/$ /pages/oplata-i-dostavka
+RedirectMatch 301 /support/$ /pages/contacts
+RedirectMatch 301 /support/feedback\.php$ /pages/contacts
+RedirectMatch 301 /news/Alu_profil_for_LED_screens/$ /news/?$1
+RedirectMatch 301 /news/led_lamps_arlight_with_a_glass_frame/$ /news/?$1
+
+
+RedirectMatch 301 /catalog/leds/(.*)$ /catalog/svetodiody?$1
+RedirectMatch 301 /catalog/Led_garlands/(.*)$ /catalog/svetodiody?$1
+RedirectMatch 301 /catalog/power_leds/(.*)$ /catalog/svetodiody?$1
+RedirectMatch 301 /catalog/ledribbon/(.*)$ /catalog/svetodiodnye-lenty?$1
+RedirectMatch 301 /catalog/ledbulbs/(.*)$ /catalog/svetodiodnye-lampy?$1
+RedirectMatch 301 /catalog/catalog_ledlamps/(.*)$ /catalog/svetodiodnye-svetilniki?$1
+RedirectMatch 301 /catalog/ledmodules/(.*)$ /catalog/svetodiodnye-moduli?$1
+RedirectMatch 301 /catalog/ledmodules$ /catalog/svetodiodnye-moduli?$1
+RedirectMatch 301 /catalog/ledprojectors/(.*)$ /catalog/svetodiodnye-prozhektory?$1
+RedirectMatch 301 /catalog/lightcontrol/(.*)$ /catalog/upravlenie-svetom?$1
+RedirectMatch 301 /catalog/laserprojectors/(.*)$ /catalog/svetodiodnye-prozhektory?$1
+RedirectMatch 301 /catalog/supply/(.*)$ /catalog/istochniki-pitaniya?$1
+RedirectMatch 301 /catalog/profile/(.*)$ /catalog/alyuminevyj-profil?$1
+RedirectMatch 301 /catalog/data_display/(.*)$ /catalog/svetodiodnye-tablo?$1
+
+RedirectMatch 301 /files/catalog/(.*).jpg$ /admin/site/img/no_photo_big.png?$1
+

@@ -1,0 +1,150 @@
+#content #banners {padding:11px 22px 0px 39px;}
+#content #banners div.message {float:left; margin:16px 0px 0px 0px; width:100%; line-height:32px; display:block; text-indent:11px; color:#333; background:url(/admin/img/category_bg_save.png) top left no-repeat;}
+#content #banners div.top-panel {position:relative; width:100%; height:30px; margin-bottom:33px;}
+#content #banners div.top-panel ul.nav {position:absolute; top:-2px; left:-19px;}
+#content #banners div.top-panel div#choice-banner {position:absolute; top:4px; right:15px;}
+#content #banners div.top-panel div#choice-banner span.field {position:relative; top:1px; padding-right:6px; font-size:14px; color:#727272;}
+#content #banners table.banners-img {width:100%; margin-bottom:27px;}
+#content #banners table.banners-img div.img {text-align:center; width:247px; height:90px; padding:0px 0px 14px 0px; margin-left:4px;}
+#content #banners table.banners-img div.img div.foto {position:relative; width:102px; height:90px; margin:0 auto; padding:10px 15px 10px 15px; border-radius:10px; border:1px solid #DDDDDD; cursor:pointer;}
+#content #banners table.banners-img div.img div.foto:hover, #content #banners table.banners-img div.img div.foto.active {box-shadow:inset 0px 0px 16px rgba(127,141,148,0.16); -moz-box-shadow:inset 0px 0px 16px rgba(127,141,148,0.16); -webkit-box-shadow:inset 0px 0px 16px rgba(127,141,148,0.16);}
+#content #banners table.banners-img div.img div.foto.bg {position:relative; top:12px; width:247px; height:64px;}
+#content #banners table.banners-img div.img div.foto span {display:block; position:absolute; top:11px; left:9px; width:114px; height:90px; background:url(/admin/img/slide_no_photo_lite.png) center 20px no-repeat; text-align:center;}
+#content #banners table.banners-img div.img div.foto span em {display:block; font-style:normal; color:#999 !important; margin:0px !important; padding:72px 0px 0px 2px !important; line-height:14px;}
+#content #banners table.banners-img div.img div.foto.bg span {top:-1px; left:81px;}
+#content #banners table.banners-img div.img div.foto.bg span em {padding:60px 0px 0px 2px !important;}
+#content #banners table.banners-img div.img div.foto div.ajax {position:absolute; top:1px; left:0px; width:100%; height:100%; background:url(/admin/img/ajax-loader_lite_line.gif) no-repeat center center; opacity:0.9;}
+#content #banners table.banners-img div.img img {max-width:90px; max-height:90px;}
+#content #banners table.banners-img div.img img.paste {opacity:0; filter:alpha(opacity=0);}
+#content #banners table.banners-img div.img div.bg {width:247px; height:64px; border-radius:6px;}
+#content #banners table.banners-img div.img a.del {display:block; opacity:0; position:absolute; top:-4px; right:-11px; width:25px; height:24px; background:url(/admin/img/icon_del_product.png) no-repeat; cursor:pointer; z-index:3; transition: all 0.3s; -moz-transition: all 0.3s; -webkit-transition: all 0.3s; -o-transition: all 0.3s;}
+#content #banners table.banners-img div.img div.foto:hover a.del {opacity:0.7;}
+#content #banners table.banners-img div.img a.del:hover {opacity:1;}
+#content #banners table.banners-img div.img a.change {display:block; position:absolute; top:0px; left:0px; width:100%; height:100%;}
+#content #banners table.banners-img th {width:33.4%; padding-bottom:4px; padding-left:2px;}
+#content #banners table.banners-img td {width:33.4%; vertical-align:top;}
+#content #banners table.banners-img div.speed {margin:16px 0px 0px 11px;}
+#content #banners table.banners-img span.value {color:#727272; transition: all 0.3s; -moz-transition: all 0.3s; -webkit-transition: all 0.3s; -o-transition: all 0.3s;}
+#content #banners table.banners-img span.field {position:relative; top:1px; padding-right:4px; font:normal 14px/100% Arial; color:#999999;}
+#content #banners table.banners-img span.link {display:block; padding:4px 0px 5px 5px; font:normal 14px/100% Arial; color:#999999;}
+#content #banners table.banners-img input[type=text] {height:22px; color:#727272;}
+#content #banners table.banners-img td:hover span.field {color:#333333;}
+#content #banners table.banners-img td:hover span.link {color:#333333;}
+#content #banners table.banners-img td:hover span.value {color:#333333;}
+#content #banners table.banners-img input[type=text] {box-shadow:inset 0 1px 2px rgba(0,0,0,0.3); -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.3); -webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0.3);}
+#content #banners table.banners-img td:hover input[type=text] {color:#333333; box-shadow:inset 0 1px 2px rgba(0,0,0,0.4); -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.4); -webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0.4);}
+#content #banners div.search-library {width:100%; height:30px; margin-top:-8px; position:relative; top:-11px; left:-20px;}
+#content #banners div.search-library div.search {position:relative; margin-left:8px; float:left; z-index:1;}
+#content #banners div.search-library div.search input#word_search {width:220px; height: 28px; line-height: 28px; padding-right:30px; border:1px solid #E2E2E2; border-radius: 13px 13px 13px 13px; box-shadow: 1px 1px 0 #F9F9F9 inset; color: #666666; font-family: Helvetica,Arial,"Lucida Grande"; font-size: 12px; padding: 0 10px; resize: none; background:none !important;}
+#content #banners div.search-library div.search input#word_search:hover {border-color:#CCC; -moz-box-shadow:inset 1px 1px 0px #e2e2e2; box-shadow:inset 1px 1px 0px #e2e2e2;}
+#content #banners div.search-library div.search input#word_search {width:190px;}
+#content #banners div.search-library div.search input#search {position:absolute; border:none; color:#FFFFFF; display:block; font-size:0; height:16px; line-height:0; outline:medium none; overflow:hidden; right:8px; text-indent:-999px; top:6px; width:20px; background: url(/admin/img/search_sprite.gif) no-repeat 0 0; cursor:pointer;}
+#content #banners div.search-library div.search input#search:hover {background-position:0 -16px;}
+#content #banners div.search-library div.search input#search.active {background-position:0 -32px; cursor:wait;}
+#content #banners div.search-library div.example {position:relative; float:left; color:#727272; font:14px Arial; margin:5px 0px 0px 15px; z-index:1;}
+#content #banners div.search-library ul {position:relative; top:-3px; left:15px;}
+#content #banners div.search-library ul li.file a {padding-top:0px; padding-bottom:0px; margin-top:10px; margin-bottom:10px;}
+#content #banners div.search-library ul li.file.hover a {padding-top:8px; padding-bottom:8px; margin-top:2px; margin-bottom:2px;}
+#content #banners div.search-library a.close {display:block; position:absolute; top:6px; right:0px; color:#333333; font-size:14px;}
+#content #banners div.search-library ul input {opacity:0; position:relative; top:6px; left:-92px; border:none; background:none; width:90px; padding:0px; margin:0px; cursor:pointer;}
+#content #banners div.images-library {position:relative; width:105%; margin-left:-20px; padding-bottom:35px; clear:both;}
+#content #banners div.images-library div.ajax {position:relative; top:60px; width:100%; height:48px; background:url(/admin/img/get_image_big.gif) center center no-repeat;}
+#content #banners div.images-library div.item {float:left; width:102px; height:90px; margin:0px 10px 16px 10px; padding:10px 15px 10px 15px; border-radius:10px; border:1px solid #DDDDDD; text-align:center; cursor:pointer;}
+#content #banners div.images-library div.item:hover, #content #banners div.images-library div.item.active {box-shadow:inset 0px 0px 16px rgba(127,141,148,0.16); -moz-box-shadow:inset 0px 0px 16px rgba(127,141,148,0.16); -webkit-box-shadow:inset 0px 0px 16px rgba(127,141,148,0.16);}
+#content #banners div.images-library div.item.active {border:1px solid #d9d9d9; box-shadow:inset 0px 0px 38px rgba(127,141,148,0.16); -moz-box-shadow:inset 0px 0px 38px rgba(127,141,148,0.16); -webkit-box-shadow:inset 0px 0px 38px rgba(127,141,148,0.16);}
+#content #banners div.images-library div.item div.img {display:table-cell; width:102px; height:90px; text-align:center; vertical-align:middle;}
+#content #banners div.images-library div.item div.img img {max-width:90px; max-height:90px;}
+#content #banners div.images-library div.item.bg {width:266px; height:95px; padding:6px 10px 0px 10px; overflow:hidden;}
+#content #banners div.images-library div.item.bg div.img {display:block; position:relative; width:266px; height:88px; overflow:hidden;}
+#content #banners div.images-library div.item.bg div.img img {position:absolute; bottom:0px; left:0px; max-width:266px; max-height:none !important; border-radius:6px;}
+#content #banners div.images-library div.item div.img.bg img {opacity:0; filter:alpha(opacity=0);}
+#content #banners div.images-library span.more {position:relative; left:-10px; display:block; cursor:pointer; height:36px; width:50%; font-size:14px; color:#666666; line-height:36px; text-align:center; background:#F5F5F5; background:-moz-linear-gradient(center top, #FFFFFF, #F5F5F5) repeat scroll 0 0 #FFFFFF; background: -webkit-linear-gradient(center top, #FFFFFF, #F5F5F5) repeat scroll 0 0 #FFFFFF; background: -o-linear-gradient(center top, #FFFFFF, #F5F5F5) repeat scroll 0 0 #FFFFFF; background: -ms-linear-gradient(center top, #FFFFFF, #F5F5F5) repeat scroll 0 0 #FFFFFF; -pie-background: linear-gradient(center top, #FFFFFF, #F5F5F5) repeat scroll 0 0 #FFFFFF; border:1px solid #d5d9dc; margin:0 auto; border-radius:4px;}
+#content #banners div.images-library span.more:hover {background:#eeeeee; background:-moz-linear-gradient(center top, #FFFFFF, #eeeeee) repeat scroll 0 0 #FFFFFF; background: -webkit-linear-gradient(center top, #FFFFFF, #eeeeee) repeat scroll 0 0 #FFFFFF; background: -o-linear-gradient(center top, #FFFFFF, #eeeeee) repeat scroll 0 0 #FFFFFF; background: -ms-linear-gradient(center top, #FFFFFF, #eeeeee) repeat scroll 0 0 #FFFFFF; -pie-background: linear-gradient(center top, #FFFFFF, #eeeeee) repeat scroll 0 0 #FFFFFF;}
+#content #banners div.images-library span.more em {display:block; position:absolute; top:-1px; left:0px; width:100%; height:40px; background:url(/admin/img/ajax-loader_lite_line.gif) no-repeat center center; opacity:0.9;}
+#content #banners div.images-library p.message {position:relative; left:15px; color:#727272; font-size:14px;}
+#content #banners table.banners-text {width:100%;}
+#content #banners table th {border:none; color:#666666; font:normal 19px Arial; text-align:left;}
+#content #banners table.banners-text th {padding-bottom:8px;}
+#content #banners table.banners-text th.name {width:114px;}
+#content #banners table.banners-text th.input {width:261px;}
+#content #banners table.banners-text th.size {width:79px;}
+#content #banners table.banners-text th.font {width:124px;}
+#content #banners table.banners-text th.color {width:61px;}
+#content #banners table.banners-text th.opacity {width:88px;}
+#content #banners table.banners-text th.style {width:173px;}
+#content #banners table.banners-text td {text-align:left; border:none; height:37px; vertical-align:top;}
+#content #banners table.banners-text td.field {font:normal 14px/100% Arial; padding-top:8px;}
+#content #banners table.banners-text td.field div {position:relative;}
+#content #banners table.banners-text td.field a.mask {display:none; position:absolute; top:20px; left:0px; text-decoration:none; text-align:left; color:#468847; font-size:14px; white-space:nowrap;}
+#content #banners table.banners-text td.field:hover a.mask {display:block;}
+#content #banners table.banners-text td.field a.mask.active {display:block; top:33px; left:32px; text-align:right; color:#999999;}
+#content #banners table.banners-text td.field a.mask.active:hover {color:#DD1144;}
+#content #banners input[type=text] {position:relative; padding:3px 7px; background:none !important; width:233px; margin-top:-1px; height:23px; border:2px solid #fff; box-shadow:inset 0 1px 2px rgba(0,0,0,0.4); -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.4); -webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0.4); -webkit-transition:border linear .2s,box-shadow linear .2s;-moz-transition:border linear .2s,box-shadow linear .2s; -o-transition:border linear .2s,box-shadow linear .2s; transition:border linear .2s,box-shadow linear .2s; border-radius:5px; color:#000000; font:normal 14px/18px Arial, Helvetica;}
+#content #banners input[type=text]:hover, #content #banners input[type=text]:focus {box-shadow:inset 0 1px 2px rgba(0,83,161,0.75); -moz-box-shadow:inset 0 1px 2px rgba(0,83,161,0.75); -webkit-box-shadow:inset 0 1px 3px rgba(0,83,161,0.75);}
+body:not([x|x]) #content #banners input[type=text] {border-bottom:1px solid #f1f1f1; margin-bottom:1px;}
+body:not([x|x]) #content #banners input[type=text]:hover, body:not([x|x]) #content #banners input[type=text]:focus {border-bottom:1px solid #e4edf5;}
+#content #banners table.banners-text div.mask {display:none; padding:6px 0px 5px 5px;}
+#content #banners table.banners-text div.mask.active {display:block;}
+#content #banners table.banners-text div.mask span.field {padding:0px 3px 0px 9px; position:relative; top:1px; color:#727272;}
+#content #banners table.banners-text div.mask span.value {color:#727272;}
+#content #banners table.banners-text td input.color {border:none; background:none; padding:0px; font-size:0px !important; margin:0px !important; width:54px; height:30px; box-shadow:inset 0 1px 2px rgba(0,0,0,0.3); -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.3); -webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0.3); border-radius:5px; cursor:pointer;}
+#content #banners table.banners-text td div.mask input.color {width:32px; height:18px; position:relative; top:-3px; box-shadow:inset 0 1px 2px rgba(0,0,0,0.3); -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.3); -webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0.3);}
+#content #banners table.banners-text td div.btn-group a.btn.font {width:86px; text-align:left;}
+#content #banners table.banners-text td div.btn-group a.btn.font .caret {position:absolute; top:4px; right:8px;}
+#content #banners table.banners-text td div#hoice-font span.value {display:block; width:80px; overflow:hidden;}
+#content #banners table.banners-text td input.small {width:70px !important;}
+#content #banners table.banners-text td button[name=shadow] {text-shadow:1px 1px 1px rgba(0,0,0,0.38);}
+#content #banners .btn-mini .caret, #content #banners .btn-small .caret {opacity:0.5;}
+#content #banners div.checkbox {position:relative; padding-right:52px;}
+#content #banners div.checkbox span {display:block; font-size:14px; color:#727272;}
+#content #banners div.checkbox div.js-box {position:absolute; top:-2px; right:0px; width:39px; height:22px; background:url(/admin/scripts/banners/img/checkbox.png) 0px -22px no-repeat; cursor:pointer;}
+#content #banners div.checkbox div.js-box.checked {background-position:0px 0px;}
+#content #banners input.button.create {float:right; margin-top:9px;}
+#content #banners input.button.reset {float:right; margin-top:9px;}
+#content #banners div.repeat {float:left; margin:5px 0px 0px 4px; font-size:14px; color:#727272;}
+#content #banners div.repeat span.value {color:#727272;}
+#content #banners div.repeat span.field {display:inline-block; padding-right:3px; line-height:16px;}
+#content #banners div.choice-border {float:right; margin:16px 12px 0px 0px;}
+#content div.banner_container {position:relative; margin:30px 0px 98px 0px; width:100%;}
+#content div.banner_container div.banner {position:absolute; top:-1px; left:50%; border:1px dashed #c1c1c1;}
+#content div.banner_container.upload div.banner {border-radius:5px;}
+#content div.banner_container div.banner-save {display:none !important;}
+#content div.banner_container div.save {display:none; position:absolute; bottom:-46px;}
+#content div.banner_container div.save div.ajax {display:none; position:absolute; bottom:2px; left:-135px; color:#727272; font:normal 14px/24px Arial; padding-left:32px; height:24px; background: url(/admin/img/ajax-loader_lite.gif) top left no-repeat; z-index:20;}
+#content div.banner_container.upload {margin:81px 0px 138px 0px;}
+#content div.banner_container.upload div.banner div.img {position:relative; overflow:hidden;}
+#content div.banner_container.upload div.banner div.img span {display:block; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:#E9EDF1; box-shadow:inset 0px 1px 2px rgba(0,0,0,.1);}
+#content div.banner_container.upload div.banner div.img span em {display:block; position:absolute; top:50%; left:5%; width:90%; margin-top:-16px; font:normal 26px/30px Arial; color:#8C98AE; text-shadow:0px 1px 0px #ffffff; text-align:center;}
+#content div.banner_container.upload div.banner div.img div.ajax {position:absolute; top:2px; left:0px; width:100%; height:100%; background:url(/admin/img/get_image_big.gif) center center no-repeat;}
+#content div.banner_container.upload div.banner div.img img {position:absolute; top:0px; left:50%;}
+#content div.banner_container.upload div.banner div.img img.paste {opacity:0; filter:alpha(opacity=0);}
+#content div.banner_container.upload div.banner input.file {display:block; opacity:0; position:absolute; top:0px; left:0px; width:100%; height:100%; cursor:pointer; z-index:2;}
+#content div.banner_container.upload div.banner a.del {display:block; opacity:0; position:absolute; top:-11px; right:-11px; width:25px; height:24px; background:url(/admin/img/icon_del_product.png) no-repeat; cursor:pointer; z-index:3; transition: all 0.3s; -moz-transition: all 0.3s; -webkit-transition: all 0.3s; -o-transition: all 0.3s;}
+#content div.banner_container.upload div.banner:hover a.del {opacity:0.7;}
+#content div.banner_container.upload div.banner a.del:hover {opacity:1;}
+#content div.banner_container.upload div.resize {position:absolute; bottom:-46px;}
+#content div.banner_container .ui-draggable {cursor:pointer;}
+#content div.banner_container div.roulette-width {background:url(/admin/scripts/banners/img/rulet-h.png) 0 -35px repeat-x; height:26px; position:absolute; bottom:-46px; left:18px; width:60px;}
+#content div.banner_container div.roulette-width .start {display:block; position:absolute; height:35px; width:6px; background:url(/admin/scripts/banners/img/rulet-h.png) top right repeat-x; top:0; right:-1px;}
+#content div.banner_container div.roulette-width .end {display:block; position:absolute; height:35px; width:46px; background:url(/admin/scripts/banners/img/rulet-h.png) top left repeat-x; left:0; top:0;}
+#content div.banner_container div.roulette-height {background:url(/admin/scripts/banners/img/rulet-v.png) -35px 0 repeat-y; width:26px; height:60px; position:absolute; bottom:-57px; right:18px;}
+#content div.banner_container div.roulette-height .start {display:block; position:absolute; height:6px; width:35px; background:url(/admin/scripts/banners/img/rulet-v.png) top left repeat-x; top:0; left:0;}
+#content div.banner_container div.roulette-height .end {display:block; position:absolute; height:46px; width:35px; background:url(/admin/scripts/banners/img/rulet-v.png) bottom left repeat-x; left:0; bottom:0;}
+#content div.banner_container div.roulette-width input, #content div.banner_container div.roulette-height input {position:absolute; padding:3px 7px; background:#fff !important; width:40px; text-align:left; margin-top:-1px; height:23px; border:2px solid #fff; box-shadow:inset 0 1px 2px rgba(0,0,0,0.4); -moz-box-shadow:inset 0 1px 2px rgba(0,0,0,0.4); -webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0.4); -webkit-transition:border linear .2s,box-shadow linear .2s;-moz-transition:border linear .2s,box-shadow linear .2s; -o-transition:border linear .2s,box-shadow linear .2s; transition:border linear .2s,box-shadow linear .2s; border-radius:5px; color:#000000; font:normal 14px/18px Arial, Helvetica;}
+#content div.banner_container div.roulette-width input:hover, #content div.banner_container div.roulette-width input:focus, #content div.banner_container div.roulette-height input:hover, #content div.banner_container div.roulette-height input:focus {box-shadow:inset 0 1px 2px rgba(0,83,161,0.75); -moz-box-shadow:inset 0 1px 2px rgba(0,83,161,0.75); -webkit-box-shadow:inset 0 1px 3px rgba(0,83,161,0.75);}
+body:not([x|x]) #content div.banner_container div.roulette-width input, #content div.banner_container div.roulette-height input {border-bottom:1px solid #f1f1f1; margin-bottom:1px;}
+body:not([x|x]) #content div.banner_container div.roulette-width input, #content div.banner_container div.roulette-height input {border-bottom:1px solid #e4edf5;}
+#content div.banner_container div.roulette-width input {top:-6px; right:-67px; z-index:30;}
+#content div.banner_container div.roulette-height input {top:-40px; left:-5px; z-index:30;}
+#content div.banner_container .ui-button-text-only .ui-button-text {padding:0px; }
+#content div.banner_container .ui-spinner-button {display:block; position:absolute; margin:0px; z-index:50;}
+#content div.banner_container .ui-spinner-button:hover {background: #dadada url(/admin/js/ui-jquery/images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;}
+#content div.banner_container .ui-spinner-button .ui-icon {width:15px; height:13px;}
+#content div.banner_container .ui-spinner-button.ui-spinner-up .ui-icon {background-position:0px -17px;}
+#content div.banner_container .ui-spinner-button.ui-spinner-down .ui-icon {background-position:-65px -17px;}
+#content div.banner_container .ui-spinner-button.ui-spinner-up:active .ui-icon {background-position:0px -18px;}
+#content div.banner_container .ui-spinner-button.ui-spinner-down:active .ui-icon {background-position:-65px -16px;}
+#content div.banner_container div.roulette-width .ui-spinner-button.ui-spinner-up {top:-5px; right:-65px;}
+#content div.banner_container div.roulette-width .ui-spinner-button.ui-spinner-down {top:9px; right:-65px;}
+#content div.banner_container div.roulette-height .ui-spinner-button.ui-spinner-up {top:-39px; left:36px;}
+#content div.banner_container div.roulette-height .ui-spinner-button.ui-spinner-down {top:-25px; left:36px;}

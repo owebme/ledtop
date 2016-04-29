@@ -1,0 +1,25 @@
+.header-top .basket {    
+    position:relative;
+    z-index:2;
+}
+.submenu .catalog-list a {
+    filter:none !important;     
+}
+.submenu .column a.parent {
+    display:block;
+    border:none;
+    text-decoration:underline !important;
+}
+.banner ul a {
+    position:relative;
+    z-index:1;
+}
+.banner ul i {
+    margin-left:51px;
+}
+.products-list label {
+    background:#777;    
+}
+#basketPanel {
+    background-color:#5d5d5d;   
+}

@@ -1,0 +1,18 @@
+﻿.autocomplete-suggestions { padding: 8px 0;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+          box-shadow: 0 5px 10px rgba(0,0,0,.2); background: #FFF; background: -webkit-gradient(linear, left top, left 20, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF)); background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 20px); cursor: default; overflow: auto; }
+.autocomplete-suggestion { position:relative; font:14px/20px 'SegoeUI',Trebuchet MS,Times,serif; color:#4d4d4d; padding: 3px 20px; white-space: nowrap; overflow: hidden; cursor:pointer;}
+.autocomplete-suggestion em { display:block; position:absolute; top:0px; right:0px; font:bold 12px/17px "Tahoma",Trebuchet MS,Times,serif; color:#666666; padding:3px 10px 3px 30px; white-space: nowrap;}
+.autocomplete-selected { background: #ffeba0; }
+.autocomplete-suggestions strong { color:#bb418c; font-weight: bold; }
+div.autocomplete-img {display:none; position:absolute; width:110px; height:124px; border:1px solid #DDDDDD; text-align:center; padding:10px; background:#ffffff; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; -webkit-box-shadow: 0px 3px 12px rgba(0,0,0,.1); -moz-box-shadow: 0px 3px 12px rgba(0,0,0,.1); box-shadow: 0px 3px 12px rgba(0,0,0,.1); background: -webkit-gradient(linear, left bottom, left 10, from(#FFFFFF), color-stop(4%, #f2f2f2), to(#FFFFFF)); background: -moz-linear-gradient(bottom, #FFFFFF, #f2f2f2 1px, #FFFFFF 10px);}
+div.autocomplete-img span {display:block; position:absolute; top:50%; left:50%; margin:-16px 0px 0px -16px; width:31px; height:31px; background:url(/js/autocomplete/ajax_loader.gif) no-repeat; opacity:0.5;} 
+div.autocomplete-img div {display:table-cell; width:110px; height:124px; text-align:center; vertical-align:middle;}
+div.autocomplete-img img {display:none; max-width:110px; max-height:124px; margin:0 auto;}
+div.autocomplete-img div {*display:block;}
+div.autocomplete-img div img {margin-top: expression((parentNode.offsetHeight - this.offsetHeight)<0 ? "0" : (parentNode.offsetHeight - this.offsetHeight)/2 + "px"); *width:110px;}

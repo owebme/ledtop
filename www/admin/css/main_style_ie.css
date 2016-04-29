@@ -1,0 +1,8 @@
+* html body{behavior:url("js/csshover.htc");}
+* html #menu2{position:absolute; margin:85px 0 0 535px; float:none;}
+*+html #header{min-width:961px;}
+
+* html .ml1{margin:0 7px;}
+* html .ml2{margin-right:20px;}
+* html .ml3{margin-right:20px;}
+* html .ml4{margin-right:20px;}

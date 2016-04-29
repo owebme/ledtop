@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-02-12 16:26">
+<shop>
+<name>Инносвет</name>
+<company>Инносвет</company>
+<url>http://geniled.ru</url>
+<platform>1C-Bitrix</platform>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="1638">Бытовые лампы</category>
+<category id="1639" parentId="1638">Груша А60</category>
+<category id="1640" parentId="1638">Свеча С37</category>
+<category id="1641" parentId="1638">Шарик G45</category>
+<category id="1642" parentId="1638">Софит MR16</category>
+<category id="1643" parentId="1638">Капсула JC</category>
+<category id="1644" parentId="1643">Капсула JC</category>
+<category id="1645" parentId="1643">Капсула JC 12V</category>
+<category id="1646" parentId="1638">Таблетка GX</category>
+<category id="1647">Коммерческие лампы</category>
+<category id="1648" parentId="1647">Софит AR111</category>
+<category id="1649" parentId="1647">Трубка Т8</category>
+<category id="1650" parentId="1647">СДЛ-КС Т</category>
+<category id="1651" parentId="1647">Груша 36V А60</category>
+</categories>
+<offers>
+<offer id="17920" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_10w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>336</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/ab6/ab61778499a5b0c25b9b4f34b5642bc6.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 10W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E27 А60 10W 2700К матовая</description>
+<param name="Артикул">01212</param>
+<param name="Размер">60?110</param>
+<param name="Световой поток">950 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">1138</param>
+</offer>
+<offer id="17921" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_10w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>336</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/539/539fa6d530498fe9b3c522207ce331e2.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 10W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E27 А60 10W 4200К матовая</description>
+<param name="Артикул">01211</param>
+<param name="Размер">60?110</param>
+<param name="Световой поток">1000 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">733</param>
+</offer>
+<offer id="17922" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_12w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>394</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/ed7/ed7fb13c759a2ac28d36e30ca1ad82c9.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 12W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E27 А60 12W 2700К матовая</description>
+<param name="Артикул">01214</param>
+<param name="Размер">60?117</param>
+<param name="Световой поток">1320 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">2303</param>
+</offer>
+<offer id="17923" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_12w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>394</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/125/1255205c67659c9eab35cfbbca19662b.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 12W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E27 А60 12W 4200К матовая</description>
+<param name="Артикул">01213</param>
+<param name="Размер">60?117</param>
+<param name="Световой поток">1430 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">2543</param>
+</offer>
+<offer id="17924" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_16w_2700k_matovaya_/?r1=yandext&amp;r2=</url>
+<price>726</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/908/908a695288742921d7d8fcb89f5e6d34.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 16W 2700К матовая </name>
+<description>Светодиодная лампа Geniled E27 А60 16W 2700К матовая </description>
+<param name="Артикул">01216</param>
+<param name="Размер">60?117</param>
+<param name="Световой поток">1650 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">1200</param>
+</offer>
+<offer id="17925" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_16w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>726</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/caa/caac2ea7c72ee5a3b5e5cf652d2f1c60.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 16W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E27 А60 16W 4200К матовая</description>
+<param name="Артикул">01215</param>
+<param name="Размер">60?117</param>
+<param name="Световой поток">1750 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">939</param>
+</offer>
+<offer id="17926" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_7w_2700k_matovaya_/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/634/634e268a38ed8112fd4e2ce60e4dcef5.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 7W 2700К матовая </name>
+<description>Светодиодная лампа Geniled E27 А60 7W 2700К матовая </description>
+<param name="Артикул">01210</param>
+<param name="Размер">60?110</param>
+<param name="Световой поток">660 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">82</param>
+</offer>
+<offer id="17927" available="true">
+<url>http://geniled.ru/bulbs/grusha_a60/svetodiodnaya_lampa_geniled_e27_a60_7w_4200k_matovaya_/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1639</categoryId>
+<picture>http://geniled.ru/upload/iblock/e6d/e6d4321f1ea22196278eecd023e0cf0a.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 А60 7W 4200К матовая </name>
+<description>Светодиодная лампа Geniled E27 А60 7W 4200К матовая </description>
+<param name="Артикул">01209</param>
+<param name="Размер">60?110</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">2</param>
+</offer>
+<offer id="17912" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e27_c37_8w_2700k_linza_/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/967/9675b737fab7f79fd0359eb23bcd35b3.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 C37 8W 2700К линза </name>
+<description>Светодиодная лампа Geniled E27 C37 8W 2700К линза </description>
+<param name="Артикул">01206</param>
+<param name="Размер">38?110</param>
+<param name="Световой поток">750 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">-10</param>
+</offer>
+<offer id="17913" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e27_c37_8w_4200k_linza_/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/a7d/a7da7893959e18a33a6cf2f70f27a8e4.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 C37 8W 4200К линза </name>
+<description>Светодиодная лампа Geniled E27 C37 8W 4200К линза </description>
+<param name="Артикул">01205</param>
+<param name="Размер">38?110</param>
+<param name="Световой поток">800 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">4</param>
+</offer>
+<offer id="17904" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_8w_4200k_dimmiruemaya/?r1=yandext&amp;r2=</url>
+<price>733</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/43d/43dd7b07e3613cbfb688ed115abb8b82.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 8W 4200К диммируемая</name>
+<description>Светодиодная лампа Geniled E14 C37 8W 4200К диммируемая</description>
+<param name="Артикул">01207</param>
+<param name="Размер">38?112</param>
+<param name="Световой поток">800 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">2593</param>
+</offer>
+<offer id="17905" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_8w_4200k_linza/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/b27/b27cdd7f247f646ed2f0a263fbb8f1d4.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 8W 4200К линза</name>
+<description>Светодиодная лампа Geniled E14 C37 8W 4200К линза</description>
+<param name="Артикул">01203</param>
+<param name="Размер">38?112</param>
+<param name="Световой поток">800 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">907</param>
+</offer>
+<offer id="17898" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_5w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/e0e/e0e056107db238df58879130f8ecc512.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 5W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E14 C37 5W 2700К матовая</description>
+<param name="Артикул">01200</param>
+<param name="Размер">38?110</param>
+<param name="Световой поток">500 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">20</param>
+</offer>
+<offer id="17899" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_5w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/2f5/2f52df0f3ef9d2f264fb50c96e8f3bf1.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 5W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E14 C37 5W 4200К матовая</description>
+<param name="Артикул">01199</param>
+<param name="Размер">38?110</param>
+<param name="Световой поток">530 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17900" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_7w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>315</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/bed/bedaa3cadc9e771d190910e5056807fc.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 7W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E14 C37 7W 2700К матовая</description>
+<param name="Артикул">01202</param>
+<param name="Размер">38?112</param>
+<param name="Световой поток">660 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">982</param>
+</offer>
+<offer id="17901" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_7w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>315</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/f83/f836976bc32211b7682e4a565586aa7e.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 7W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E14 C37 7W 4200К матовая</description>
+<param name="Артикул">01201</param>
+<param name="Размер">38?112</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">1926</param>
+</offer>
+<offer id="17902" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_8w_2700k_dimmiruemaya/?r1=yandext&amp;r2=</url>
+<price>733</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/367/367371215bb3a7289ba7b2889a5ddc5b.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 8W 2700К диммируемая</name>
+<description>Светодиодная лампа Geniled E14 C37 8W 2700К диммируемая</description>
+<param name="Артикул">01208</param>
+<param name="Размер">38?112</param>
+<param name="Световой поток">750 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">2306</param>
+</offer>
+<offer id="17903" available="true">
+<url>http://geniled.ru/bulbs/svecha_s37/svetodiodnaya_lampa_geniled_e14_c37_8w_2700k_linza/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1640</categoryId>
+<picture>http://geniled.ru/upload/iblock/2e5/2e52462712451a909147bdb16c4d7a93.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 C37 8W 2700К линза</name>
+<description>Светодиодная лампа Geniled E14 C37 8W 2700К линза</description>
+<param name="Артикул">01204</param>
+<param name="Размер">38?112</param>
+<param name="Световой поток">800 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">1133</param>
+</offer>
+<offer id="17917" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e27_g45_7w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>315</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/1e2/1e29fc8903a7365bbb73f9089379e04e.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 G45 7W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E27 G45 7W 4200К матовая</description>
+<param name="Артикул">01223</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">1685</param>
+</offer>
+<offer id="17914" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e27_g45_5w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/5d8/5d8ef50ded9c278cda3e82e706f5b8d8.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 G45 5W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E27 G45 5W 2700К матовая</description>
+<param name="Артикул">01220</param>
+<param name="Размер">45?78</param>
+<param name="Световой поток">500 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17906" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e14_g45_5w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/ed6/ed69b73e01be9713a4c9b96fc493568c.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 G45 5W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E14 G45 5W 2700К матовая</description>
+<param name="Артикул">01218</param>
+<param name="Размер">45?80</param>
+<param name="Световой поток">500 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">695</param>
+</offer>
+<offer id="17907" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e14_g45_5w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/e44/e446881fff2de9687e6294fc758ec495.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 G45 5W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E14 G45 5W 4200К матовая</description>
+<param name="Артикул">01217</param>
+<param name="Размер">45?80</param>
+<param name="Световой поток">530 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">851</param>
+</offer>
+<offer id="17908" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e14_g45_7w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>315</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/8e1/8e18fa84f384ba8a703d181d103d8d52.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 G45 7W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E14 G45 7W 2700К матовая</description>
+<param name="Артикул">01222</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">660 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">1425</param>
+</offer>
+<offer id="17909" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e14_g45_7w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>315</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/78a/78a5dd2eb9f7e1ff0a7a4247567867be.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 G45 7W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E14 G45 7W 4200К матовая</description>
+<param name="Артикул">01221</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">1610</param>
+</offer>
+<offer id="17910" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e14_g45_8w_2700k_linza/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/240/240ec9b89122ba09dc5ef0329fb16ec1.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 G45 8W 2700К линза</name>
+<description>Светодиодная лампа Geniled E14 G45 8W 2700К линза</description>
+<param name="Артикул">01226</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">750 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">2687</param>
+</offer>
+<offer id="17911" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e14_g45_8w_4200k_linza/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/6f5/6f5985fe503bf812c5167734cf5de423.jpeg</picture>
+<name>Светодиодная лампа Geniled E14 G45 8W 4200К линза</name>
+<description>Светодиодная лампа Geniled E14 G45 8W 4200К линза</description>
+<param name="Артикул">01225</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">800 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E14</param>
+<param name="Остаток на складе">2802</param>
+</offer>
+<offer id="17915" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e27_g45_5w_4200k_matovaya/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/791/791c1def8a563188a2716dd7752d4300.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 G45 5W 4200К матовая</name>
+<description>Светодиодная лампа Geniled E27 G45 5W 4200К матовая</description>
+<param name="Артикул">01219</param>
+<param name="Размер">45?78</param>
+<param name="Световой поток">530 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">11</param>
+</offer>
+<offer id="17916" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e27_g45_7w_2700k_matovaya/?r1=yandext&amp;r2=</url>
+<price>315</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/69d/69de31a508c73e1cd32b10796d3321c2.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 G45 7W 2700К матовая</name>
+<description>Светодиодная лампа Geniled E27 G45 7W 2700К матовая</description>
+<param name="Артикул">01224</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">660 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">1307</param>
+</offer>
+<offer id="17918" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e27_g45_8w_2700k_linza/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/11a/11a03bd46db5a57539c6ff42d3a86d4e.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 G45 8W 2700К линза</name>
+<description>Светодиодная лампа Geniled E27 G45 8W 2700К линза</description>
+<param name="Артикул">01228</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">750 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">2602</param>
+</offer>
+<offer id="17919" available="true">
+<url>http://geniled.ru/bulbs/sharik_g45/svetodiodnaya_lampa_geniled_e27_g45_8w_4200k_linza/?r1=yandext&amp;r2=</url>
+<price>385</price>
+<currencyId>RUB</currencyId>
+<categoryId>1641</categoryId>
+<picture>http://geniled.ru/upload/iblock/142/1420c907a498ad1cfdd4b6bc073a4a53.jpeg</picture>
+<name>Светодиодная лампа Geniled E27 G45 8W 4200К линза</name>
+<description>Светодиодная лампа Geniled E27 G45 8W 4200К линза</description>
+<param name="Артикул">01227</param>
+<param name="Размер">45?87</param>
+<param name="Световой поток">800 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">2664</param>
+</offer>
+<offer id="17943" available="true">
+<url>http://geniled.ru/bulbs/sofit_mr16/svetodiodnaya_lampa_geniled_gu10_mr16_8w_4200k/?r1=yandext&amp;r2=</url>
+<price>360</price>
+<currencyId>RUB</currencyId>
+<categoryId>1642</categoryId>
+<picture>http://geniled.ru/upload/iblock/f4b/f4b5afb52658bb3485fc604bc5152ca1.jpeg</picture>
+<name>Светодиодная лампа Geniled GU10 MR16 8W 4200К</name>
+<description>Светодиодная лампа Geniled GU10 MR16 8W 4200К</description>
+<param name="Артикул">01233</param>
+<param name="Размер">50?57</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">GU10</param>
+<param name="Остаток на складе">1468</param>
+</offer>
+<offer id="17942" available="true">
+<url>http://geniled.ru/bulbs/sofit_mr16/svetodiodnaya_lampa_geniled_gu10_mr16_8w_2700k/?r1=yandext&amp;r2=</url>
+<price>360</price>
+<currencyId>RUB</currencyId>
+<categoryId>1642</categoryId>
+<picture>http://geniled.ru/upload/iblock/a18/a18d63b508d4708a27789acceb394ef3.jpeg</picture>
+<name>Светодиодная лампа Geniled GU10 MR16 8W 2700К</name>
+<description>Светодиодная лампа Geniled GU10 MR16 8W 2700К</description>
+<param name="Артикул">01240</param>
+<param name="Размер">50?57</param>
+<param name="Световой поток">670 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">GU10</param>
+<param name="Остаток на складе">724</param>
+</offer>
+<offer id="17944" available="true">
+<url>http://geniled.ru/bulbs/sofit_mr16/svetodiodnaya_lampa_geniled_gu5_3_mr16_5w_2700k/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1642</categoryId>
+<picture>http://geniled.ru/upload/iblock/7d9/7d9cc555355b8671528b66672a21526e.jpeg</picture>
+<name>Светодиодная лампа Geniled GU5.3 MR16 5W 2700К</name>
+<description>Светодиодная лампа Geniled GU5.3 MR16 5W 2700К</description>
+<param name="Артикул">01230</param>
+<param name="Размер">50?45</param>
+<param name="Световой поток">420 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">GU5.3</param>
+<param name="Остаток на складе">429</param>
+</offer>
+<offer id="17945" available="true">
+<url>http://geniled.ru/bulbs/sofit_mr16/svetodiodnaya_lampa_geniled_gu5_3_mr16_5w_4200k/?r1=yandext&amp;r2=</url>
+<price>265</price>
+<currencyId>RUB</currencyId>
+<categoryId>1642</categoryId>
+<picture>http://geniled.ru/upload/iblock/e01/e013fb8e8c633e8987bd8b07a9e137d5.jpeg</picture>
+<name>Светодиодная лампа Geniled GU5.3 MR16 5W 4200К</name>
+<description>Светодиодная лампа Geniled GU5.3 MR16 5W 4200К</description>
+<param name="Артикул">01229</param>
+<param name="Размер">50?45</param>
+<param name="Световой поток">450 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">GU5.3</param>
+<param name="Остаток на складе">3098</param>
+</offer>
+<offer id="17946" available="true">
+<url>http://geniled.ru/bulbs/sofit_mr16/svetodiodnaya_lampa_geniled_gu5_3_mr16_8w_2700k/?r1=yandext&amp;r2=</url>
+<price>360</price>
+<currencyId>RUB</currencyId>
+<categoryId>1642</categoryId>
+<picture>http://geniled.ru/upload/iblock/f4a/f4a5da214c8997f1dbe074d030421156.jpeg</picture>
+<name>Светодиодная лампа Geniled GU5.3 MR16 8W 2700К</name>
+<description>Светодиодная лампа Geniled GU5.3 MR16 8W 2700К</description>
+<param name="Артикул">01232</param>
+<param name="Размер">50?48</param>
+<param name="Световой поток">670 lm</param>
+<param name="Цвет свечения"></param>
+<param name="Цоколь">GU5.3</param>
+<param name="Остаток на складе">2958</param>
+</offer>
+<offer id="17947" available="true">
+<url>http://geniled.ru/bulbs/sofit_mr16/svetodiodnaya_lampa_geniled_gu5_3_mr16_8w_4200k/?r1=yandext&amp;r2=</url>
+<price>360</price>
+<currencyId>RUB</currencyId>
+<categoryId>1642</categoryId>
+<picture>http://geniled.ru/upload/iblock/78d/78dcb6fe1a34c4b2763f867981b5ec0e.jpeg</picture>
+<name>Светодиодная лампа Geniled GU5.3 MR16 8W 4200К</name>
+<description>Светодиодная лампа Geniled GU5.3 MR16 8W 4200К</description>
+<param name="Артикул">01231</param>
+<param name="Размер">50?48</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения"></param>
+<param name="Цоколь">GU5.3</param>
+<param name="Остаток на складе">5696</param>
+</offer>
+<offer id="17938" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g9_3w_2700k_/?r1=yandext&amp;r2=</url>
+<price>320</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/209/209f8e09dec7ed395204d1fe91de7f42.jpeg</picture>
+<name>Светодиодная лампа Geniled G9 3W 2700K </name>
+<description>Светодиодная лампа Geniled G9 3W 2700K </description>
+<param name="Артикул">01180</param>
+<param name="Размер">16?52</param>
+<param name="Световой поток">240 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G9</param>
+<param name="Остаток на складе">1379</param>
+</offer>
+<offer id="17940" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g9_5w_2700k_/?r1=yandext&amp;r2=</url>
+<price>437</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/795/795e27e7394c5a26a4037433955f597b.jpeg</picture>
+<name>Светодиодная лампа Geniled G9 5W 2700K </name>
+<description>Светодиодная лампа Geniled G9 5W 2700K </description>
+<param name="Артикул">01182</param>
+<param name="Размер">17?62</param>
+<param name="Световой поток">360 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G9</param>
+<param name="Остаток на складе">475</param>
+</offer>
+<offer id="17939" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g9_3w_4200k_/?r1=yandext&amp;r2=</url>
+<price>320</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/2de/2de7c302c9e34a40b5a5b391a418f14c.jpeg</picture>
+<name>Светодиодная лампа Geniled G9 3W 4200K </name>
+<description>Светодиодная лампа Geniled G9 3W 4200K </description>
+<param name="Артикул">01181</param>
+<param name="Размер">16?52</param>
+<param name="Световой поток">240 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G9</param>
+<param name="Остаток на складе">330</param>
+</offer>
+<offer id="17934" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g4_3w_4200k_/?r1=yandext&amp;r2=</url>
+<price>220</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/75b/75b4012905c0efcd367e8f5bba85ba07.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 3W 4200K </name>
+<description>Светодиодная лампа Geniled G4 3W 4200K </description>
+<param name="Артикул">01179</param>
+<param name="Размер">13?37</param>
+<param name="Световой поток">220 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17941" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g9_5w_4200k_/?r1=yandext&amp;r2=</url>
+<price>437</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/227/227f4f17789786fbd41281c09d68fe9c.jpeg</picture>
+<name>Светодиодная лампа Geniled G9 5W 4200K </name>
+<description>Светодиодная лампа Geniled G9 5W 4200K </description>
+<param name="Артикул">01183</param>
+<param name="Размер">17?62</param>
+<param name="Световой поток">360 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G9</param>
+<param name="Остаток на складе">367</param>
+</offer>
+<offer id="17928" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g4_2w_2700k_/?r1=yandext&amp;r2=</url>
+<price>180</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/9fa/9fa7c21fe29a087d341255397517f8ac.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 2W 2700K </name>
+<description>Светодиодная лампа Geniled G4 2W 2700K </description>
+<param name="Артикул">01174</param>
+<param name="Размер">10?37</param>
+<param name="Световой поток">150 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе">3725</param>
+</offer>
+<offer id="17932" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g4_3w_2700k_/?r1=yandext&amp;r2=</url>
+<price>220</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/41e/41e30e0c52ce8124978b0f1d9df9f5d1.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 3W 2700K </name>
+<description>Светодиодная лампа Geniled G4 3W 2700K </description>
+<param name="Артикул">01178</param>
+<param name="Размер">13?37</param>
+<param name="Световой поток">220 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе">141</param>
+</offer>
+<offer id="17930" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_1/svetodiodnaya_lampa_geniled_g4_2w_4200k_/?r1=yandext&amp;r2=</url>
+<price>180</price>
+<currencyId>RUB</currencyId>
+<categoryId>1644</categoryId>
+<picture>http://geniled.ru/upload/iblock/a3f/a3f4b19c25bece395c6c3ca89c99fcf9.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 2W 4200K </name>
+<description>Светодиодная лампа Geniled G4 2W 4200K </description>
+<param name="Артикул">01175</param>
+<param name="Размер">10?37</param>
+<param name="Световой поток">150 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе">2139</param>
+</offer>
+<offer id="17933" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_12v/svetodiodnaya_lampa_geniled_g4_3w_2700k_12v/?r1=yandext&amp;r2=</url>
+<price>240</price>
+<currencyId>RUB</currencyId>
+<categoryId>1645</categoryId>
+<picture>http://geniled.ru/upload/iblock/81a/81ab9c0f1649a0b801df8689e16ec735.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 3W 2700K 12V</name>
+<description>Светодиодная лампа Geniled G4 3W 2700K 12V</description>
+<param name="Артикул">01176</param>
+<param name="Размер">13?37</param>
+<param name="Световой поток">220 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе">559</param>
+</offer>
+<offer id="17935" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_12v/svetodiodnaya_lampa_geniled_g4_3w_4200k_12v/?r1=yandext&amp;r2=</url>
+<price>240</price>
+<currencyId>RUB</currencyId>
+<categoryId>1645</categoryId>
+<picture>http://geniled.ru/upload/iblock/709/7095d4f6de7fc7de7f1757894d32c7ba.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 3W 4200K 12V</name>
+<description>Светодиодная лампа Geniled G4 3W 4200K 12V</description>
+<param name="Артикул">01177</param>
+<param name="Размер">13?37</param>
+<param name="Световой поток">220 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе">1</param>
+</offer>
+<offer id="17929" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_12v/svetodiodnaya_lampa_geniled_g4_2w_2700k_12v/?r1=yandext&amp;r2=</url>
+<price>190</price>
+<currencyId>RUB</currencyId>
+<categoryId>1645</categoryId>
+<picture>http://geniled.ru/upload/iblock/123/123094913b4d9514eb776cd81b49a190.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 2W 2700K 12V</name>
+<description>Светодиодная лампа Geniled G4 2W 2700K 12V</description>
+<param name="Артикул">01172</param>
+<param name="Размер">10?37</param>
+<param name="Световой поток">150 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе">246</param>
+</offer>
+<offer id="17931" available="true">
+<url>http://geniled.ru/bulbs/kapsula_jc_12v/svetodiodnaya_lampa_geniled_g4_2w_4200k_12v/?r1=yandext&amp;r2=</url>
+<price>190</price>
+<currencyId>RUB</currencyId>
+<categoryId>1645</categoryId>
+<picture>http://geniled.ru/upload/iblock/3de/3de0e6e56fb01af37dcb2f664cd1bc9a.jpeg</picture>
+<name>Светодиодная лампа Geniled G4 2W 4200K 12V</name>
+<description>Светодиодная лампа Geniled G4 2W 4200K 12V</description>
+<param name="Артикул">01173</param>
+<param name="Размер">10?37</param>
+<param name="Световой поток">150 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G4</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17951" available="true">
+<url>http://geniled.ru/bulbs/tabletka_gx/svetodiodnaya_lampa_geniled_gx53_8w_4200k/?r1=yandext&amp;r2=</url>
+<price>416</price>
+<currencyId>RUB</currencyId>
+<categoryId>1646</categoryId>
+<picture>http://geniled.ru/upload/iblock/5e6/5e623a2b922c82e20468b30158043d92.jpeg</picture>
+<name>Светодиодная лампа Geniled GX53 8W 4200К</name>
+<description>Светодиодная лампа Geniled GX53 8W 4200К</description>
+<param name="Артикул">01236</param>
+<param name="Размер">75?26</param>
+<param name="Световой поток">750 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">GX53</param>
+<param name="Остаток на складе">1085</param>
+</offer>
+<offer id="17952" available="true">
+<url>http://geniled.ru/bulbs/tabletka_gx/svetodiodnaya_lampa_geniled_gx70_12w_2700k/?r1=yandext&amp;r2=</url>
+<price>896</price>
+<currencyId>RUB</currencyId>
+<categoryId>1646</categoryId>
+<picture>http://geniled.ru/upload/iblock/57e/57ecc0472c10145c441271dd8e0dc598.jpeg</picture>
+<name>Светодиодная лампа Geniled GX70 12W 2700К</name>
+<description>Светодиодная лампа Geniled GX70 12W 2700К</description>
+<param name="Артикул">01239</param>
+<param name="Размер">110?37</param>
+<param name="Световой поток">1200 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">GX70</param>
+<param name="Остаток на складе">702</param>
+</offer>
+<offer id="17950" available="true">
+<url>http://geniled.ru/bulbs/tabletka_gx/svetodiodnaya_lampa_geniled_gx53_8w_2700k/?r1=yandext&amp;r2=</url>
+<price>416</price>
+<currencyId>RUB</currencyId>
+<categoryId>1646</categoryId>
+<picture>http://geniled.ru/upload/iblock/539/539c8616a24ea43b141ec94356626a9f.jpeg</picture>
+<name>Светодиодная лампа Geniled GX53 8W 2700К</name>
+<description>Светодиодная лампа Geniled GX53 8W 2700К</description>
+<param name="Артикул">01237</param>
+<param name="Размер">75?26</param>
+<param name="Световой поток">700 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">GX53</param>
+<param name="Остаток на складе">351</param>
+</offer>
+<offer id="17948" available="true">
+<url>http://geniled.ru/bulbs/tabletka_gx/svetodiodnaya_lampa_geniled_gx53_6w_2700k/?r1=yandext&amp;r2=</url>
+<price>337</price>
+<currencyId>RUB</currencyId>
+<categoryId>1646</categoryId>
+<picture>http://geniled.ru/upload/iblock/754/75428968b598849e194fd0e4d03ff117.jpeg</picture>
+<name>Светодиодная лампа Geniled GX53 6W 2700К</name>
+<description>Светодиодная лампа Geniled GX53 6W 2700К</description>
+<param name="Артикул">01235</param>
+<param name="Размер">75?26</param>
+<param name="Световой поток">530 lm</param>
+<param name="Цвет свечения">2700 K</param>
+<param name="Цоколь">GX53</param>
+<param name="Остаток на складе">421</param>
+</offer>
+<offer id="17949" available="true">
+<url>http://geniled.ru/bulbs/tabletka_gx/svetodiodnaya_lampa_geniled_gx53_6w_4200k/?r1=yandext&amp;r2=</url>
+<price>337</price>
+<currencyId>RUB</currencyId>
+<categoryId>1646</categoryId>
+<picture>http://geniled.ru/upload/iblock/962/962d852470ab61d7f2a6733d1e5ecb96.jpeg</picture>
+<name>Светодиодная лампа Geniled GX53 6W 4200К</name>
+<description>Светодиодная лампа Geniled GX53 6W 4200К</description>
+<param name="Артикул">01234</param>
+<param name="Размер">75?26</param>
+<param name="Световой поток">560 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">GX53</param>
+<param name="Остаток на складе">400</param>
+</offer>
+<offer id="17953" available="true">
+<url>http://geniled.ru/bulbs/tabletka_gx/svetodiodnaya_lampa_geniled_gx70_12w_4200k/?r1=yandext&amp;r2=</url>
+<price>896</price>
+<currencyId>RUB</currencyId>
+<categoryId>1646</categoryId>
+<picture>http://geniled.ru/upload/iblock/5cb/5cbba9919105caa509f28dcd26bc542d.jpeg</picture>
+<name>Светодиодная лампа Geniled GX70 12W 4200К</name>
+<description>Светодиодная лампа Geniled GX70 12W 4200К</description>
+<param name="Артикул">01238</param>
+<param name="Размер">110?37</param>
+<param name="Световой поток">1290 lm</param>
+<param name="Цвет свечения">4200 K</param>
+<param name="Цоколь">GX70</param>
+<param name="Остаток на складе">593</param>
+</offer>
+<offer id="17937" available="true">
+<url>http://geniled.ru/bulbs/sofit_ar111/svetodiodnaya_lampa_geniled_g53_ar111_10w_4200k/?r1=yandext&amp;r2=</url>
+<price>1530</price>
+<currencyId>RUB</currencyId>
+<categoryId>1648</categoryId>
+<picture>http://geniled.ru/upload/iblock/937/93787566be7c94c1ad055682ed42a76b.jpeg</picture>
+<name>Светодиодная лампа Geniled G53 AR111 10W 4200K</name>
+<description>Светодиодная лампа Geniled G53 AR111 10W 4200K</description>
+<param name="Артикул">01096</param>
+<param name="Размер">111?59</param>
+<param name="Световой поток">1050 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">G53</param>
+<param name="Остаток на складе">468</param>
+</offer>
+<offer id="17936" available="true">
+<url>http://geniled.ru/bulbs/sofit_ar111/svetodiodnaya_lampa_geniled_g53_ar111_10w_2700k/?r1=yandext&amp;r2=</url>
+<price>1530</price>
+<currencyId>RUB</currencyId>
+<categoryId>1648</categoryId>
+<picture>http://geniled.ru/upload/iblock/c3b/c3b6861aa927d58d60dbca1734a50851.jpeg</picture>
+<name>Светодиодная лампа Geniled G53 AR111 10W 2700K</name>
+<description>Светодиодная лампа Geniled G53 AR111 10W 2700K</description>
+<param name="Артикул">01095</param>
+<param name="Размер">111?59</param>
+<param name="Световой поток">950 lm</param>
+<param name="Цвет свечения">Теплый</param>
+<param name="Цоколь">G53</param>
+<param name="Остаток на складе">534</param>
+</offer>
+<offer id="17962" available="true">
+<url>http://geniled.ru/bulbs/trubka_t8/svetodiodnaya_lampa_trubka_geniled_g13_t8_1500mm_26w_4000k_steklo_mat/?r1=yandext&amp;r2=</url>
+<price>799</price>
+<currencyId>RUB</currencyId>
+<categoryId>1649</categoryId>
+<picture>http://geniled.ru/upload/iblock/bc8/bc834d182d54c3bb546acfccb0e35b0b.jpeg</picture>
+<name>Светодиодная лампа трубка Geniled G13 Т8 1500мм 26W 4000К стекло мат.</name>
+<description>Светодиодная лампа трубка Geniled G13 Т8 1500мм 26W 4000К стекло мат.</description>
+<param name="Артикул">01244</param>
+<param name="Размер">27?1514</param>
+<param name="Световой поток">2600 lm</param>
+<param name="Цвет свечения">4000 K</param>
+<param name="Цоколь">G13</param>
+<param name="Остаток на складе">140</param>
+</offer>
+<offer id="17965" available="true">
+<url>http://geniled.ru/bulbs/trubka_t8/svetodiodnaya_lampa_trubka_geniled_g13_t8_600mm_10w_6500k_steklo_mat/?r1=yandext&amp;r2=</url>
+<price>399</price>
+<currencyId>RUB</currencyId>
+<categoryId>1649</categoryId>
+<picture>http://geniled.ru/upload/iblock/d41/d410330ba16d09b95d453408ba6f7975.jpeg</picture>
+<name>Светодиодная лампа трубка Geniled G13 Т8 600мм 10W 6500K стекло мат.</name>
+<description>Светодиодная лампа трубка Geniled G13 Т8 600мм 10W 6500K стекло мат.</description>
+<param name="Артикул">01241</param>
+<param name="Размер">27?604</param>
+<param name="Световой поток">1000 lm</param>
+<param name="Цвет свечения">6500 K</param>
+<param name="Цоколь">G13</param>
+<param name="Остаток на складе">6878</param>
+</offer>
+<offer id="17961" available="true">
+<url>http://geniled.ru/bulbs/trubka_t8/svetodiodnaya_lampa_trubka_geniled_g13_t8_1200mm_20w_6500k_steklo_mat/?r1=yandext&amp;r2=</url>
+<price>599</price>
+<currencyId>RUB</currencyId>
+<categoryId>1649</categoryId>
+<picture>http://geniled.ru/upload/iblock/1db/1db3e983cba46dbcea9d7af65d75b461.jpeg</picture>
+<name>Светодиодная лампа трубка Geniled G13 Т8 1200мм 20W 6500К стекло мат.</name>
+<description>Светодиодная лампа трубка Geniled G13 Т8 1200мм 20W 6500К стекло мат.</description>
+<param name="Артикул">01243</param>
+<param name="Размер">27?1213.5</param>
+<param name="Световой поток">2000 lm</param>
+<param name="Цвет свечения">6500 K</param>
+<param name="Цоколь">G13</param>
+<param name="Остаток на складе">7483</param>
+</offer>
+<offer id="17963" available="true">
+<url>http://geniled.ru/bulbs/trubka_t8/svetodiodnaya_lampa_trubka_geniled_g13_t8_1500mm_26w_6500k_steklo_mat/?r1=yandext&amp;r2=</url>
+<price>799</price>
+<currencyId>RUB</currencyId>
+<categoryId>1649</categoryId>
+<picture>http://geniled.ru/upload/iblock/bc3/bc37991c5fbc22d823ff3684eba8f298.jpeg</picture>
+<name>Светодиодная лампа трубка Geniled G13 Т8 1500мм 26W 6500K стекло мат.</name>
+<description>Светодиодная лампа трубка Geniled G13 Т8 1500мм 26W 6500K стекло мат.</description>
+<param name="Артикул">01245</param>
+<param name="Размер">27?1514</param>
+<param name="Световой поток">2600 lm</param>
+<param name="Цвет свечения">6500 K</param>
+<param name="Цоколь">G13</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17964" available="true">
+<url>http://geniled.ru/bulbs/trubka_t8/svetodiodnaya_lampa_trubka_geniled_g13_t8_600mm_10w_4000k_steklo_mat/?r1=yandext&amp;r2=</url>
+<price>399</price>
+<currencyId>RUB</currencyId>
+<categoryId>1649</categoryId>
+<picture>http://geniled.ru/upload/iblock/9b4/9b40dd7d38a4805a2fe3b2b3f8a0c5a9.jpeg</picture>
+<name>Светодиодная лампа трубка Geniled G13 Т8 600мм 10W 4000К стекло мат.</name>
+<description>Светодиодная лампа трубка Geniled G13 Т8 600мм 10W 4000К стекло мат.</description>
+<param name="Артикул">01247</param>
+<param name="Размер">27?604</param>
+<param name="Световой поток">1000 lm</param>
+<param name="Цвет свечения">4000 K</param>
+<param name="Цоколь">G13</param>
+<param name="Остаток на складе">6134</param>
+</offer>
+<offer id="17960" available="true">
+<url>http://geniled.ru/bulbs/trubka_t8/svetodiodnaya_lampa_trubka_geniled_g13_t8_1200mm_20w_4000k_steklo_mat/?r1=yandext&amp;r2=</url>
+<price>599</price>
+<currencyId>RUB</currencyId>
+<categoryId>1649</categoryId>
+<picture>http://geniled.ru/upload/iblock/b96/b96da4f5e4b9f5bd6d79d1740043623b.jpeg</picture>
+<name>Светодиодная лампа трубка Geniled G13 Т8 1200мм 20W 4000К стекло мат.</name>
+<description>Светодиодная лампа трубка Geniled G13 Т8 1200мм 20W 4000К стекло мат.</description>
+<param name="Артикул">01242</param>
+<param name="Размер">27?1213.5</param>
+<param name="Световой поток">2000 lm</param>
+<param name="Цвет свечения">4000 K</param>
+<param name="Цоколь">G13</param>
+<param name="Остаток на складе">6505</param>
+</offer>
+<offer id="17957" available="true">
+<url>http://geniled.ru/bulbs/sdl_ks_t/svetodiodnaya_lampa_geniled_sdl_ks_40w_e27_s_perekhodnikom_na_e40_4700k/?r1=yandext&amp;r2=</url>
+<price>5121</price>
+<currencyId>RUB</currencyId>
+<categoryId>1650</categoryId>
+<picture>http://geniled.ru/upload/iblock/b8b/b8b62cd199fd495621b4d70bea2996d2.jpeg</picture>
+<name>Светодиодная лампа Geniled СДЛ-КС 40W Е27  с переходником на Е40 4700K</name>
+<description>Светодиодная лампа Geniled СДЛ-КС 40W Е27  с переходником на Е40 4700K</description>
+<param name="Артикул">07103</param>
+<param name="Размер">90?258</param>
+<param name="Световой поток">4300 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">E27/E40</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17956" available="true">
+<url>http://geniled.ru/bulbs/sdl_ks_t/svetodiodnaya_lampa_geniled_sdl_ks_30w_e27_s_perekhodnikom_na_e40_4700k/?r1=yandext&amp;r2=</url>
+<price>4694</price>
+<currencyId>RUB</currencyId>
+<categoryId>1650</categoryId>
+<picture>http://geniled.ru/upload/iblock/23d/23d65370031346993ebfcc44fdf4cbfe.jpeg</picture>
+<name>Светодиодная лампа Geniled СДЛ-КС 30W Е27  с переходником на Е40 4700K</name>
+<description>Светодиодная лампа Geniled СДЛ-КС 30W Е27  с переходником на Е40 4700K</description>
+<param name="Артикул">07102</param>
+<param name="Размер">90?218</param>
+<param name="Световой поток">3400 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">E27/E40</param>
+<param name="Остаток на складе"></param>
+</offer>
+<offer id="17959" available="true">
+<url>http://geniled.ru/bulbs/sdl_ks_t/svetodiodnaya_lampa_geniled_sdl_ks_80w_e40_4700k/?r1=yandext&amp;r2=</url>
+<price>9322</price>
+<currencyId>RUB</currencyId>
+<categoryId>1650</categoryId>
+<picture>http://geniled.ru/upload/iblock/654/6548e11122f54de1032e13ce0c139a90.jpeg</picture>
+<name>Светодиодная лампа Geniled СДЛ-КС 80W Е40 4700K</name>
+<description>Светодиодная лампа Geniled СДЛ-КС 80W Е40 4700K</description>
+<param name="Артикул">07077</param>
+<param name="Размер">105?289</param>
+<param name="Световой поток">8800 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">E40</param>
+<param name="Остаток на складе">833</param>
+</offer>
+<offer id="17958" available="true">
+<url>http://geniled.ru/bulbs/sdl_ks_t/svetodiodnaya_lampa_geniled_sdl_ks_60w_e40_4700k/?r1=yandext&amp;r2=</url>
+<price>6244</price>
+<currencyId>RUB</currencyId>
+<categoryId>1650</categoryId>
+<picture>http://geniled.ru/upload/iblock/118/118031ff2c94e93e6cfaa04a79f672b0.jpeg</picture>
+<name>Светодиодная лампа Geniled СДЛ-КС 60W Е40 4700K</name>
+<description>Светодиодная лампа Geniled СДЛ-КС 60W Е40 4700K</description>
+<param name="Артикул">07071</param>
+<param name="Размер">90?278</param>
+<param name="Световой поток">6400 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">E40</param>
+<param name="Остаток на складе">73</param>
+</offer>
+<offer id="17955" available="true">
+<url>http://geniled.ru/bulbs/sdl_ks_t/svetodiodnaya_lampa_geniled_sdl_ks_20w_e27_s_perekhodnikom_na_e40_4700k/?r1=yandext&amp;r2=</url>
+<price>2784</price>
+<currencyId>RUB</currencyId>
+<categoryId>1650</categoryId>
+<picture>http://geniled.ru/upload/iblock/38f/38fe6b1e6aaa49ab065a5c6618d8d965.jpeg</picture>
+<name>Светодиодная лампа Geniled СДЛ-КС 20W Е27 с переходником на Е40 4700K</name>
+<description>Светодиодная лампа Geniled СДЛ-КС 20W Е27 с переходником на Е40 4700K</description>
+<param name="Артикул">07101</param>
+<param name="Размер">73?185</param>
+<param name="Световой поток">2200 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">E27/E40</param>
+<param name="Остаток на складе">2</param>
+</offer>
+<offer id="18168" available="true">
+<url>http://geniled.ru/bulbs/sdl_ks_t/svetodiodnaya_lampa_geniled_sdl_ks_100w_e40_4700k_1/?r1=yandext&amp;r2=</url>
+<price>10160</price>
+<currencyId>RUB</currencyId>
+<categoryId>1650</categoryId>
+<picture>http://geniled.ru/upload/iblock/73e/73e9cd1cb25254563685533967b303d0.jpeg</picture>
+<name>Светодиодная лампа Geniled СДЛ-КС 100W Е40 4700K</name>
+<description>Светодиодная лампа Geniled СДЛ-КС 100W Е40 4700K</description>
+<param name="Артикул">07100</param>
+<param name="Размер">105?309</param>
+<param name="Световой поток">9500 lm</param>
+<param name="Цвет свечения">Дневной</param>
+<param name="Цоколь">E40</param>
+<param name="Остаток на складе">1008</param>
+</offer>
+<offer id="17966" available="true">
+<url>http://geniled.ru/bulbs/grusha_36v_a60/svetodiodnaya_nizkovoltnaya_lampa_geniled_e27_10w_4700k_36_48v/?r1=yandext&amp;r2=</url>
+<price>850</price>
+<currencyId>RUB</currencyId>
+<categoryId>1651</categoryId>
+<picture>http://geniled.ru/upload/iblock/340/340209c0f0bca1cafb2138ab153639ce.jpeg</picture>
+<name>Светодиодная низковольтная лампа Geniled Е27 10W 4700K 36-48V</name>
+<description>Светодиодная низковольтная лампа Geniled Е27 10W 4700K 36-48V</description>
+<param name="Артикул">01246</param>
+<param name="Размер">60?121</param>
+<param name="Световой поток">950 lm</param>
+<param name="Цвет свечения">4700 K</param>
+<param name="Цоколь">E27</param>
+<param name="Остаток на складе">219</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

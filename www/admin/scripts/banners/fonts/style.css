@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Magistral';
+    src: url('/admin/scripts/banners/fonts/magistrc-webfont.eot');
+    src: url('/admin/scripts/banners/fonts/magistrc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/admin/scripts/banners/fonts/magistrc-webfont.woff') format('woff'),
+         url('/admin/scripts/banners/fonts/magistrc-webfont.ttf') format('truetype'),
+         url('/admin/scripts/banners/fonts/magistrc-webfont.svg#Magistral') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

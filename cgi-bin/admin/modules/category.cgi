@@ -113,10 +113,18 @@ $content_html=qq~$content_html<table id="sheet">
 	</tr>
 	<tr>
 		<td id="contenttd">
-		<div id="content">
+		<div id="content" style="position:relative">
 		<div id="pages">
-<script type="text/javascript" src="/admin/js/ui-jquery/jquery.ui.nestedSortable.js"></script>		
-<script type="text/javascript" src="/admin/lib/category.js"></script>~;
+			<link rel="stylesheet" type="text/css" href="/admin/css/bootstrap/bootstrap.min.css" />
+			<div class="catalog-btn-group">
+				<div class="btn-group">
+					<a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog" class="btn">Привязка</a>
+					<a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog_providers" class="btn">Поставщики</a>
+					<a href="/cgi-bin/admin/engine/index.cgi?adm_act=category" class="btn active">Категории</a>
+				</div>	
+			</div><br><br>
+			<script type="text/javascript" src="/admin/js/ui-jquery/jquery.ui.nestedSortable.js"></script>		
+			<script type="text/javascript" src="/admin/lib/category.js"></script>~;
 		
 
 	if( param('posup') ne "" ){

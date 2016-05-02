@@ -1,0 +1,4270 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<data created="Sat, 30 Apr 2016 10:58:46 GMT">
+<product>
+<article>018541</article>
+<category id="19">Светодиодный декор</category>
+<group id="510">Светодиодный декор / Гибкий неон [ARL, NEO] / NEO-FX 3528</group>
+<name prefix="">Гибкий неон NEO-FX3528-S50-240V Warm White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>50</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>788.42</price1>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related><article>018539</article>
+<article>018536</article>
+<article>018537</article>
+<article>018538</article>
+<article>018542</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">3528 (3.5x2.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">78 шт/м</value>
+</values>
+</param>
+<param order="4" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">4,8 W</value>
+</values>
+</param>
+<param order="7" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018541/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 11:27:20 GMT">http://assets.transistor.ru/pdf/Lenta/NEO-FX32528-S50-240V.pdf</pdf>
+<img id="2457D9470945684F98A2A0A6F8260D63" type="jpg" modified="Fri, 30 Jan 2015 11:25:00 GMT">http://assets.transistor.ru/img/product/userlogo/2457D9470945684F98A2A0A6F8260D63.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 3528 (78шт/м), ТЕПЛЫЙ БЕЛЫЙ, сечение 15х26 мм, резка по 1м. Мощность 4.8Вт/м, питание DC 220V. В комплекте неон - 50м, акссесуары: шнур питания 5шт, коннекторы 5шт, заглушка 5шт, клипсы 50шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018528</article>
+<category id="19">Светодиодный декор</category>
+<group id="510">Светодиодный декор / Гибкий неон [ARL, NEO] / NEO-FX 3528</group>
+<name prefix="">Гибкий неон NEO-FX3528-S50-240V Blue</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>50</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>788.42</price1>
+<color1>blue</color1>
+<color2/>
+<color3/>
+<related><article>018539</article>
+<article>018536</article>
+<article>018537</article>
+<article>018538</article>
+<article>018542</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">3535 (3.5x3.5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">78 шт/м</value>
+</values>
+</param>
+<param order="4" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">4,8 W</value>
+</values>
+</param>
+<param order="7" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018528/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 11:27:20 GMT">http://assets.transistor.ru/pdf/Lenta/NEO-FX32528-S50-240V.pdf</pdf>
+<img id="5AA7358832B40E42ABCB780D1632CDDE" type="jpg" modified="Fri, 30 Jan 2015 09:57:34 GMT">http://assets.transistor.ru/img/product/userlogo/5AA7358832B40E42ABCB780D1632CDDE.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 3528 (78шт/м), СИНИЙ, сечение 15х26 мм, резка по 1м. Мощность 4.8Вт/м, питание DC 220V. В комплекте неон - 50м, акссесуары: шнур питания 5шт, коннекторы 5шт, заглушка 5шт, клипсы 50шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018531</article>
+<category id="19">Светодиодный декор</category>
+<group id="510">Светодиодный декор / Гибкий неон [ARL, NEO] / NEO-FX 3528</group>
+<name prefix="">Гибкий неон NEO-FX3528-S50-240V Green</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>788.42</price1>
+<color1>green</color1>
+<color2/>
+<color3/>
+<related><article>018539</article>
+<article>018536</article>
+<article>018537</article>
+<article>018538</article>
+<article>018542</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="green">typ: 525 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">3528 (3.5x2.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">78 шт/м</value>
+</values>
+</param>
+<param order="4" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">4,8 W</value>
+</values>
+</param>
+<param order="7" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018531/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 11:27:20 GMT">http://assets.transistor.ru/pdf/Lenta/NEO-FX32528-S50-240V.pdf</pdf>
+<img id="066DE9B0D07FA84BBD02F8DF796B4036" type="jpg" modified="Fri, 30 Jan 2015 11:16:58 GMT">http://assets.transistor.ru/img/product/userlogo/066DE9B0D07FA84BBD02F8DF796B4036.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 3528 (78шт/м), ЗЕЛЕНЫЙ, сечение 15х26 мм, резка по 1м. Мощность 4.8Вт/м, питание DC 220V. В комплекте неон - 50м, акссесуары: шнур питания 5шт, коннекторы 5шт, заглушка 5шт, клипсы 50шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018529</article>
+<category id="19">Светодиодный декор</category>
+<group id="510">Светодиодный декор / Гибкий неон [ARL, NEO] / NEO-FX 3528</group>
+<name prefix="">Гибкий неон NEO-FX3528-S50-240V Yellow</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>788.42</price1>
+<color1>yellow</color1>
+<color2/>
+<color3/>
+<related><article>018539</article>
+<article>018536</article>
+<article>018537</article>
+<article>018538</article>
+<article>018542</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="yellow">typ: 585 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">3528 (3.5x2.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">78 шт/м</value>
+</values>
+</param>
+<param order="4" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">4,8 W</value>
+</values>
+</param>
+<param order="7" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018529/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 11:27:20 GMT">http://assets.transistor.ru/pdf/Lenta/NEO-FX32528-S50-240V.pdf</pdf>
+<img id="BEEEAC1967F0384681BFC92D3A0200CD" type="jpg" modified="Fri, 30 Jan 2015 10:53:59 GMT">http://assets.transistor.ru/img/product/userlogo/BEEEAC1967F0384681BFC92D3A0200CD.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 3528 (78шт/м), ЖЕЛТЫЙ, сечение 15х26 мм, резка по 1м. Мощность 4.8Вт/м, питание DC 220V. В комплекте неон - 50м, акссесуары: шнур питания 5шт, коннекторы 5шт, заглушка 5шт, клипсы 50шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018534</article>
+<category id="19">Светодиодный декор</category>
+<group id="510">Светодиодный декор / Гибкий неон [ARL, NEO] / NEO-FX 3528</group>
+<name prefix="">Гибкий неон NEO-FX3528-S50-240V Red</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>50</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>788.42</price1>
+<color1>red</color1>
+<color2/>
+<color3/>
+<related><article>018539</article>
+<article>018536</article>
+<article>018537</article>
+<article>018538</article>
+<article>018542</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="red">typ: 625 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">3528 (3.5x2.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">78 шт/м</value>
+</values>
+</param>
+<param order="4" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">4,8 W</value>
+</values>
+</param>
+<param order="7" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018534/</techinfo>
+<pdf modified="Fri, 20 Feb 2015 11:27:20 GMT">http://assets.transistor.ru/pdf/Lenta/NEO-FX32528-S50-240V.pdf</pdf>
+<img id="6295D9D3327E7243AFB82D93C39D20E8" type="jpg" modified="Fri, 30 Jan 2015 11:20:37 GMT">http://assets.transistor.ru/img/product/userlogo/6295D9D3327E7243AFB82D93C39D20E8.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 3528 (78шт/м), КРАСНЫЙ, сечение 15х26 мм, резка по 1м. Мощность 4.8Вт/м, питание DC 220V. В комплекте неон - 50м, акссесуары: шнур питания 5шт, коннекторы 5шт, заглушка 5шт, клипсы 50шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018540</article>
+<category id="19">Светодиодный декор</category>
+<group id="510">Светодиодный декор / Гибкий неон [ARL, NEO] / NEO-FX 3528</group>
+<name prefix="">Гибкий неон NEO-FX5050-B25-240V RGB</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>109</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>25</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1351.58</price1>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>018543</article>
+<article>018509</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">68 шт/м</value>
+</values>
+</param>
+<param order="4" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">12 W</value>
+</values>
+</param>
+<param order="7" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="8" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">25 000 мм</value>
+</values>
+</param>
+<param order="9" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 мм</value>
+</values>
+</param>
+<param order="10" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018540/</techinfo>
+<pdf modified="Thu, 21 May 2015 09:35:44 GMT">http://assets.transistor.ru/pdf/Lenta/018540_NEO-FX5050-B25-240V_RGB.pdf</pdf>
+<img id="56455438C0289B4580E5D7BE0412A336" type="jpg" modified="Tue, 27 Jan 2015 11:27:20 GMT">http://assets.transistor.ru/img/product/userlogo/56455438C0289B4580E5D7BE0412A336.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (68шт/м), RGB, сечение 20х20 мм, резка по 1м. Мощность 12Вт/м, питание DC 220V. В комплекте неон - 25м, акссесуары: шнур питания 3шт, коннекторы 3шт, заглушка 3шт, клипсы 30шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018539</article>
+<category id="19">Светодиодный декор</category>
+<group id="694">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для NEO-FX</group>
+<name prefix="">Заглушка NEO-CAP-S (15x26)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>100</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>5.63</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018530</article>
+<article>018541</article>
+<article>018528</article>
+<article>018531</article>
+<article>018529</article>
+<article>018534</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Заглушка</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018539/</techinfo>
+<pdf/>
+<img id="92DEC816436FD140A896F41A8149803F" type="jpg" modified="Fri, 30 Jan 2015 06:30:57 GMT">http://assets.transistor.ru/img/product/userlogo/92DEC816436FD140A896F41A8149803F.jpg</img>
+<descript>Заглушка для одноцветного неона NEO-FX3528 15x26 мм. После установки загерметизируйте бескислотным силиконом.</descript>
+</product>
+<product>
+<article>018536</article>
+<category id="19">Светодиодный декор</category>
+<group id="694">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для NEO-FX</group>
+<name prefix="">Коннектор NEO-CA-2</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>84.47</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018530</article>
+<article>018541</article>
+<article>018528</article>
+<article>018531</article>
+<article>018529</article>
+<article>018534</article>
+<article>018542</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018536/</techinfo>
+<pdf/>
+<img id="496BEB141EF3D849958306692ED6C843" type="jpg" modified="Thu, 05 Feb 2015 07:51:02 GMT">http://assets.transistor.ru/img/product/userlogo/496BEB141EF3D849958306692ED6C843.jpg</img>
+<descript>Силовой фронтальный 2-контактный коннектор для подключения шнура питания NEO-FX-S 220V к одноцветному гибкому неону NEO-FX3528-S50-240V.
+В комплект входит термоусадка. Цена за 1шт.</descript>
+</product>
+<product>
+<article>018543</article>
+<category id="19">Светодиодный декор</category>
+<group id="694">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для NEO-FX</group>
+<name prefix="">Контроллер NEO-RGB-181-240V</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>5</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>6194.76</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018540</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Контроллер</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018543/</techinfo>
+<pdf modified="Thu, 29 Jan 2015 13:10:02 GMT">http://assets.transistor.ru/pdf/controllers/018543.pdf</pdf>
+<img id="B44D15215DF01C47B2EE9E1D86D43AB1" type="jpg" modified="Fri, 27 Feb 2015 11:08:43 GMT">http://assets.transistor.ru/img/product/userlogo/B44D15215DF01C47B2EE9E1D86D43AB1.jpg</img>
+<descript>Контроллер для управления NEO-FX5050-B25-240V RGB.
+2 выхода, на каждый выход макс.нагрузка 60 метров, всего 120м.
+Есть DMX-вход, режимы MASTER/SLAVE.</descript>
+</product>
+<product>
+<article>018509</article>
+<category id="19">Светодиодный декор</category>
+<group id="694">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для NEO-FX</group>
+<name prefix="">Профиль NEO-ALU-1000-B20</name>
+<developer>ARL</developer>
+<case>Металл</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Туба</pack>
+<packnorm>15</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>157.68</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018540</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Профиль</value>
+</values>
+</param>
+<param order="1" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018509/</techinfo>
+<pdf/>
+<img id="4F3EB02827836F41869FF0F0AE42D7FC" type="jpg" modified="Fri, 30 Jan 2015 09:35:22 GMT">http://assets.transistor.ru/img/product/userlogo/4F3EB02827836F41869FF0F0AE42D7FC.jpg</img>
+<descript>Алюминиевый профиль (U-канал) для неона 20мм NEO-FX5050-B25-240V RGB 20х20 мм. Анодированный. Длина 1м.</descript>
+</product>
+<product>
+<article>018538</article>
+<category id="19">Светодиодный декор</category>
+<group id="694">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для NEO-FX</group>
+<name prefix="">Профиль NEO-ALU-1000-S</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Туба</pack>
+<packnorm>15</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>168.95</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018530</article>
+<article>018541</article>
+<article>018528</article>
+<article>018531</article>
+<article>018529</article>
+<article>018534</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Профиль</value>
+</values>
+</param>
+<param order="1" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018538/</techinfo>
+<pdf/>
+<img id="528CD13E5194BF468C26EDD80E382C1C" type="jpg" modified="Fri, 23 Jan 2015 08:04:39 GMT">http://assets.transistor.ru/img/product/userlogo/528CD13E5194BF468C26EDD80E382C1C.jpg</img>
+<descript>Алюминиевый профиль (U-канал) для неона 15мм NEO-FX5050-S50-240V (15х26 мм). Анодированный. Длина 1м.</descript>
+</product>
+<product>
+<article>018542</article>
+<category id="19">Светодиодный декор</category>
+<group id="694">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для NEO-FX</group>
+<name prefix="">Шнур питания NEO-FX-S 220V (EU)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>5</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>168.95</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018530</article>
+<article>018541</article>
+<article>018528</article>
+<article>018531</article>
+<article>018529</article>
+<article>018534</article>
+<article>018536</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Аксессуар</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018542/</techinfo>
+<pdf/>
+<img id="7953F650E2EF4C499069B08F9422BD73" type="jpg" modified="Fri, 30 Jan 2015 11:42:21 GMT">http://assets.transistor.ru/img/product/userlogo/7953F650E2EF4C499069B08F9422BD73.jpg</img>
+<descript>Сетевой шнур 1.5м с евровилкой, встроенным выпрямителем на 1.6А, разъемом для покдлючения одноцветного неона NEO-FX-S 240V (13x26 мм) не более 50м.</descript>
+</product>
+<product>
+<article>019053</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Набор неона SET-ARL-NF5050-11</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>12</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>21400.08</price1>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Набор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/019053/</techinfo>
+<pdf/>
+<img id="FC51F35C6727F94D8A38F60A1075FF32" type="jpg" modified="Mon, 02 Feb 2015 11:01:29 GMT">http://assets.transistor.ru/img/product/userlogo/FC51F35C6727F94D8A38F60A1075FF32.jpg</img>
+<descript>Набор образцов гибкого неона (10+1). 10шт цветных отрезков по 1м со шнуром питания на 220В, 1шт RGB неон 1м на 24В с кабелем. Все отрезки с заглушками, в термоусадочном кембрике. Цвета - белый, теплый белый, розовый, фиолетовый, синий, зеленый, желтый, янтарный, оранжевый, красный, RGB.</descript>
+</product>
+<product>
+<article>018580</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1013.69</price1>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 6 000 K</value>
+</values>
+</param>
+<param order="3" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="4" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="6" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="7" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="8" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018580/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="5AFBF310D9F3504F92E00AB01556584D" type="jpg" modified="Thu, 06 Nov 2014 12:38:34 GMT">http://assets.transistor.ru/img/product/userlogo/5AFBF310D9F3504F92E00AB01556584D.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), БЕЛЫЙ 6000К, сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>019373</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V Day White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1013.69</price1>
+<color1>day_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="day_white">Белый (дневной)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 4 000 K</value>
+</values>
+</param>
+<param order="3" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="4" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="6" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="7" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="8" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/019373/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="4235C6DD531ABC499DDC0B0A174C9BE5" type="jpg" modified="Fri, 16 Jan 2015 09:53:37 GMT">http://assets.transistor.ru/img/product/userlogo/4235C6DD531ABC499DDC0B0A174C9BE5.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ДНЕВНОЙ БЕЛЫЙ, сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018583</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V Warm White</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1013.69</price1>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 3 000 K</value>
+</values>
+</param>
+<param order="3" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="4" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="6" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="7" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="8" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018583/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="E7D3F8757C7F5649A5EE01AD0D4F390B" type="jpg" modified="Thu, 06 Nov 2014 12:43:43 GMT">http://assets.transistor.ru/img/product/userlogo/E7D3F8757C7F5649A5EE01AD0D4F390B.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ТЁПЛЫЙ БЕЛЫЙ, сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018579</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S20-220V Pink</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>20</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1182.64</price1>
+<color1>pink</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="pink">Розовый</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018579/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="5B1FE89B676D5249853F3B182DED1A01" type="jpg" modified="Thu, 06 Nov 2014 12:35:24 GMT">http://assets.transistor.ru/img/product/userlogo/5B1FE89B676D5249853F3B182DED1A01.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), РОЗОВЫЙ, сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 20м, шнур питания х 1шт, коннектор х 1шт, термоусадка х 2шт, заглушка х 1шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018578</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S20-220V Purple</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>20</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1182.64</price1>
+<color1>violet</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="violet">typ: 400 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018578/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="B506E1854D35764488C6CB520F07B5AF" type="jpg" modified="Thu, 06 Nov 2014 12:28:11 GMT">http://assets.transistor.ru/img/product/userlogo/B506E1854D35764488C6CB520F07B5AF.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ФИОЛЕТОВЫЙ (УФ), сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 20м, шнур питания х 1шт, коннектор х 1шт, термоусадка х 2шт, заглушка х 1шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018576</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V Blue</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>50</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1013.69</price1>
+<color1>blue</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018576/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="5D33540B4B4E7948BF28380F2BE5201A" type="jpg" modified="Thu, 06 Nov 2014 12:18:54 GMT">http://assets.transistor.ru/img/product/userlogo/5D33540B4B4E7948BF28380F2BE5201A.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), СИНИЙ, сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018577</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V Green</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1013.69</price1>
+<color1>green</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="green">typ: 525 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">7 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018577/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="C452EEFEAD0AF5429803B3B878FFB427" type="jpg" modified="Thu, 06 Nov 2014 13:18:10 GMT">http://assets.transistor.ru/img/product/userlogo/C452EEFEAD0AF5429803B3B878FFB427.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ЗЕЛЁНЫЙ, сечение 13х26 мм. Мощность 7Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018591</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S20-220V Yellow</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>80</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>20</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1238.95</price1>
+<color1>yellow</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="yellow">typ: 585 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">6 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018591/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="DED35B7B6FBEE845B73A0723CFE420E4" type="jpg" modified="Thu, 06 Nov 2014 12:25:10 GMT">http://assets.transistor.ru/img/product/userlogo/DED35B7B6FBEE845B73A0723CFE420E4.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ЖЁЛТЫЙ, сечение 13х26 мм. Мощность 6Вт/м, питание DC 220V.В комплекте: неон - 20м, шнур питания х 1шт, коннектор х 1шт, термоусадка х 2шт, заглушка х 1шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018589</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S20-220V Amber</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>20</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1238.95</price1>
+<color1>orange</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="orange">typ: 600 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">6 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018589/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="3FEF534A31B0154793C3083483B66D83" type="jpg" modified="Thu, 06 Nov 2014 12:21:30 GMT">http://assets.transistor.ru/img/product/userlogo/3FEF534A31B0154793C3083483B66D83.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ЯНТАРНЫЙ, сечение 13х26 мм. Мощность 6Вт/м, питание DC 220V.В комплекте: неон - 20м, шнур питания х 1шт, коннектор х 1шт, термоусадка х 2шт, заглушка х 1шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>020670</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V Orange</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1126.32</price1>
+<color1>orange</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="orange">typ: 610 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">6 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/020670/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="906366AAAA283C40B28AAA722D81DB77" type="jpg" modified="Wed, 21 Oct 2015 11:08:42 GMT">http://assets.transistor.ru/img/product/userlogo/906366AAAA283C40B28AAA722D81DB77.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), ОРАНЖЕВЫЙ, сечение 13х26 мм. Мощность 6Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018582</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S50-220V Red</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>50</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1013.69</price1>
+<color1>red</color1>
+<color2/>
+<color3/>
+<related><article>018568</article>
+<article>017601</article>
+<article>017613</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+<article>018990</article>
+<article>017602</article>
+<article>018569</article>
+<article>017612</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="red">typ: 625 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">6 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">50 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018582/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="D44E5BB4DD32994794F6E75E5409627D" type="jpg" modified="Thu, 06 Nov 2014 12:12:00 GMT">http://assets.transistor.ru/img/product/userlogo/D44E5BB4DD32994794F6E75E5409627D.jpg</img>
+<descript>Гибкий профессиональный светодиодный неон SMD 5050 (72шт/м), КРАСНЫЙ, сечение 13х26 мм. Мощность 6Вт/м, питание DC 220V.В комплекте: неон - 50м, шнур питания х 2шт, коннектор х 2шт, термоусадка х 5шт, заглушка х 5шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018585</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-P15-24V RGB-DMX</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>-1</waiting>
+<pack>Катушка</pack>
+<packnorm>15</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>3041.06</price1>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>018201</article>
+<article>019860</article>
+<article>019070</article>
+<article>019069</article>
+<article>018938</article>
+<article>018587</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">83,3 мм</value>
+</values>
+</param>
+<param order="6" id="67">
+<name>Входной сигнал</name>
+    <unit/>
+<values total="1">
+<value order="0">DMX</value>
+</values>
+</param>
+<param order="7" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">24 V</value>
+</values>
+</param>
+<param order="8" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">15 W</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">16 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018585/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="15C245E642E4BD4AB7D566AAF3ACC523" type="jpg" modified="Wed, 28 Jan 2015 12:49:23 GMT">http://assets.transistor.ru/img/product/userlogo/15C245E642E4BD4AB7D566AAF3ACC523.jpg</img>
+<descript>Гибкий динамический RGB-DMX неон, светодиоды SMD 5050, профиль &quot;P&quot; 15х16 мм, мощность до 15Вт/м. Питание DC 24V, управление DMX, 6шт LED на 1 адрес. В комплекте: неон - 15м, выводной коннектор 2шт, заглушка 15x16 - 2шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018590</article>
+<category id="19">Светодиодный декор</category>
+<group id="657">Светодиодный декор / Гибкий неон [ARL, NEO] / ARL-NF 5050</group>
+<name prefix="">Гибкий неон ARL-NF5050-S15-24V RGB</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>15</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1858.43</price1>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>018201</article>
+<article>015070</article>
+<article>018939</article>
+<article>018991</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Гибкий неон</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">5060 (5x5мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">72 шт/м</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">270 °</value>
+</values>
+</param>
+<param order="5" id="33">
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">83,3 мм</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">24 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">15 W</value>
+</values>
+</param>
+<param order="8" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP67</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">15 000 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">26 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018590/</techinfo>
+<pdf modified="Wed, 12 Aug 2015 13:58:43 GMT">http://assets.transistor.ru/pdf/Lenta/ARL-NF5050.pdf</pdf>
+<img id="30660EAB6B609C439207B9AD7436225C" type="jpg" modified="Thu, 06 Nov 2014 13:20:32 GMT">http://assets.transistor.ru/img/product/userlogo/30660EAB6B609C439207B9AD7436225C.jpg</img>
+<descript>Гибкий RGB неон, светодиоды SMD 5050, профиль &quot;S&quot; 13х26 мм, мощность до 15Вт/м. Питание DC 24V, управление любым контроллером RGB (ШИМ) на 24В. В комплекте: неон - 15м, выводной коннектор 2шт, заглушка 13x26 - 2шт. Цена за 1м.</descript>
+</product>
+<product>
+<article>018568</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Выпрямитель NF-D2A 220V AC-DC</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>14</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>6757.92</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Источник напряжения</value>
+</values>
+</param>
+<param order="1" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">58 мм</value>
+</values>
+</param>
+<param order="2" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">112 мм</value>
+</values>
+</param>
+<param order="3" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="4" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">400 W</value>
+</values>
+</param>
+<param order="5" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">220 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018568/</techinfo>
+<pdf modified="Thu, 15 Jan 2015 11:49:26 GMT">http://assets.transistor.ru/pdf/Lenta/018568.pdf</pdf>
+<img id="3330A207D4BE314EB12695B37C3D04CF" type="jpg" modified="Fri, 27 Feb 2015 06:50:43 GMT">http://assets.transistor.ru/img/product/userlogo/3330A207D4BE314EB12695B37C3D04CF.jpg</img>
+<descript>Преобразователь переменного напряжения AC200-240V в постоянное DC220V для питания неона ARL-NF. Регулировка вых.напряжения DC 1-220V (можно задвать яркость свечения). Макс.нагрузка до 60м неона ARL-NF. Для увеличения срока службы неона, снижения пульсаций. Размеры 220х112х58мм</descript>
+</product>
+<product>
+<article>017601</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Диммер ARL-NF-DM23-600W-220V (RF, брелок)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>77</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1689.48</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Диммер</value>
+</values>
+</param>
+<param order="1" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">600 W</value>
+</values>
+</param>
+<param order="2" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017601/</techinfo>
+<pdf/>
+<img id="055577AB1C784D498A2B73C16E2863DE" type="jpg" modified="Thu, 21 Aug 2014 07:05:29 GMT">http://assets.transistor.ru/img/product/userlogo/055577AB1C784D498A2B73C16E2863DE.jpg</img>
+<descript>Диммер с RF пультом-брелком для неона 110/220V. Питание/выход 110/220V. Регулировка яркости, вкл-выкл. Дальность пульта 30-50м прямой видимости.</descript>
+</product>
+<product>
+<article>017613</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Заглушка ARL-NF-CAP-S (13x26)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>100</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>10.14</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Заглушка</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017613/</techinfo>
+<pdf/>
+<img id="C705B7317177654B993431E46D25830D" type="jpg" modified="Fri, 08 Aug 2014 06:42:07 GMT">http://assets.transistor.ru/img/product/userlogo/C705B7317177654B993431E46D25830D.jpg</img>
+<descript>Заглушка для неона ARL-NF-S (13x26 мм). После установки загерметизируйте бескислотным силиконом.</descript>
+</product>
+<product>
+<article>018571</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор ARL-NF-S-I</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>20</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>93.48</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+<article>018990</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018571/</techinfo>
+<pdf/>
+<img id="803B17D202BD6E438C34296C3AC60B89" type="jpg" modified="Mon, 16 Feb 2015 06:58:20 GMT">http://assets.transistor.ru/img/product/userlogo/803B17D202BD6E438C34296C3AC60B89.jpg</img>
+<descript>Прямой коннектор для соединения 2-х отрезков неона 13х26 в линию.
+Стыки необходимо герметизировать безкислотным силиконом.</descript>
+</product>
+<product>
+<article>018570</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор ARL-NF-S-L</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>20</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>135.16</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+<article>018990</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018570/</techinfo>
+<pdf/>
+<img id="A16D945380A7FE4BBDB28C107490E5CD" type="jpg" modified="Mon, 16 Feb 2015 06:55:58 GMT">http://assets.transistor.ru/img/product/userlogo/A16D945380A7FE4BBDB28C107490E5CD.jpg</img>
+<descript>Угловой коннектор для соединения 2-х отрезков неона 13х26 под прямым углом.
+Стыки необходимо герметизировать безкислотным силиконом.</descript>
+</product>
+<product>
+<article>018581</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор ARL-NF-S-T</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>20</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>140.79</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018581/</techinfo>
+<pdf/>
+<img id="A3CC6B3FC55EFE479F2C86D9518017CB" type="jpg" modified="Mon, 16 Feb 2015 06:55:30 GMT">http://assets.transistor.ru/img/product/userlogo/A3CC6B3FC55EFE479F2C86D9518017CB.jpg</img>
+<descript>Т-образный коннектор для соединения 3-х отрезков неона 13х26.
+Стыки необходимо герметизировать безкислотным силиконом.</descript>
+</product>
+<product>
+<article>018938</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор выводной ARL-NF-FC-P4 (15x16)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Пакет</pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>168.95</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018585</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018938/</techinfo>
+<pdf/>
+<img id="B1D108EA2228064FA2E8F75A94DF33AF" type="jpg" modified="Thu, 06 Nov 2014 08:57:08 GMT">http://assets.transistor.ru/img/product/userlogo/B1D108EA2228064FA2E8F75A94DF33AF.jpg</img>
+<descript>Пара коннекторов DMX с проводом 50см для подключения неона ARL-NF5050-P15-24V RGB-DMX (15x16 мм). Подключение только через пайку к неону. В комплекте 2 коннектора (папа-мама), цена за комплект.</descript>
+</product>
+<product>
+<article>017603</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор выводной ARL-NF-FC-S</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>135.16</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+<article>018990</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017603/</techinfo>
+<pdf/>
+<img id="4AAAC04ED4BE394489A523AF03E6F2BE" type="jpg" modified="Thu, 06 Nov 2014 08:58:06 GMT">http://assets.transistor.ru/img/product/userlogo/4AAAC04ED4BE394489A523AF03E6F2BE.jpg</img>
+<descript>Коннектор на 2 контакта с проводом 50см для подключения неона ARL-NF5050-S 220V (размер 13x26) мм. Не содержит диодный мост! Нельзя использовать для подключения к сети AC 220V без выпрямителя! Для соединения требуется Коннектор силовой ARL-NF-2P, поставляется отдельно.</descript>
+</product>
+<product>
+<article>018939</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор выводной ARL-NF-FC-S4 (13x26)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>-1</waiting>
+<pack>Пакет</pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>157.68</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018590</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018939/</techinfo>
+<pdf/>
+<img id="2075A27AC607874DA642896D91477497" type="jpg" modified="Thu, 06 Nov 2014 08:55:17 GMT">http://assets.transistor.ru/img/product/userlogo/2075A27AC607874DA642896D91477497.jpg</img>
+<descript>Коннектор на 4 контакта с проводом 50см для подключения неона ARL-NF5050-S15-24V RGB 13x26 мм. Для соединения требуется Коннектор силовой ARL-NF-4P-RGB, поставляется отдельно. Не использовать для подключения к сети 220В!</descript>
+</product>
+<product>
+<article>018990</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор силовой ARL-NF-2P</name>
+<developer>ARL</developer>
+<case>Металл</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Пакет</pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>16.89</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+<article>018571</article>
+<article>018570</article>
+<article>018581</article>
+<article>017603</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018990/</techinfo>
+<pdf/>
+<img id="6271EDD01B677C439AC1FA7D75983582" type="jpg" modified="Thu, 06 Nov 2014 08:46:42 GMT">http://assets.transistor.ru/img/product/userlogo/6271EDD01B677C439AC1FA7D75983582.jpg</img>
+<descript>Силовой 2-х контактный коннектор для подключения шнура питания ARL-NF-PC-S 220V (или других коннекторов) к одноцветному гибкому неону ARL-NF5050-S-220V</descript>
+</product>
+<product>
+<article>018991</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Коннектор силовой ARL-NF-4P-RGB</name>
+<developer>ARL</developer>
+<case>Металл</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Пакет</pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>27.03</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018590</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Коннектор</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018991/</techinfo>
+<pdf/>
+<img id="6C60E922E3D50A479E83648EFBF0CC6E" type="jpg" modified="Thu, 06 Nov 2014 08:51:23 GMT">http://assets.transistor.ru/img/product/userlogo/6C60E922E3D50A479E83648EFBF0CC6E.jpg</img>
+<descript>Силовой 4-х контактный коннектор для соединения Коннектора выводного ARL-NF-FC-S4 (13x26) с Гибким неоном ARL-NF5050-S15-24V RGB.</descript>
+</product>
+<product>
+<article>018587</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Контроллер DMX K-8000D (5V, SD-card, 8x512)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>14</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>22526.4</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018585</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Контроллер</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018587/</techinfo>
+<pdf modified="Thu, 11 Dec 2014 06:55:38 GMT">http://assets.transistor.ru/pdf/controllers/018587_DMX_K-8000D_rus.pdf</pdf>
+<img id="E0396205559FC4428DF3A4AFE1D600BD" type="jpg" modified="Fri, 07 Nov 2014 06:51:18 GMT">http://assets.transistor.ru/img/product/userlogo/E0396205559FC4428DF3A4AFE1D600BD.jpg</img>
+<descript>DMX512 контроллер на 8 выходов для гибкого неона ARL-NF5050 RGB-DMX. Встроенные программы, встроенный редактор адресов, SD-карта. Питание 5В, адаптер на 220в в комплекте. Максимальная длина неона 35м на 1 канал. Работает с ПО LedEdit.</descript>
+</product>
+<product>
+<article>017602</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Профиль ARL-NF-ALU-1000A</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>-1</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>157.68</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Профиль</value>
+</values>
+</param>
+<param order="1" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">16 мм</value>
+</values>
+</param>
+<param order="2" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 мм</value>
+</values>
+</param>
+<param order="3" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017602/</techinfo>
+<pdf/>
+<img id="9D49BF56173FF54FA8F6153228AD22CD" type="jpg" modified="Thu, 21 Aug 2014 07:09:20 GMT">http://assets.transistor.ru/img/product/userlogo/9D49BF56173FF54FA8F6153228AD22CD.jpg</img>
+<descript>Алюминиевый профиль, U-канал для установки неона ARL-NF-S (13х26 мм). Длина 1м.</descript>
+</product>
+<product>
+<article>018569</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Профиль ARL-NF-PVC-1000</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm>50</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>135.16</price1>
+<color1/>
+<color2/>
+<color3/>
+<related><article>018580</article>
+<article>018583</article>
+<article>018579</article>
+<article>018578</article>
+<article>018576</article>
+<article>018577</article>
+<article>018591</article>
+<article>018589</article>
+<article>018588</article>
+<article>018582</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Профиль</value>
+</values>
+</param>
+<param order="1" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1 000 мм</value>
+</values>
+</param>
+<param order="2" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">16 мм</value>
+</values>
+</param>
+<param order="3" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">20 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018569/</techinfo>
+<pdf/>
+<img id="C5CE4211F5AA7B4BB14622EAD4AC40C4" type="jpg" modified="Mon, 26 Jan 2015 07:37:18 GMT">http://assets.transistor.ru/img/product/userlogo/C5CE4211F5AA7B4BB14622EAD4AC40C4.jpg</img>
+<descript>ПВХ профиль, U-канал для установки неона ARL-NF-S (13х26 мм). Цвет белый. Длина 1м.</descript>
+</product>
+<product>
+<article>017600</article>
+<category id="19">Светодиодный декор</category>
+<group id="695">Светодиодный декор / Гибкий неон [ARL, NEO] / аксессуары для ARL-NF</group>
+<name prefix="">Шнур питания ARL-NF-PC-S 220V (EU)</name>
+<developer>ARL</developer>
+<case></case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Пакет</pack>
+<packnorm>10</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>214</price1>
+<color1/>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Аксессуар</value>
+</values>
+</param>
+<param order="1" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="2" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">400 W</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017600/</techinfo>
+<pdf/>
+<img id="6648190A92026042B0E4BF702DC7D0F4" type="jpg" modified="Wed, 26 Mar 2014 09:06:04 GMT">http://assets.transistor.ru/img/product/userlogo/6648190A92026042B0E4BF702DC7D0F4.jpg</img>
+<descript>Сетевой шнур с евровилкой и заглушкой для покдлючения неона ARL-NF-S (13x26 мм). Содержит выпрямительный диодный мост AC-DC 220-240V. Для подключения к неону нужен Коннектор силовой ARL-NF-2P, поставляется отдельно.</descript>
+</product>
+<product>
+<article>017999</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-Warm (1608, 100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 3 000 K</value>
+</values>
+</param>
+<param order="3" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="4" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="5" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="6" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="7" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="8" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="9" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="10" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="11" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="12" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="13" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017999/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="D913FE2B01D6BD4C9EFB71242A01E8C8" type="jpg" modified="Mon, 25 Jan 2016 06:34:15 GMT">http://assets.transistor.ru/img/product/userlogo/D913FE2B01D6BD4C9EFB71242A01E8C8.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод) 5М, smd 1608 100шт, шаг 50мм. Цвет БЕЛЫЙ ТЕПЛЫЙ 3000K, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>017998</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-White (1608, 100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 10 000 K</value>
+</values>
+</param>
+<param order="3" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="4" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="5" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="6" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="7" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="8" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="9" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="10" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="11" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="12" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="13" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017998/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="E8D84326F7DB984DA9237982EBB35589" type="jpg" modified="Fri, 22 Jan 2016 13:08:18 GMT">http://assets.transistor.ru/img/product/userlogo/E8D84326F7DB984DA9237982EBB35589.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод), smd 1608 100шт, шаг 50мм. Цвет БЕЛЫЙ ХОЛОДНЫЙ 10000K, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>017995</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-Blue (1608, 100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>blue</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="8" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017995/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="C7CB165F1C7C2749A6607169928FC37D" type="jpg" modified="Fri, 22 Jan 2016 12:49:36 GMT">http://assets.transistor.ru/img/product/userlogo/C7CB165F1C7C2749A6607169928FC37D.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод), smd 1608 100шт, шаг 50мм. Цвет СИНИЙ, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>017994</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-Green (1608, 100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>green</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="green">typ: 525 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="8" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017994/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="30900A68D1E17A41A36D12B2B66CF668" type="jpg" modified="Thu, 21 Jan 2016 13:53:05 GMT">http://assets.transistor.ru/img/product/userlogo/30900A68D1E17A41A36D12B2B66CF668.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод) 5М, smd 1608 100шт, шаг 50мм. Цвет ЗЕЛЕНЫЙ, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>017993</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-Yellow (1608,100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>yellow</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="yellow">typ: 590 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="8" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017993/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="F2778B62DE65914FBA6D93EFE88858F2" type="jpg" modified="Fri, 29 Jan 2016 12:14:56 GMT">http://assets.transistor.ru/img/product/userlogo/F2778B62DE65914FBA6D93EFE88858F2.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод) 5М, smd 1608 100шт, шаг 50мм. Цвет ЖЁЛТЫЙ, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>017992</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-Orange (1608,100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>orange</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="orange">typ: 605 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="8" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/017992/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="C37424A2D3CE9C4A8DA5AFA46D719706" type="jpg" modified="Mon, 25 Jan 2016 06:46:22 GMT">http://assets.transistor.ru/img/product/userlogo/C37424A2D3CE9C4A8DA5AFA46D719706.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод) 5М, smd 1608 100шт, шаг 50мм. Цвет ОРАНЖЕВЫЙ, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>018123</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-Red (1608, 100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>202.74</price1>
+<color1>red</color1>
+<color2/>
+<color3/>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="1">
+<value order="0" color="red">typ: 625 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="8" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018123/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="99304234F9BB604FB5039D6F2B9A8062" type="jpg" modified="Mon, 25 Jan 2016 06:50:40 GMT">http://assets.transistor.ru/img/product/userlogo/99304234F9BB604FB5039D6F2B9A8062.jpg</img>
+<descript>IP65 герметичная декоративная светодиодная нить (провод), smd 1608 100шт, шаг 50мм. Цвет КРАСНЫЙ, угол 120°. Мощность 1.4-2.1Вт (зависит от цвета), питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.</descript>
+</product>
+<product>
+<article>018005</article>
+<category id="19">Светодиодный декор</category>
+<group id="661">Светодиодный декор / Декоративные нити WR-5000 / герметичные WR 12V 20 LED 1608</group>
+<name prefix="">Светодиодная нить WR-5000-12V-RGB (1608, 100LED)</name>
+<developer>ARL</developer>
+<case>Закрытый</case>
+<advstatus>0</advstatus>
+<status>0</status>
+<archive>0</archive>
+<stock>200</stock>
+<waiting>0</waiting>
+<pack>Катушка</pack>
+<packnorm>5</packnorm>
+<unit id="006">м</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>315.37</price1>
+<color1>red</color1>
+<color2>green</color2>
+<color3>blue</color3>
+<related><article>019965</article>
+</related>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Декоративная нить</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Длина волны</name>
+<unit>nm</unit>
+<values total="3">
+<value order="0" color="red">typ: 625 nm</value>
+<value order="1" color="green">typ: 525 nm</value>
+<value order="2" color="blue">typ: 470 nm</value>
+</values>
+</param>
+<param order="2" id="45">
+<name>Размер светодиода</name>
+    <unit/>
+<values total="1">
+<value order="0">1608 (1.6x0.8мм)</value>
+</values>
+</param>
+<param order="3" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">20 шт/м</value>
+</values>
+</param>
+<param order="4" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">100 шт</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">12 V</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">2,1 W</value>
+</values>
+</param>
+<param order="8" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">min: 0,08 A; typ: 0,12 A; max: 0,17 A</value>
+</values>
+</param>
+<param order="9" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP65</value>
+</values>
+</param>
+<param order="10" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 000 мм</value>
+</values>
+</param>
+<param order="11" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">1,6 мм</value>
+</values>
+</param>
+<param order="12" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">0,8 мм</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/018005/</techinfo>
+<pdf modified="Thu, 27 Nov 2014 13:30:07 GMT">http://assets.transistor.ru/pdf/Lenta/018123_WR-5000-12V.pdf</pdf>
+<img id="B3ECD53FBC37954AA56A43CF98BB22A3" type="jpg" modified="Mon, 25 Jan 2016 07:19:56 GMT">http://assets.transistor.ru/img/product/userlogo/B3ECD53FBC37954AA56A43CF98BB22A3.jpg</img>
+<descript>IP65 герметичная декоративная RGB светодиодная нить (провод), smd 1608 100шт, шаг 50мм. Цвет RGB - эффект &quot;звездное небо&quot;, угол 120°. Мощность 1.4-2.1Вт, питание DC 12V, разъем для адаптера. Размер 5000мм х 1.6мм х 0.8мм. Цена за 1м.
+рабочая t -10 .. +40 град.</descript>
+</product>
+</data>

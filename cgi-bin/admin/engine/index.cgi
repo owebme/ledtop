@@ -346,7 +346,7 @@ $main_menu .=qq~
 		<div id="pages" $pages_set><a $pages_link href="/cgi-bin/admin/engine/index.cgi?adm_act=strukture">Страницы</a></div>
 		<div id="news" $news_set><a $news_link href="/cgi-bin/admin/engine/index.cgi?adm_act=news">Новости</a></div>
 		<div id="gallery" $gallery_set><a $gallery_link href="/cgi-bin/admin/engine/index.cgi?adm_act=fotogal">Фотогалерея</a></div>
-		<div id="products" $products_set><a $products_link href="/cgi-bin/admin/engine/index.cgi?adm_act=products$link_cat">Товары</a></div>
+		<div id="products" $products_set><a $products_link href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog">Товары</a></div>
 		<div id="orders" $orders_set><a $orders_link href="/cgi-bin/admin/engine/index.cgi?adm_act=orders">Заказы</a></div>
 		<div id="questions" $questions_set><a $questions_link href="/cgi-bin/admin/engine/index.cgi?adm_act=questions">Вопросник</a></div>
 		<div id="settings"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=settings">Настройки</a></div>

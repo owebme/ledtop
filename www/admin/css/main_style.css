@@ -1034,6 +1034,40 @@ body:not([x|x]) .a-button.a-button-little.plus {padding:2px 4px;}
 .a-button-loading.light:hover {box-shadow:0 0 0px 3px rgba(255, 204, 0, 0.3), 0 2px 0 -1px rgba(255, 255, 255, 0.15);}
 .a-button-loading:after {top:50%; left:50%; width:24px; height:24px; margin:-13px 0 0 -12px; background:url(/admin/img/ajax-loader_lite.gif) no-repeat !important; box-shadow:none !important; z-index:2;}
 .a-button-loading:before {background:rgba(255,255,255,.7) !important; box-shadow:none !important; opacity:1; z-index:1;}
+.tag-label {display:inline-block; vertical-align:middle; border-radius:3px; border:1px solid #c5c3f0; background-color:#ddf; padding:0 10px; white-space:nowrap; height:27px; line-height:27px; margin:0px 5px 6px 0px; cursor:default;}
+.tag-label:hover {border-color:#aba9d8;}
+.tag-label-remove {display:inline-block; vertical-align:middle; height:12px; width:12px; margin:0 -2px 0 6px; cursor:pointer; opacity:0.5; line-height:24px; background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDEyIDEyIj48cGF0aCBkPSJNMTEuMTc3IDEuMTc3bC0uMzU0LS4zNTRMNiA1LjY0NiAxLjE3Ny44MjNsLS4zNTQuMzU0TDUuNjQ2IDYgLjgyMyAxMC44MjNsLjM1NC4zNTRMNiA2LjM1NGw0LjgyMyA0LjgyMy4zNTQtLjM1NEw2LjM1NCA2eiIvPjwvc3ZnPg==) no-repeat 0 0 / cover;}
+.tag-label-remove:hover {opacity:0.7;}
+.button-flat {display:inline-block; background:#6a76fc; border:none; height:34px; padding:6px 14px; color:#fff !important; text-decoration:none; font:normal 15px/20px 'Arial', Helvetica; border-radius:3px; position:relative; cursor:pointer; overflow:hidden; -moz-user-select: -moz-none;-webkit-user-select: none; user-select: none; vertical-align:top; z-index:1; transition:background 0.3s linear; box-sizing:border-box; outline:none;}
+.button-flat:hover {background:#515ffb;}
+.button-flat-gray, .button-flat-gray:hover {font-size:24px; color:#7e8188 !important; background:rgba(152, 166, 173, 0.25);}
+.button-flat-add {padding-left:35px;}
+.button-flat-add:after,
+.button-flat-add:before {
+	content:"";
+	position:absolute;
+	top:15px;
+	left:15px;
+	width:10px;
+	height:2px;
+	background:#fff;
+}
+.button-flat-add:after {
+	position:absolute;
+	transform:rotate(90deg);
+}
+.button-flat-small.button-flat-add:after,
+.button-flat-small.button-flat-add:before {
+	left:12px;
+	top:16px;
+	width:12px;
+	height:2px;	
+}
+.button-flat-small {
+	width:36px;
+	padding:8px 10px;
+}
+.button-flat-hidden {display:none;}
 
 /* / PRODUCT_PARAMS */
 
@@ -1565,36 +1599,6 @@ body:not([x|x]) #clients-group #category ul .plus {padding:1px 3px !important;}
 .popover .editable-submit:hover {background-color:#515ffb;}
 .popover .editable-cancel, .popover .editable-cancel:hover {background-color:rgba(152, 166, 173, 0.25);}
 .popover .editable-cancel i {display:inline-block; padding:1px 1px 0 0; vertical-align:middle; color:#7e8188 !important; font-family:Arial; font-size:24px; line-height:24px;}
-.button-flat {display:inline-block; background:#6a76fc; border:none; height:34px; padding:6px 14px; color:#fff !important; text-decoration:none; font:normal 15px/20px 'Arial', Helvetica; border-radius:3px; position:relative; cursor:pointer; overflow:hidden; -moz-user-select: -moz-none;-webkit-user-select: none; user-select: none; vertical-align:top; z-index:1; transition:background 0.3s linear; box-sizing:border-box; outline:none;}
-.button-flat:hover {background:#515ffb;}
-.button-flat-gray, .button-flat-gray:hover {font-size:24px; color:#7e8188 !important; background:rgba(152, 166, 173, 0.25);}
-.button-flat-add {padding-left:35px;}
-.button-flat-add:after,
-.button-flat-add:before {
-	content:"";
-	position:absolute;
-	top:15px;
-	left:15px;
-	width:10px;
-	height:2px;
-	background:#fff;
-}
-.button-flat-add:after {
-	position:absolute;
-	transform:rotate(90deg);
-}
-.button-flat-small.button-flat-add:after,
-.button-flat-small.button-flat-add:before {
-	left:12px;
-	top:16px;
-	width:12px;
-	height:2px;	
-}
-.button-flat-small {
-	width:36px;
-	padding:8px 10px;
-}
-.button-flat-hidden {display:none;}
 
 /* / CATALOG TREE */
 

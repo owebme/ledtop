@@ -81,5 +81,5 @@ RedirectMatch 301 /catalog/supply/(.*)$ /catalog/istochniki-pitaniya?$1
 RedirectMatch 301 /catalog/profile/(.*)$ /catalog/alyuminevyj-profil?$1
 RedirectMatch 301 /catalog/data_display/(.*)$ /catalog/svetodiodnye-tablo?$1
 
-RedirectMatch 301 /files/catalog/(.*).jpg$ /admin/site/img/no_photo_big.png?$1
+RedirectMatch 301 /files/catalog/(.*).jpg$ http://ledtop-shop.ru/files/catalog/$1.jpg
 

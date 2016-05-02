@@ -1,0 +1,4137 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<data created="Sat, 30 Apr 2016 10:21:40 GMT">
+<categories>
+<category>
+<id>2</id>
+<name>Светодиодные ленты</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=ledribbon</xmlurl>
+</category>
+<category>
+<id>6</id>
+<name>Источники питания</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=supply</xmlurl>
+</category>
+<category>
+<id>8</id>
+<name>Управление светом</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=lightcontrol</xmlurl>
+</category>
+<category>
+<id>11</id>
+<name>Алюминиевый профиль</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=profile</xmlurl>
+</category>
+<category>
+<id>10</id>
+<name>Светодиодные светильники</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=ledlamps</xmlurl>
+</category>
+<category>
+<id>7</id>
+<name>Светодиодные лампы</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=ledbulbs</xmlurl>
+</category>
+<category>
+<id>9</id>
+<name>Модули и линейки</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=ledmodules</xmlurl>
+</category>
+<category>
+<id>19</id>
+<name>Светодиодный декор</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=leddecoration</xmlurl>
+</category>
+<category>
+<id>1</id>
+<name>Светодиоды</name>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=leds</xmlurl>
+</category>
+</categories>
+<groups>
+<group>
+<id>1</id>
+<parent>1</parent>
+<category/>
+<enclosure>1</enclosure>
+<name>Все группы</name>
+<descript>Все группы</descript>
+<xmlurl/></group>
+<group>
+<id>332</id>
+<parent>1</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Светодиодные ленты</name>
+<descript>Современная светодиодная лента класса LUX, одноцветная, RGB, динамическая, открытая и герметичная. Идеальное решение для освещения, подсветки и рекламы.</descript>
+<xmlurl/></group>
+<group>
+<id>668</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты LUX smd 3528</name>
+<descript>Лента класса LUX на чип-светодиодах smd 3528 (Gold Wire 99.99%) с высокой светоотдачей. Медная 2-хслойная плата белого цвета.</descript>
+<xmlurl/></group>
+<group>
+<id>351</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 60</name>
+<descript>Лента 5 метров, 12В, светодиоды smd 3528, 60шт на метр.
+Минимальный отрезок 50мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=351</xmlurl>
+</group>
+<group>
+<id>140</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 120 2x</name>
+<descript>Лента 5 метров, 12В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 25мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=140</xmlurl>
+</group>
+<group>
+<id>354</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 120 2x 5mm</name>
+<descript>5мм узкая лента, 5 метров, 12В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 25мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=354</xmlurl>
+</group>
+<group>
+<id>391</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 30, 60</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 60шт на метр.
+Минимальный отрезок 100мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=391</xmlurl>
+</group>
+<group>
+<id>86</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 120 2x</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 50мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=86</xmlurl>
+</group>
+<group>
+<id>598</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 120 2x 5mm</name>
+<descript>5мм узкая лента, 5 метров, 24В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 50мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=598</xmlurl>
+</group>
+<group>
+<id>672</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 180 3x</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 180шт на метр.
+Минимальный отрезок 33.5мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=672</xmlurl>
+</group>
+<group>
+<id>673</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 240 4x</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 240шт на метр (в линию).
+Минимальный отрезок 25мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=673</xmlurl>
+</group>
+<group>
+<id>112</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 240 2x2</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 240шт на метр (2 линии). Ширина 15мм.
+Минимальный отрезок 50мм, 12 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=112</xmlurl>
+</group>
+<group>
+<id>669</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 36V 120 2x</name>
+<descript>Лента 5 метров, 36В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 84мм, 10 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=669</xmlurl>
+</group>
+<group>
+<id>508</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 36V 240 2x2</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 240шт на метр (2 линии). Ширина 15мм.
+Минимальный отрезок 42мм, 10 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=508</xmlurl>
+</group>
+<group>
+<id>352</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 12V 60</name>
+<descript>Герметичная лента 5 метров, 12В, светодиоды smd 3528, 60шт на метр.
+Минимальный отрезок 50мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=352</xmlurl>
+</group>
+<group>
+<id>142</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 12V 120 2x</name>
+<descript>Герметичная лента 5 метров, 12В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 25мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=142</xmlurl>
+</group>
+<group>
+<id>108</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 24V 120 2x</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 3528, 120шт на метр.
+Минимальный отрезок 50мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=108</xmlurl>
+</group>
+<group>
+<id>120</id>
+<parent>668</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 24V 240 2x2</name>
+<descript>Герметичная лента 5 метров, 24В, светодиоды smd 3528, 240шт на метр (2 линии). Ширина 15-18мм.
+Минимальный отрезок 50мм, 12 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=120</xmlurl>
+</group>
+<group>
+<id>335</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты LUX smd 5060 [+RGB]</name>
+<descript>Лента высокого класса LUX на чип-светодиодах smd 5060 (Gold Wire 99.99%) высокая яркость, большая точка свечения. Медная 2-хслойная плата белого цвета.</descript>
+<xmlurl/></group>
+<group>
+<id>355</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 30 [+RGB]</name>
+<descript>Лента 5 метров, 12В, светодиоды smd 5060, 30шт на метр.
+Минимальный отрезок 100мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=355</xmlurl>
+</group>
+<group>
+<id>141</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 60 2x [+RGB]</name>
+<descript>Лента 5 метров, 12В, светодиоды smd 5060, 60шт на метр.
+Минимальный отрезок 50мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=141</xmlurl>
+</group>
+<group>
+<id>306</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 72 Cx1</name>
+<descript>Кратность резки 1 светодиод. Лента 5 метров, 12В, светодиоды smd 5060, 72шт на метр.
+Минимальный отрезок 14мм, 1 светодиод.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=306</xmlurl>
+</group>
+<group>
+<id>110</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 60 2x [+RGB]</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 5060, 60шт на метр.
+Минимальный отрезок 100мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=110</xmlurl>
+</group>
+<group>
+<id>646</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 96 3x</name>
+<descript>Лента 5 метров, 24В, светодиоды smd 5060, 96шт на метр (в линию).
+Минимальный отрезок 62.5мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=646</xmlurl>
+</group>
+<group>
+<id>151</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 120 2x2 [+RGB]</name>
+<descript>Лента 5 метров, 24В, 28.8 Вт/м, светодиоды smd 5060, 120шт на метр (2 линии). Ширина 15мм.
+Минимальный отрезок 50мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=151</xmlurl>
+</group>
+<group>
+<id>680</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 140 2x2, 3х2 [+RGB]</name>
+<descript>Светодиоды smd 5060, 140-144шт/метр, 2-3 линии.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=680</xmlurl>
+</group>
+<group>
+<id>684</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 160 4х2</name>
+<descript>Лента 2.5 метра, 24В, 44 Вт/м, светодиоды smd 5060, 140шт на метр (4 линии). Ширина 40мм.
+Минимальный отрезок 100мм, 16 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=684</xmlurl>
+</group>
+<group>
+<id>670</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 36V 60 2x [+RGB]</name>
+<descript>Лента 5 метров, питание 36В - низкий ток, светодиоды smd 5060, 60шт на метр.
+Минимальный отрезок 167мм, 10 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=670</xmlurl>
+</group>
+<group>
+<id>671</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 36V 120 2x2 [+RGB]</name>
+<descript>Лента 5 метров, питание 36В - низкий ток, 28.8 Вт/м, светодиоды smd 5060, 120шт на метр (2 линии). Ширина 15мм.
+Минимальный отрезок 84мм, 10 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=671</xmlurl>
+</group>
+<group>
+<id>113</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 12V 30 [+RGB]</name>
+<descript>Герметичная лента 5 метров, 12В, светодиоды smd 5060, 30шт на метр.
+Минимальный отрезок 100мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=113</xmlurl>
+</group>
+<group>
+<id>139</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 12V 60 2x [+RGB]</name>
+<descript>Герметичная лента 5 метров, 12В, светодиоды smd 5060, 60шт на метр.
+Минимальный отрезок 50мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=139</xmlurl>
+</group>
+<group>
+<id>62</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметич. RTW 24V 60 2x [+RGB]</name>
+<descript>Герметичная лента 5 метров, 24В, светодиоды smd 5060, 60шт на метр.
+Минимальный отрезок 100мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=62</xmlurl>
+</group>
+<group>
+<id>725</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>с драйвером ARL 220V 50 5060 2x</name>
+<descript>Новая лента со встроенным драйвером на 220В.
+Длина 10 метров, светодиоды smd 5060 50шт на метр. Мин.отрезок 500мм, 25 светодиодов. Герметичная оболочка IP65.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=725</xmlurl>
+</group>
+<group>
+<id>614</id>
+<parent>335</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые CC токовые</name>
+<descript>Профессиональная лента без резисторов. Питание от стабилизированного источника тока. Для освещения и засветки больших площадей. Расчет источника тока по длине ленты.
+Светодиоды smd 5060, 30-60шт на метр.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=614</xmlurl>
+</group>
+<group>
+<id>177</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты LUX smd 2835</name>
+<descript>Лента класса LUX на чип-светодиодах smd 2835 (Gold Wire 99.99%) нового поколения, отличаются высокой светоотдачей &gt;100 люмен/Вт и превосходной цветопередачей CRI(Ra)&gt;80.
+Медная 2-хслойная плата белого цвета.</descript>
+<xmlurl/></group>
+<group>
+<id>723</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 30 2835</name>
+<descript>Лента 5 метров, 12В, новые светодиоды smd 2835, 30шт на метр. Эффективность &gt;100 лм/Вт.
+Минимальный отрезок 100мм, 3 светодиода. CRI&gt;94</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=723</xmlurl>
+</group>
+<group>
+<id>209</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 60 2835</name>
+<descript>Лента 5 метров, 12В, новые светодиоды smd 2835, 60шт на метр. Эффективность &gt;100 лм/Вт.
+Минимальный отрезок 50мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=209</xmlurl>
+</group>
+<group>
+<id>744</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 60 2835</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=744</xmlurl>
+</group>
+<group>
+<id>638</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые IC 24V 60 2835 [25 метров]</name>
+<descript>Лента со встроенными стабилизаторами тока IC, отсутствие падения напряжения по всей длине 25м.
+Питание 24В, новые светодиоды smd 2835, 60шт на метр. Эффективность &gt;100 лм/Вт.
+Минимальный отрезок 50мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=638</xmlurl>
+</group>
+<group>
+<id>754</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 98 2835 1.6x</name>
+<descript>Лента 5 метров, 24В, новые светодиоды smd 2835, 98шт на метр. Эффективность &gt;100 лм/Вт.
+Минимальный отрезок 71мм, 7 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=754</xmlurl>
+</group>
+<group>
+<id>210</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 120 2835 2x</name>
+<descript>Лента 5 метров, 24В, новые светодиоды smd 2835, 120шт на метр. Эффективность &gt;100 лм/Вт.
+Минимальный отрезок 50мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=210</xmlurl>
+</group>
+<group>
+<id>709</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 168 2835 3x</name>
+<descript>Лента 5 метров, 24В, новые светодиоды smd 2835, 168шт на метр (в линию), 22 Вт/м. Эффективность &gt;100 лм/Вт.
+Минимальный отрезок 41.7мм, 7 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=709</xmlurl>
+</group>
+<group>
+<id>708</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 196 2835 2х2</name>
+<descript>Лента 5 метров, 24В, новые светодиоды smd 2835, 196шт на метр (в 2 линии), 25 Вт/м. Эффективность &gt;100 лм/Вт. Ширина 15мм.
+Минимальный отрезок 71.4мм, 14 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=708</xmlurl>
+</group>
+<group>
+<id>743</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 252 2835 3x2</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=743</xmlurl>
+</group>
+<group>
+<id>707</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 280 2835 4х2</name>
+<descript>Лента 2.5 метра, 24В, новые светодиоды smd 2835, 280шт на метр (в 4 линии), 36 Вт/м. Эффективность &gt;100 лм/Вт. Ширина 36мм.
+Минимальный отрезок 100мм, 28 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=707</xmlurl>
+</group>
+<group>
+<id>706</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 350 2835 5х2</name>
+<descript>Лента 2.5 метра, 24В, новые светодиоды smd 2835, 280шт на метр (5 линий), 44 Вт/м. Эффективность &gt;100 лм/Вт. Ширина 58мм.
+Минимальный отрезок 100мм, 35 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=706</xmlurl>
+</group>
+<group>
+<id>755</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичные RTW 12V 60 2835</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=755</xmlurl>
+</group>
+<group>
+<id>756</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичные RTW 24V 60 2835</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=756</xmlurl>
+</group>
+<group>
+<id>758</id>
+<parent>177</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичные RTW 24V 120 2835 2x</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=758</xmlurl>
+</group>
+<group>
+<id>656</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты LUX smd 5630 [+ULTRA]</name>
+<descript>Светодиодная лента класса LUX на мощных 0.5Вт чип-светодиодах smd 5630 (Gold Wire 99.99%). Высочайшая плотность светового потока с 1 метра ленты. Требуется установка на алюминиевый профиль.</descript>
+<xmlurl/></group>
+<group>
+<id>729</id>
+<parent>656</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые 12V 30 5630</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=729</xmlurl>
+</group>
+<group>
+<id>517</id>
+<parent>656</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые ULTRA 12V 30 5630</name>
+<descript>Лента 5 метров, 12В, мощные светодиоды smd 5630, 30шт на метр, 16 Вт/м.
+Минимальный отрезок 100мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=517</xmlurl>
+</group>
+<group>
+<id>730</id>
+<parent>656</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые 24V 60 5630 2x</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=730</xmlurl>
+</group>
+<group>
+<id>518</id>
+<parent>656</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые ULTRA 24V 60 5630 2x</name>
+<descript>2 серии мощных лент, 5 метров, 24В, светодиоды smd 5630, 60шт/м. Серия &quot;2xH&quot; 19.2 Вт/м. Серия &quot;2x&quot; 30 Вт/м.
+Минимальный отрезок 100мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=518</xmlurl>
+</group>
+<group>
+<id>727</id>
+<parent>656</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые IC2 24V 120 5630 4x</name>
+<descript>серия мощных лент, 5 метров, 24В, светодиоды smd 5630, 120шт/м в одну линию! мощность 25 Вт/м.
+Минимальный отрезок 50мм, 6 светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=727</xmlurl>
+</group>
+<group>
+<id>465</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты RGBW мультицвет, MIX белые</name>
+<descript>Мультицветные RGBW-ленты класса LUX с дополнительными белыми светодиодами. MIX-ленты с изменяемой цветовой температурой.</descript>
+<xmlurl/></group>
+<group>
+<id>683</id>
+<parent>465</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые MIX [3528, 5060, 5630]</name>
+<descript>Ленты с изменяемой цветовой температурой. Использование светодиодов 2-х оттенков, теплого и холодного, дает возможность регулировать оттенок белого в широком диапазоне при помощи MIX-диммеров.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=683</xmlurl>
+</group>
+<group>
+<id>681</id>
+<parent>465</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RGBW 24V 60 5060 2x</name>
+<descript>Лента со светодиодами RGB/W smd 5050 в линию (плата 10мм). Чередование RGB и W (белых) светодиодов. Выделенный белый канал. Мощность каналов R/G/B 2.4Вт/м, канал &quot;W&quot; белого свечения 7.2Вт/м.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=681</xmlurl>
+</group>
+<group>
+<id>466</id>
+<parent>465</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RGBW-One 24V 60 5060 2x</name>
+<descript>Лента со светодиодами RGBW-One (4 цвета в одном) smd 5050 в линию (плата 12мм). Выделенный белый канал. Равномерное распределение мощности R/G/B/W по 4.8Вт/м на канал. Идеальный баланс смешения цветов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=466</xmlurl>
+</group>
+<group>
+<id>682</id>
+<parent>465</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RGBW 24V 144 5060 2x2</name>
+<descript>Лента со светодиодами RGB/W smd 5050 в 2 ряда (плата 19мм). Первый ряд - светодиоды RGB, второй ряд - белые светодиоды. Мощность каналов R/G/B 5.4Вт/м, W-канал 16Вт/м.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=682</xmlurl>
+</group>
+<group>
+<id>760</id>
+<parent>465</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичная MIX [3528, 5060]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=760</xmlurl>
+</group>
+<group>
+<id>178</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты RGB бегущий огонь</name>
+<descript>Ленты RGB с индивидуальным управлением светодиодами (или &quot;пикселями&quot;-группами светодиодов) при помощи микросхемы. Управление цифровым сигналом SPI/DMX позволяет получить динамические эффекты по всей длине ленты.</descript>
+<xmlurl/></group>
+<group>
+<id>685</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 5V 30 5060</name>
+<descript>Лента &quot;бегущий огонь&quot; 5м, питание 5В, 7.2Вт/м. Светодиоды smd 5060RGB со встроенной микросхемой, 30шт/м, управление по 1шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=685</xmlurl>
+</group>
+<group>
+<id>686</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 12V 30 5060</name>
+<descript>Лента &quot;бегущий огонь&quot; 5м, питание 12В, 6.5Вт/м. Светодиоды smd 5060RGB 30шт/м. Микросхема на плате, управление по 3шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=686</xmlurl>
+</group>
+<group>
+<id>691</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 12V 32 5060</name>
+<descript>Лента &quot;бегущий огонь&quot; 5м, питание 12В, 12Вт/м. Светодиоды smd 5060RGB 32шт/м. Микросхема на плате, управление по 1шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=691</xmlurl>
+</group>
+<group>
+<id>692</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 12V 48 5060</name>
+<descript>Лента &quot;бегущий огонь&quot; 5м, питание 12В, 10Вт/м. Светодиоды smd 5060RGB 48шт/м. Микросхема на плате, управление по 3шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=692</xmlurl>
+</group>
+<group>
+<id>693</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 12V 60 5060 2x</name>
+<descript>Лента &quot;бегущий огонь&quot; 5м, питание 12В, 14.4Вт/м. Светодиоды smd 5060RGB 60шт/м. Микросхема на плате, управление по 3шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=693</xmlurl>
+</group>
+<group>
+<id>687</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 5V 60 5060 2x</name>
+<descript>Лента &quot;бегущий огонь&quot; 2.5м-5м, питание 5В, 14.4Вт/м. Светодиоды smd 5060RGB со встроенной микросхемой, 60шт/м, управление по 1шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=687</xmlurl>
+</group>
+<group>
+<id>767</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 12V 120 5060 4x</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=767</xmlurl>
+</group>
+<group>
+<id>688</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>SPI 5V 144 5060 5x</name>
+<descript>Лента &quot;бегущий огонь&quot; 2.5м, питание 5В, 35Вт/м. Светодиоды smd 5060RGB со встроенной микросхемой, 144шт/м, управление по 1шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=688</xmlurl>
+</group>
+<group>
+<id>585</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>DMX 12/24V 5060</name>
+<descript>Лента 5м с управлением по протоколу DMX-512, питание 24В, 7.8Вт/м. Светодиоды smd 5060RGB 36шт/м. Микросхема на плате, управление по 6шт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=585</xmlurl>
+</group>
+<group>
+<id>610</id>
+<parent>178</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>комплекты SPI 12V с пультом</name>
+<descript>Коробочные комплекты ленты со встроенным контроллером и пультом. Длина 2м/3м/5м, питание 12В. Для включения нужен адаптер на 12В.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=610</xmlurl>
+</group>
+<group>
+<id>717</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты LUX smd 3014, 3020</name>
+<descript>Ленты на светодиодах малых размеров smd 3014 (3.0x1.4мм) и smd 3020 (3.0x2.0мм) отличаются необычным рисунком свечения при высокой яркости.</descript>
+<xmlurl/></group>
+<group>
+<id>356</id>
+<parent>717</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 60 3014</name>
+<descript>Принципиально новый тип многоцветных (RGB) лент с управлением каждого светодиода. Это позволяет создавать разнообразные эффекты &quot;бегущих огней&quot;, недостижимые на обычных RGB-лентах. Дополнительно требуется контроллер для создания эффектов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=356</xmlurl>
+</group>
+<group>
+<id>696</id>
+<parent>717</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 12V 120 3014 2x</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=696</xmlurl>
+</group>
+<group>
+<id>580</id>
+<parent>717</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT 24V 120 3020</name>
+<descript>Гибкая 5м светодиодная лента с размером smd 30x14мм, 30x20мм, с клеевой основой для интерьерной подсветки ниш, потолков, мебели и т.п. Эту ленту можно использовать для подсветки рекламных букв, знаков, витрин.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=580</xmlurl>
+</group>
+<group>
+<id>111</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты с фигурной платой [RZ, RV, DIP]</name>
+<descript>Серии гибких лент с фигурной платой, дающей дополнительные возможности изгибания, удобные для подсветки рекламных букв, знаков, витрин.</descript>
+<xmlurl/></group>
+<group>
+<id>655</id>
+<parent>111</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>&quot;волна&quot; RZ 12V 48 5060</name>
+<descript>Лента с фигурной платой в форме &quot;волны&quot;, позволяющей изгибать ленту на плоскости по радиусу и под углом. Светодиоды smd 5060 (48шт/м).
+Минимальный отрезок 63мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=655</xmlurl>
+</group>
+<group>
+<id>674</id>
+<parent>111</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>боковое свечение RV 12V 60 5060 2x</name>
+<descript>Гибкая лента бокового свечения со светодиодами smd 5060, расположенными на выступах платы под углом 90 градусов. Идеально для торцевой подсветки сложных контуров букв, знаков, фигур.
+Длина 5м, 12В, 14.4 Вт/м.
+Минимальный отрезок 16.5мм, 1 светодиод.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=674</xmlurl>
+</group>
+<group>
+<id>358</id>
+<parent>111</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичные DIP LED 12V 96</name>
+<descript>Герметичная лента 0.96м в мягкой силиконовой оболочке, изгибается в любом направлении, светодиоды цилиндр 5мм. Подходит для создания контуров букв, знаков.
+Светодиоды 96шт/м.
+Минимальный отрезок 30мм, 3 светодиода.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=358</xmlurl>
+</group>
+<group>
+<id>624</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты LUX smd 335 боковое свеч.</name>
+<descript>Ленты на светодиодах smd 335 (3.0x3.5мм) с боковым свечением. Если у обычных лент свет выходит &quot;вверх&quot; (перпендикулярно) плоскости, то у боковых лент свет распространяется вдоль плоскости.</descript>
+<xmlurl/></group>
+<group>
+<id>551</id>
+<parent>624</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RS 12V 60</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=551</xmlurl>
+</group>
+<group>
+<id>552</id>
+<parent>624</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RS 12V 120 2x</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=552</xmlurl>
+</group>
+<group>
+<id>353</id>
+<parent>624</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RS 24V 120 2x</name>
+<descript>Гибкая 5м светодиодная лента smd 335, 12V. Особенность этих лент в направленности свечения: ленты излучают свет как бы из тонкого торца. Поэтому эти ленты лучше всего подходят для объемной рекламы: буквы, знаки, линии, обводка.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=353</xmlurl>
+</group>
+<group>
+<id>759</id>
+<parent>624</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичные RSW 24V 120 2x</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=759</xmlurl>
+</group>
+<group>
+<id>212</id>
+<parent>624</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>герметичные RSW 12V 120 2x</name>
+<descript>Герметичная лента 5м бокового свечения smd 335 в силиконовой трубке + заполняющий клей. Особенность этих лент в направленности свечения: ленты излучают свет как бы из тонкого торца. Двойная плотность светодиодов</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=212</xmlurl>
+</group>
+<group>
+<id>471</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Ленты NormaLED</name>
+<descript>Качественные ленты на светодиодах smd 3528/5060 экономичной серии, с долгим сроком службы.</descript>
+<xmlurl/></group>
+<group>
+<id>547</id>
+<parent>471</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT2 12V 3528</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=547</xmlurl>
+</group>
+<group>
+<id>549</id>
+<parent>471</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>открытые RT2 12V 5050</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=549</xmlurl>
+</group>
+<group>
+<id>405</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>Коннекторы, клипсы</name>
+<descript>Разъемы и коннекторы для соединения отрезков лент. Аксессуары - провода, клипсы, заглушки.</descript>
+<xmlurl/></group>
+<group>
+<id>467</id>
+<parent>405</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>Коннекторы FIX, MONO, RGB</name>
+<descript>Разъемы и коннекторы для соединения отрезков лент механическим способом, без пайки. Рекомендуется только для небольших отрезков (ток нагрузки менее 2А) и для использования в помещениях.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=467</xmlurl>
+</group>
+<group>
+<id>662</id>
+<parent>405</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>Провода, клипсы, заглушки</name>
+<descript>RGB проводы (4 цветные жилы). Клипсы для фиксации лент. Заглушки для герметизации.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=662</xmlurl>
+</group>
+<group>
+<id>461</id>
+<parent>332</parent>
+<category>2</category>
+<enclosure>1</enclosure>
+<name>POS-материалы</name>
+<descript>Стенды светодиодных лент Arlight для оформления офисов и точек продаж.</descript>
+<xmlurl/></group>
+<group>
+<id>587</id>
+<parent>461</parent>
+<category>2</category>
+<enclosure>0</enclosure>
+<name>Стенды</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=587</xmlurl>
+</group>
+<group>
+<id>64</id>
+<parent>1</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>Блоки питания</name>
+<descript>Источники напряжения и тока для любых применений. Питание светодиодных лент, мощных светодиодов, светильников, промышленных и видеоустройств, охранных сигнализаций.</descript>
+<xmlurl/></group>
+<group>
+<id>76</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>AC/DC источники напряжения 5V</name>
+<descript>Источники стабилизированного напряжения для лент или устройств с питанием 5 Вольт (DC 5V). В открытых (кожух, сетка) или герметичных (защита от влаги и пыли) корпусах.</descript>
+<xmlurl/></group>
+<group>
+<id>78</id>
+<parent>76</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Герметичные [IP67, металл, пластик]</name>
+<descript>Герметичные источники питания могут эксплуатироваться в условиях повышенной влажности и обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=78</xmlurl>
+</group>
+<group>
+<id>366</id>
+<parent>76</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>в защитном кожухе</name>
+<descript>Негерметичные источники питания в металлическом кожухе, стабилизированные по напряжению 5 вольт, подходят для лент, линеек, лампочек и различных устройств.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=366</xmlurl>
+</group>
+<group>
+<id>79</id>
+<parent>76</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Малогабаритные [3W-12W]</name>
+<descript>Малогабаритные источники питания для мощных светодиодов и изделий из них, стабилизированные по напряжению 5 вольт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=79</xmlurl>
+</group>
+<group>
+<id>150</id>
+<parent>76</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Сетевые адаптеры</name>
+<descript>Сетевые  источники питания для мощных светодиодов обеспечивают стабилизацию по току, что является важным требованием для нормальной работы мощных светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=150</xmlurl>
+</group>
+<group>
+<id>129</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>AC/DC источники напряжения 12V</name>
+<descript>Источники стабилизированного напряжения для лент или устройств с питанием 12 Вольт (DC 12V). В открытых (кожух, сетка) или герметичных (защита от влаги и пыли) корпусах.</descript>
+<xmlurl/></group>
+<group>
+<id>132</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Герметичные [IP67, металл]</name>
+<descript>Герметичные источники питания могут эксплуатироваться в условиях повышенной влажности и обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий. Металлический корпус.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=132</xmlurl>
+</group>
+<group>
+<id>214</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>герметичные [IP67, пластик]</name>
+<descript>Герметичные источники питания могут эксплуатироваться в условиях повышенной влажности и обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий. Пластиковый корпус.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=214</xmlurl>
+</group>
+<group>
+<id>130</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>в защитном кожухе</name>
+<descript>Негерметичные источники питания в металлическом кожухе, стабилизированные по напряжению 12 вольт, подходят для лент, линеек, лампочек и различных устройств.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=130</xmlurl>
+</group>
+<group>
+<id>607</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>компактные [IP20, пластик]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=607</xmlurl>
+</group>
+<group>
+<id>291</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>сверхтонкие [IP20, пластик, металл]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=291</xmlurl>
+</group>
+<group>
+<id>173</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>сетевые адаптеры</name>
+<descript>Сетевые  источники питания для мощных светодиодов обеспечивают стабилизацию по току, что является важным требованием для нормальной работы мощных светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=173</xmlurl>
+</group>
+<group>
+<id>591</id>
+<parent>129</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>диммируемые</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=591</xmlurl>
+</group>
+<group>
+<id>77</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>AC/DC источники напряжения 24V</name>
+<descript>Источники стабилизированного напряжения для лент или устройств с питанием 24 Вольт (DC 24V). В открытых (кожух, сетка) или герметичных (защита от влаги и пыли) корпусах.</descript>
+<xmlurl/></group>
+<group>
+<id>88</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>герметичные [IP67, металл]</name>
+<descript>Герметичные источники питания могут эксплуатироваться в условиях повышенной влажности и обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий. Металлический корпус.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=88</xmlurl>
+</group>
+<group>
+<id>215</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>герметичные [IP67, пластик]</name>
+<descript>Герметичные источники питания могут эксплуатироваться в условиях повышенной влажности и обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий. Пластиковый корпус.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=215</xmlurl>
+</group>
+<group>
+<id>47</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>в защитном кожухе</name>
+<descript>Негерметичные источники питания в металлическом кожухе, стабилизированные по напряжению 24 вольт, подходят для лент, линеек, лампочек и различных устройств.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=47</xmlurl>
+</group>
+<group>
+<id>608</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>компактные [IP20, пластик]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=608</xmlurl>
+</group>
+<group>
+<id>147</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>сверхтонкие [IP20, пластик, металл]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=147</xmlurl>
+</group>
+<group>
+<id>174</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>сетевые адаптеры</name>
+<descript>Сетевые  источники питания для мощных светодиодов обеспечивают стабилизацию по току, что является важным требованием для нормальной работы мощных светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=174</xmlurl>
+</group>
+<group>
+<id>592</id>
+<parent>77</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>диммируемые</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=592</xmlurl>
+</group>
+<group>
+<id>513</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>AC/DC источники напряжения 36V</name>
+<descript>Источники стабилизированного напряжения для лент или устройств с питанием 36 Вольт (DC 36V). В открытых (кожух, сетка) или герметичных (защита от влаги и пыли) корпусах.</descript>
+<xmlurl/></group>
+<group>
+<id>583</id>
+<parent>513</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>герметичные [IP67, металл, пластик]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=583</xmlurl>
+</group>
+<group>
+<id>514</id>
+<parent>513</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>в защитном кожухе</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=514</xmlurl>
+</group>
+<group>
+<id>179</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>AC/DC источники напряжения 48V</name>
+<descript>Источники стабилизированного напряжения для лент или устройств с питанием 48 Вольт (DC 48V). В открытых (кожух, сетка) или герметичных (защита от влаги и пыли) корпусах.</descript>
+<xmlurl/></group>
+<group>
+<id>180</id>
+<parent>179</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>герметичные [IP67, металл, пластик]</name>
+<descript>Герметичные источники питания могут эксплуатироваться в условиях повышенной влажности и обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий. Металлический корпус.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=180</xmlurl>
+</group>
+<group>
+<id>117</id>
+<parent>179</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>в защитном кожухе</name>
+<descript>Негерметичные источники питания в металлическом кожухе, стабилизированные по напряжению 48 вольт, подходят для лент, линеек, лампочек и различных устройств.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=117</xmlurl>
+</group>
+<group>
+<id>73</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>Источники тока [для мощных светодиодов]</name>
+<descript>Источники стабилизированного тока от 150 до 4200 mA (включая 350/700/1400mA) для мощных светодиодов и светодиодных светильников. В открытых (кожух, сетка) или герметичных (защита от влаги и пыли) корпусах.</descript>
+<xmlurl/></group>
+<group>
+<id>482</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 150mA]</name>
+<descript>Светодиодные драйверы с функцией диммирования позволяют управлять яркостью св/в сигналом с напряжением 0-10V. Источником могут быть св/д диммеры, контроллеры и др. оборудование, что позволяет созд. интеллектуальные системы управления освещения.
+интел</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=482</xmlurl>
+</group>
+<group>
+<id>83</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 300-350mA]</name>
+<descript>Источники питания AC/DC для мощных светодиодов со стабилизированным выходным током.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=83</xmlurl>
+</group>
+<group>
+<id>609</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 500-600mA]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=609</xmlurl>
+</group>
+<group>
+<id>368</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 700 mA]</name>
+<descript>Источники питания AC/DC для мощных светодиодов со стабилизированным выходным током от 450 mA до 700 mA.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=368</xmlurl>
+</group>
+<group>
+<id>84</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 1000-1200 mA]</name>
+<descript>Источники питания AC/DC для мощных светодиодов со стабилизированным выходным током свыше 1000 mA.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=84</xmlurl>
+</group>
+<group>
+<id>478</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 1400 mA]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=478</xmlurl>
+</group>
+<group>
+<id>89</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 1750-2450 mA]</name>
+<descript>Малогабаритные источники питания для мощных светодиодов и изделий из них, стабилизированные по напряжению 24 вольт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=89</xmlurl>
+</group>
+<group>
+<id>131</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 2650-5250 mA]</name>
+<descript>Малогабаритные источники питания для мощных светодиодов и изделий из них, стабилизированные по напряжению 12 вольт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=131</xmlurl>
+</group>
+<group>
+<id>116</id>
+<parent>73</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>DC/DC 12-24V [ток 350-1000 mA]</name>
+<descript>Автомобильные источники питания DC/DC 12-24V для мощных светодиодов обеспечивают стабилизацию по току, что является важным требованием для нормальной работы мощных светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=116</xmlurl>
+</group>
+<group>
+<id>396</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>Источники тока [для светодиодных ламп]</name>
+<descript>Компактные источники стабилизированного тока от 300 до 700 mA для питания светодиодных цокольных ламп.</descript>
+<xmlurl/></group>
+<group>
+<id>211</id>
+<parent>396</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>AC/DC [ток 300-700 mA]</name>
+<descript>Компактные встраиваемые драйверы (источники тока) для светодиодных ламп.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=211</xmlurl>
+</group>
+<group>
+<id>480</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>Диммируемые источники тока</name>
+<descript>Источники стабилизированного тока (драйверы) с входом для сигналов управления функцией диммирования. Позволяют регулировать яркость светодиодных светильников.</descript>
+<xmlurl/></group>
+<group>
+<id>481</id>
+<parent>480</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Управление TRIAC dimmer 220V</name>
+<descript>Светодиодные драйверы с функцией диммирования позволяют управлять яркостью светодиодов с помощью стандартного диммера &quot;Triac&quot;. Можно использовать стандартный светорегулятор, подключив его в разрыв одного из сетевых проводов 220V, питающих драйвер.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=481</xmlurl>
+</group>
+<group>
+<id>483</id>
+<parent>480</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Управление 0-10V и потенциометром</name>
+<descript>Светодиодные драйверы с функцией диммирования управляют яркостью светодиодов при помощи потенциометра. Простая конструкция управления
+позволяет применять драйверы в создании новых осветительных приборов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=483</xmlurl>
+</group>
+<group>
+<id>777</id>
+<parent>480</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>Управление DALI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=777</xmlurl>
+</group>
+<group>
+<id>751</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>AC/DC источники напряжения 12V+24V</name>
+<descript>2-х канальные источники питания.</descript>
+<xmlurl/></group>
+<group>
+<id>752</id>
+<parent>751</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>в защитном кожухе, 2 канала</name>
+<descript>Источники напряжения с 2-мя выходными каналами 12В+24В</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=752</xmlurl>
+</group>
+<group>
+<id>182</id>
+<parent>64</parent>
+<category>6</category>
+<enclosure>1</enclosure>
+<name>DC/DC стабилизаторы 12V</name>
+<descript>Источники питания 12 вольт DC/DC могут обеспечивают стабилизированное напряжение, что увеличивает срок службы светодиодных изделий.</descript>
+<xmlurl/></group>
+<group>
+<id>183</id>
+<parent>182</parent>
+<category>6</category>
+<enclosure>0</enclosure>
+<name>авто [15W-20W]</name>
+<descript>Малогабаритные источники питания DC/DC для мощных светодиодов и изделий из них, стабилизированные по напряжению 12 вольт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=183</xmlurl>
+</group>
+<group>
+<id>392</id>
+<parent>1</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Управление светом</name>
+<descript>Контроллеры, декодеры и диммеры для управления яркостью и цветом светодиодных лент, линеек или модулей. Подключение ШИМ по схеме общий анод (плюс, +). Управление ШИМ (PWM), SPI, DMX, DALI устройствами.</descript>
+<xmlurl/></group>
+<group>
+<id>53</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>RGB, RGBW контроллеры</name>
+<descript>Для управления яркостью и цветом светодиодных лент, линеек или модулей аналоговым сигналом ШИМ. RGB - 3 канала управления (3 цвета/4 провода), RGBW - 4 канала управления (4 цвета/5 проводов).</descript>
+<xmlurl/></group>
+<group>
+<id>133</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>комплекты с пультом</name>
+<descript>RGB-контроллеры для световых эффектов имеют несколько заводских программ и могут комплектоваться инфракрасным пультом. Для увеличения подключаемой нагрузки необходимо использовать RGB-усилители.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=133</xmlurl>
+</group>
+<group>
+<id>367</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>пульты,контроллеры раздельно[SR]</name>
+<descript>RGB-контроллеры для световых эффектов имеют несколько заводских программ и могут комплектоваться радио пультом. Для увеличения подключаемой нагрузки необходимо использовать RGB-усилители.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=367</xmlurl>
+</group>
+<group>
+<id>409</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>пульты, контроллеры раздельно</name>
+<descript>RGB-контроллеры для световых эффектов имеют несколько заводских программ и могут комплектоваться радио пультом с сенсорным кольцом.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=409</xmlurl>
+</group>
+<group>
+<id>735</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>накладные/настольные панели</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=735</xmlurl>
+</group>
+<group>
+<id>452</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>встраиваемые панели</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=452</xmlurl>
+</group>
+<group>
+<id>135</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>управление аудио-входом</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=135</xmlurl>
+</group>
+<group>
+<id>176</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>управление телефоном [Wi-Fi]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=176</xmlurl>
+</group>
+<group>
+<id>122</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>кнопочные [без пульта]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=122</xmlurl>
+</group>
+<group>
+<id>540</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>усилители [PWM/ШИМ]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=540</xmlurl>
+</group>
+<group>
+<id>718</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>Токовые контроллеры</name>
+<descript>RGB-контроллеры имеют вход 220 В или 12-36 В и выход стабилизированного тока для управления и диммирования светильников, комплектуются радиопультами (отдельно). Для увеличения подключаемой нагрузки необходимо использовать токовые RGB-усилители.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=718</xmlurl>
+</group>
+<group>
+<id>719</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>конверторы PWM/ШИМ в ток</name>
+<descript>токовые усилители для увеличения количества светильников, подключаемых к одному токовому контроллеру</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=719</xmlurl>
+</group>
+<group>
+<id>736</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>держатели пультов</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=736</xmlurl>
+</group>
+<group>
+<id>600</id>
+<parent>53</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>коннекторы</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=600</xmlurl>
+</group>
+<group>
+<id>557</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>MIX контроллеры для White лент</name>
+<descript>Тонкая настройка оттенка свечения и яркости светодиодных лент класса MIX. Управление аналоговым сигналом ШИМ. MIX - 2 канала управления (2 оттенка/3 провода), TRIX - 3 канала управления (3 оттенка/4 провода).</descript>
+<xmlurl/></group>
+<group>
+<id>579</id>
+<parent>557</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>комплекты с пультом</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=579</xmlurl>
+</group>
+<group>
+<id>166</id>
+<parent>557</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>пульты, контроллеры [раздельно]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=166</xmlurl>
+</group>
+<group>
+<id>496</id>
+<parent>557</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>серия SR</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=496</xmlurl>
+</group>
+<group>
+<id>558</id>
+<parent>557</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>встраиваемые панели</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=558</xmlurl>
+</group>
+<group>
+<id>159</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Диммеры</name>
+<descript>Регулировка яркости свечения белых (или одноцветных) светодиодных лент. Управление аналоговым сигналом ШИМ. 1 канал управления (1 цвет/2 провода).</descript>
+<xmlurl/></group>
+<group>
+<id>305</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>комплекты с пультом</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=305</xmlurl>
+</group>
+<group>
+<id>560</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>пульты, диммеры [раздельно]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=560</xmlurl>
+</group>
+<group>
+<id>167</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>SR пульты, диммеры [раздельно]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=167</xmlurl>
+</group>
+<group>
+<id>720</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>токовые диммеры</name>
+<descript>диммеры с выходом стабилизированного тока для управления светильниками</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=720</xmlurl>
+</group>
+<group>
+<id>169</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>встраиваемые панели</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=169</xmlurl>
+</group>
+<group>
+<id>774</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>накладные/настольные панели</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=774</xmlurl>
+</group>
+<group>
+<id>118</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>с потенциометром</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=118</xmlurl>
+</group>
+<group>
+<id>170</id>
+<parent>159</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>кнопочные [без пульта]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=170</xmlurl>
+</group>
+<group>
+<id>160</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Диммеры с управлением 0-10V</name>
+<descript>Регулировка яркости свечения белых (или одноцветных) светодиодных лент сигналом управления 0/1-10V (вход) - ШИМ (выход). 1 канал управления (1 цвет/2 провода).</descript>
+<xmlurl/></group>
+<group>
+<id>403</id>
+<parent>160</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>встраиваемые панели [выход 0-10V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=403</xmlurl>
+</group>
+<group>
+<id>497</id>
+<parent>160</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>диммеры вход 0-10V [вых.12-24V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=497</xmlurl>
+</group>
+<group>
+<id>411</id>
+<parent>160</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>токовые диммеры вход 0-10V</name>
+<descript>Диммеры DALI (интерфейс “умного” дома) для светодиодных лент.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=411</xmlurl>
+</group>
+<group>
+<id>563</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Диммеры с управлением TRIAC</name>
+<descript>Регулировка яркости свечения белых (или одноцветных) светодиодных лент тиристорным диммером TRIAC (вход) - ШИМ (выход). 1 канал управления (1 цвет/2 провода).</descript>
+<xmlurl/></group>
+<group>
+<id>537</id>
+<parent>563</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>диммеры вход TRIAC [выход 12/24V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=537</xmlurl>
+</group>
+<group>
+<id>567</id>
+<parent>563</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>встраиваемые панели [TRIAC]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=567</xmlurl>
+</group>
+<group>
+<id>778</id>
+<parent>563</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>диммеры выход TRIAC [выход 220V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=778</xmlurl>
+</group>
+<group>
+<id>401</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Диммеры-выключатели с датчиком</name>
+<descript>Встраиваемые устройства управления освещением - сенсоры, датчики, выключатели, диммеры. Для мебели, зеркал, помещений.</descript>
+<xmlurl/></group>
+<group>
+<id>498</id>
+<parent>401</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>сенсор, диммер SR 12/36V [комплекты]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=498</xmlurl>
+</group>
+<group>
+<id>564</id>
+<parent>401</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>сенсор, диммер SR 12/24V [раздельно]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=564</xmlurl>
+</group>
+<group>
+<id>361</id>
+<parent>401</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>сенсор, выключатель SR-sens 12/36V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=361</xmlurl>
+</group>
+<group>
+<id>499</id>
+<parent>401</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>сенсор, выключатель SR-sens AC220V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=499</xmlurl>
+</group>
+<group>
+<id>307</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Датчики управления освещением</name>
+<descript>Сенсоры управления освещением (нагрузкой) по присутствию людей, внешней освещенности. Микроволновые и инфракрасные датчики, фотореле.</descript>
+<xmlurl/></group>
+<group>
+<id>319</id>
+<parent>307</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>микроволновые AC220V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=319</xmlurl>
+</group>
+<group>
+<id>410</id>
+<parent>307</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>инфракрасные AC220V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=410</xmlurl>
+</group>
+<group>
+<id>599</id>
+<parent>307</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>фотореле AC220V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=599</xmlurl>
+</group>
+<group>
+<id>421</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Бегущие огни, SPI, флэш-модули</name>
+<descript>Цифровые контроллеры для управления SPI/DMX модулями и лентами &quot;бегущий огонь&quot;, а также для управления медиафасадами, записанными на SD-карту программами или online через TCP/IP при помощи компьютера.</descript>
+<xmlurl/></group>
+<group>
+<id>658</id>
+<parent>421</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>контроллеры с встроен. программами</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=658</xmlurl>
+</group>
+<group>
+<id>422</id>
+<parent>421</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>контроллеры Offline с SD-картой</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=422</xmlurl>
+</group>
+<group>
+<id>538</id>
+<parent>421</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>контроллеры Online TCP/IP</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=538</xmlurl>
+</group>
+<group>
+<id>539</id>
+<parent>421</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>декодеры DMX-SPI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=539</xmlurl>
+</group>
+<group>
+<id>659</id>
+<parent>421</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>усилители</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=659</xmlurl>
+</group>
+<group>
+<id>157</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Управление DMX</name>
+<descript>Контроллеры, декодеры и усилители для работы с цифровым сигналом стандарта DMX. Встраиваемые цифровые панели для систем &quot;Умный дом&quot;.</descript>
+<xmlurl/></group>
+<group>
+<id>54</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>контроллеры DMX-512</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=54</xmlurl>
+</group>
+<group>
+<id>500</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>панели DMX512</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=500</xmlurl>
+</group>
+<group>
+<id>162</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>декодеры DMX512 [выход 12/24V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=162</xmlurl>
+</group>
+<group>
+<id>163</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>токовые декодеры DMX512</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=163</xmlurl>
+</group>
+<group>
+<id>502</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>декодеры DMX512 [выключатель 220V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=502</xmlurl>
+</group>
+<group>
+<id>384</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>усилители сигнала DMX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=384</xmlurl>
+</group>
+<group>
+<id>566</id>
+<parent>157</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>редакторы адреса DMX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=566</xmlurl>
+</group>
+<group>
+<id>485</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Управление DALI</name>
+<descript>Встраиваемые панели, диммеры и выключатели для управления освещением при помощи протокола DALI, для систем &quot;Умный дом&quot;.</descript>
+<xmlurl/></group>
+<group>
+<id>775</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>контроллеры DALI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=775</xmlurl>
+</group>
+<group>
+<id>503</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>встраиваемые панели DALI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=503</xmlurl>
+</group>
+<group>
+<id>776</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>конвертеры DALI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=776</xmlurl>
+</group>
+<group>
+<id>505</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>токовые диммеры DALI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=505</xmlurl>
+</group>
+<group>
+<id>504</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>диммеры DALI [вход 12-36V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=504</xmlurl>
+</group>
+<group>
+<id>596</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>диммеры DALI [вход 220V]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=596</xmlurl>
+</group>
+<group>
+<id>506</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>выключатели DALI 220V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=506</xmlurl>
+</group>
+<group>
+<id>750</id>
+<parent>485</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>Датчики и сервис DALI</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=750</xmlurl>
+</group>
+<group>
+<id>800</id>
+<parent>392</parent>
+<category>8</category>
+<enclosure>1</enclosure>
+<name>Управление KNX</name>
+<descript>Встраиваемые панели, диммеры и выключатели для управления освещением при помощи протокола KNX, для систем &quot;Умный дом&quot;.</descript>
+<xmlurl/></group>
+<group>
+<id>801</id>
+<parent>800</parent>
+<category>8</category>
+<enclosure>0</enclosure>
+<name>контроллеры KNX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=801</xmlurl>
+</group>
+<group>
+<id>390</id>
+<parent>1</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>Алюминиевые профили</name>
+<descript>Профили, разработанные для применения со светодиодной лентой и линейками. Оснащаются рассеивающими экранами, заглушками и креплениями.</descript>
+<xmlurl/></group>
+<group>
+<id>582</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>KLUS</name>
+<descript>Интерьерный профиль марки KLUS ведущего производителя из Европы. Огромный выбор цветов, экранов, заглушек и элементов крепления.</descript>
+<xmlurl/></group>
+<group>
+<id>200</id>
+<parent>582</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Профиль KLUS</name>
+<descript>Высококачественный алюминиевый профиль KLUS разработан для создания систем освещения и подсветки на светодиодных лентах и линейках.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=200</xmlurl>
+</group>
+<group>
+<id>399</id>
+<parent>582</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Экраны к профилю KLUS</name>
+<descript>Матовые и прозрачные защитные экраны, удобная система креплений и заглушек для профиля позволяют создавать встроенное с внешнее
+освещение для мебели и интерьеров.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=399</xmlurl>
+</group>
+<group>
+<id>56</id>
+<parent>582</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Заглушки для KLUS</name>
+<descript>Комплектующие к алюминиевому профилю: заглушки глухие и с отверстиями, заглушки кондукторные, монтажный крепеж</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=56</xmlurl>
+</group>
+<group>
+<id>462</id>
+<parent>582</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Крепёж для KLUS</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=462</xmlurl>
+</group>
+<group>
+<id>427</id>
+<parent>582</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Аксессуары для KLUS</name>
+<descript>Микровыключатели, прокладки, лента адгезивная.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=427</xmlurl>
+</group>
+<group>
+<id>649</id>
+<parent>582</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Кнопки, диммеры для KLUS</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=649</xmlurl>
+</group>
+<group>
+<id>516</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>LEDs-ON</name>
+<descript>Дизайнерский профиль марки LEDs-ON известного производителя из Европы. Высококачественные яркие (с большой светопропускной способностью) ударопрочные экраны и стильные заглушки.</descript>
+<xmlurl/></group>
+<group>
+<id>532</id>
+<parent>516</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Профиль LEDs-ON</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=532</xmlurl>
+</group>
+<group>
+<id>528</id>
+<parent>516</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Заглушки для LEDs-ON</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=528</xmlurl>
+</group>
+<group>
+<id>529</id>
+<parent>516</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Крепеж и аксессуары для LEDs-ON</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=529</xmlurl>
+</group>
+<group>
+<id>589</id>
+<parent>516</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Система профиля ALU-BASE</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=589</xmlurl>
+</group>
+<group>
+<id>770</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>ARLIGHT S-LUX</name>
+<descript>Дизайнерский профиль S-LUX от Arlight для разработки подвесных, накладных, линейных систем освещения LINE.</descript>
+<xmlurl/></group>
+<group>
+<id>575</id>
+<parent>770</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Профиль S-LUX</name>
+<descript>Дизайнерская линия LUX профиля Arlight для разработки подвесных, накладных, линейных систем освещения LINE. Включает серии профиля для интерьера.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=575</xmlurl>
+</group>
+<group>
+<id>675</id>
+<parent>770</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Экраны S-LUX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=675</xmlurl>
+</group>
+<group>
+<id>716</id>
+<parent>770</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Заглушки S-LUX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=716</xmlurl>
+</group>
+<group>
+<id>648</id>
+<parent>770</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Держатели, подвесы S-LUX</name>
+<descript>Держатели, соединители, тросы для подвешивания профиля S-LUX</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=648</xmlurl>
+</group>
+<group>
+<id>590</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>ARLIGHT ARH</name>
+<descript>Профиль серии ARH для оформления интерьеров, изготовления подвесных и встраиваемых систем освещения. Широкий модельный ряд, большой выбор экранов, креплений и подвесов.</descript>
+<xmlurl/></group>
+<group>
+<id>535</id>
+<parent>590</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Профиль ARH</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=535</xmlurl>
+</group>
+<group>
+<id>588</id>
+<parent>590</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Экраны для ARH</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=588</xmlurl>
+</group>
+<group>
+<id>536</id>
+<parent>590</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Заглушки для ARH</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=536</xmlurl>
+</group>
+<group>
+<id>721</id>
+<parent>590</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Экраны, заглушки ARH-WIDE-(B)-H20</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=721</xmlurl>
+</group>
+<group>
+<id>722</id>
+<parent>590</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Держатели и подвесы для ARH</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=722</xmlurl>
+</group>
+<group>
+<id>533</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>TOP</name>
+<descript>Профиль польского производителя Topmet находка для разработчиков и производителей мебельных и кабинетных светильников, компактных систем освещения.</descript>
+<xmlurl/></group>
+<group>
+<id>534</id>
+<parent>533</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Профиль TOP</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=534</xmlurl>
+</group>
+<group>
+<id>621</id>
+<parent>533</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Экраны к профилю TOP</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=621</xmlurl>
+</group>
+<group>
+<id>622</id>
+<parent>533</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Заглушки для TOP</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=622</xmlurl>
+</group>
+<group>
+<id>623</id>
+<parent>533</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Держатели для TOP</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=623</xmlurl>
+</group>
+<group>
+<id>527</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>SL80 для прожекторов</name>
+<descript>Мощный профиль для изготовления прожекторов с мощностью рассеивания 100-200Вт на метр профиля.</descript>
+<xmlurl/></group>
+<group>
+<id>606</id>
+<parent>527</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>SL80, SL80M</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=606</xmlurl>
+</group>
+<group>
+<id>676</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>Технический профиль</name>
+<descript>Недорогой профиль для установки лент в скрытых местах.</descript>
+<xmlurl/></group>
+<group>
+<id>702</id>
+<parent>676</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Полоса для лент</name>
+<descript>Алюминиевая неанодированная полоса для монтажа лент в скрытых местах.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=702</xmlurl>
+</group>
+<group>
+<id>470</id>
+<parent>390</parent>
+<category>11</category>
+<enclosure>1</enclosure>
+<name>POS-материалы</name>
+<descript>Стенды с алюминиевым профилем, оборудованные подсветкой для наглядной демонстрации в офисах и точках продаж.</descript>
+<xmlurl/></group>
+<group>
+<id>161</id>
+<parent>470</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Стенды, каталоги</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=161</xmlurl>
+</group>
+<group>
+<id>710</id>
+<parent>470</parent>
+<category>11</category>
+<enclosure>0</enclosure>
+<name>Образцы профиля</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=710</xmlurl>
+</group>
+<group>
+<id>431</id>
+<parent>1</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Светодиодные светильники</name>
+<descript>Современное основное и дополняющее освещение квартир, домов, офисов, кабинетов и торговых залов. Заменяют обычное освещение с коммерческой выгодой на экономии электричества и обслуживании.</descript>
+<xmlurl/></group>
+<group>
+<id>442</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Тонкие панели [встраиваемые]</name>
+<descript>Сверхтонкие панели легко встраиваются в натяжные и гипсокартонные потолки. Питание от сети 220В через драйвер (всегда есть в комплекте).
+Широкий угол освещения 120-180 градусов.</descript>
+<xmlurl/></group>
+<group>
+<id>437</id>
+<parent>442</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Круглые DL, IM</name>
+<descript>Ультратонкие светильники в алюминиевом корпусе. Заменяют лампу накаливания 100-150Вт, создавая при этом мягкое рассеянное освещение. Применяются для освещения офисов, конференц залов , аудиторий, холлов, жилых и производственных помещений.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=437</xmlurl>
+</group>
+<group>
+<id>457</id>
+<parent>442</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Квадратные DL, IM</name>
+<descript>Ультратонкие светильники в алюминиевом корпусе. Заменяют лампу накаливания 100-150Вт, создавая при этом мягкое рассеянное освещение. Применяются для освещения офисов, конференц залов , аудиторий, холлов, жилых и производственных помещений.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=457</xmlurl>
+</group>
+<group>
+<id>773</id>
+<parent>442</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Дизайнерские MD, MS</name>
+<descript>Серия дизайнерских панелей с патентованным дизайном. Плавная линия рамки с эффектом глубины.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=773</xmlurl>
+</group>
+<group>
+<id>523</id>
+<parent>442</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Стеклянная рамка LT-R, LT-S</name>
+<descript>Красивые эффектные тонкие светильники со стеклянной рамкой высокого качества.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=523</xmlurl>
+</group>
+<group>
+<id>698</id>
+<parent>442</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Стеклянная рамка CL</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=698</xmlurl>
+</group>
+<group>
+<id>445</id>
+<parent>442</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Большие панели 300-600-1200мм</name>
+<descript>Коммерческое и домашнее освещения помещений и рабочих мест. Создают приятное рассеянное освещение, просты в установке. Могут использоваться как замена светильникам типа &quot;Армстронг&quot;. Предназначены для установки в подвесные потолки, встраивания в стены</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=445</xmlurl>
+</group>
+<group>
+<id>428</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Даунлайты [встраиваемые]</name>
+<descript>Даунлайты (светильники) отличаются направленным свечением и легко встраиваются в натяжные и гипсокартонные потолки. Питание от сети 220В через драйвер (всегда есть в комплекте).</descript>
+<xmlurl/></group>
+<group>
+<id>474</id>
+<parent>428</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Широкий угол 90-120°</name>
+<descript>Встраиваемые светильники с рассеянным свечением. Диапазон мощности от 3 до 40 Ватт. Широко применяются в коммерческом освещении офисов, магазинов, торговых центров.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=474</xmlurl>
+</group>
+<group>
+<id>475</id>
+<parent>428</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Широкий угол 90°, серия IM</name>
+<descript>Встраиваемые светильники с углом свечения 90°. Серия IM обладает красивым внешним видом. Идеально подходит для домашнего и офисного освещения.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=475</xmlurl>
+</group>
+<group>
+<id>804</id>
+<parent>428</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>3 в 1, угол 90°, White CDW</name>
+<descript>Встраиваемые светильники с углом свечения 90°. Серия обладает уникальным сочетанием трех цветов свечения (белый, дневной белый, теплый белый) в одном светильнике. Идеально подходит для домашнего и офисного освещения.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=804</xmlurl>
+</group>
+<group>
+<id>699</id>
+<parent>428</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Направленные, угол 60-70°</name>
+<descript>Встраиваемые светильники с направленным свечением. Для интерьерного и офисного освещения.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=699</xmlurl>
+</group>
+<group>
+<id>574</id>
+<parent>428</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Направленные, угол 25-40°</name>
+<descript>Встраиваемые светильники с направленным узким углом свечения. Для интерьерного и офисного освещения.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=574</xmlurl>
+</group>
+<group>
+<id>766</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Потолочные [встраиваемые]</name>
+<descript>Современные стильные потолочные светильники для интерьерного освещения.</descript>
+<xmlurl/></group>
+<group>
+<id>639</id>
+<parent>766</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Белый контур SOL</name>
+<descript>Уникальные светильники с контурным свечением.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=639</xmlurl>
+</group>
+<group>
+<id>768</id>
+<parent>766</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Цветной контур SOL</name>
+<descript>Уникальные светильники с контурным свечением и цветной накладкой.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=768</xmlurl>
+</group>
+<group>
+<id>748</id>
+<parent>766</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Глянцевые LTD-Crystal</name>
+<descript>Дизайнерская серия встраиваемых светильников для дома.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=748</xmlurl>
+</group>
+<group>
+<id>784</id>
+<parent>766</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Матовые LTD-Opal</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=784</xmlurl>
+</group>
+<group>
+<id>520</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Потолочные [накладные, подвес]</name>
+<descript>Накладные светильники для любых потолков. Питание от сети 220В через драйвер (всегда есть в комплекте). Широкий угол освещения 120-180 градусов.</descript>
+<xmlurl/></group>
+<group>
+<id>189</id>
+<parent>520</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>&quot;Таблетки&quot; SP</name>
+<descript>Под &quot;таблетками&quot; подразумеваются класс популярных накладных светильников в строгом металлическом корпусе. Идеально подходят для установки на бетонные, кирпичные, деревянные потолки.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=189</xmlurl>
+</group>
+<group>
+<id>15</id>
+<parent>520</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Плафоны IM [пластик]</name>
+<descript>Накладные светильники с большим плафоном из ударопрочного пластика. Дают яркий рассеянный свет. Применяются в подъездах, тамбурах, жилых помещениях. Увеличенный срок службы до 10 лет.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=15</xmlurl>
+</group>
+<group>
+<id>733</id>
+<parent>520</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Замена в плафоны ALT</name>
+<descript>Светодиодный светильник специальной плоской компактной формы с питанием 220В для замены традиционных ламп в любых плафонных светильниках.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=733</xmlurl>
+</group>
+<group>
+<id>789</id>
+<parent>520</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Цилиндры POLO</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=789</xmlurl>
+</group>
+<group>
+<id>785</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Для подсветки стен, пола</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>665</id>
+<parent>785</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Встраиваемые в пол 12V KT</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=665</xmlurl>
+</group>
+<group>
+<id>788</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Настольные</name>
+<descript>Элитные современные светодиодные настольные светильники (лампы).</descript>
+<xmlurl/></group>
+<group>
+<id>753</id>
+<parent>788</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Для дома и офиса SP</name>
+<descript>Настольные светодиодные светильники - яркие, стильные, экономичные.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=753</xmlurl>
+</group>
+<group>
+<id>525</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Трековые системы</name>
+<descript>Подвесные светильники для трековых систем освещения витрин, магазинов, торговых залов. От галогеновых треков светодиодные выгодно отличаются низким потреблением электричества и пожаробезопасностью.</descript>
+<xmlurl/></group>
+<group>
+<id>526</id>
+<parent>525</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>LGD 220V для шины 2TRA</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=526</xmlurl>
+</group>
+<group>
+<id>339</id>
+<parent>525</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Треки и коннекторы 2TRA (1-фазные)</name>
+<descript>Аксессуары для подключения и установки трековых светильников системы 1 фаза (2 провода).</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=339</xmlurl>
+</group>
+<group>
+<id>654</id>
+<parent>525</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>LGD 220V для шины 4TRA</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=654</xmlurl>
+</group>
+<group>
+<id>653</id>
+<parent>525</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Треки и коннекторы 4TRA (3-фазные)</name>
+<descript>Аксессуары для подключения и установки трековых светильников системы 3 фазы (4 провода).</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=653</xmlurl>
+</group>
+<group>
+<id>761</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Наружная подсветка [защищенные]</name>
+<descript>Уличные светильники класса LUX для оформления частных коттеджей, таунхаусов, участков, дач. Защита IP54.</descript>
+<xmlurl/></group>
+<group>
+<id>762</id>
+<parent>761</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Настенные IP54 LGD-Wall</name>
+<descript>Настенные светильники класса LUX для оформления наружных стен частных коттеджей и таунхаусов. Защита IP54.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=762</xmlurl>
+</group>
+<group>
+<id>763</id>
+<parent>761</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Для дорожек IP54 LGD-Path</name>
+<descript>Светильники класса LUX для оформления дорожек и тротуаров частных коттеджей, участков таунхаусов, дач. Защита IP54.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=763</xmlurl>
+</group>
+<group>
+<id>424</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Прожекторы [защищенные]</name>
+<descript>Экономичные прожекторы предназначены для освещения и подсветки стен и фасадов
+зданий, усадебных участков, а также для технического и бытового освещения.</descript>
+<xmlurl/></group>
+<group>
+<id>764</id>
+<parent>424</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Сверхтонкие AIR</name>
+<descript>Сверхтонкие прожекторы серии AIR с толщиной корпуса менее 1см. Интегрированный драйвер, малый вес.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=764</xmlurl>
+</group>
+<group>
+<id>570</id>
+<parent>424</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Floodlight, угол 120°</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=570</xmlurl>
+</group>
+<group>
+<id>572</id>
+<parent>424</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Floodlight RGB</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=572</xmlurl>
+</group>
+<group>
+<id>524</id>
+<parent>424</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>С аккумулятором</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=524</xmlurl>
+</group>
+<group>
+<id>578</id>
+<parent>424</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Линейные SL80, угол 120°</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=578</xmlurl>
+</group>
+<group>
+<id>633</id>
+<parent>424</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Подвесные High Bay</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=633</xmlurl>
+</group>
+<group>
+<id>438</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Мебельные</name>
+<descript>Компактные маломощные безопасные светильнички с малым нагревом для установки в мебель, шкафы, полки.</descript>
+<xmlurl/></group>
+<group>
+<id>448</id>
+<parent>438</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Линейные 12V BAR</name>
+<descript>Линейный светодиодный светильник с прозрачным или матовым экраном. Используется для локального и декоративного освещение, подсветки мебели, столов, витрин, как замена люминесцентных ламп внутри помещений.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=448</xmlurl>
+</group>
+<group>
+<id>792</id>
+<parent>438</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Накладные 220V LTM</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=792</xmlurl>
+</group>
+<group>
+<id>521</id>
+<parent>438</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Врезные 220V LTM</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=521</xmlurl>
+</group>
+<group>
+<id>370</id>
+<parent>438</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Врезные 12V KT</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=370</xmlurl>
+</group>
+<group>
+<id>666</id>
+<parent>438</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Полкодержатели 12V KT</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=666</xmlurl>
+</group>
+<group>
+<id>418</id>
+<parent>438</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Сенсорные накладные 12V PIR</name>
+<descript>Беспроводные светодиодные светильники с сенсором. Используются для внутренней подсветки шкафов, полок, ящиков.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=418</xmlurl>
+</group>
+<group>
+<id>394</id>
+<parent>431</parent>
+<category>10</category>
+<enclosure>1</enclosure>
+<name>Акция</name>
+<descript>Качественные светильники по специальной цене, снятые с производства. Остатки на складе ограничены.</descript>
+<xmlurl/></group>
+<group>
+<id>323</id>
+<parent>394</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Споты CL [350mA/12V/220V]</name>
+<descript>Встраиваемый потолочный светодиодный светильник. Изменяемый угол наклона оси освещения.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=323</xmlurl>
+</group>
+<group>
+<id>446</id>
+<parent>394</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Тонкие панели RGB 12VDC</name>
+<descript>Мультицветные светодиодные панели помогут создать оригинальное решение интерьера бара, кафе, студии, салона и т.д. Панели управляются при помощи внешнего контроллера. Предназначены для установки в подвесные потолки, встраивания в стены.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=446</xmlurl>
+</group>
+<group>
+<id>389</id>
+<parent>394</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Даунлайт RGB+White [24V]</name>
+<descript>Мультицветные светодиодные светильники. Широко применяются для освещения в коммерческих зданиях, аудиториях, барах, местах отдыха, в качестве домашнего освещения и т.д. Яркость светильников может плавно регулироваться.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=389</xmlurl>
+</group>
+<group>
+<id>616</id>
+<parent>394</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Встраиваемые ROGU [220V]</name>
+<descript>Встраиваемые светильники ROGU со светодиодом 6W CREE (USA) эквивалент 50Вт галогенным светильникам.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=616</xmlurl>
+</group>
+<group>
+<id>326</id>
+<parent>394</parent>
+<category>10</category>
+<enclosure>0</enclosure>
+<name>Подвесные LLUM [220V]</name>
+<descript>Длинные подвесные светильники на светодиодах для освещения кабинетов и офисов.
+По выбору длина светильника 930мм, 1140мм, высота подвеса регулируется от 430мм до 1420мм.
+Строгое деловое освещение.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=326</xmlurl>
+</group>
+<group>
+<id>63</id>
+<parent>1</parent>
+<category>7</category>
+<enclosure>1</enclosure>
+<name>Светодиодные лампы</name>
+<descript>Светодиодные лампы, экологически безопасные, самый совершенный источник света. Положительная годовая экономия, многолетний срок службы. Цоколи Е27, Е14, G5.3, G4, GU9, G23, G53.</descript>
+<xmlurl/></group>
+<group>
+<id>201</id>
+<parent>63</parent>
+<category>7</category>
+<enclosure>1</enclosure>
+<name>LED для точечных светильников</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>404</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>G4 12V &quot;цилиндр&quot;</name>
+<descript>Открытые миниатюрные лампочки на светодиодах со встроенным драйвером. Форма лампы - цилиндр. Цоколь G4.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=404</xmlurl>
+</group>
+<group>
+<id>207</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>G4 12V &quot;таблетка&quot;</name>
+<descript>Открытые миниатюрные лампочки на светодиодах со встроенным драйвером. Форма лампы - таблетка, плоский круг. Цоколь G4, расположен сбоку или на торце.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=207</xmlurl>
+</group>
+<group>
+<id>256</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>G9 220V</name>
+<descript>Светодиодные лампы в корпусе &quot;Tower&quot;. Цоколь G9. Применяются для создания общего или акцентного освещения дома, в отелях, барах и ресторанах.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=256</xmlurl>
+</group>
+<group>
+<id>185</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>MR11 12V GU4</name>
+<descript>Светодиодные лампы на базе 1x2W и 3x1W светодиодов. Корпус MR11. Цоколь GU4.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=185</xmlurl>
+</group>
+<group>
+<id>342</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT MR16 12V GU5.3 (3~5W)</name>
+<descript>Светодиодные лампы на базе 1, 2, 3W светодиодов. Корпус MR16. Цоколь GU5.3.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=342</xmlurl>
+</group>
+<group>
+<id>408</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT MR16 12V GU5.3 (6~8W)</name>
+<descript>Светодиодные лампы на базе 1, 2, 3W светодиодов. Корпус MR16. Цоколь GU5.3.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=408</xmlurl>
+</group>
+<group>
+<id>456</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>MR16 220V GU5.3 (JCDR)</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=456</xmlurl>
+</group>
+<group>
+<id>188</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT GU10 220V (3~5W)</name>
+<descript>Светодиодные лампы на базе 1, 2, 3W светодиодов. Цоколь GU10.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=188</xmlurl>
+</group>
+<group>
+<id>288</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT GU10 220V (6~8W)</name>
+<descript>Светодиодные лампы на базе 2, 3W светодиодов. Цоколь GU10.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=288</xmlurl>
+</group>
+<group>
+<id>415</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT AR111 [G53, 12V]</name>
+<descript>Энергосберегающие светодиодные лампы в корпусе AR111 предназначены для замены галогенных ламп с цоколем G53 диаметром 111мм.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=415</xmlurl>
+</group>
+<group>
+<id>545</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT AR111 [GU10, 220V]</name>
+<descript>Энергосберегающие светодиодные лампы в корпусе AR111 предназначены для замены галогенных ламп с цоколем GU10 диаметром 111мм.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=545</xmlurl>
+</group>
+<group>
+<id>479</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOSPOT GX53 [220V]</name>
+<descript>Лампы с цоколем GX53 предназначены для соответствующих встраиваемых потолочных светильников.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=479</xmlurl>
+</group>
+<group>
+<id>387</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOBEAM 220V PAR30 E27</name>
+<descript>Светодиодные лампы направленного освещения. Замена параболических осветителей PAR30. Для освещения больших площадей в торговых залах, складских и торговых помещениях. Корпус PAR30 220V. Цоколь E27.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=387</xmlurl>
+</group>
+<group>
+<id>194</id>
+<parent>201</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOBEAM 220V PAR38 E27</name>
+<descript>Светодиодные лампы направленного освещения. Замена параболических осветителей PAR38. Для освещения больших площадей в торговых залах, складских и торговых помещениях. Корпус PAR38 220V. Цоколь E27.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=194</xmlurl>
+</group>
+<group>
+<id>388</id>
+<parent>63</parent>
+<category>7</category>
+<enclosure>1</enclosure>
+<name>LED общего освещения</name>
+<descript>Светодиодные лампы  на базе светодиодов общего освещения. Корпус ШАР и СВЕЧА матовый и прозрачный. Цоколи  E14, E27, G23.</descript>
+<xmlurl/></group>
+<group>
+<id>193</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOLAMP 220V СВЕЧА E14 &quot;миньон&quot;</name>
+<descript>Светодиодные лампы на базе 1x2W, 3х1W светодиодов. Корпус в форме свечи. Цоколь E14 миньон</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=193</xmlurl>
+</group>
+<group>
+<id>198</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOLAMP 220V СВЕЧА E27</name>
+<descript>Светодиодные лампы на базе 3x1W, 6х1W светодиодов. Корпус СВЕЧА 220B. Цоколь E27</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=198</xmlurl>
+</group>
+<group>
+<id>192</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOLAMP 220V ШАР E14 &quot;миньон&quot;</name>
+<descript>Светодиодные лампы на базе 3х1W светодиодов. Корпус ШАР 220B. Цоколь E14 миньон</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=192</xmlurl>
+</group>
+<group>
+<id>191</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOLAMP 220V ШАР E27</name>
+<descript>Светодиодные лампы на базе 3х1W, 5х1W, 5x2W, 7x1W, 7x2W, 9x1W светодиодов. Корпус ШАР 220B. Цоколь E27</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=191</xmlurl>
+</group>
+<group>
+<id>569</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>c пультом 220V шар E27</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=569</xmlurl>
+</group>
+<group>
+<id>386</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOCORN 220V E27</name>
+<descript>Светодиодные лампы на базе smd светодиодов и Пиранья. Корпус TOWER открытый. Цоколь Е27.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=386</xmlurl>
+</group>
+<group>
+<id>184</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOLAMP 220V G23</name>
+<descript>Светодиодные лампы на базе 3х1W светодиодов. Корпус СВЕЧА 220B. Цоколь G23</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=184</xmlurl>
+</group>
+<group>
+<id>426</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOLAMP 220V E40</name>
+<descript>Применяются для освещения помещений большой площади и открытых площадок. Идеальны для использования в местах, где замена ламп требует дополнительного оборудования и связана с дополнительными затратами.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=426</xmlurl>
+</group>
+<group>
+<id>542</id>
+<parent>388</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>малогабаритные 220V E12</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=542</xmlurl>
+</group>
+<group>
+<id>52</id>
+<parent>63</parent>
+<category>7</category>
+<enclosure>1</enclosure>
+<name>LED линейные T8</name>
+<descript>Светодиодные линейные лампы со встроенным драйвером и питанием от сети 220В. Популярная замена люминесцентных ламп Т8.</descript>
+<xmlurl/></group>
+<group>
+<id>341</id>
+<parent>52</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOTUBE Т8 600мм G13</name>
+<descript>Светодиодные лампы с цоколем G13 600mm.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=341</xmlurl>
+</group>
+<group>
+<id>190</id>
+<parent>52</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOTUBE T8 900мм G13</name>
+<descript>Светодиодные лампы на базе 1W и 2W мощных светодиодов. Корпус PAR16 220V. Цоколь Е14.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=190</xmlurl>
+</group>
+<group>
+<id>216</id>
+<parent>52</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOTUBE Т8 1200мм G13</name>
+<descript>Светодиодные лампы с цоколем G13 1200mm.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=216</xmlurl>
+</group>
+<group>
+<id>436</id>
+<parent>52</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>ECOTUBE T8 1500мм G13</name>
+<descript>Линейные светодиодные лампы с цоколем G13 1500mm.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=436</xmlurl>
+</group>
+<group>
+<id>412</id>
+<parent>63</parent>
+<category>7</category>
+<enclosure>1</enclosure>
+<name>LED дежурного освещения</name>
+<descript>Светодиодные лампы с датчиком движения для использования внутри помещений.</descript>
+<xmlurl/></group>
+<group>
+<id>413</id>
+<parent>412</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>лампы Е27 с датчиком движения</name>
+<descript>Светодиодные лампы с датчиком движения. Эффективно использовать в подсобных помещениях, тамбурах, подъездах, помещениях, где не требуется постоянное освещение. Стандартный цоколь E27.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=413</xmlurl>
+</group>
+<group>
+<id>378</id>
+<parent>63</parent>
+<category>7</category>
+<enclosure>1</enclosure>
+<name>Автомобильные лампы</name>
+<descript>Автомобильные лампы на базе светодиодов отличаются высокой яркостью, пониженным энергопотреблением и повышенной устойчивостью к механическому воздействию.</descript>
+<xmlurl/></group>
+<group>
+<id>407</id>
+<parent>378</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>Контроллеры для ходовых огней</name>
+<descript>Контроллеры автоматического управления Дневными ходовыми огнями (галогенки, светодиоды) для установки на любые автомобили.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=407</xmlurl>
+</group>
+<group>
+<id>344</id>
+<parent>378</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>бесцокольные T5 [Flat 5mm]</name>
+<descript>предназначены для подсветки мелких деталей салона: кнопок, часов и т.д.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=344</xmlurl>
+</group>
+<group>
+<id>206</id>
+<parent>378</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>бесцокольные T10 [smd 3528, 5050]</name>
+<descript>Универсальные лампа для замены габаритных огней и освещения салона. Обновит внешний вид автомобиля.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=206</xmlurl>
+</group>
+<group>
+<id>349</id>
+<parent>378</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>cалонные 28, 36, 42мм [цоколь SV8.5]</name>
+<descript>Предназначены для подсветки салона, багажного отделения, номерного знака.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=349</xmlurl>
+</group>
+<group>
+<id>106</id>
+<parent>378</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>цоколь BA9s [smd]</name>
+<descript>Экономичные лампы для замены обычных в габаритах и светильниках салона.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=106</xmlurl>
+</group>
+<group>
+<id>348</id>
+<parent>378</parent>
+<category>7</category>
+<enclosure>0</enclosure>
+<name>габаритные T25 BA15S, BAY15D [1156, 1157]</name>
+<descript>Светодиодные габаритные автолампы для замены обычных.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=348</xmlurl>
+</group>
+<group>
+<id>430</id>
+<parent>1</parent>
+<category>9</category>
+<enclosure>1</enclosure>
+<name>Модули и линейки</name>
+<descript>Компактные и яркие герметичные модули для наружной и внутренний рекламы. Управление ШИМ (аналоговое) или SPI/DMX (цифровое).</descript>
+<xmlurl/></group>
+<group>
+<id>337</id>
+<parent>430</parent>
+<category>9</category>
+<enclosure>1</enclosure>
+<name>Модули герметичные</name>
+<descript>Светодиодные герметичные модули для световой рекламы. Для сплошной засветки угол 120 градусов, с линзами угол 160 град. Для продольной подсветки направленные с линзами 15х60 градусов.</descript>
+<xmlurl/></group>
+<group>
+<id>602</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>пиксельные 9-12мм</name>
+<descript>Круглые модули для установки в отверстие.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=602</xmlurl>
+</group>
+<group>
+<id>365</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 3528 линейные</name>
+<descript>Герметичные светодиодные модули на светодиодах smd 3528 в линейном корпусе, 1-2-3 светодиода</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=365</xmlurl>
+</group>
+<group>
+<id>243</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 3528 квадратные</name>
+<descript>Герметичные светодиодные модули на светодиодах smd 3528 в квадратном корпусе, 4 светодиода</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=243</xmlurl>
+</group>
+<group>
+<id>218</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 5050 линейные</name>
+<descript>Герметичные светодиодные модули на светодиодах smd 5050 в линейном корпусе, 1-2-3 светодиода</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=218</xmlurl>
+</group>
+<group>
+<id>250</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 5050 квадратные</name>
+<descript>Герметичные светодиодные модули на светодиодах smd 5050 в квадратном корпусе, 4 светодиода</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=250</xmlurl>
+</group>
+<group>
+<id>645</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 2835 угол 120°</name>
+<descript>Герметичные светодиодные модули на эффективных светодиодах нового типа smd 2835, стандартный угол свечения 120°.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=645</xmlurl>
+</group>
+<group>
+<id>712</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 2835 угол 160° с линзой</name>
+<descript>Герметичные светодиодные модули с линзами на угол 160°, на светодиодах нового типа smd 2835. Широкий угол позволяет уменьшить толщину короба.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=712</xmlurl>
+</group>
+<group>
+<id>771</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>Batwing, угол 200°</name>
+<descript>Серия модулей с линзами на угол 200°, диаграмма &quot;летучая мышь&quot; (batwing). Применяется для засветки ультратонких коробов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=771</xmlurl>
+</group>
+<group>
+<id>541</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 5730 линейные</name>
+<descript>Герметичные светодиодные модули на мощных светодиодах smd 5730 в линейном корпусе, 1-2-3 светодиода</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=541</xmlurl>
+</group>
+<group>
+<id>713</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>smd 5730 квадратные</name>
+<descript>Герметичные светодиодные модули на мощных светодиодах smd 5730 в квадратном корпусе, 3-4 светодиода</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=713</xmlurl>
+</group>
+<group>
+<id>458</id>
+<parent>337</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>15x60° продольная засветка</name>
+<descript>Мощные модули с линзами направленного свечения 15х60° (или схожие). Применяются для продольной засветки рекламных коробов, т.е. модуль устанавливается на боковые стенки короба.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=458</xmlurl>
+</group>
+<group>
+<id>625</id>
+<parent>430</parent>
+<category>9</category>
+<enclosure>1</enclosure>
+<name>Флэш-модули</name>
+<descript>Светодиодные модули со встроенной микросхемой управления по интерфейсу SPI/DMX. Для создания динамической рекламы.</descript>
+<xmlurl/></group>
+<group>
+<id>434</id>
+<parent>625</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>флэш-модули RGB 5V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=434</xmlurl>
+</group>
+<group>
+<id>423</id>
+<parent>625</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>флэш-модули RGB 12V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=423</xmlurl>
+</group>
+<group>
+<id>626</id>
+<parent>625</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>флэш-модули RGB 24V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=626</xmlurl>
+</group>
+<group>
+<id>603</id>
+<parent>625</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>DMX-модули RGB 5-24V</name>
+<descript>Описание группы</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=603</xmlurl>
+</group>
+<group>
+<id>507</id>
+<parent>430</parent>
+<category>9</category>
+<enclosure>1</enclosure>
+<name>Сплошная засветка</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>488</id>
+<parent>507</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>листы LX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=488</xmlurl>
+</group>
+<group>
+<id>647</id>
+<parent>507</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>линейки BAR500</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=647</xmlurl>
+</group>
+<group>
+<id>336</id>
+<parent>430</parent>
+<category>9</category>
+<enclosure>1</enclosure>
+<name>Линейки</name>
+<descript>Светодиодные линейки используют вместо неона в световой рекламе, декоративном освещении, подсветке витрин, подсветке поверхностей и торцов прозрачных материалов. Низкое энергопотребление по сравнению с обычными технологиями.</descript>
+<xmlurl/></group>
+<group>
+<id>109</id>
+<parent>336</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>Напряжение 12V</name>
+<descript>Жесткие линейки с размером smd светодиода 50х60мм используются для внутренней подсветки рекламных конструкций, объемных букв, витрин, ПОС-материалов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=109</xmlurl>
+</group>
+<group>
+<id>175</id>
+<parent>336</parent>
+<category>9</category>
+<enclosure>0</enclosure>
+<name>Токовые СС</name>
+<descript>Эргономичные линейки «SunShine» на мощных светодиодах emitter обеспечивают высокую яркость свечения. Их можно использовать в декоративной подсветке и световой рекламе.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=175</xmlurl>
+</group>
+<group>
+<id>80</id>
+<parent>1</parent>
+<category>19</category>
+<enclosure>1</enclosure>
+<name>Светодиодный декор</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>581</id>
+<parent>80</parent>
+<category>19</category>
+<enclosure>1</enclosure>
+<name>Гибкий неон [ARL, NEO]</name>
+<descript>Светодиодный матовый гибкий неон яркого свечения. Отличается высокой яркостью и большим сроком службы. Для замены дюралайта, стеклянного неона.</descript>
+<xmlurl/></group>
+<group>
+<id>510</id>
+<parent>581</parent>
+<category>19</category>
+<enclosure>0</enclosure>
+<name>NEO-FX 3528</name>
+<descript>Высококачественный гибкий светодиодный неон, произведенный на заводе NEO-NEON(TM). Равномерная засветка благодаря высокой плотности светодиодов. Наличие боковых затемняющих накладок гарантирует отсутствие паразитной засветки.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=510</xmlurl>
+</group>
+<group>
+<id>694</id>
+<parent>581</parent>
+<category>19</category>
+<enclosure>0</enclosure>
+<name>аксессуары для NEO-FX</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=694</xmlurl>
+</group>
+<group>
+<id>657</id>
+<parent>581</parent>
+<category>19</category>
+<enclosure>0</enclosure>
+<name>ARL-NF 5050</name>
+<descript>Высококачественный гибкий неон на светодиодах высокой яркости smd 5050. Равномерная засветка благодаря высокой плостности светодиодов. Большой выбор оттенков свечения.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=657</xmlurl>
+</group>
+<group>
+<id>695</id>
+<parent>581</parent>
+<category>19</category>
+<enclosure>0</enclosure>
+<name>аксессуары для ARL-NF</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=695</xmlurl>
+</group>
+<group>
+<id>660</id>
+<parent>80</parent>
+<category>19</category>
+<enclosure>1</enclosure>
+<name>Декоративные нити WR-5000</name>
+<descript>Тончайшие проволочные нити со встроенными миниатюрными чип-светодиодами smd 1608 (1.6x0.8мм) высокой яркости. Нити являются цельным изделием, резка не допускается. Для декоративного оформления витрин, праздников, рекламы. Питание 12В.</descript>
+<xmlurl/></group>
+<group>
+<id>661</id>
+<parent>660</parent>
+<category>19</category>
+<enclosure>0</enclosure>
+<name>герметичные WR 12V 20 LED 1608</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=661</xmlurl>
+</group>
+<group>
+<id>219</id>
+<parent>1</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Светодиоды</name>
+<descript>Светодиоды Arlight: чипы (smd), мощные до 300Вт, выводные 3-5-8-10мм, а также установочные платы и линзы.</descript>
+<xmlurl/></group>
+<group>
+<id>220</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>ЧИП-светодиоды</name>
+<descript>ЧИП-светодиоды предназначены для поверхностного монтажа.</descript>
+<xmlurl/></group>
+<group>
+<id>221</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 0603</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=221</xmlurl>
+</group>
+<group>
+<id>222</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 0805</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=222</xmlurl>
+</group>
+<group>
+<id>224</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 1206</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=224</xmlurl>
+</group>
+<group>
+<id>137</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 2835 [2.8x3.5 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=137</xmlurl>
+</group>
+<group>
+<id>225</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 3528 [3.5х2.8 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=225</xmlurl>
+</group>
+<group>
+<id>48</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 5060 [5x5 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=48</xmlurl>
+</group>
+<group>
+<id>450</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 5730 [5.7х3.0 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=450</xmlurl>
+</group>
+<group>
+<id>223</id>
+<parent>220</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>SMD 4008 [боковое свечение]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=223</xmlurl>
+</group>
+<group>
+<id>416</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Мощные светодиоды</name>
+<descript>Мощные светодиоды и матрицы от 1Вт до 300Вт.</descript>
+<xmlurl/></group>
+<group>
+<id>280</id>
+<parent>416</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>1W-3W без платы [Emitter]</name>
+<descript>Мощные светодиоды 1-3Вт в корпусе Emitter. Линзы PC. Для ручной и автоматич.пайки. Пайка в печах при t&lt;180°C, паста 138°С SnBi. Под заказ: силикон.линза для пайки при t&lt;240°C, диод Зенера.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=280</xmlurl>
+</group>
+<group>
+<id>283</id>
+<parent>416</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>1W-3W на плате [STAR]</name>
+<descript>Мощные светодиоды 1-3Вт на алюминиевой плате STAR. Линзы PC. Под заказ: встроенный диод Зенера.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=283</xmlurl>
+</group>
+<group>
+<id>705</id>
+<parent>416</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3W-24W RGB, RGBW</name>
+<descript>Мощные RGB светодиодные матрицы 3Вт, 9Вт, 15Вт, 24В. Мощный 4Вт RGBW светодиоды 4 кристалла.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=705</xmlurl>
+</group>
+<group>
+<id>292</id>
+<parent>416</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5W</name>
+<descript>Светодиодные матрицы 5Вт.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=292</xmlurl>
+</group>
+<group>
+<id>295</id>
+<parent>416</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>8W-20W</name>
+<descript>Светодиодные матрицы 10, 20Вт. Матрицы 8Вт VF12V для солнечных батарей.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=295</xmlurl>
+</group>
+<group>
+<id>99</id>
+<parent>416</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>30W-300W</name>
+<descript>Светодиодные матрицы 30Вт, 50Вт, 80Вт, 100Вт, 150Вт, 200Вт, 300Вт. Под заказ поставляются любой цвет свечения и мощность.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=99</xmlurl>
+</group>
+<group>
+<id>126</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Алюминиевые платы</name>
+<descript>Платы для монтажа мощных светодиодов в один кластер.</descript>
+<xmlurl/></group>
+<group>
+<id>128</id>
+<parent>126</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Круглые для Emitter</name>
+<descript>Платы для монтажа мощных светодиодов в один кластер.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=128</xmlurl>
+</group>
+<group>
+<id>155</id>
+<parent>126</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Прямоугольные для Emitter</name>
+<descript>Платы для монтажа мощных светодиодов</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=155</xmlurl>
+</group>
+<group>
+<id>156</id>
+<parent>126</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Круглые для CREE, smd</name>
+<descript>Платы STAR для монтажа мощных светодиодов</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=156</xmlurl>
+</group>
+<group>
+<id>154</id>
+<parent>126</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Прямоугольные для CREE, smd</name>
+<descript>Платы для монтажа мощных светодиодов</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=154</xmlurl>
+</group>
+<group>
+<id>650</id>
+<parent>126</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Радиаторы</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=650</xmlurl>
+</group>
+<group>
+<id>44</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Линзы</name>
+<descript>Линзы для монтажа кластеров из мощных светодиодов.</descript>
+<xmlurl/></group>
+<group>
+<id>45</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Emitter [ARL]</name>
+<descript>Качественные линзы в оправе для мощных светодиодов. Линзы с углом от 8 до 80 градусов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=45</xmlurl>
+</group>
+<group>
+<id>143</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Emitter [H1, H4]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=143</xmlurl>
+</group>
+<group>
+<id>144</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Emitter [H2 на ножках]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=144</xmlurl>
+</group>
+<group>
+<id>397</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Emitter [DN без корпуса]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=397</xmlurl>
+</group>
+<group>
+<id>149</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Emitter [ST уличные]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=149</xmlurl>
+</group>
+<group>
+<id>398</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Emitter [блочные линзы]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=398</xmlurl>
+</group>
+<group>
+<id>171</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Cree, smd [DN, DX без корпуса]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=171</xmlurl>
+</group>
+<group>
+<id>145</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Cree, smd [DC, DS]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=145</xmlurl>
+</group>
+<group>
+<id>146</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Cree, smd [ST уличные]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=146</xmlurl>
+</group>
+<group>
+<id>127</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для Cree, smd [блочные линзы]</name>
+<descript>Качественные большие линзы и сборки для мощных светодиодов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=127</xmlurl>
+</group>
+<group>
+<id>43</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Угол 35-70 [блочные линзы]</name>
+<descript>Сверхмощные светодиоды. Необходимо устанавливать на теплоотвод во избежание перегрева.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=43</xmlurl>
+</group>
+<group>
+<id>172</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Рефлекторы</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=172</xmlurl>
+</group>
+<group>
+<id>376</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для светофора</name>
+<descript>Качественные линзы без оправы для мощных светодиодов. Линзы с углом от 8 до 80 градусов.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=376</xmlurl>
+</group>
+<group>
+<id>425</id>
+<parent>44</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Для мощных LED NICHIA</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=425</xmlurl>
+</group>
+<group>
+<id>227</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Выводные круглые 3-5 мм</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>228</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>1.8 мм миниатюрные [h=3 мм Tower]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=228</xmlurl>
+</group>
+<group>
+<id>231</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм диффузная линза</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=231</xmlurl>
+</group>
+<group>
+<id>235</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм прозрачная линза</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=235</xmlurl>
+</group>
+<group>
+<id>233</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм двухцветные [2-3 вывода]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=233</xmlurl>
+</group>
+<group>
+<id>373</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм мигающие</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=373</xmlurl>
+</group>
+<group>
+<id>372</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм питание 12V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=372</xmlurl>
+</group>
+<group>
+<id>240</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>4.8 мм широкий угол 120° [5053, Helmet]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=240</xmlurl>
+</group>
+<group>
+<id>244</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм диффузная линза</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=244</xmlurl>
+</group>
+<group>
+<id>246</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм прозрачная линза [угол 10-20°]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=246</xmlurl>
+</group>
+<group>
+<id>248</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм прозрачная линза [угол 25-30°]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=248</xmlurl>
+</group>
+<group>
+<id>249</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм прозрачная линза [угол 40-60°]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=249</xmlurl>
+</group>
+<group>
+<id>252</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм двухцветные [2-3 вывода]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=252</xmlurl>
+</group>
+<group>
+<id>260</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм RGB [4 вывода]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=260</xmlurl>
+</group>
+<group>
+<id>253</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм мигающие</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=253</xmlurl>
+</group>
+<group>
+<id>270</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм питание 12V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=270</xmlurl>
+</group>
+<group>
+<id>328</id>
+<parent>227</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Держатели для светодиодов 3, 5 мм</name>
+<descript>Держатели для монтажа светодиодов на поверхностях.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=328</xmlurl>
+</group>
+<group>
+<id>261</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Выводные круглые 8-10 мм</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>101</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>8 мм</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=101</xmlurl>
+</group>
+<group>
+<id>286</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>8 мм мощные [80 mA, 4-чипа]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=286</xmlurl>
+</group>
+<group>
+<id>263</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>8 мм мигающие</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=263</xmlurl>
+</group>
+<group>
+<id>236</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>8 мм питание 12V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=236</xmlurl>
+</group>
+<group>
+<id>103</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>10 мм</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=103</xmlurl>
+</group>
+<group>
+<id>287</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>10 мм мощные [80 mA, 4-чипа]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=287</xmlurl>
+</group>
+<group>
+<id>268</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>10 мм мигающие</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=268</xmlurl>
+</group>
+<group>
+<id>259</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>10мм питание 12V</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=259</xmlurl>
+</group>
+<group>
+<id>329</id>
+<parent>261</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Держатели для светодиодов 8, 10 мм</name>
+<descript>Стойки для установки светодиодов на печатные платы.</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=329</xmlurl>
+</group>
+<group>
+<id>100</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Выводные цилиндрические</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>153</id>
+<parent>100</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм [h=4 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=153</xmlurl>
+</group>
+<group>
+<id>322</id>
+<parent>100</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>3 мм [h=7 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=322</xmlurl>
+</group>
+<group>
+<id>324</id>
+<parent>100</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>5 мм</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=324</xmlurl>
+</group>
+<group>
+<id>136</id>
+<parent>100</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>8 мм</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=136</xmlurl>
+</group>
+<group>
+<id>269</id>
+<parent>100</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>10 мм</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=269</xmlurl>
+</group>
+<group>
+<id>311</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Выводные прямоуг./ «Пиранья»</name>
+<descript>Прямоугольные светодиоды квадратной и прямоугольной формы применяются для индикации в различной радиоаппаратуре, охранной сигнализации и в бытовых приборах.</descript>
+<xmlurl/></group>
+<group>
+<id>312</id>
+<parent>311</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Прямоугольные</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=312</xmlurl>
+</group>
+<group>
+<id>301</id>
+<parent>311</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>«Пиранья» [7.6x7.6 мм]</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=301</xmlurl>
+</group>
+<group>
+<id>309</id>
+<parent>311</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>«Пиранья» [7.6x7.6 мм] на ток 80 мА</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=309</xmlurl>
+</group>
+<group>
+<id>308</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Лазеры</name>
+<descript/>
+<xmlurl/></group>
+<group>
+<id>50</id>
+<parent>308</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Лазеры</name>
+<descript/>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=50</xmlurl>
+</group>
+<group>
+<id>334</id>
+<parent>219</parent>
+<category>1</category>
+<enclosure>1</enclosure>
+<name>Индикаторы</name>
+<descript>Одно- и много- сегментные светодиодные индикаторы. Многострочные светодиодные дисплеи. Дисплеи на базе OLED технологии. Жидко-кристалические дисплеи и индикаторы.</descript>
+<xmlurl/></group>
+<group>
+<id>340</id>
+<parent>334</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Индикаторы / Cветодиодные</name>
+<descript>Светодиодные ДИСПЛЕИ (индикаторы)</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=340</xmlurl>
+</group>
+<group>
+<id>345</id>
+<parent>334</parent>
+<category>1</category>
+<enclosure>0</enclosure>
+<name>Индикаторы / ЖКИ</name>
+<descript>ЖК-индикаторы</descript>
+<xmlurl>http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category=all-categories&amp;group=345</xmlurl>
+</group>
+</groups>
+</data>

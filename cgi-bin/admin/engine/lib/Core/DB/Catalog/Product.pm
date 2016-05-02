@@ -142,30 +142,33 @@ sub getProduct {
 	
 }
 
-sub getPrivateGroups {
-	
+sub getPrivateCategories {
+
 	my $self = shift;
-	my $id = shift;
-	my $brand = shift;
+	my $current_id = shift;
 	
 	my $select="";
-	my $result = $self->query("SELECT * FROM catalog_alright WHERE c_pid ='".$id."'");
-	if ($result){
-		my $i = 0;
-		foreach my $item(@$result){
-			my $res = $self->query("SELECT * FROM catalog_alright WHERE c_pid ='".$item->{'c_id'}."' ORDER BY c_id ASC");
-			if ($res){
-				$select .= '<option value="'.$item->{'c_id'}.'" style="font-weight:bold; color:#bb418c" disabled>'.$item->{'c_name'}.'</option>';
-				foreach my $line(@$res){
-					$select .= '<option value="'.$line->{'c_id'}.'">&nbsp; &nbsp; — '.$line->{'c_name'}.'</option>';
-				}
+	my $result = $self->query("SELECT c_id, c_name FROM cat_category WHERE c_pid = '0' ORDER BY c_pos ASC");
+	foreach my $item(@$result){
+		$select .= '<option class="option-strong" value="'.$item->{c_id}.'"'.($current_id == $item->{c_id} ? ' selected' : '').'>'.$item->{c_name}.'</option>';
+		recCategories($item->{c_id}, 0);
+	}	
+	
+	sub recCategories {
+		my $id = shift;
+		my $level = shift;
+		if ($level == 0) {$level = 1};
+		sub nbsp { my $level = shift; my $t; my $n=2; if($level>1){$n=3} for(my $i=0;$i<=($level+1)*$n;$i++ ){$t.='&nbsp;';}return $t.'&mdash; ';}
+		my $result = $self->query("SELECT c_id, c_name FROM cat_category WHERE c_pid='".$id."' ORDER BY c_pos ASC;");
+		if ($result){
+			foreach my $item(@$result){
+				$select .= '<option '.($level == 1?' class="option-cherry"':'').' value="'.$item->{c_id}.'"'.($current_id == $item->{c_id} ? ' selected' : '').'>'.nbsp($level).$item->{c_name}.'</option>';	
+				recCategories($item->{c_id}, $level + 1);
 			}
-			else {
-				$select .= '<option value="'.$item->{'c_id'}.'" style="font-weight:bold; color:#bb418c">'.$item->{'c_name'}.'</option>';
-			}
+		} else {
+			return 0;
 		}
-	}
-	$select = '<option value="0" selected>Выберите раздел</option>'.$select;
+	};
 	
 	return $select;
 }
@@ -174,9 +177,10 @@ sub getPrivateProducts {
 	
 	my $self = shift;
 	my $id = shift;
-	my $brand = shift;
 	my $params = shift;
 	my $group_id = shift;
+	
+	use Utils::JSON;
 	
 	my %group = ();
 	if ($group_id > 0){
@@ -199,20 +203,20 @@ sub getPrivateProducts {
 		
 		my $q = stemmer(uri_unescape($id));
 		
-		$result = $self->query("SELECT * FROM products_alright WHERE p_art LIKE '%".$q."%'");
+		$result = $self->query("SELECT * FROM cat_product WHERE p_art LIKE '%".$q."%'");
 		if (!$result){
-			$result = $self->query("SELECT * FROM products_alright WHERE p_name LIKE '%".$q."%'");
+			$result = $self->query("SELECT * FROM cat_product WHERE p_name LIKE '%".$q."%'");
 		}
 	}
 	elsif ($params eq "related"){
 	
-		$result = $self->query("SELECT * FROM products_alright WHERE p_art IN (".$id.")");
+		$result = $self->query("SELECT * FROM cat_product WHERE p_art IN (".$id.")");
 	}	
 	else {
-		$result = $self->query("SELECT * FROM products_alright WHERE cat_id ='".$id."'");
+		$result = $self->query("SELECT p.* FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE r.cat_id ='".$id."'");
 	}
 	if ($result){
-		my %category = ();
+		my %category = (); my @json;
 		foreach my $item(@$result){
 			my $i = 0; my $colors="";
 			my $color = $item->{'p_color'}."|";
@@ -244,75 +248,105 @@ sub getPrivateProducts {
 				$pack = $item->{'p_pack'};
 			}	
 
-			my $desc = $item->{'p_desc'};
-			my $string = length($item->{'p_desc'});
-			if ($string > 150){
-				$desc = substr($item->{'p_desc'}, 0, 150); $desc = $desc.'...';
+			my $desc = $item->{'p_desc_sm'};
+			my $string = length($item->{'p_desc_sm'});
+			if ($string > 140){
+				$desc = substr($item->{'p_desc_sm'}, 0, 140); $desc = $desc.'...';
 			}
 			
-			my $res_art="";
 			if ($desc){
-				$res_art = $self->query("SELECT p_art FROM cat_product WHERE p_art ='".$item->{'p_art'}."'");
-				if ($res_art){
-					$desc .= ' <a target="_blank" href="/products/'.$item->{'p_art'}.'">Подробнее</a>';
-				}
+				$desc .= ' <a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'">Подробнее</a>';
 			}		
 
 			my $price = $item->{'p_price'};
 			
-			if ($group_id > 0){
-				if (!$category{$item->{'cat_id'}}){
-					my $group_price = getPrivateGroupPrice($self, $item->{'cat_id'}, \%group);
-					if ($group_price){
-						if ($group_price eq "opt_small"){
-							$price = $item->{'p_price_opt'};
-							%category = (%category, $item->{'cat_id'} => "opt_small");
-						}
-						elsif ($group_price eq "opt_large"){
-							$price = $item->{'p_price_opt_large'};
-							%category = (%category, $item->{'cat_id'} => "opt_large");
-						}
-					}
-				}
-				elsif ($category{$item->{'cat_id'}}){
-					if ($category{$item->{'cat_id'}} eq "opt_small"){
-						$price = $item->{'p_price_opt'};
-					}
-					elsif ($category{$item->{'cat_id'}} eq "opt_large"){
-						$price = $item->{'p_price_opt_large'};
-					}
-				}
-			}
-			
-			$products .= '
-				<tr data-art="'.$item->{'p_art'}.'" data-price="'.$price.'"'.($params eq "related"?' class="related"':'').'>
-					<td class="art">'.$item->{'p_art'}.'</td>								
-					<td class="img">'.($res_art?'<a target="_blank" href="/products/'.$item->{'p_art'}.'"><img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')"></a>':'<img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')">').'</td>
-					<td class="name">'.($res_art?'<a target="_blank" href="/products/'.$item->{'p_art'}.'">'.$item->{'p_name'}.'</a>':$item->{'p_name'}).'</td>
-					<td class="color">'.$colors.'</td>
-					<td class="price">'.$price.'</td>
-					<td class="count">
-						<div class="p-count">
-							<input class="count" name="'.$item->{'p_art'}.'" value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" data-value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" autocomplete="off">
-							<i title="Добавить к заказу" class="fa fa-shopping-cart basket"></i>
-							'.($item->{'p_packnorm'} > 0?'<em>'.$pack.' '.$item->{'p_packnorm'}.' '.$item->{'p_unit'}.'</em>':'').'
-						</div>
-					</td>
-					<td class="unit">'.$item->{'p_unit'}.'</td>';
+			# if ($group_id > 0){
+				# if (!$category{$item->{'cat_id'}}){
+					# my $group_price = getPrivateGroupPrice($self, $item->{'cat_id'}, \%group);
+					# if ($group_price){
+						# if ($group_price eq "opt_small"){
+							# $price = $item->{'p_price_opt'};
+							# %category = (%category, $item->{'cat_id'} => "opt_small");
+						# }
+						# elsif ($group_price eq "opt_large"){
+							# $price = $item->{'p_price_opt_large'};
+							# %category = (%category, $item->{'cat_id'} => "opt_large");
+						# }
+					# }
+				# }
+				# elsif ($category{$item->{'cat_id'}}){
+					# if ($category{$item->{'cat_id'}} eq "opt_small"){
+						# $price = $item->{'p_price_opt'};
+					# }
+					# elsif ($category{$item->{'cat_id'}} eq "opt_large"){
+						# $price = $item->{'p_price_opt_large'};
+					# }
+				# }
+			# }
 			
 			my $related = $item->{'p_related'};
 			if ($related){
 				$related =~ s/\s/, /g;
 				$related =~ s/,\s$//g;
 				$related =~ s/,,/,/g;
-			}
+			}			
 			
-			$products .= '
-					<td class="stock">'.getProductStock($item->{'p_stock'}, $item->{'p_waiting'}, $item->{'p_possible'}).'</td>
-					<td class="desc">'.$desc.''.($params ne "related" && $related?'&nbsp; <a class="related" href="#" data-related="'.$related.'">Сопутствующие товары</a>':'').'</td>
-				</tr>';
+			if ($params eq "related"){
+				$products .= '
+					<tr data-art="'.$item->{'p_art'}.'" data-price="'.$price.'"'.($params eq "related"?' class="related"':'').'>
+						<td class="art">'.$item->{'p_art'}.'</td>								
+						<td class="img"><a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'"><img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')"></a></td>
+						<td class="name"><a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'">'.$item->{'p_name'}.'</a></td>
+						<td class="color">'.$colors.'</td>
+						<td class="price">'.$price.'</td>
+						<td class="count">
+							<div class="p-count">
+								<input class="count" name="'.$item->{'p_art'}.'" value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" data-value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" autocomplete="off">
+								<i title="Добавить к заказу" class="fa fa-shopping-cart basket"></i>
+								'.($item->{'p_packnorm'} > 0?'<em>'.$pack.' '.$item->{'p_packnorm'}.' '.$item->{'p_unit'}.'</em>':'').'
+							</div>
+						</td>
+						<td class="unit">'.$item->{'p_unit'}.'</td>
+						<td class="stock">'.getProductStock($item->{'p_stock'}, $item->{'p_waiting'}, $item->{'p_possible'}).'</td>
+						<td class="desc">'.$desc.''.($params ne "related" && $related?'&nbsp; <a class="related" href="#" data-related="'.$related.'">Сопутствующие товары</a>':'').'</td>
+					</tr>';
+			}
+			else {
+				my %params = (
+					"article" => $item->{'p_art'},
+					"image" => '<a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'"><img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')"></a>',
+					"name" => '<a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'">'.$item->{'p_name'}.'</a>',
+					"color" => $colors,
+					"price" => $price,
+					"order" => '<div class="p-count">
+							<input class="count" name="'.$item->{'p_art'}.'" value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" data-value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" autocomplete="off">
+							<i title="Добавить к заказу" class="fa fa-shopping-cart basket"></i>
+							'.($item->{'p_packnorm'} > 0?'<em>'.$pack.' '.$item->{'p_packnorm'}.' '.$item->{'p_unit'}.'</em>':'').'
+						</div>',
+					"unit" => $item->{'p_unit'},
+					"stock" => getProductStock($item->{'p_stock'}, $item->{'p_waiting'}, $item->{'p_possible'}),
+					"desc" => $desc.''.($params ne "related" && $related?'&nbsp; <a class="related" href="#" data-related="'.$related.'">Сопутствующие товары</a>':'')
+				);
+				push @json, \%params;
+			}				
 		}
-		return $products;
+		
+		if ($params eq "related"){
+			return $products;
+		}
+		else {
+			my %result = (
+				"data" => \@json
+			);
+			return JSON_result(\%result);
+		}
+	}
+	elsif (!$result && $params ne "related"){
+		my @json;
+		my %result = (
+			"data" => \@json
+		);
+		return JSON_result(\%result);		
 	}
 }
 

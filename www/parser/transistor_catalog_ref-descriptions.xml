@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<data created="Sat, 30 Apr 2016 10:21:43 GMT">
+<colors>
+<color>
+<class>ir940</class>
+<name>ИК 940</name>
+<rgb>#E0E0E0</rgb>
+</color>
+<color>
+<class>ir850</class>
+<name>ИК 850</name>
+<rgb>#CCCCCC</rgb>
+</color>
+<color>
+<class>red</class>
+<name>Красный</name>
+<rgb>#FF3333</rgb>
+</color>
+<color>
+<class>orange</class>
+<name>Оранжевый</name>
+<rgb>#F68220</rgb>
+</color>
+<color>
+<class>yellow</class>
+<name>Желтый</name>
+<rgb>#FFFF33</rgb>
+</color>
+<color>
+<class>green_yellow</class>
+<name>Зеленый (желт. отт.)</name>
+<rgb>#CCFF33</rgb>
+</color>
+<color>
+<class>green</class>
+<name>Зеленый</name>
+<rgb>#33CC00</rgb>
+</color>
+<color>
+<class>green_blue</class>
+<name>Зеленый (голубой отт.)</name>
+<rgb>#00CC99</rgb>
+</color>
+<color>
+<class>blue</class>
+<name>Синий</name>
+<rgb>#0033FF</rgb>
+</color>
+<color>
+<class>violet</class>
+<name>Ультрафиолетовый</name>
+<rgb>#9900FF</rgb>
+</color>
+<color>
+<class>cool_white</class>
+<name>Белый (холодный)</name>
+<rgb>#E0FFFF</rgb>
+</color>
+<color>
+<class>white</class>
+<name>Белый</name>
+<rgb>#FFFFFF</rgb>
+</color>
+<color>
+<class>day_white</class>
+<name>Белый (дневной)</name>
+<rgb>#F8F0C0</rgb>
+</color>
+<color>
+<class>warm_white</class>
+<name>Белый (теплый)</name>
+<rgb>#FCFCA0</rgb>
+</color>
+<color>
+<class>pink</class>
+<name>Розовый</name>
+<rgb>#EC008C</rgb>
+</color>
+</colors>
+<parameters>
+<parameter>
+<id>77</id>
+<name>DALI адрес</name>
+<unit/>
+</parameter>
+<parameter>
+<id>79</id>
+<name>DALI зоны (группы)</name>
+<unit/>
+</parameter>
+<parameter>
+<id>80</id>
+<name>DALI питание</name>
+<unit/>
+</parameter>
+<parameter>
+<id>78</id>
+<name>DALI сцены (память)</name>
+<unit/>
+</parameter>
+<parameter>
+<id>37</id>
+<name>Входное напряжение</name>
+<unit>V</unit>
+</parameter>
+<parameter>
+<id>67</id>
+<name>Входной сигнал</name>
+<unit/>
+</parameter>
+<parameter>
+<id>64</id>
+<name>Выделяемая мощность</name>
+<unit>W</unit>
+</parameter>
+<parameter>
+<id>49</id>
+<name>Высота</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>13</id>
+<name>Выходная мощность</name>
+<unit>W</unit>
+</parameter>
+<parameter>
+<id>38</id>
+<name>Выходное напряжение</name>
+<unit>V</unit>
+</parameter>
+<parameter>
+<id>65</id>
+<name>Выходной сигнал</name>
+<unit/>
+</parameter>
+<parameter>
+<id>43</id>
+<name>Выходной ток</name>
+<unit>A</unit>
+</parameter>
+<parameter>
+<id>32</id>
+<name>Габарит</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>22</id>
+<name>Габариты</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>40</id>
+<name>Диаметр</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>50</id>
+<name>Диаметр отверстия</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>47</id>
+<name>Длина</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>1</id>
+<name>Длина волны</name>
+<unit>nm</unit>
+</parameter>
+<parameter>
+<id>54</id>
+<name>Длина отверстия</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>68</id>
+<name>Зоны управления</name>
+<unit>шт</unit>
+</parameter>
+<parameter>
+<id>63</id>
+<name>Индекс цветопередачи</name>
+<unit/>
+</parameter>
+<parameter>
+<id>31</id>
+<name>Интенсивность излучения</name>
+<unit>W/sr</unit>
+</parameter>
+<parameter>
+<id>59</id>
+<name>Каналы</name>
+<unit>шт</unit>
+</parameter>
+<parameter>
+<id>44</id>
+<name>Класс пыле-влагозащиты</name>
+<unit/>
+</parameter>
+<parameter>
+<id>74</id>
+<name>Код</name>
+<unit/>
+</parameter>
+<parameter>
+<id>82</id>
+<name>Кол-во групп DMX</name>
+<unit>шт</unit>
+</parameter>
+<parameter>
+<id>23</id>
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+</parameter>
+<parameter>
+<id>11</id>
+<name>Макс. импульсный прямой ток</name>
+<unit>A</unit>
+</parameter>
+<parameter>
+<id>18</id>
+<name>Макс. постоянный прямой ток</name>
+<unit>A</unit>
+</parameter>
+<parameter>
+<id>6</id>
+<name>Материал</name>
+<unit/>
+</parameter>
+<parameter>
+<id>33</id>
+<name>Минимальный отрезок</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>60</id>
+<name>Набор программ</name>
+<unit/>
+</parameter>
+<parameter>
+<id>53</id>
+<name>Назначение</name>
+<unit/>
+</parameter>
+<parameter>
+<id>73</id>
+<name>Наличие пульта</name>
+<unit/>
+</parameter>
+<parameter>
+<id>20</id>
+<name>Напряжение питания</name>
+<unit>V</unit>
+</parameter>
+<parameter>
+<id>10</id>
+<name>Обратный ток</name>
+<unit>A</unit>
+</parameter>
+<parameter>
+<id>41</id>
+<name>Особенность</name>
+<unit/>
+</parameter>
+<parameter>
+<id>4</id>
+<name>Падение напряжения</name>
+<unit>V</unit>
+</parameter>
+<parameter>
+<id>46</id>
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+</parameter>
+<parameter>
+<id>56</id>
+<name>Постоянное напряжение питания</name>
+<unit>V</unit>
+</parameter>
+<parameter>
+<id>35</id>
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+</parameter>
+<parameter>
+<id>75</id>
+<name>Потребляемая мощность min-max</name>
+<unit>W</unit>
+</parameter>
+<parameter>
+<id>3</id>
+<name>Потребляемый ток</name>
+<unit>A</unit>
+</parameter>
+<parameter>
+<id>19</id>
+<name>Примечание</name>
+<unit/>
+</parameter>
+<parameter>
+<id>45</id>
+<name>Размер светодиода</name>
+<unit/>
+</parameter>
+<parameter>
+<id>9</id>
+<name>Рассеиваемая мощность</name>
+<unit>W</unit>
+</parameter>
+<parameter>
+<id>8</id>
+<name>Световой поток</name>
+<unit>lm</unit>
+</parameter>
+<parameter>
+<id>81</id>
+<name>Свойства пульта/панели</name>
+<unit/>
+</parameter>
+<parameter>
+<id>61</id>
+<name>Связь пульт/контроллер</name>
+<unit/>
+</parameter>
+<parameter>
+<id>51</id>
+<name>Способ установки</name>
+<unit/>
+</parameter>
+<parameter>
+<id>2</id>
+<name>Тип линзы</name>
+<unit/>
+</parameter>
+<parameter>
+<id>72</id>
+<name>Тип сенсора</name>
+<unit/>
+</parameter>
+<parameter>
+<id>62</id>
+<name>Тип товара</name>
+<unit/>
+</parameter>
+<parameter>
+<id>71</id>
+<name>Ток нагрузки</name>
+<unit>A</unit>
+</parameter>
+<parameter>
+<id>5</id>
+<name>Угол обзора</name>
+<unit>°</unit>
+</parameter>
+<parameter>
+<id>34</id>
+<name>Угол Обзора (гор/верт)</name>
+<unit>°</unit>
+</parameter>
+<parameter>
+<id>66</id>
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+</parameter>
+<parameter>
+<id>57</id>
+<name>Форма</name>
+<unit/>
+</parameter>
+<parameter>
+<id>69</id>
+<name>Хранение программ</name>
+<unit/>
+</parameter>
+<parameter>
+<id>58</id>
+<name>Цвет</name>
+<unit/>
+</parameter>
+<parameter>
+<id>25</id>
+<name>Цветовая температура</name>
+<unit>K</unit>
+</parameter>
+<parameter>
+<id>42</id>
+<name>Цоколь</name>
+<unit/>
+</parameter>
+<parameter>
+<id>14</id>
+<name>Частота</name>
+<unit>Hz</unit>
+</parameter>
+<parameter>
+<id>48</id>
+<name>Ширина</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>55</id>
+<name>Ширина отверстия</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>52</id>
+<name>Ширина площадки</name>
+<unit>мм</unit>
+</parameter>
+<parameter>
+<id>7</id>
+<name>Яркость</name>
+<unit>cd</unit>
+</parameter>
+</parameters>
+</data>

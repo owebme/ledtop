@@ -78,8 +78,8 @@ $content_html=qq~$content_html<table id="sheet">
 		<div class="catalog-btn-group">
 			<div class="btn-group">
 				<a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog" class="btn active">Привязка</a>
-				<a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog" class="btn">Поставщики</a>
-				<a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog" class="btn">Миграция</a>
+				<a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog_providers" class="btn">Поставщики</a>
+				<a href="/cgi-bin/admin/engine/index.cgi?adm_act=category" class="btn">Категории</a>
 			</div>	
 		</div>
 		<div id="control-primary" class="btn-group left">
@@ -91,7 +91,7 @@ $content_html=qq~$content_html<table id="sheet">
 			<button class="btn" data-action="collapse-all">Свернуть все</button>
 		</div>';
 		
-	my %data_providers=""; my $providers="";  my $provider_value=""; my $i=0;
+	my %data_providers=(); my $providers="";  my $provider_value=""; my $i=0;
 	my $result = $db->query("SELECT * FROM catalog_providers ORDER BY date ASC");
 	foreach my $item(@$result){
 		$i++;

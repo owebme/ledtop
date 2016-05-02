@@ -41,34 +41,15 @@ if (param('getCityList') eq "true"){
 
 if ($logined eq "enter"){
 
-	if (param('getPrivateGroups')){
-
-		use Core::DB::Catalog;
-		my $catalog = new Core::DB::Catalog();
-		
-		my $cat_id = param('getPrivateGroups');
-		my $products = $catalog->getPrivateGroups($cat_id, "alright");
-		
-		if ($products){
-		
-			print $products;
-		}
-	}
-	elsif (param('getPrivateProducts')){
+	if (param('getPrivateProducts')){
 
 		use Core::DB::Catalog;
 		my $catalog = new Core::DB::Catalog();
 		
 		my $cat_id = param('getPrivateProducts');
-		my $products = $catalog->getPrivateProducts($cat_id, "alright", "", $user_group);
+		my $products = $catalog->getPrivateProducts($cat_id, "", $user_group);
 		
-		if ($products){
-		
-			print $products;
-		}
-		else {
-			print "empty";
-		}
+		print $products;
 	}
 	elsif (param('getPrivateBasket')){
 
@@ -76,6 +57,7 @@ if ($logined eq "enter"){
 		my $catalog = new Core::DB::Catalog();
 
 		my $basket = $catalog->getPrivateBasket($ids);
+		
 		print $basket;
 	}
 	elsif (param('searchPrivateProducts')){
@@ -83,20 +65,17 @@ if ($logined eq "enter"){
 		use Core::DB::Catalog;
 		my $catalog = new Core::DB::Catalog();
 
-		my $products = $catalog->getPrivateProducts(param('searchPrivateProducts'), "alright", "search", $user_group);
-		if ($products){
-			print $products;
-		}
-		else {
-			print "empty";
-		}
+		my $products = $catalog->getPrivateProducts(param('searchPrivateProducts'), "search", $user_group);
+		
+		print $products;
 	}
 	elsif (param('relatedPrivateProducts')){
 		
 		use Core::DB::Catalog;
 		my $catalog = new Core::DB::Catalog();
 
-		my $products = $catalog->getPrivateProducts(param('relatedPrivateProducts'), "alright", "related", $user_group);
+		my $products = $catalog->getPrivateProducts(param('relatedPrivateProducts'), "related", $user_group);
+		
 		if ($products){
 			print $products;
 		}

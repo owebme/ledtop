@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<data created="Sun, 20 Mar 2016 13:01:47 GMT">
+<data created="Sat, 30 Apr 2016 10:58:42 GMT">
 <product>
 <article>019414</article>
 <category id="7">Светодиодные лампы</category>
@@ -11,15 +11,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -118,15 +116,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -225,15 +221,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -332,15 +326,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -440,15 +432,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -548,15 +538,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -656,15 +644,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
+<price1>337.9</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -763,15 +749,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>10</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>174.05</price1>
-<price2>121.8</price2>
+<price1>168.95</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -870,15 +854,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>394.52</price1>
-<price2>276.08</price2>
+<price1>382.95</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -976,16 +958,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>41</stock>
-<possible>0</possible>
+<stock>25</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -1084,15 +1064,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -1191,15 +1169,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -1284,7 +1260,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/019396/</techinfo>
 <pdf/>
-<img id="18FFC0271C338B42B50EC6231BA7A67A" type="jpg" modified="Mon, 26 Oct 2015 10:48:54 GMT">http://assets.transistor.ru/img/product/userlogo/18FFC0271C338B42B50EC6231BA7A67A.jpg</img>
+<img id="F88E0B5121B6EB4EA1F80E68600B2D7E" type="jpg" modified="Tue, 30 Dec 2014 11:45:53 GMT">http://assets.transistor.ru/img/product/userlogo/F88E0B5121B6EB4EA1F80E68600B2D7E.jpg</img>
 <descript>Лампа G4 в силиконе. Цвет БЕЛЫЙ 6000-7000К, мощность 2.0 W, питание DC 12V (от стабилизированного источника). Светодиоды 48шт smd 3014. Св.поток 150-160 лм, угол 270 градусов, CRI&gt;80. размеры ДхШ: 13х38 мм.</descript>
 </product>
 <product>
@@ -1298,15 +1274,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -1405,15 +1379,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -1498,7 +1470,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/019395/</techinfo>
 <pdf/>
-<img id="18FFC0271C338B42B50EC6231BA7A67A" type="jpg" modified="Mon, 26 Oct 2015 10:48:54 GMT">http://assets.transistor.ru/img/product/userlogo/18FFC0271C338B42B50EC6231BA7A67A.jpg</img>
+<img id="F88E0B5121B6EB4EA1F80E68600B2D7E" type="jpg" modified="Tue, 30 Dec 2014 11:45:53 GMT">http://assets.transistor.ru/img/product/userlogo/F88E0B5121B6EB4EA1F80E68600B2D7E.jpg</img>
 <descript>Лампа G4 в силиконе. Цвет ТЕПЛЫЙ БЕЛЫЙ 2700-3000К, мощность 2.0 W, питание DC 12V (от стабилизированного источника). Светодиоды 48шт smd 3014. Св.поток 150-160 лм, угол 270 градусов, CRI&gt;80. размеры ДхШ: 13х38 мм.</descript>
 </product>
 <product>
@@ -1512,15 +1484,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -1619,15 +1589,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -1726,15 +1694,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -1833,15 +1799,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>5</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -1940,15 +1904,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -2047,15 +2009,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>475.74</price1>
-<price2>332.92</price2>
+<price1>461.79</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -2153,16 +2113,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>91</stock>
-<possible>0</possible>
+<stock>76</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -2261,15 +2219,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>382.91</price1>
-<price2>267.96</price2>
+<price1>371.69</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -2361,15 +2317,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>382.91</price1>
-<price2>267.96</price2>
+<price1>371.69</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -2468,15 +2422,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>29</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -2568,15 +2520,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -2682,15 +2632,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -2795,16 +2743,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -2910,15 +2856,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -3024,15 +2968,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -3138,15 +3080,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -3251,16 +3191,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>46</stock>
-<possible>0</possible>
+<stock>32</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -3366,15 +3304,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -3479,16 +3415,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>20</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -3594,15 +3528,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -3708,15 +3640,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -3821,16 +3751,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>62</stock>
-<possible>0</possible>
+<stock>59</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -3936,15 +3864,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -4050,15 +3976,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -4164,15 +4088,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -4278,15 +4200,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>70</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -4392,15 +4312,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -4506,15 +4424,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -4620,15 +4536,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -4734,15 +4648,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -4848,15 +4760,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>220.47</price1>
-<price2>154.28</price2>
+<price1>214</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -4962,15 +4872,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>220.47</price1>
-<price2>154.28</price2>
+<price1>214</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -5076,15 +4984,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>87</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -5190,15 +5096,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -5304,15 +5208,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>440.93</price1>
-<price2>308.56</price2>
+<price1>428</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -5411,15 +5313,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -5518,15 +5418,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -5625,15 +5523,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>580.17</price1>
-<price2>406</price2>
+<price1>563.16</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -5732,15 +5628,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>10</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -5839,15 +5733,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>10</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -5946,15 +5838,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>10</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -6045,16 +5935,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>14</stock>
-<possible>0</possible>
+<stock>10</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6143,114 +6031,6 @@
 <descript>Лампа G9 &quot;Tower&quot;. Питание 220V AC. Цвет БЕЛЫЙ (ХОЛОДНЫЙ). ДИММИРУЕТСЯ. Высота 70мм, диаметр 31мм. Светодиоды 36шт smd 3528. Мощность 2 Вт (174 люмен).</descript>
 </product>
 <product>
-<article>013653</article>
-<category id="7">Светодиодные лампы</category>
-<group id="185">Светодиодные лампы / LED для точечных светильников / MR11 12V GU4</group>
-<name prefix="">Светодиодная лампа MR11 1XP30-12V White</name>
-<developer>ARL</developer>
-<case>MR11</case>
-<advstatus>0</advstatus>
-<status>-2</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Коробка</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
-<color1>white</color1>
-<color2/>
-<color3/>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Лампа</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Цвет свечения</name>
-<unit/>
-<values total="1">
-<value order="0" color="white">Белый</value>
-</values>
-</param>
-<param order="2" id="25">
-<name>Цветовая температура</name>
-<unit>K</unit>
-<values total="1">
-<value order="0">typ: 6 000 K</value>
-</values>
-</param>
-<param order="3" id="8">
-<name>Световой поток</name>
-<unit>lm</unit>
-<values total="1">
-<value order="0">typ: 98 lm</value>
-</values>
-</param>
-<param order="4" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">1 шт</value>
-</values>
-</param>
-<param order="5" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">30 °</value>
-</values>
-</param>
-<param order="6" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">12 V</value>
-</values>
-</param>
-<param order="7" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">1,6 W</value>
-</values>
-</param>
-<param order="8" id="42">
-<name>Цоколь</name>
-    <unit/>
-<values total="1">
-<value order="0">GU4</value>
-</values>
-</param>
-<param order="9" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">35 мм</value>
-</values>
-</param>
-<param order="10" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">36,5 мм</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/013653/</techinfo>
-<pdf modified="Mon, 20 Feb 2012 10:35:02 GMT">http://assets.transistor.ru/pdf/arlight/lampa/MR11-1XP30-12V_White.pdf</pdf>
-<img id="4539B88E3734CC49A902E835430F307C" type="jpg" modified="Thu, 11 Oct 2012 06:28:07 GMT">http://assets.transistor.ru/img/product/userlogo/4539B88E3734CC49A902E835430F307C.jpg</img>
-<descript>Заменена на арт. 015818.
-MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 80-95лм. Мощность 1.6Вт. Питание 12VDC.</descript>
-</product>
-<product>
 <article>015818</article>
 <category id="7">Светодиодные лампы</category>
 <group id="185">Светодиодные лампы / LED для точечных светильников / MR11 12V GU4</group>
@@ -6258,18 +6038,16 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <developer>ARL</developer>
 <case>MR11</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>1</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6365,18 +6143,16 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <developer>ARL</developer>
 <case>MR11</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -6472,18 +6248,16 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <developer>ARL</developer>
 <case>MR11</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>313.29</price1>
-<price2>219.24</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -6579,18 +6353,16 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <developer>ARL</developer>
 <case>MR11</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6686,18 +6458,16 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <developer>ARL</developer>
 <case>MR11</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
-<stock>46</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -6755,7 +6525,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
-<value order="0">2 W</value>
+<value order="0">2,5 W</value>
 </values>
 </param>
 <param order="8" id="42">
@@ -6783,7 +6553,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <techinfo>http://www.transistor.ru/catalog/reference/015830/</techinfo>
 <pdf/>
 <img id="493EEA79C93E8B4CBD39A1A36FAB22D7" type="jpg" modified="Thu, 23 Jan 2014 13:02:33 GMT">http://assets.transistor.ru/img/product/userlogo/493EEA79C93E8B4CBD39A1A36FAB22D7.jpg</img>
-<descript>MR11 лампа, цоколь GU4. Цвет БЕЛЫЙ ДНЕВНОЙ 4000K. Угол 120°. Св.поток 150лм. Мощность 2Вт. Питание 12VDC. Размеры Ф35х36 мм</descript>
+<descript>MR11 лампа, цоколь GU4. Цвет БЕЛЫЙ ДНЕВНОЙ 4000K. Угол 120°. Св.поток 150лм. Мощность 2.5 Вт. Питание 12VDC. Размеры Ф35х36 мм</descript>
 </product>
 <product>
 <article>015825</article>
@@ -6793,18 +6563,16 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <developer>ARL</developer>
 <case>MR11</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>1</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -6862,7 +6630,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
-<value order="0">2 W</value>
+<value order="0">2,5 W</value>
 </values>
 </param>
 <param order="8" id="42">
@@ -6890,7 +6658,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <techinfo>http://www.transistor.ru/catalog/reference/015825/</techinfo>
 <pdf modified="Mon, 17 Jun 2013 13:15:54 GMT">http://assets.transistor.ru/pdf/arlight/lampa/MR11_2W30-12V.pdf</pdf>
 <img id="493EEA79C93E8B4CBD39A1A36FAB22D7" type="jpg" modified="Thu, 23 Jan 2014 13:02:33 GMT">http://assets.transistor.ru/img/product/userlogo/493EEA79C93E8B4CBD39A1A36FAB22D7.jpg</img>
-<descript>MR11 лампа, цоколь GU4. Цвет БЕЛЫЙ ТЕПЛЫЙ 3000K. Угол 120°. Св.поток 130лм. Мощность 2Вт. Питание 12VDC. Размеры Ф35х36 мм</descript>
+<descript>MR11 лампа, цоколь GU4. Цвет БЕЛЫЙ ТЕПЛЫЙ 3000K. Угол 120°. Св.поток 130лм. Мощность 2.5 Вт. Питание 12VDC. Размеры Ф35х36 мм</descript>
 </product>
 <product>
 <article>019434</article>
@@ -6903,15 +6671,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>336.5</price1>
-<price2>235.48</price2>
+<price1>326.63</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -7010,15 +6776,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>336.5</price1>
-<price2>235.48</price2>
+<price1>326.63</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -7117,15 +6881,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>336.5</price1>
-<price2>235.48</price2>
+<price1>326.63</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -7224,15 +6986,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>336.5</price1>
-<price2>235.48</price2>
+<price1>326.63</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -7330,16 +7090,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>86</stock>
-<possible>0</possible>
+<stock>57</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>336.5</price1>
-<price2>235.48</price2>
+<price1>326.63</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -7438,15 +7196,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>336.5</price1>
-<price2>235.48</price2>
+<price1>326.63</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -7545,15 +7301,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -7652,15 +7406,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -7759,15 +7511,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>3</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>313.29</price1>
-<price2>219.24</price2>
+<price1>304.11</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -7865,16 +7615,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>94</stock>
-<possible>0</possible>
+<stock>89</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -7973,15 +7721,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>2</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -8080,15 +7826,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -8187,15 +7931,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>429.33</price1>
-<price2>300.44</price2>
+<price1>416.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8295,15 +8037,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>429.33</price1>
-<price2>300.44</price2>
+<price1>416.74</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -8402,16 +8142,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>-1</possible>
+<stock>36</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>429.33</price1>
-<price2>300.44</price2>
+<price1>416.74</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -8510,16 +8248,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>31</stock>
-<possible>0</possible>
+<stock>20</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>164.54</price1>
-<price2>115.14</price2>
+<price1>159.71</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8619,15 +8355,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>164.54</price1>
-<price2>115.14</price2>
+<price1>159.71</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -8726,16 +8460,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>1</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
+<price1>337.9</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -8834,16 +8566,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>1</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8942,15 +8672,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -9049,15 +8777,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -9155,16 +8881,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>6</stock>
-<possible>0</possible>
+<stock>5</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9262,16 +8986,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>3</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>232.07</price1>
-<price2>162.4</price2>
+<price1>225.26</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9369,16 +9091,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>27</stock>
-<possible>-1</possible>
+<stock>6</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>174.05</price1>
-<price2>121.8</price2>
+<price1>168.95</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -9477,15 +9197,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>174.05</price1>
-<price2>121.8</price2>
+<price1>168.95</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9584,15 +9302,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>522.16</price1>
-<price2>365.4</price2>
+<price1>506.84</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -9691,15 +9407,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>174.05</price1>
-<price2>121.8</price2>
+<price1>168.95</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9791,15 +9505,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>174.05</price1>
-<price2>121.8</price2>
+<price1>168.95</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -9890,16 +9602,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>37</stock>
-<possible>0</possible>
+<stock>13</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9997,16 +9707,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>47</stock>
-<possible>-1</possible>
+<stock>43</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -10104,16 +9812,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>4</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>522.16</price1>
-<price2>365.4</price2>
+<price1>506.84</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -10212,15 +9918,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10319,15 +10023,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -10426,15 +10128,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -10533,15 +10233,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10640,15 +10338,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -10747,15 +10443,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>174.05</price1>
-<price2>121.8</price2>
+<price1>168.95</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10854,15 +10548,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>522.16</price1>
-<price2>365.4</price2>
+<price1>506.84</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -10960,16 +10652,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>89</stock>
-<possible>0</possible>
+<stock>65</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11068,16 +10758,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>36</stock>
-<possible>0</possible>
+<stock>32</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -11177,15 +10865,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -11285,15 +10971,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11392,15 +11076,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -11498,16 +11180,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>-1</possible>
+<stock>0</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -11605,16 +11285,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>86</stock>
-<possible>0</possible>
+<stock>80</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1798.54</price1>
-<price2>1258.6</price2>
+<price1>1745.8</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11706,16 +11384,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>-1</possible>
+<stock>91</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1798.54</price1>
-<price2>1258.6</price2>
+<price1>1745.8</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -11808,15 +11484,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1798.54</price1>
-<price2>1258.6</price2>
+<price1>1745.8</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -11916,15 +11590,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1682.5</price1>
-<price2>1177.4</price2>
+<price1>1633.16</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -12022,16 +11694,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>100</stock>
+<waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1682.5</price1>
-<price2>1177.4</price2>
+<price1>1633.16</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -12129,16 +11799,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>-1</possible>
+<stock>1</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1682.5</price1>
-<price2>1177.4</price2>
+<price1>1633.16</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -12237,15 +11905,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>2146.64</price1>
-<price2>1502.2</price2>
+<price1>2083.69</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -12336,16 +12002,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>-1</possible>
+<stock>98</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -12443,16 +12107,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>-1</possible>
+<stock>1</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -12550,16 +12212,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>97</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -12658,15 +12318,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -12765,15 +12423,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -12871,16 +12527,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>96</stock>
-<possible>-1</possible>
+<stock>0</stock>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1775.33</price1>
-<price2>1242.36</price2>
+<price1>1723.27</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -12978,16 +12632,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>16</stock>
-<possible>0</possible>
+<stock>11</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -13093,15 +12745,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>49</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -13206,16 +12856,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1</stock>
-<possible>0</possible>
+<stock>2</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -13321,15 +12969,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>29</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>812.24</price1>
-<price2>568.4</price2>
+<price1>788.42</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -13434,16 +13080,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>5</stock>
-<possible>0</possible>
+<stock>2</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>812.24</price1>
-<price2>568.4</price2>
+<price1>788.42</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -13549,15 +13193,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>812.24</price1>
-<price2>568.4</price2>
+<price1>788.42</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -13662,16 +13304,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>7</stock>
-<possible>0</possible>
+<stock>8</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>870.26</price1>
-<price2>609</price2>
+<price1>844.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -13777,15 +13417,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>870.26</price1>
-<price2>609</price2>
+<price1>844.74</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -13891,15 +13529,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>870.26</price1>
-<price2>609</price2>
+<price1>844.74</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -14005,15 +13641,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -14062,16 +13696,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>97</stock>
-<possible>0</possible>
+<stock>98</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -14121,15 +13753,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -14178,16 +13808,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>32</stock>
-<possible>0</possible>
+<stock>33</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -14236,16 +13864,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>1</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -14295,15 +13921,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1798.54</price1>
-<price2>1258.6</price2>
+<price1>1745.8</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -14409,15 +14033,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1798.54</price1>
-<price2>1258.6</price2>
+<price1>1745.8</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -14523,15 +14145,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1798.54</price1>
-<price2>1258.6</price2>
+<price1>1745.8</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -14637,15 +14257,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1891.37</price1>
-<price2>1323.56</price2>
+<price1>1835.9</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -14751,15 +14369,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1891.37</price1>
-<price2>1323.56</price2>
+<price1>1835.9</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -14865,15 +14481,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1891.37</price1>
-<price2>1323.56</price2>
+<price1>1835.9</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -14979,15 +14593,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1810.14</price1>
-<price2>1266.72</price2>
+<price1>1757.06</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -15093,15 +14705,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1810.14</price1>
-<price2>1266.72</price2>
+<price1>1757.06</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -15197,6 +14807,118 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <descript>PAR30 светодиодная лампа, цоколь Е27, цвет БЕЛЫЙ ДНЕВНОЙ 4000К, широкий угол 120°. Св.поток 850-930 лм. Мощность 12Вт, питание AC100-240V. Размеры: диаметр 95 х высота 109 мм</descript>
 </product>
 <product>
+<article>014142M1</article>
+<category id="7">Светодиодные лампы</category>
+<group id="387">Светодиодные лампы / LED для точечных светильников / ECOBEAM 220V PAR30 E27</group>
+<name prefix="">Светодиодная лампа E27 MDSL-PAR30-12W 120deg Warm White</name>
+<developer>ARL</developer>
+<case>PAR30</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1757.06</price1>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Лампа</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 3 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 850 lm; max: 930 lm</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">12 W</value>
+</values>
+</param>
+<param order="7" id="42">
+<name>Цоколь</name>
+    <unit/>
+<values total="1">
+<value order="0">E27</value>
+</values>
+</param>
+<param order="8" id="40">
+<name>Диаметр</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">95 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">109 мм</value>
+</values>
+</param>
+<param order="10" id="37">
+<name>Входное напряжение</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">min: 100 V; max: 240 V</value>
+</values>
+</param>
+<param order="11" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">21 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014142M1/</techinfo>
+<pdf/>
+<img id="C254C79B706CC34FB1B33DB9BF36FE7D" type="jpg" modified="Tue, 17 Mar 2015 09:34:34 GMT">http://assets.transistor.ru/img/product/userlogo/C254C79B706CC34FB1B33DB9BF36FE7D.jpg</img>
+<descript>PAR30 светодиодная лампа, цоколь Е27, цвет БЕЛЫЙ ТЕПЛЫЙ 3000К, широкий угол 120°. Св.поток 850-930 лм. Мощность 12Вт, питание AC100-240V. Размеры: d95хh109 мм</descript>
+</product>
+<product>
 <article>014142</article>
 <category id="7">Светодиодные лампы</category>
 <group id="387">Светодиодные лампы / LED для точечных светильников / ECOBEAM 220V PAR30 E27</group>
@@ -15207,15 +14929,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1810.14</price1>
-<price2>1266.72</price2>
+<price1>1757.06</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -15321,15 +15041,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1740.52</price1>
-<price2>1218</price2>
+<price1>1689.48</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -15428,15 +15146,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1740.52</price1>
-<price2>1218</price2>
+<price1>1689.48</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -15535,15 +15251,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
+<waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1740.52</price1>
-<price2>1218</price2>
+<price1>1689.48</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -15642,15 +15356,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -15742,15 +15454,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -15849,15 +15559,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -15955,16 +15663,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>37</stock>
-<possible>0</possible>
+<stock>11</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -16062,16 +15768,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>1</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -16169,16 +15873,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>32</stock>
-<possible>0</possible>
+<stock>12</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -16270,15 +15972,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -16377,15 +16077,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -16477,15 +16175,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -16584,15 +16280,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -16674,113 +16368,6 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <descript>Е14 светодиодная лампа &quot;прямая свеча&quot;, замена ламп накаливания 40Вт. Корпус алюминий+матовое стекло. Цвет БЕЛЫЙ ТЕПЛЫЙ 3000-3500K, св. поток 480 лм, угол освещения 300°. Питание 100-240V AC50/60Hz, мощность 6Вт. Размер 36х110 мм</descript>
 </product>
 <product>
-<article>014179</article>
-<category id="7">Светодиодные лампы</category>
-<group id="193">Светодиодные лампы / LED общего освещения / ECOLAMP 220V СВЕЧА E14 &quot;миньон&quot;</group>
-<name prefix="">Светодиодная лампа E14 4W Flame 603 White</name>
-<developer>ARL</developer>
-<case>СВЕЧА</case>
-<advstatus>0</advstatus>
-<status>-2</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible>-1</possible>
-<waiting>0</waiting>
-<pack>Коробка</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
-<color1>white</color1>
-<color2/>
-<color3/>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Лампа</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Цвет свечения</name>
-<unit/>
-<values total="1">
-<value order="0" color="white">Белый</value>
-</values>
-</param>
-<param order="2" id="25">
-<name>Цветовая температура</name>
-<unit>K</unit>
-<values total="1">
-<value order="0">min: 5 700 K; max: 6 300 K</value>
-</values>
-</param>
-<param order="3" id="8">
-<name>Световой поток</name>
-<unit>lm</unit>
-<values total="1">
-<value order="0">min: 300 lm; max: 340 lm</value>
-</values>
-</param>
-<param order="4" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="5" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">220 V</value>
-</values>
-</param>
-<param order="6" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">4 W</value>
-</values>
-</param>
-<param order="7" id="42">
-<name>Цоколь</name>
-    <unit/>
-<values total="1">
-<value order="0">E14</value>
-</values>
-</param>
-<param order="8" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">37 мм</value>
-</values>
-</param>
-<param order="9" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">127 мм</value>
-</values>
-</param>
-<param order="10" id="37">
-<name>Входное напряжение</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">min: 200 V; max: 240 V</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/014179/</techinfo>
-<pdf modified="Fri, 19 Apr 2013 12:28:53 GMT">http://assets.transistor.ru/pdf/arlight/lampa/E14_3.5W_Flame_603_White.pdf</pdf>
-<img id="FA8428FE93EC2741AAFB35FE3DA3EDFA" type="jpg" modified="Mon, 28 May 2012 10:18:49 GMT">http://assets.transistor.ru/img/product/userlogo/FA8428FE93EC2741AAFB35FE3DA3EDFA.jpg</img>
-<descript>Лампа Е14 &quot;свеча на ветру&quot; 4W LED SMD 5730, питание AC200-240V, цвет белый холодный 5700-6300K, св.поток 300 - 340 LM, угол 120deg, цоколь E14.</descript>
-</product>
-<product>
 <article>014178</article>
 <category id="7">Светодиодные лампы</category>
 <group id="193">Светодиодные лампы / LED общего освещения / ECOLAMP 220V СВЕЧА E14 &quot;миньон&quot;</group>
@@ -16791,15 +16378,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -16898,15 +16483,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>43</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17005,15 +16588,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -17112,15 +16693,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17218,16 +16797,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>14</stock>
-<possible>0</possible>
+<stock>4</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17326,15 +16903,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -17433,15 +17008,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -17539,16 +17112,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>57</stock>
-<possible>0</possible>
+<stock>43</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -17647,15 +17218,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -17754,15 +17323,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17860,16 +17427,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>59</stock>
-<possible>0</possible>
+<stock>57</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17968,15 +17533,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -18075,15 +17638,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -18181,16 +17742,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>39</stock>
-<possible>0</possible>
+<stock>34</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -18289,15 +17848,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -18395,16 +17952,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>33</stock>
-<possible>0</possible>
+<stock>9</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -18502,16 +18057,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>89</stock>
-<possible>0</possible>
+<stock>78</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -18609,16 +18162,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>25</stock>
-<possible>0</possible>
+<stock>23</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -18716,16 +18267,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>61</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>47</stock>
+<waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -18824,15 +18373,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>402.64</price1>
-<price2>281.76</price2>
+<price1>390.83</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -18930,16 +18477,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>1</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>402.64</price1>
-<price2>281.76</price2>
+<price1>390.83</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -19028,6 +18573,111 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <descript>Светодиодная лампа Е27 шар G60. Цвет БЕЛЫЙ 6000К. св.поток 1100-1130лм. Мощность 12Вт, питание AC86-260V, LED 26шт SMD5630 (Epistar), угол 180deg, размер Ф60x118мм</descript>
 </product>
 <product>
+<article>015320</article>
+<category id="7">Светодиодные лампы</category>
+<group id="191">Светодиодные лампы / LED общего освещения / ECOLAMP 220V ШАР E27</group>
+<name prefix="">Светодиодная лампа E27 MDB-G60-12W Warm White</name>
+<developer>ARL</developer>
+<case>ШАР</case>
+<advstatus>0</advstatus>
+<status>-2</status>
+<archive>0</archive>
+<stock>0</stock>
+<waiting>0</waiting>
+<pack>Коробка</pack>
+<packnorm>1</packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>1115.06</price1>
+<color1>warm_white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Лампа</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="warm_white">Белый (теплый)</value>
+</values>
+</param>
+<param order="2" id="25">
+<name>Цветовая температура</name>
+<unit>K</unit>
+<values total="1">
+<value order="0">typ: 3 000 K</value>
+</values>
+</param>
+<param order="3" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">min: 1 000 lm; max: 1 030 lm</value>
+</values>
+</param>
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">180 °</value>
+</values>
+</param>
+<param order="5" id="20">
+<name>Напряжение питания</name>
+<unit>V</unit>
+<values total="1">
+<value order="0">220 V</value>
+</values>
+</param>
+<param order="6" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">12 W</value>
+</values>
+</param>
+<param order="7" id="42">
+<name>Цоколь</name>
+    <unit/>
+<values total="1">
+<value order="0">E27</value>
+</values>
+</param>
+<param order="8" id="40">
+<name>Диаметр</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">60 мм</value>
+</values>
+</param>
+<param order="9" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">118 мм</value>
+</values>
+</param>
+<param order="10" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">26 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/015320/</techinfo>
+<pdf modified="Fri, 01 Feb 2013 12:40:03 GMT">http://assets.transistor.ru/pdf/arlight/lampa/E27_MDB-G60-12W_Warm.pdf</pdf>
+<img id="F138B16F0079B246B81BD22F1A3D02A7" type="jpg" modified="Mon, 17 Dec 2012 11:11:39 GMT">http://assets.transistor.ru/img/product/userlogo/F138B16F0079B246B81BD22F1A3D02A7.jpg</img>
+<descript>Светодиодная лампа Е27 шар G60. Цвет БЕЛЫЙ ТЕПЛЫЙ 3000К. св.поток 1000-1030лм. Мощность 12Вт, питание AC85-265V, LED 26шт SMD5630 (Epistar), угол 180deg, размер Ф60x118мм</descript>
+</product>
+<product>
 <article>013425</article>
 <category id="7">Светодиодные лампы</category>
 <group id="191">Светодиодные лампы / LED общего освещения / ECOLAMP 220V ШАР E27</group>
@@ -19038,15 +18688,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -19138,15 +18786,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -19238,15 +18884,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -19337,16 +18981,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>62</stock>
-<possible>-1</possible>
+<stock>100</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -19445,15 +19087,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>286.61</price1>
-<price2>200.56</price2>
+<price1>278.2</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -19552,15 +19192,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>402.64</price1>
-<price2>281.76</price2>
+<price1>390.83</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -19659,15 +19297,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>1</status>
 <archive>0</archive>
 <stock>3</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -19760,15 +19396,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -19805,16 +19439,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>1</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>731.02</price1>
-<price2>511.56</price2>
+<price1>709.58</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -19849,16 +19481,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>1</status>
 <archive>0</archive>
-<stock>53</stock>
-<possible>0</possible>
+<stock>48</stock>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>white</color1>
 <color2>warm_white</color2>
 <color3/>
@@ -19953,15 +19583,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>928.28</price1>
-<price2>649.6</price2>
+<price1>901.06</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -20066,16 +19694,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>27</stock>
-<possible>0</possible>
+<stock>18</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>870.26</price1>
-<price2>609</price2>
+<price1>844.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -20171,113 +19797,6 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <descript>Светодиодная лампа 6Вт поворотный цоколь G23-2, на 2 контакта. Заменяет 18Вт лампу люминесцентную CFL. Цвет холодный белый 6000К, св.поток 450-500 лм. Размер 168х35х33 мм.</descript>
 </product>
 <product>
-<article>013104</article>
-<category id="7">Светодиодные лампы</category>
-<group id="426">Светодиодные лампы / LED общего освещения / ECOLAMP 220V E40</group>
-<name prefix="">Светодиодная лампа E40 28W SD801 Warm White</name>
-<developer>ARL</developer>
-<case>TOWER</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Коробка</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>6265.88</price1>
-<price2>4384.8</price2>
-<color1>warm_white</color1>
-<color2/>
-<color3/>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Лампа</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Цвет свечения</name>
-<unit/>
-<values total="1">
-<value order="0" color="warm_white">Белый (теплый)</value>
-</values>
-</param>
-<param order="2" id="25">
-<name>Цветовая температура</name>
-<unit>K</unit>
-<values total="1">
-<value order="0">min: 2 700 K; max: 3 200 K</value>
-</values>
-</param>
-<param order="3" id="8">
-<name>Световой поток</name>
-<unit>lm</unit>
-<values total="1">
-<value order="0">typ: 2 200 lm</value>
-</values>
-</param>
-<param order="4" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">28 шт</value>
-</values>
-</param>
-<param order="5" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="6" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">220 V</value>
-</values>
-</param>
-<param order="7" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">28 W</value>
-</values>
-</param>
-<param order="8" id="42">
-<name>Цоколь</name>
-    <unit/>
-<values total="1">
-<value order="0">E40</value>
-</values>
-</param>
-<param order="9" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">90 мм</value>
-</values>
-</param>
-<param order="10" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">270 мм</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/013104/</techinfo>
-<pdf/>
-<img id="AF9CEE97754E01448BF8A16BE4A808A6" type="jpg" modified="Tue, 18 Oct 2011 12:59:02 GMT">http://assets.transistor.ru/img/product/userlogo/AF9CEE97754E01448BF8A16BE4A808A6.jpg</img>
-<descript>Светодиодная лампа 28W с поворотным 180° цоколем E40 для уличных cветильников. Замена лампы накаливания 200Вт, люминесцентой 50Вт. Светодиоды 28х1Вт, Цвет БЕЛЫЙ ТЕПЛЫЙ 2700-3200К, угол 120°, поток 2120-2620 lm, Питание 220VAC. Размер 90*270мм. CRI&gt;85</descript>
-</product>
-<product>
 <article>012857</article>
 <category id="7">Светодиодные лампы</category>
 <group id="426">Светодиодные лампы / LED общего освещения / ECOLAMP 220V E40</group>
@@ -20288,15 +19807,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>6265.88</price1>
-<price2>4384.8</price2>
+<price1>6082.13</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -20395,15 +19912,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>429.33</price1>
-<price2>300.44</price2>
+<price1>416.74</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -20503,15 +20018,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>429.33</price1>
-<price2>300.44</price2>
+<price1>416.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -20610,15 +20123,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>986.3</price1>
-<price2>690.2</price2>
+<price1>957.37</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -20710,122 +20221,8 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/017661/</techinfo>
 <pdf/>
-<img id="82C001BA675F3B4B8CED04B975373C2F" type="jpg" modified="Fri, 04 Dec 2015 09:30:25 GMT">http://assets.transistor.ru/img/product/userlogo/82C001BA675F3B4B8CED04B975373C2F.jpg</img>
+<img id="82C001BA675F3B4B8CED04B975373C2F" type="jpg" modified="Thu, 14 Apr 2016 11:55:48 GMT">http://assets.transistor.ru/img/product/userlogo/82C001BA675F3B4B8CED04B975373C2F.jpg</img>
 <descript>Светодиодная лампа Т8 600мм, 10Вт, AC180-240V, цвет ДНЕВНОЙ 3700-4300К, св.поток 850 лм, угол 120°, пульсация 0%. Вращаемый цоколь G13. Корпус Алюминий+PC.</descript>
-</product>
-<product>
-<article>015808</article>
-<category id="7">Светодиодные лампы</category>
-<group id="341">Светодиодные лампы / LED линейные T8 / ECOTUBE Т8 600мм G13</group>
-<name prefix="">Светодиодная Лампа ECOTUBE T8-600-10W Warm White 220V</name>
-<developer>ARL</developer>
-<case>T8</case>
-<advstatus>0</advstatus>
-<status>-2</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Коробка</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
-<color1>warm_white</color1>
-<color2/>
-<color3/>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Лампа</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Цвет свечения</name>
-<unit/>
-<values total="1">
-<value order="0" color="warm_white">Белый (теплый)</value>
-</values>
-</param>
-<param order="2" id="25">
-<name>Цветовая температура</name>
-<unit>K</unit>
-<values total="1">
-<value order="0">min: 2 800 K; max: 3 200 K</value>
-</values>
-</param>
-<param order="3" id="8">
-<name>Световой поток</name>
-<unit>lm</unit>
-<values total="1">
-<value order="0">typ: 1 015 lm</value>
-</values>
-</param>
-<param order="4" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="5" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">220 V</value>
-</values>
-</param>
-<param order="6" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">10 W</value>
-</values>
-</param>
-<param order="7" id="42">
-<name>Цоколь</name>
-    <unit/>
-<values total="1">
-<value order="0">G13</value>
-</values>
-</param>
-<param order="8" id="47">
-<name>Длина</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">590 мм</value>
-</values>
-</param>
-<param order="9" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">26 мм</value>
-</values>
-</param>
-<param order="10" id="37">
-<name>Входное напряжение</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">min: 85 V; max: 265 V</value>
-</values>
-</param>
-<param order="11" id="32">
-<name>Габарит</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">600 мм</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/015808/</techinfo>
-<pdf modified="Tue, 23 Dec 2014 07:49:45 GMT">http://assets.transistor.ru/pdf/arlight/lampa/ECOTUBE_T8-xx00-xxW_220V.pdf</pdf>
-<img id="6E9BF7F40BAE4D45BA6DFE6226CB3078" type="jpg" modified="Fri, 02 Aug 2013 13:14:14 GMT">http://assets.transistor.ru/img/product/userlogo/6E9BF7F40BAE4D45BA6DFE6226CB3078.jpg</img>
-<descript>Светодиодная лампа T8 600мм. Цвет БЕЛЫЙ ТЕПЛЫЙ 2800-3200К. Питание 85-265VAC. Мощность 10 Вт. Световой поток 1015 лм. Размер 26x590мм (без цоколя)</descript>
 </product>
 <product>
 <article>011975</article>
@@ -20838,15 +20235,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
+<price1>337.9</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -20928,18 +20323,18 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <value order="0">min: 110 V; max: 240 V</value>
 </values>
 </param>
-<param order="11" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">120 шт</value>
-</values>
-</param>
-<param order="12" id="32">
+<param order="11" id="32">
 <name>Габарит</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">600 мм</value>
+</values>
+</param>
+<param order="12" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">120 шт</value>
 </values>
 </param>
 </techdata>
@@ -20959,15 +20354,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1044.31</price1>
-<price2>730.8</price2>
+<price1>1013.69</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -21065,16 +20458,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>60</stock>
-<possible>0</possible>
+<stock>30</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1044.31</price1>
-<price2>730.8</price2>
+<price1>1013.69</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -21172,16 +20563,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>77</stock>
-<possible>-1</possible>
+<stock>70</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1044.31</price1>
-<price2>730.8</price2>
+<price1>1013.69</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -21279,16 +20668,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>22</stock>
-<possible>0</possible>
+<stock>10</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1334.4</price1>
-<price2>933.8</price2>
+<price1>1295.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -21373,15 +20760,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1334.4</price1>
-<price2>933.8</price2>
+<price1>1295.27</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -21465,16 +20850,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>6</stock>
-<possible>0</possible>
+<stock>4</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1334.4</price1>
-<price2>933.8</price2>
+<price1>1295.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -21580,15 +20963,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>7</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1566.47</price1>
-<price2>1096.2</price2>
+<price1>1520.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -21673,15 +21054,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>2</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1566.47</price1>
-<price2>1096.2</price2>
+<price1>1520.53</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -21766,15 +21145,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>24</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1566.47</price1>
-<price2>1096.2</price2>
+<price1>1520.53</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -21859,15 +21236,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1566.47</price1>
-<price2>1096.2</price2>
+<price1>1520.53</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -21965,16 +21340,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>13</stock>
-<possible>0</possible>
+<stock>12</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1334.4</price1>
-<price2>933.8</price2>
+<price1>1295.27</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -22056,50 +21429,6 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <descript>Светодиодная лампа 1.3W (датчик на 5м), 18 LED smd 3528, 6000К, угол 90°, поток 120 Lm, 220-240V, для внутреннего применения. Цоколь E27. Габариты 60х85мм. Цветная русифицированая упаковка.</descript>
 </product>
 <product>
-<article>019273</article>
-<category id="7">Светодиодные лампы</category>
-<group id="407">Светодиодные лампы / Автомобильные лампы / Контроллеры для ходовых огней</group>
-<name prefix="">Контроллер LC-V1-1.0-12V (LED 2x12W)</name>
-<developer>ANR</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Коробка</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>1914.57</price1>
-<price2>1339.8</price2>
-<color1/>
-<color2/>
-<color3/>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Контроллер</value>
-</values>
-</param>
-<param order="1" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">12 V</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/019273/</techinfo>
-<pdf modified="Mon, 12 Jan 2015 11:44:38 GMT">http://assets.transistor.ru/pdf/lampa/019273_LC-V1-1.0-12V.pdf</pdf>
-<img id="0D21E810251D524883D9333BDE886F15" type="jpg" modified="Fri, 06 Feb 2015 11:37:02 GMT">http://assets.transistor.ru/img/product/userlogo/0D21E810251D524883D9333BDE886F15.jpg</img>
-<descript>Блок автоматического выключения (включения) светодиодных дневных ходовых огней, у которых отсутствует блок питания (прямое подключение). Предотвращает разряд АКБ. Автоматическое управление ДХО, не требует подключения к датчикам и тумблерам. Максимальная нагрузка 1А на канал, 2 канала 2х12Вт. Размеры 93х56х15 мм. Только для светодиодов!</descript>
-</product>
-<product>
 <article>019272</article>
 <category id="7">Светодиодные лампы</category>
 <group id="407">Светодиодные лампы / Автомобильные лампы / Контроллеры для ходовых огней</group>
@@ -22110,15 +21439,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>3</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1914.57</price1>
-<price2>1339.8</price2>
+<price1>1858.43</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -22154,15 +21481,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>66</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>2262.68</price1>
-<price2>1583.4</price2>
+<price1>2196.32</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -22198,15 +21523,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>6.96</price1>
-<price2>4.87</price2>
+<price1>6.76</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -22256,15 +21579,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1000</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>6.96</price1>
-<price2>4.87</price2>
+<price1>6.76</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -22320,16 +21641,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>1</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>440.93</price1>
-<price2>308.56</price2>
+<price1>428</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -22407,15 +21726,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>255.28</price1>
-<price2>178.64</price2>
+<price1>247.79</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -22486,7 +21803,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/019433/</techinfo>
 <pdf/>
-<img id="635E5022806BE7489FE0845CC82199C7" type="jpg" modified="Mon, 15 Jun 2015 09:09:08 GMT">http://assets.transistor.ru/img/product/userlogo/635E5022806BE7489FE0845CC82199C7.jpg</img>
+<img id="71106960C456FC4AABE82117A04E8B58" type="jpg" modified="Mon, 15 Jun 2015 09:08:39 GMT">http://assets.transistor.ru/img/product/userlogo/71106960C456FC4AABE82117A04E8B58.jpg</img>
 <descript>Автолампа &quot;цилиндр&quot; с цоколем T10 (пластик). Цвет ТЕПЛЫЙ БЕЛЫЙ. Светодиоды 15шт SMD 3014 LED. Питание 10-30V DC. Мощность 1.3Вт, св.поток 82 лм. Диаметр 12мм, высота 39мм.</descript>
 </product>
 <product>
@@ -22500,15 +21817,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>255.28</price1>
-<price2>178.64</price2>
+<price1>247.79</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -22579,7 +21894,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/019432/</techinfo>
 <pdf/>
-<img id="635E5022806BE7489FE0845CC82199C7" type="jpg" modified="Mon, 15 Jun 2015 09:09:08 GMT">http://assets.transistor.ru/img/product/userlogo/635E5022806BE7489FE0845CC82199C7.jpg</img>
+<img id="71106960C456FC4AABE82117A04E8B58" type="jpg" modified="Mon, 15 Jun 2015 09:08:39 GMT">http://assets.transistor.ru/img/product/userlogo/71106960C456FC4AABE82117A04E8B58.jpg</img>
 <descript>Автолампа &quot;цилиндр&quot; с цоколем T10 (пластик). Цвет БЕЛЫЙ (ХОЛОДНЫЙ). Светодиоды 15шт SMD 3014 LED. Питание 10-30V DC. Мощность 1.3Вт, св.поток 89 лм. Диаметр 12мм, высота 39мм.</descript>
 </product>
 <product>
@@ -22593,15 +21908,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>255.28</price1>
-<price2>178.64</price2>
+<price1>247.79</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -22672,7 +21985,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/019431/</techinfo>
 <pdf/>
-<img id="9B445A2E52DE35468EBB2E0BD1B4335D" type="jpg" modified="Mon, 15 Jun 2015 09:01:06 GMT">http://assets.transistor.ru/img/product/userlogo/9B445A2E52DE35468EBB2E0BD1B4335D.jpg</img>
+<img id="4F2EE50D18173B44958E23E6B5055633" type="jpg" modified="Mon, 15 Jun 2015 09:00:55 GMT">http://assets.transistor.ru/img/product/userlogo/4F2EE50D18173B44958E23E6B5055633.jpg</img>
 <descript>Автолампа &quot;цилиндр&quot; с цоколем T10. Цвет ТЕПЛЫЙ БЕЛЫЙ. Светодиоды 15шт SMD 3014 LED. Питание 10-30V DC. Мощность 0.8Вт, св.поток 69 лм. Диаметр 12мм, высота 39мм.</descript>
 </product>
 <product>
@@ -22686,15 +21999,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>255.28</price1>
-<price2>178.64</price2>
+<price1>247.79</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -22765,7 +22076,7 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/018150/</techinfo>
 <pdf/>
-<img id="9B445A2E52DE35468EBB2E0BD1B4335D" type="jpg" modified="Mon, 15 Jun 2015 09:01:06 GMT">http://assets.transistor.ru/img/product/userlogo/9B445A2E52DE35468EBB2E0BD1B4335D.jpg</img>
+<img id="4F2EE50D18173B44958E23E6B5055633" type="jpg" modified="Mon, 15 Jun 2015 09:00:55 GMT">http://assets.transistor.ru/img/product/userlogo/4F2EE50D18173B44958E23E6B5055633.jpg</img>
 <descript>Автолампа &quot;цилиндр&quot; с цоколем T10. Цвет БЕЛЫЙ (ХОЛОДНЫЙ). Светодиоды 15шт SMD 3014 LED. Питание 10-30V DC. Мощность 0.8Вт, св.поток 82 лм. Диаметр 12мм, высота 39мм.</descript>
 </product>
 <product>
@@ -22779,15 +22090,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>-2</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -22879,15 +22188,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>1</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>255.28</price1>
-<price2>178.64</price2>
+<price1>247.79</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -22979,15 +22286,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>313.29</price1>
-<price2>219.24</price2>
+<price1>304.11</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -23079,15 +22384,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>313.29</price1>
-<price2>219.24</price2>
+<price1>304.11</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -23179,15 +22482,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -23279,15 +22580,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -23379,15 +22678,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -23479,15 +22776,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -23579,15 +22874,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -23679,15 +22972,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>185.66</price1>
-<price2>129.92</price2>
+<price1>180.21</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -23779,15 +23070,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -23879,15 +23168,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -23978,16 +23265,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>1</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>162.45</price1>
-<price2>113.68</price2>
+<price1>157.68</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -24072,15 +23357,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>100</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>148.52</price1>
-<price2>103.94</price2>
+<price1>144.17</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -24145,15 +23428,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>148.52</price1>
-<price2>103.94</price2>
+<price1>144.17</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -24217,16 +23498,14 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>20</stock>
-<possible>0</possible>
+<stock>18</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
+<price1>337.9</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -24318,15 +23597,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>371.31</price1>
-<price2>259.84</price2>
+<price1>360.42</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -24411,15 +23688,13 @@ MR11 лампа на мощном светодиоде XP 1шт. Цвет ХОЛОДНЫЙ БЕЛЫЙ. Угол 30°. Св.поток 
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>371.31</price1>
-<price2>259.84</price2>
+<price1>360.42</price1>
 <color1>white</color1>
 <color2/>
 <color3/>

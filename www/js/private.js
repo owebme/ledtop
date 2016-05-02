@@ -1,11 +1,9 @@
-window.onload = function(){
-
-if (document.getElementById("private-basket")){
+$(function(){
+	if (document.getElementById("datatable-buttons")){
 
 	var $sel_developer = $("select.developer"),
 		$sel_category = $("select.category"),
-		$sel_group = $("select.group"),
-		$table = $("#products-table"),
+		$table = $("#products-table").find("table"),
 		$thead = $table.find("thead"),
 		$tbody = $table.find("tbody"),
 		$basket = $('#private-basket'),
@@ -34,51 +32,107 @@ if (document.getElementById("private-basket")){
 	$table.find("input.count").each(function(){
 		var value = $(this).data("value");
 		$(this).attr("value", value);
-	});	
-	
-	// Изменение категории
-	
-	$sel_category.on("change", function(){
-		var cat_id = $(this).val();
-		var params = new Object();
-		params.getPrivateGroups = cat_id;
-		$.post('/ajax/', params, function(data){
-			if (data){
-				$sel_group.html(data);
-				$.cookie('private_sel_category', cat_id, {expires: 365, path: '/'});
-				$.cookie('private_sel_group', null, {expires: 0, path: '/'});
-			}
-		});
 	});
 	
-	// Изменение группы категории
+	var $dataTable = $table.DataTable({
+		ajax: {
+			url: '/ajax/?getPrivateProducts=' + $sel_category.data("id")
+		},
+		order:[],
+		dom: "Bfrtilp",
+		buttons: [{
+			extend: "excel",
+			className: "btn-sm"
+		}, {
+			extend: "pdf",
+			className: "btn-sm"
+		}, {
+			extend: "print",
+			className: "btn-sm"
+		}],	
+		columns: [
+			{ data: 'article' },
+			{ data: 'image' },
+			{ data: 'name' },
+			{ data: 'color' },
+			{ data: 'price' },
+			{ data: 'order' },
+			{ data: 'unit' },
+			{ data: 'stock' },
+			{ data: 'desc' }		
+		],
+        columnDefs: [
+            { className: "art", "targets": [ 0 ] },
+			{ className: "img", "targets": [ 1 ] },
+			{ className: "name", "targets": [ 2 ] },
+			{ className: "color", "targets": [ 3 ] },
+			{ className: "price", "targets": [ 4 ] },
+			{ className: "count", "targets": [ 5 ] },
+			{ className: "unit", "targets": [ 6 ] },
+			{ className: "stock", "targets": [ 7 ] },
+			{ className: "desc", "targets": [ 8 ] }
+        ],	
+        language: {
+			"search": "Фильтр",
+            "lengthMenu": "Показано _MENU_ записей на странице",
+            "zeroRecords": "Совпадающих записей не найдено",
+            "info": "Страницы _PAGE_ из _PAGES_",
+            "infoEmpty": "Нет записей в наличии",
+            "infoFiltered": "(отфильтровано из _MAX_ записей)",
+			"paginate": {
+				"first":      "Первый",
+				"last":       "Последний",
+				"next":       "Следующая",
+				"previous":   "Предыдущая"
+			}			
+        },		
+		initComplete: function(){}			
+	});
+	
+	$tbody.html('<td colspan="9" class="empty"><img src="/img/loading.svg" class="loader"></td>');
+	
+	// $dataTable.on("xhr", function(){
+	    // var json = $dataTable.ajax.json();
+		// console.dir(json.data);
+	// });
+	
+	// Изменение категории
 
-	$sel_group.on("change", function(){
-		var group_id = $(this).val();
-		if (group_id > 0){
+	$sel_category.on("change", function(){
+		var cat_id = $(this).val();
+		if (cat_id > 0){
 			var th = $thead.find("th").length;
 			$thead.find("th").each(function(){
 				var width = $(this).width();
 				$(this).css("width", width+"px");
 			});
+			$dataTable.clear().draw();
 			$tbody.html('<td colspan="'+th+'" class="empty"><img src="/img/loading.svg" class="loader"></td>');
 			var params = new Object();
-			params.getPrivateProducts = group_id;
+			params.getPrivateProducts = cat_id;
 			$.post('/ajax/', params, function(data){
 				if (data){
-					if (data == "empty"){
-						$tbody.find("td").html("<span>Товаров нет в выбранной категории</span>");   
+					data = JSON.parse(data).data;
+					if (data.length){
+						$dataTable.rows.add(data).draw();
+						$.cookie('private_sel_category', cat_id, {expires: 365, path: '/'});
 					}
 					else {
-						$tbody.html(data);  
-						$thead.find("th").css("width", "");
-						sortTable();
+						$tbody.find("td").html("<span>Товаров нет в выбранной категории</span>");   					
 					}
-					$.cookie('private_sel_group', group_id, {expires: 365, path: '/'});
 				}
 			});
 		}
 	});
+	
+	// $sel_category.on("change", function(){
+		// var cat_id = $(this).val();
+		// if (cat_id > 0){
+			// $dataTable.ajax.url("/ajax/?getPrivateProductsJSON=" + cat_id).load();
+		// }
+	// });	
+	
+	$sel_category.select2();
 	
 	// Добавить товар к заказу
 
@@ -100,8 +154,9 @@ if (document.getElementById("private-basket")){
 				$clone.remove();
 			}, 500);
 		}, 20);
-		var article = $row.attr("data-art");
-		var price = $row.data("price");
+		var data = $dataTable.row($row).data();
+		var article = data.article;
+		var price = data.price;
 		var count = $row.find("input.count").val();
 		if (count > 0){
 			$row.addClass("add-basket");
@@ -192,27 +247,25 @@ if (document.getElementById("private-basket")){
 				var width = $(this).width();
 				$(this).css("width", width+"px");
 			});
+			$dataTable.clear().draw();
 			$tbody.html('<td colspan="'+th+'" class="empty"><img src="/img/loading.svg" class="loader"></td>');
 			var params = new Object();
 			params.searchPrivateProducts = URLEncode(word);
 			$.post('/ajax/', params, function(data){
 				if (data){
-					if (data == "empty"){
-						$tbody.find("td").html("<span>Товары не найдены, попробуйте поменять поисковый запрос</span>");   
+					data = JSON.parse(data).data;
+					if (data.length){
+						$dataTable.rows.add(data).draw();
 					}
 					else {
-						$tbody.html(data);  
-						$thead.find("th").css("width", "");
-						sortTable();
+						$tbody.find("td").html("<span>Товары не найдены, попробуйте поменять поисковый запрос</span>");   
 					}
 				}
 			});	
 		}
 	});
 	
-	
 	changeCountsBasket($basket.find("input.count"));
-}
 
 	// Изменение кол-во товара в корзине
 	
@@ -229,8 +282,9 @@ if (document.getElementById("private-basket")){
 					if (count != value){
 						$input.data("value", count);
 						var $row = $input.parent().parent();
-						var article = $row.attr("data-art");
-						var price = parseFloat($row.data("price"));
+						var data = $dataTable.row($row).data();
+						var article = data.article;
+						var price = parseFloat(data.price);
 						var cena = parseFloat(price*count).toFixed(2);
 						cena = String(cena).replace(/(\d)(?=((\d{3})+)(\D|$))/, "$1 ");	
 						$row.find(".cena").html(cena);
@@ -319,77 +373,6 @@ if (document.getElementById("private-basket")){
 			$box.removeClass("checked");
 		}
 	}
-	
-	sortTable();
-	
-	function sortTable(){
-
-		var hc = function (s, c) {return (" " + s + " ").indexOf(" " + c + " ") !== -1},
-		 ac = function (e, c) {var s = e.className; if (!hc(s, c)) e.className += " " + c};
-		
-		prepTabs = function (t){
-			var el, th, ts = (t && t.className) ? [t] : document.getElementsByTagName("table")
-			for (var e in ts) {
-				el = ts[e]
-				if (!hc(el.className, "sortable")) continue
-				if (!el.tHead) {
-					th = document.createElement("thead")
-					th.appendChild(el.rows[0])
-					el.appendChild(th)
-				}
-				th = el.tHead
-				ac(th, "c_0_c")
-				th.title = "Сортировать"
-				th.onclick = clicktab
-				el.sorted = NaN
-				//reset
-				el.tb = el.tBodies[0]
-				el.tb_res = el.tb.cloneNode(true) 
-				el.th_res = th.cloneNode(true) 
-				el.a_color = 0 
-			}
-		}
-		
-		var clicktab = function (e) {
-			e = e || window.event
-			var obj = e.target || e.srcElement;
-			while (!obj.tagName.match(/^(th|td)$/i)) obj = obj.parentNode
-			var i = obj.cellIndex, t = obj.parentNode, cn = obj.className, verse = /d\_\d+\_d/.test(cn);
-			while (!t.tagName.match(/^table$/i)) t = t.parentNode
-			var j = 0, rows = t.tb.rows, l = rows.length, c, v, vi;
-			
-			if (e.ctrlKey) { /* reset */
-				t.replaceChild(t.tb_res, t.tb); 
-				t.replaceChild(t.th_res, t.tHead); 
-				prepTabs(t); 
-				return;
-			}
-			 
-			if (i !== t.sorted) {
-				if (t.a_color < 9) t.a_color++ 
-				else t.a_color = 1
-				t.sarr = []
-				for (j; j < l; j++) {
-					c = rows[j].cells[i]
-					v = (c) ? (c.innerHTML.replace(/\<[^<>]+?\>/g, '')) : ''
-					vi = Math.round(100 * parseFloat(v)).toString()
-					if (isFinite(vi)) while (vi.length < 10) vi = '0' + vi
-					else vi = v
-					t.sarr[j] = [vi + (j/1000000000).toFixed(10), rows[j]]
-					//c.innerHTML = t.sarr[j][0]
-				}
-			}
-			t.sarr = (verse) ? t.sarr.reverse() : t.sarr.sort()
-			t.sorted = i
-			
-			var dir = (verse) ? "u" : "d", new_cls = dir + "_" + t.a_color + "_" + dir,
-			 a_re = /[cdu]\_\d+\_[cdu]/;
-			if (a_re.test(cn)) obj.className = cn.replace(a_re, new_cls)
-			else obj.className = new_cls
-			for (j = 0; j < l; j++) t.tb.appendChild(t.sarr[j][1])
-			obj.title = "Отсортировано по " + ((verse) ? "убыванию" : "возрастанию")
-		}
-		prepTabs();
-	}
     
-};
+	}
+});

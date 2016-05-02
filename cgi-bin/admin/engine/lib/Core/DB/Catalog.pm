@@ -349,26 +349,35 @@ sub addFilterGroup {
 	return $cat->addFilterGroup($params);
 }
 
-sub getPrivateGroups {
+sub getPrivateCategories {
 	my $self = shift;
 	my $id = shift;
-	my $brand = shift;
 	
-	my $groups = new Core::DB::Catalog::Product;
+	my $category = new Core::DB::Catalog::Product;
 
-	return $groups->getPrivateGroups($id, $brand);
+	return $category->getPrivateCategories($id);
 }
 
 sub getPrivateProducts {
 	my $self = shift;
 	my $id = shift;
-	my $brand = shift;
 	my $params = shift;
 	my $group_id = shift;
 	
 	my $products = new Core::DB::Catalog::Product;
 
-	return $products->getPrivateProducts($id, $brand, $params, $group_id);
+	return $products->getPrivateProducts($id, $params, $group_id);
+}
+
+sub getPrivateProductsJSON {
+	my $self = shift;
+	my $id = shift;
+	my $params = shift;
+	my $group_id = shift;
+	
+	my $products = new Core::DB::Catalog::Product;
+
+	return $products->getPrivateProductsJSON($id, $params, $group_id);
 }
 
 sub getPrivateGroupPrice {

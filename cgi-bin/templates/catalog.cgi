@@ -127,18 +127,18 @@ sub build_CatalogSubMenu
 			}
 		}
 	}
-	else {
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lenty/lenta-klassa-lyuks">Ленты класса ЛЮКС</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lenty/lenta-na-diodah-3528">Ленты на диодах 3528</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lenty/lenta-na-diodah-5060-5050">Ленты на диодах 5060 (5050)</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/g4-220v">Лампы с цоколем G4 220V</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/g9-220v">Лампы с цоколем G9 220V</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/e27-220v">Лампы E27 220V</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/e14-220v">Лампы E14 220V</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-svetilniki/ultratonkie-svetilniki">Ультратонкие светильники</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/gu10-220v">Лампы GU10 220V</a></li>';
-		$catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/mr16-gu53-220v">Лампы GU5.3 220V</a></li>';	
-	}
+	# else {
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lenty/lenta-klassa-lyuks">Ленты класса ЛЮКС</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lenty/lenta-na-diodah-3528">Ленты на диодах 3528</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lenty/lenta-na-diodah-5060-5050">Ленты на диодах 5060 (5050)</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/g4-220v">Лампы с цоколем G4 220V</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/g9-220v">Лампы с цоколем G9 220V</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/e27-220v">Лампы E27 220V</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/e14-220v">Лампы E14 220V</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-svetilniki/ultratonkie-svetilniki">Ультратонкие светильники</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/gu10-220v">Лампы GU10 220V</a></li>';
+		# $catalog_submenu .='<li><a href="/catalog/svetodiodnye-lampy/mr16-gu53-220v">Лампы GU5.3 220V</a></li>';	
+	# }
 	if ($catalog_submenu){
 	
 		my $name = 'Категории';

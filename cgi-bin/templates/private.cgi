@@ -273,10 +273,10 @@ sub build_Private
 		}
 		elsif ($logined eq "enter") {
 
-			my ($sec, $min, $hour) = localtime((stat $dirs_home.'/js/private.js')[9]);
-			my $private_js = $sec.$min.$hour;
+			# my ($sec, $min, $hour) = localtime((stat $dirs_home.'/js/private.js')[9]);
+			# my $private_js = $sec.$min.$hour;
 
-			$private .='<script src="/js/private.js?'.$private_js.'" type="text/javascript"></script>';
+			# $private .='<script src="/js/private.js?'.$private_js.'" type="text/javascript"></script>';
 
 			$user_status = '<div id="user-status">
 					<h3>Ваш статус</h3>
@@ -354,97 +354,35 @@ sub build_Private
 								<h1 class="name">Сделать заказ</h1>
 							</div>';
 
-				my $current_category = 1;
-				my $private_sel_category = cookie("private_sel_category");
-				if ($private_sel_category > 0){
-					my $res = $db->query("SELECT c_id FROM catalog_alright WHERE c_id ='".$private_sel_category."'");
+				my $cat_id = cookie("private_sel_category");
+				
+				my $catalog_category="";
+				if (!$cat_id){
+					my $res = $db->query("SELECT cat_id FROM cat_product_rel WHERE cat_main ='1' LIMIT 1");
 					if ($res){
-						$current_category = $private_sel_category;
+						$cat_id = $res->[0]->{"cat_id"};
 					}
-				}
-				my $alright_category="";
-				my $result = $db->query("SELECT * FROM catalog_alright WHERE c_pid ='0' ORDER BY c_id ASC");
-				if ($result){
-					foreach my $item(@$result){
-						$alright_category .= '<option value="'.$item->{'c_id'}.'"'.($item->{'c_id'} == $current_category?' selected':'').'>'.$item->{'c_name'}.'</option>';
-					}
-				}
+				}	
 
-				my $current_group = 1;
-				my $private_sel_group = cookie("private_sel_group");
-				if ($private_sel_group > 0 && $current_category ne "1"){
-					$current_group = $private_sel_group;
+				if ($cat_id) {
+					$catalog_category = $catalog->getPrivateCategories($cat_id);
 				}
-				my $alright_group=""; my $cat_id="";
-				my $result = $db->query("SELECT * FROM catalog_alright WHERE c_pid ='".$current_category."' ORDER BY c_id ASC");
-				if (!$result){
-					$current_group = 1;
-					$db->query("SELECT * FROM catalog_alright WHERE c_pid ='1' ORDER BY c_id ASC");
-				}
-				if ($result){
-					my $i = 0;
-					foreach my $item(@$result){
-						$i++;
-						my $res = $db->query("SELECT * FROM catalog_alright WHERE c_pid ='".$item->{'c_id'}."' ORDER BY c_id ASC");
-						if ($res){
-							$alright_group .= '<option value="'.$item->{'c_id'}.'" style="font-weight:bold; color:#bb418c" disabled>'.$item->{'c_name'}.'</option>';
-							foreach my $line(@$res){
-								my $selected="";
-								if ($i == 1 && !$cat_id && $current_group eq "1"){$cat_id = $line->{'c_id'}; $selected = 1;}
-								elsif ($current_group > 1){$selected = 1;}
-								$alright_group .= '<option value="'.$line->{'c_id'}.'"'.($selected?' selected':'').'>&nbsp; &nbsp; — '.$line->{'c_name'}.'</option>';
-								}
-							}
-						else {
-							if ($i == 1 && $current_group eq "1"){$cat_id = $item->{'c_id'};}
-							$alright_group .= '<option value="'.$item->{'c_id'}.'" style="font-weight:bold; color:#bb418c">'.$item->{'c_name'}.'</option>';
-						}
-					}
-				}
-
-				if ($current_group > 1){$cat_id = $current_group;}
-
-				my $alright_products = $catalog->getPrivateProducts($cat_id, "alright");
 
 				$private .= $catalog->getPrivateBasket();
 
-				$private .='
-				<div id="private-panel-top">
-					<div class="item item1">
-						<span>Производитель:</span>
-						<div class="select">
-							<select class="developer" name="sel_developer">
-								<option value="arlight" selected>Arlight</option>
-								<!--<option value="geniled">Geniled</option>-->
-							</select>
-						</div>
-					</div>';
-
-				if ($alright_category){
+				$private .='<div id="private-panel-top">';
+				
+				if ($catalog_category){
 					$private .='
-					<div class="item item2">
-						<span>Категория:</span>
 						<div class="select">
-							<select class="category" name="sel_category">
-								'.$alright_category.'
+							<select class="category" data-id="'.$cat_id.'" name="sel_category">
+								'.$catalog_category.'
 							</select>
-						</div>
-					</div>';
-				}
-				if ($alright_group){
-					$private .='
-					<div class="item item3">
-							<span>Разделы:</span>
-							<div class="select">
-								<select class="group" name="sel_group">
-									'.$alright_group.'
-								</select>
-							</div>
 						</div>';
 				}
 				$private .='<p>Цены указаны в российских рублях с учетом НДС 18% и приводятся за одну единицу измерения (шт, м и т.д.), указанную в таблице в колонке Ед.</p></div>
 				<div id="products-table">
-					<table class="sortable">
+					<table id="datatable-buttons" class="dataTable">
 						<thead>
 							<th>Артикул</th>
 							<th></th>
@@ -456,12 +394,7 @@ sub build_Private
 							<th>Склад</th>
 							<th id="th-desc">Описание</th>
 						</thead>
-						<tbody>';
-
-				if ($alright_products){
-					$private .= $alright_products;
-				}
-				$private .='
+						<tbody>
 						</tbody>
 					</table>
 				</div>';

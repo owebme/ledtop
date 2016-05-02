@@ -3,7 +3,7 @@
 	function getFile($file){
 
 		$curl = curl_init();
-		curl_setopt($curl, CURLOPT_URL, 'http://www.transistor.ru/catalog/transistor_catalog.xml.gz?category='.$file);
+		curl_setopt($curl, CURLOPT_URL, (preg_match('%http%', $file) ? $file : 'http://assets.transistor.ru/catalog/transistor_catalog.xml.gz?category='.$file));
 		curl_setopt($curl, CURLOPT_POST, 1);
 		curl_setopt($curl, CURLOPT_POSTFIELDS, array('greeting' => 'hi!'));
 		curl_setopt($curl, CURLOPT_USERPWD, 'roman.hohlov@mail.ru:28456hrvn'); 
@@ -12,7 +12,7 @@
 		$result = curl_exec($curl);
 		curl_close($curl);
 
-		$gz_filename = 'transistor_catalog_'.$file.'.xml.gz';
+		$gz_filename = 'xml/transistor_catalog_'.$file.'.xml.gz';
 		if(!$handle = fopen($gz_filename, 'w'))
 			echo 'не могу открыть файл для записи на сервере';
 
@@ -34,12 +34,12 @@
 			fclose($handle);
 			
 			// Удалить zip
-			unlink('transistor_catalog_'.$file.'.xml.gz');
+			unlink('xml/transistor_catalog_'.$file.'.xml.gz');
 			
 			print '<h3>Cкачан файл transistor_catalog_'.$file.'.xml</h3>';
 		}
 		else {
-			unlink('transistor_catalog_'.$file.'.xml.gz');
+			unlink('xml/transistor_catalog_'.$file.'.xml.gz');
 			print '<h3 style="color:red">Прайс transistor_catalog_'.$file.'.xml не обновлен</h3>';
 			//exit;
 		}

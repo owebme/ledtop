@@ -10,24 +10,27 @@ my $db = new Core::DB();
 	}	
 	
 if ($num_edit eq "") {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
-<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category"><span>Категории</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category&par=new"><span>Доб. категорию</span></a></li>
+<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Параметры</span></a></li>
 $products_type~;
 }
 else {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
-<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category"><span>Категории</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category&par=new"><span>Доб. категорию</span></a></li>
+<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Параметры</span></a></li>
 $products_type~;
 }
 if ($par) {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
-<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category"><span>Категории</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category&par=new"><span>Доб. категорию</span></a></li>
+<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Параметры</span></a></li>
 $products_type~;
 }
 	

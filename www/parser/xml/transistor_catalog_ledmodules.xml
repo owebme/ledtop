@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<data created="Sun, 20 Mar 2016 13:01:49 GMT">
+<data created="Sat, 30 Apr 2016 10:58:44 GMT">
 <product>
 <article>018283</article>
 <category id="9">Модули и линейки</category>
@@ -11,15 +11,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>8.01</price1>
-<price2>5.6</price2>
+<price1>7.77</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -121,15 +119,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
-<waiting>-1</waiting>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>9.28</price1>
-<price2>6.5</price2>
+<price1>9.01</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -224,15 +220,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>8.01</price1>
-<price2>5.6</price2>
+<price1>7.77</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -327,15 +321,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
-<waiting>-1</waiting>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>8.01</price1>
-<price2>5.6</price2>
+<price1>7.77</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -429,16 +421,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
+<stock>2000</stock>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>8.01</price1>
-<price2>5.6</price2>
+<price1>7.77</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -533,15 +523,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>8.01</price1>
-<price2>5.6</price2>
+<price1>7.77</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -636,15 +624,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>12.59</price1>
-<price2>8.81</price2>
+<price1>12.22</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -746,15 +732,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
-<waiting>-1</waiting>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>12.94</price1>
-<price2>9.05</price2>
+<price1>12.56</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -856,15 +840,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>1200</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>600</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>9.28</price1>
-<price2>6.5</price2>
+<price1>9.01</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -959,15 +941,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>12.59</price1>
-<price2>8.81</price2>
+<price1>12.22</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -1062,15 +1042,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>12.59</price1>
-<price2>8.81</price2>
+<price1>12.22</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -1165,15 +1143,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>12.59</price1>
-<price2>8.81</price2>
+<price1>12.22</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -1268,15 +1244,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>9.28</price1>
-<price2>6.5</price2>
+<price1>9.01</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -1371,15 +1345,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>9.28</price1>
-<price2>6.5</price2>
+<price1>9.01</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -1463,16 +1435,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>2000</stock>
-<possible>-1</possible>
+<stock>0</stock>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>12.59</price1>
-<price2>8.81</price2>
+<price1>12.22</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -1567,15 +1537,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>600</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>9.28</price1>
-<price2>6.5</price2>
+<price1>9.01</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -1645,16 +1613,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
+<stock>2000</stock>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>20.31</price1>
-<price2>14.21</price2>
+<price1>19.71</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -1752,15 +1718,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>20.89</price1>
-<price2>14.62</price2>
+<price1>20.27</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -1866,15 +1830,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>200</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>20.89</price1>
-<price2>14.62</price2>
+<price1>20.27</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -1987,15 +1949,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>20.89</price1>
-<price2>14.62</price2>
+<price1>20.27</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -2108,15 +2068,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>23.21</price1>
-<price2>16.24</price2>
+<price1>22.53</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -2222,15 +2180,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>23.21</price1>
-<price2>16.24</price2>
+<price1>22.53</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -2336,15 +2292,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>400</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>25.53</price1>
-<price2>17.86</price2>
+<price1>24.78</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -2464,16 +2418,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>100</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -2579,15 +2531,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -2699,16 +2649,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>2000</stock>
-<possible>-1</possible>
+<stock>1900</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -2821,15 +2769,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -2942,15 +2888,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -3062,16 +3006,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>2000</stock>
-<possible>-1</possible>
+<stock>600</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -3184,15 +3126,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>46.41</price1>
-<price2>32.48</price2>
+<price1>45.05</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -3312,15 +3252,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>50</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -3440,15 +3378,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>650</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>50</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -3554,15 +3490,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>50</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -3668,15 +3602,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>50</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -3782,15 +3714,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>200</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -3896,15 +3826,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>880</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -4010,15 +3938,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -4121,18 +4047,16 @@
 <developer>LED4U</developer>
 <case>Закрытый</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>42.93</price1>
-<price2>30.04</price2>
+<price1>41.67</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -4245,15 +4169,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>42.93</price1>
-<price2>30.04</price2>
+<price1>41.67</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -4371,18 +4293,16 @@
 <developer>LED4U</developer>
 <case>Закрытый</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -4492,18 +4412,16 @@
 <developer>LED4U</developer>
 <case>Закрытый</case>
 <advstatus>0</advstatus>
-<status>0</status>
+<status>-2</status>
 <archive>0</archive>
-<stock>1600</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -4616,15 +4534,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>47.57</price1>
-<price2>33.29</price2>
+<price1>46.18</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -4744,15 +4660,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>47.57</price1>
-<price2>33.29</price2>
+<price1>46.18</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -4872,15 +4786,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>48.73</price1>
-<price2>34.1</price2>
+<price1>47.31</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -4993,15 +4905,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>48.73</price1>
-<price2>34.1</price2>
+<price1>47.31</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -5114,15 +5024,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -5235,15 +5143,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -5349,15 +5255,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -5463,15 +5367,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>1200</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>52.22</price1>
-<price2>36.54</price2>
+<price1>50.68</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -5577,15 +5479,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -5704,16 +5604,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1900</stock>
-<possible>0</possible>
+<stock>200</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>67.58</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -5829,16 +5727,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>700</stock>
-<possible>-1</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -5954,16 +5850,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible></possible>
+<stock>2000</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>63.82</price1>
-<price2>44.66</price2>
+<price1>61.95</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6083,15 +5977,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>46.41</price1>
-<price2>32.48</price2>
+<price1>45.05</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -6211,15 +6103,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>50</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>50.24</price1>
-<price2>35.16</price2>
+<price1>48.77</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6332,15 +6222,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>67.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6460,15 +6348,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>55.7</price1>
-<price2>38.98</price2>
+<price1>54.06</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -6588,15 +6474,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>-1</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>55.7</price1>
-<price2>38.98</price2>
+<price1>54.06</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -6716,15 +6600,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>55.7</price1>
-<price2>38.98</price2>
+<price1>54.06</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -6844,15 +6726,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>59.18</price1>
-<price2>41.41</price2>
+<price1>57.44</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -6965,15 +6845,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>59.18</price1>
-<price2>41.41</price2>
+<price1>57.44</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -7086,15 +6964,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>67.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -7206,16 +7082,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>900</stock>
-<possible>0</possible>
+<stock>100</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>yellow</color1>
 <color2/>
 <color3/>
@@ -7320,16 +7194,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>900</stock>
-<possible>0</possible>
+<stock>600</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -7435,15 +7307,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>58.02</price1>
-<price2>40.6</price2>
+<price1>56.32</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -7548,16 +7418,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>2000</stock>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>62.66</price1>
-<price2>43.85</price2>
+<price1>60.82</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -7676,16 +7544,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>2000</stock>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>83.55</price1>
-<price2>58.46</price2>
+<price1>81.1</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -7783,122 +7649,6 @@
 <descript>Модуль в алюминиевом корпусе IP65. Цвет RGB, размер 33х33mm, 4pcs SMD5050 Мощность 1.44W, Питание DC 12V</descript>
 </product>
 <product>
-<article>013072</article>
-<category id="9">Модули и линейки</category>
-<group id="250">Модули и линейки / Модули герметичные / smd 5050 квадратные</group>
-<name prefix="">Модуль герметичный ARL-LM5050-4 RGB</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>-2</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Пакет</pack>
-<packnorm>80</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Модуль</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="2" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="3" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">4 шт</value>
-</values>
-</param>
-<param order="4" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="5" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">12 V</value>
-</values>
-</param>
-<param order="6" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">1,44 W</value>
-</values>
-</param>
-<param order="7" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP65</value>
-</values>
-</param>
-<param order="8" id="57">
-<name>Форма</name>
-    <unit/>
-<values total="1">
-<value order="0">Квадратный</value>
-</values>
-</param>
-<param order="9" id="47">
-<name>Длина</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">54,6 мм</value>
-</values>
-</param>
-<param order="10" id="48">
-<name>Ширина</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">33 мм</value>
-</values>
-</param>
-<param order="11" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">5,9 мм</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/013072/</techinfo>
-<pdf modified="Thu, 29 Sep 2011 11:31:48 GMT">http://assets.transistor.ru/pdf/arlight/leddevices/modul/modul-ARL-LM5050-4-RGB.pdf</pdf>
-<img id="3865051E9244B34C83257D04D7BA13BF" type="jpg" modified="Thu, 24 Apr 2014 06:36:55 GMT">http://assets.transistor.ru/img/product/userlogo/3865051E9244B34C83257D04D7BA13BF.jpg</img>
-<descript>Герметичный IP65 модуль RGB 4-LED smd 5050, угол 120°. Питание 12VDC, мощность 1,44Вт. Размеры 54.6х33х5.9 мм. На проводе, расстояние между центрами 100мм. Макс.последовательное подключение 60шт.</descript>
-</product>
-<product>
 <article>015415</article>
 <category id="9">Модули и линейки</category>
 <group id="250">Модули и линейки / Модули герметичные / smd 5050 квадратные</group>
@@ -7908,16 +7658,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>2000</stock>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>95.15</price1>
-<price2>66.58</price2>
+<price1>92.36</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -8025,15 +7773,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>500</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>23.21</price1>
-<price2>16.24</price2>
+<price1>22.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8153,15 +7899,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>300</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>28.43</price1>
-<price2>19.89</price2>
+<price1>27.59</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8281,15 +8025,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>120</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>34.81</price1>
-<price2>24.36</price2>
+<price1>33.79</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8409,15 +8151,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>80</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8536,16 +8276,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>200</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>39.42</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8664,16 +8402,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>360</stock>
-<possible>-1</possible>
-<waiting>0</waiting>
+<stock>90</stock>
+<waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>90</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>99.79</price1>
-<price2>69.83</price2>
+<price1>96.86</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8793,15 +8529,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>150</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>64.98</price1>
-<price2>45.47</price2>
+<price1>63.07</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -8921,15 +8655,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>160</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>44.09</price1>
-<price2>30.86</price2>
+<price1>42.8</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9049,15 +8781,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>49.89</price1>
-<price2>34.92</price2>
+<price1>48.43</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -9156,7 +8886,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/020627/</techinfo>
 <pdf/>
-<img id="419433B3AC3FA4408945672027BB4C23" type="jpg" modified="Tue, 29 Dec 2015 09:15:14 GMT">http://assets.transistor.ru/img/product/userlogo/419433B3AC3FA4408945672027BB4C23.jpg</img>
+<img id="D7D2640BD278FD4B823EE99B551C429D" type="jpg" modified="Wed, 23 Mar 2016 13:27:29 GMT">http://assets.transistor.ru/img/product/userlogo/D7D2640BD278FD4B823EE99B551C429D.jpg</img>
 <descript>Светодиодный модуль с линзами 160°, 2шт LED smd 2835 (новый тип), корпус ABS+алюминиевая плата, IP65. Цвет КРАСНЫЙ, световой поток 11 люмен. Питание 12V DC, мощность 0.72 Вт. Габариты 48х16х5 мм. Длина провода между модулями 60 мм, 20 шт на проводе.</descript>
 </product>
 <product>
@@ -9170,15 +8900,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>49.89</price1>
-<price2>34.92</price2>
+<price1>48.43</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -9277,7 +9005,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/020626/</techinfo>
 <pdf/>
-<img/>
+<img id="D7D2640BD278FD4B823EE99B551C429D" type="jpg" modified="Wed, 23 Mar 2016 13:27:29 GMT">http://assets.transistor.ru/img/product/userlogo/D7D2640BD278FD4B823EE99B551C429D.jpg</img>
 <descript>Светодиодный модуль с линзами 160°, 2шт LED smd 2835 (новый тип), корпус ABS+алюминиевая плата, IP65. Цвет ЗЕЛЁНЫЙ, св.поток 32 люмен. Питание 12V DC, мощность 0.72 Вт. Габариты 48х16х5 мм. Длина провода между модулями 60 мм, 20 шт на проводе.</descript>
 </product>
 <product>
@@ -9291,15 +9019,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>49.89</price1>
-<price2>34.92</price2>
+<price1>48.43</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -9398,7 +9124,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/020628/</techinfo>
 <pdf/>
-<img/>
+<img id="D7D2640BD278FD4B823EE99B551C429D" type="jpg" modified="Wed, 23 Mar 2016 13:27:29 GMT">http://assets.transistor.ru/img/product/userlogo/D7D2640BD278FD4B823EE99B551C429D.jpg</img>
 <descript>Светодиодный модуль с линзами 160°, 2шт LED smd 2835 (новый тип), корпус ABS+алюминиевая плата, IP65. Цвет СИНИЙ, световой поток 10 люмен. Питание 12V DC, мощность 0.72 Вт. Габариты 48х16х5 мм. Длина провода между модулями 60 мм, 20 шт на проводе.</descript>
 </product>
 <product>
@@ -9412,15 +9138,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>80</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>53.38</price1>
-<price2>37.35</price2>
+<price1>51.81</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9540,15 +9264,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>150</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>87.03</price1>
-<price2>60.9</price2>
+<price1>84.47</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9668,15 +9390,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>59.18</price1>
-<price2>41.41</price2>
+<price1>57.44</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -9796,15 +9516,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>59.18</price1>
-<price2>41.41</price2>
+<price1>57.44</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -9903,7 +9621,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/020629/</techinfo>
 <pdf/>
-<img/>
+<img id="ECA01FA3CD026D4EA6D0A1611234C8A0" type="jpg" modified="Tue, 29 Dec 2015 09:19:04 GMT">http://assets.transistor.ru/img/product/userlogo/ECA01FA3CD026D4EA6D0A1611234C8A0.jpg</img>
 <descript>Светодиодный модуль с линзами 160°, 3шт LED smd 2835 (новый тип), корпус ABS+алюминиевая плата, IP65. Цвет КРАСНЫЙ, св.поток 17 люмен. Питание 12V DC, мощность 1,08 Вт. Габариты 68,8х16х6,6 мм. Длина провода между модулями 105 мм, 20 шт на проводе.</descript>
 </product>
 <product>
@@ -9917,15 +9635,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>74.26</price1>
-<price2>51.97</price2>
+<price1>72.08</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10045,15 +9761,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>74.26</price1>
-<price2>51.97</price2>
+<price1>72.08</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -10166,15 +9880,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>250</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>50</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>111.39</price1>
-<price2>77.95</price2>
+<price1>108.13</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10294,15 +10006,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>76.58</price1>
-<price2>53.59</price2>
+<price1>74.34</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10422,15 +10132,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>67.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10551,15 +10259,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>68.46</price1>
-<price2>47.91</price2>
+<price1>66.45</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10678,16 +10384,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>400</stock>
-<possible>0</possible>
+<stock>300</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>88.19</price1>
-<price2>61.71</price2>
+<price1>85.6</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -10807,15 +10511,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>88.19</price1>
-<price2>61.71</price2>
+<price1>85.6</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -10935,15 +10637,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>88.19</price1>
-<price2>61.71</price2>
+<price1>85.6</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11062,16 +10762,14 @@
 <advstatus>0</advstatus>
 <status>-2</status>
 <archive>0</archive>
-<stock>1080</stock>
-<possible>0</possible>
+<stock>680</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>80</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>67.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11192,15 +10890,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>100</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>67.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11319,16 +11015,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>630</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>90</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>175.21</price1>
-<price2>122.61</price2>
+<price1>170.07</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11368,63 +11062,70 @@
 <value order="0">15 °</value>
 </values>
 </param>
-<param order="5" id="23">
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">60 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">1 шт</value>
 </values>
 </param>
-<param order="6" id="45">
+<param order="7" id="45">
 <name>Размер светодиода</name>
     <unit/>
 <values total="1">
 <value order="0">2835 (2.8x3.5мм)</value>
 </values>
 </param>
-<param order="7" id="20">
+<param order="8" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">12 V</value>
 </values>
 </param>
-<param order="8" id="35">
+<param order="9" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">1,4 W</value>
 </values>
 </param>
-<param order="9" id="44">
+<param order="10" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP65</value>
 </values>
 </param>
-<param order="10" id="57">
+<param order="11" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Квадратный</value>
 </values>
 </param>
-<param order="11" id="47">
+<param order="12" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">43 мм</value>
 </values>
 </param>
-<param order="12" id="48">
+<param order="13" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">36 мм</value>
 </values>
 </param>
-<param order="13" id="49">
+<param order="14" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
@@ -11448,15 +11149,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
+<waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>54</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>229.75</price1>
-<price2>160.78</price2>
+<price1>223.01</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11496,63 +11195,70 @@
 <value order="0">15 °</value>
 </values>
 </param>
-<param order="5" id="23">
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">60 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">1 шт</value>
 </values>
 </param>
-<param order="6" id="45">
+<param order="7" id="45">
 <name>Размер светодиода</name>
     <unit/>
 <values total="1">
 <value order="0">2835 (2.8x3.5мм)</value>
 </values>
 </param>
-<param order="7" id="20">
+<param order="8" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">12 V</value>
 </values>
 </param>
-<param order="8" id="35">
+<param order="9" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">2,8 W</value>
 </values>
 </param>
-<param order="9" id="44">
+<param order="10" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP65</value>
 </values>
 </param>
-<param order="10" id="57">
+<param order="11" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Квадратный</value>
 </values>
 </param>
-<param order="11" id="47">
+<param order="12" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">43 мм</value>
 </values>
 </param>
-<param order="12" id="48">
+<param order="13" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">36 мм</value>
 </values>
 </param>
-<param order="13" id="49">
+<param order="14" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
@@ -11575,16 +11281,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>90</stock>
-<possible>0</possible>
-<waiting>0</waiting>
+<stock>0</stock>
+<waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>90</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>134.6</price1>
-<price2>94.19</price2>
+<price1>130.65</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11624,63 +11328,70 @@
 <value order="0">18 °</value>
 </values>
 </param>
-<param order="5" id="23">
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">50 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">1 шт</value>
 </values>
 </param>
-<param order="6" id="45">
+<param order="7" id="45">
 <name>Размер светодиода</name>
     <unit/>
 <values total="1">
 <value order="0">2835 (2.8x3.5мм)</value>
 </values>
 </param>
-<param order="7" id="20">
+<param order="8" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">12 V</value>
 </values>
 </param>
-<param order="8" id="35">
+<param order="9" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">1,4 W</value>
 </values>
 </param>
-<param order="9" id="44">
+<param order="10" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP65</value>
 </values>
 </param>
-<param order="10" id="57">
+<param order="11" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Квадратный</value>
 </values>
 </param>
-<param order="11" id="47">
+<param order="12" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">45 мм</value>
 </values>
 </param>
-<param order="12" id="48">
+<param order="13" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">25 мм</value>
 </values>
 </param>
-<param order="13" id="49">
+<param order="14" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
@@ -11703,16 +11414,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1635</stock>
-<possible>0</possible>
+<stock>1615</stock>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1137.14</price1>
-<price2>795.76</price2>
+<price1>1103.79</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11745,67 +11454,74 @@
 <value order="0">typ: 635 lm</value>
 </values>
 </param>
-<param order="4" id="23">
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">15 °</value>
+</values>
+</param>
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">3 шт</value>
 </values>
 </param>
-<param order="5" id="20">
+<param order="7" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">24 V</value>
 </values>
 </param>
-<param order="6" id="35">
+<param order="8" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">9 W</value>
 </values>
 </param>
-<param order="7" id="44">
+<param order="9" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP63</value>
 </values>
 </param>
-<param order="8" id="57">
+<param order="10" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Линейный</value>
 </values>
 </param>
-<param order="9" id="47">
+<param order="11" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">295 мм</value>
 </values>
 </param>
-<param order="10" id="48">
+<param order="12" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">27,5 мм</value>
 </values>
 </param>
-<param order="11" id="49">
+<param order="13" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">15,6 мм</value>
-</values>
-</param>
-<param order="12" id="34">
-<name>Угол Обзора (гор/верт)</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">45x15</value>
 </values>
 </param>
 </techdata>
@@ -11825,15 +11541,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>5</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>905.07</price1>
-<price2>633.36</price2>
+<price1>878.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11866,67 +11580,74 @@
 <value order="0">typ: 660 lm</value>
 </values>
 </param>
-<param order="4" id="23">
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">10 °</value>
+</values>
+</param>
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">40 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">3 шт</value>
 </values>
 </param>
-<param order="5" id="20">
+<param order="7" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">24 V</value>
 </values>
 </param>
-<param order="6" id="35">
+<param order="8" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">6,8 W</value>
 </values>
 </param>
-<param order="7" id="44">
+<param order="9" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP33</value>
 </values>
 </param>
-<param order="8" id="57">
+<param order="10" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Линейный</value>
 </values>
 </param>
-<param order="9" id="47">
+<param order="11" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">297 мм</value>
 </values>
 </param>
-<param order="10" id="48">
+<param order="12" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">27 мм</value>
 </values>
 </param>
-<param order="11" id="49">
+<param order="13" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">15 мм</value>
-</values>
-</param>
-<param order="12" id="34">
-<name>Угол Обзора (гор/верт)</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">40x10</value>
 </values>
 </param>
 </techdata>
@@ -11946,15 +11667,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>95</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1566.47</price1>
-<price2>1096.2</price2>
+<price1>1520.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -11987,67 +11706,74 @@
 <value order="0">typ: 660 lm</value>
 </values>
 </param>
-<param order="4" id="23">
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">10 °</value>
+</values>
+</param>
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">40 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">3 шт</value>
 </values>
 </param>
-<param order="5" id="20">
+<param order="7" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">24 V</value>
 </values>
 </param>
-<param order="6" id="35">
+<param order="8" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">6,8 W</value>
 </values>
 </param>
-<param order="7" id="44">
+<param order="9" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP65</value>
 </values>
 </param>
-<param order="8" id="57">
+<param order="10" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Линейный</value>
 </values>
 </param>
-<param order="9" id="47">
+<param order="11" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">323 мм</value>
 </values>
 </param>
-<param order="10" id="48">
+<param order="12" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">30 мм</value>
 </values>
 </param>
-<param order="11" id="49">
+<param order="13" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">22 мм</value>
-</values>
-</param>
-<param order="12" id="34">
-<name>Угол Обзора (гор/верт)</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">40x10</value>
 </values>
 </param>
 </techdata>
@@ -12066,16 +11792,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>560</stock>
-<possible>0</possible>
+<stock>300</stock>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1914.57</price1>
-<price2>1339.8</price2>
+<price1>1858.43</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -12108,67 +11832,74 @@
 <value order="0">typ: 1 055 lm</value>
 </values>
 </param>
-<param order="4" id="23">
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">15 °</value>
+</values>
+</param>
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">45 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">5 шт</value>
 </values>
 </param>
-<param order="5" id="20">
+<param order="7" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">24 V</value>
 </values>
 </param>
-<param order="6" id="35">
+<param order="8" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">15 W</value>
 </values>
 </param>
-<param order="7" id="44">
+<param order="9" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP63</value>
 </values>
 </param>
-<param order="8" id="57">
+<param order="10" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Линейный</value>
 </values>
 </param>
-<param order="9" id="47">
+<param order="11" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">495 мм</value>
 </values>
 </param>
-<param order="10" id="48">
+<param order="12" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">27,5 мм</value>
 </values>
 </param>
-<param order="11" id="49">
+<param order="13" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">15,6 мм</value>
-</values>
-</param>
-<param order="12" id="34">
-<name>Угол Обзора (гор/верт)</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">45x15</value>
 </values>
 </param>
 </techdata>
@@ -12188,15 +11919,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>1566.47</price1>
-<price2>1096.2</price2>
+<price1>1520.53</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -12229,67 +11958,74 @@
 <value order="0">typ: 1 100 lm</value>
 </values>
 </param>
-<param order="4" id="23">
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">10 °</value>
+</values>
+</param>
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">40 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">5 шт</value>
 </values>
 </param>
-<param order="5" id="20">
+<param order="7" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">24 V</value>
 </values>
 </param>
-<param order="6" id="35">
+<param order="8" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">11 W</value>
 </values>
 </param>
-<param order="7" id="44">
+<param order="9" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP33</value>
 </values>
 </param>
-<param order="8" id="57">
+<param order="10" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Линейный</value>
 </values>
 </param>
-<param order="9" id="47">
+<param order="11" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">517 мм</value>
 </values>
 </param>
-<param order="10" id="48">
+<param order="12" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">27 мм</value>
 </values>
 </param>
-<param order="11" id="49">
+<param order="13" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">15 мм</value>
-</values>
-</param>
-<param order="12" id="34">
-<name>Угол Обзора (гор/верт)</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">40x10</value>
 </values>
 </param>
 </techdata>
@@ -12309,15 +12045,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>12</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>2436.73</price1>
-<price2>1705.2</price2>
+<price1>2365.27</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -12350,67 +12084,74 @@
 <value order="0">typ: 1 100 lm</value>
 </values>
 </param>
-<param order="4" id="23">
+<param order="4" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">10 °</value>
+</values>
+</param>
+<param order="5" id="66">
+<name>Угол обзора вертикальный</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">40 °</value>
+</values>
+</param>
+<param order="6" id="23">
 <name>Кол-во св.диодов</name>
 <unit>шт</unit>
 <values total="1">
 <value order="0">5 шт</value>
 </values>
 </param>
-<param order="5" id="20">
+<param order="7" id="20">
 <name>Напряжение питания</name>
 <unit>V</unit>
 <values total="1">
 <value order="0">24 V</value>
 </values>
 </param>
-<param order="6" id="35">
+<param order="8" id="35">
 <name>Потребляемая мощность</name>
 <unit>W</unit>
 <values total="1">
 <value order="0">11 W</value>
 </values>
 </param>
-<param order="7" id="44">
+<param order="9" id="44">
 <name>Класс пыле-влагозащиты</name>
     <unit/>
 <values total="1">
 <value order="0">IP65</value>
 </values>
 </param>
-<param order="8" id="57">
+<param order="10" id="57">
 <name>Форма</name>
     <unit/>
 <values total="1">
 <value order="0">Линейный</value>
 </values>
 </param>
-<param order="9" id="47">
+<param order="11" id="47">
 <name>Длина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">543 мм</value>
 </values>
 </param>
-<param order="10" id="48">
+<param order="12" id="48">
 <name>Ширина</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">30 мм</value>
 </values>
 </param>
-<param order="11" id="49">
+<param order="13" id="49">
 <name>Высота</name>
 <unit>мм</unit>
 <values total="1">
 <value order="0">22 мм</value>
-</values>
-</param>
-<param order="12" id="34">
-<name>Угол Обзора (гор/верт)</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">40x10</value>
 </values>
 </param>
 </techdata>
@@ -12429,16 +12170,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>-1</possible>
+<stock>2000</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>23.21</price1>
-<price2>16.24</price2>
+<price1>22.53</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -12546,16 +12285,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>2000</stock>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>27.27</price1>
-<price2>19.08</price2>
+<price1>26.47</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -12659,7 +12396,7 @@
 </techdata>
 <techinfo>http://www.transistor.ru/catalog/reference/018289/</techinfo>
 <pdf modified="Thu, 06 Aug 2015 09:39:52 GMT">http://assets.transistor.ru/pdf/module/018289_ARL-D12-2811_RGB_5V.pdf</pdf>
-<img/>
+<img id="A47045CC38D7234BAA76B4041B295361" type="jpg" modified="Mon, 11 Apr 2016 13:50:33 GMT">http://assets.transistor.ru/img/product/userlogo/A47045CC38D7234BAA76B4041B295361.jpg</img>
 <descript>Герметичный управляемый RGB-Модуль (1св/д RGB 8 мм, встроенный чип 2811, 256 градаций/канал), упр-ся контроллерами HX-805 и HX-801SE. 5В, 0.3Вт, IP67. Диаметр модуля 12 мм, высота 37мм.</descript>
 </product>
 <product>
@@ -12673,21 +12410,26 @@
 <status>0</status>
 <archive>0</archive>
 <stock>60</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>60</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>69.62</price1>
-<price2>48.72</price2>
+<price1>45.05</price1>
 <color1/>
 <color2/>
 <color3/>
 <related/>
-<techdata/>
-<techinfo/>
+<techdata><param order="0" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">4 шт</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/014812/</techinfo>
 <pdf modified="Wed, 05 Sep 2012 13:58:14 GMT">http://assets.transistor.ru/pdf/arlight/leddevices/modul/flash-ARL-5050-4-2801_RGB.pdf</pdf>
 <img id="20C24A117FED3648935B19C138059CD9" type="jpg" modified="Thu, 14 Jan 2016 11:10:50 GMT">http://assets.transistor.ru/img/product/userlogo/20C24A117FED3648935B19C138059CD9.jpg</img>
 <descript>Герметичный управляемый RGB-Модуль (4 с/д 5050, встроенный чип WS2801), 12В, 0.84Вт, 18 Lm. IP67. Габариты 33x33x5 мм. Заменяется на модуль с чипом WS-2811.</descript>
@@ -12703,15 +12445,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible>0</possible>
 <waiting>-1</waiting>
 <pack>Пакет</pack>
 <packnorm>80</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>104.43</price1>
-<price2>73.08</price2>
+<price1>101.37</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -12831,16 +12571,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>160</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>2000</stock>
+<waiting>0</waiting>
 <pack>Пакет</pack>
-<packnorm>80</packnorm>
+<packnorm>40</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>104.43</price1>
-<price2>73.08</price2>
+<price1>101.37</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -12960,16 +12698,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
+<stock>2000</stock>
+<waiting>0</waiting>
 <pack>Пакет</pack>
-<packnorm>80</packnorm>
+<packnorm>40</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>104.43</price1>
-<price2>73.08</price2>
+<price1>101.37</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -13097,15 +12833,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>80</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>46.41</price1>
-<price2>32.48</price2>
+<price1>45.05</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -13224,15 +12958,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>40</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>80</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>46.41</price1>
-<price2>32.48</price2>
+<price1>45.05</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -13323,114 +13055,6 @@
 <descript>Герметичный управляемый RGB-Модуль (3 св/д smd 5050, встроенный чип WS2801), 12В, 0.72Вт, IP65. Габариты 78x17x9 мм. Заменяется на модуль с чипом WS-2811.</descript>
 </product>
 <product>
-<article>018486</article>
-<category id="9">Модули и линейки</category>
-<group id="423">Модули и линейки / Флэш-модули / флэш-модули RGB 12V</group>
-<name prefix="">Флэш-модуль ARL-D45-6LED-2811 RGB 12V Прозрачный</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>80</stock>
-<possible>0</possible>
-<waiting>0</waiting>
-<pack>Пакет</pack>
-<packnorm>20</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related><article>016849</article>
-<article>020702</article>
-<article>018615</article>
-<article>017563</article>
-<article>018032</article>
-<article>017517</article>
-<article>017749</article>
-<article>016999</article>
-<article>016998</article>
-<article>019517</article>
-<article>019579</article>
-<article>016193</article>
-<article>018549</article>
-</related>
-<techdata><param order="0" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="1" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">180 °</value>
-</values>
-</param>
-<param order="2" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">6 шт</value>
-</values>
-</param>
-<param order="3" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="4" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">12 V</value>
-</values>
-</param>
-<param order="5" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">1,44 W</value>
-</values>
-</param>
-<param order="6" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">45 мм</value>
-</values>
-</param>
-<param order="7" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">20 мм</value>
-</values>
-</param>
-<param order="8" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/018486/</techinfo>
-<pdf/>
-<img id="2390728B7E569E4490B9B664C3840919" type="jpg" modified="Fri, 05 Jun 2015 11:24:40 GMT">http://assets.transistor.ru/img/product/userlogo/2390728B7E569E4490B9B664C3840919.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (6 св/д smd 5050, прозрачный плоский экран, угол 180 град, встроенный чип WS2811), связка по 20 шт, упр-ся контроллерами HX-805 и HX-801SE. 12В, 1.44Вт, IP67. Габариты 45x45x20 мм.</descript>
-</product>
-<product>
 <article>018481</article>
 <category id="9">Модули и линейки</category>
 <group id="423">Модули и линейки / Флэш-модули / флэш-модули RGB 12V</group>
@@ -13440,16 +13064,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>280</stock>
-<possible>-1</possible>
+<stock>320</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -13539,230 +13161,6 @@
 <descript>Герметичный управляемый RGB-Модуль (6 св/д smd 5050, прозрачный полукруглый экран, угол 180 град, встроенный чип WS2811), связка по 20 шт, расст-е между модулями 65 мм, упр-ся контроллерами HX-805 и HX-801SE. 12В, 1.44Вт, IP67. Габариты D55xH35 мм.</descript>
 </product>
 <product>
-<article>018480</article>
-<category id="9">Модули и линейки</category>
-<group id="423">Модули и линейки / Флэш-модули / флэш-модули RGB 12V</group>
-<name prefix="">Флэш-модуль ARL-D50-6LED-2811 RGB 12V Матовый</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>220</stock>
-<possible>-1</possible>
-<waiting>0</waiting>
-<pack>Пакет</pack>
-<packnorm>20</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related><article>016849</article>
-<article>020702</article>
-<article>018615</article>
-<article>017563</article>
-<article>018032</article>
-<article>017517</article>
-<article>017749</article>
-<article>016999</article>
-<article>016998</article>
-<article>019517</article>
-<article>019579</article>
-<article>016193</article>
-<article>018549</article>
-</related>
-<techdata><param order="0" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="1" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">180 °</value>
-</values>
-</param>
-<param order="2" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">6 шт</value>
-</values>
-</param>
-<param order="3" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="4" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">12 V</value>
-</values>
-</param>
-<param order="5" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">1,44 W</value>
-</values>
-</param>
-<param order="6" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">55 мм</value>
-</values>
-</param>
-<param order="7" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">35 мм</value>
-</values>
-</param>
-<param order="8" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/018480/</techinfo>
-<pdf/>
-<img id="FF6FFB5635FE6E43911A89F55E1A6A3B" type="jpg" modified="Fri, 05 Jun 2015 10:58:49 GMT">http://assets.transistor.ru/img/product/userlogo/FF6FFB5635FE6E43911A89F55E1A6A3B.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (6 св/д smd 5050, матовый полукруглый экран, угол 180 град, встроенный чип WS2811), связка по 20 шт, расст-е между модулями 65 мм, упр-ся контроллерами HX-805 и HX-801SE. 12В, 1.44Вт, IP67. Габариты D55xH35 мм.</descript>
-</product>
-<product>
-<article>018557</article>
-<category id="9">Модули и линейки</category>
-<group id="626">Модули и линейки / Флэш-модули / флэш-модули RGB 24V</group>
-<name prefix="">ARL-D120-5050x12-2811 RGB 24V Прозрачный</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack></pack>
-<packnorm></packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>1160.35</price1>
-<price2>812</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Модуль</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="2" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="3" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">12 шт</value>
-</values>
-</param>
-<param order="4" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="5" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">24 V</value>
-</values>
-</param>
-<param order="6" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">2,88 W</value>
-</values>
-</param>
-<param order="7" id="59">
-<name>Каналы</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0"></value>
-</values>
-</param>
-<param order="8" id="57">
-<name>Форма</name>
-    <unit/>
-<values total="1">
-<value order="0">Круглый</value>
-</values>
-</param>
-<param order="9" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">120 мм</value>
-</values>
-</param>
-<param order="10" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">80 мм</value>
-</values>
-</param>
-<param order="11" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/018557/</techinfo>
-<pdf/>
-<img id="5E0310A16EA58949B187CD1F79477B74" type="jpg" modified="Fri, 21 Nov 2014 08:30:25 GMT">http://assets.transistor.ru/img/product/userlogo/5E0310A16EA58949B187CD1F79477B74.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, прозрачный рифленый полукруглый экран, встроенный чип WS2811), 24В, 2.88Вт, IP67. Габариты 120x120x80 мм</descript>
-</product>
-<product>
 <article>016784</article>
 <category id="9">Модули и линейки</category>
 <group id="626">Модули и линейки / Флэш-модули / флэш-модули RGB 24V</group>
@@ -13773,15 +13171,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
+<price1>337.9</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -13880,7 +13276,7 @@
 <techinfo>http://www.transistor.ru/catalog/reference/016784/</techinfo>
 <pdf modified="Mon, 21 Jul 2014 06:58:32 GMT">http://assets.transistor.ru/pdf/module/016784_016792_016795_018337_RA-5050-12-100-2811.pdf</pdf>
 <img id="DE60F3974C087749945458F65D72BEAD" type="jpg" modified="Mon, 10 Feb 2014 13:31:13 GMT">http://assets.transistor.ru/img/product/userlogo/DE60F3974C087749945458F65D72BEAD.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, матовый экран, встроенный чип WS2811), 24В, 2.88 Вт, IP67. Габариты 105x105x80 мм.</descript>
+<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, матовый экран, встроенный чип WS2811), 24В, 2.88 Вт, IP67. Габариты 105x105x80 мм, расст-е между модулями 18 см.</descript>
 </product>
 <product>
 <article>016792</article>
@@ -13893,15 +13289,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>220</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -14000,7 +13394,7 @@
 <techinfo>http://www.transistor.ru/catalog/reference/016792/</techinfo>
 <pdf modified="Mon, 21 Jul 2014 06:58:32 GMT">http://assets.transistor.ru/pdf/module/016784_016792_016795_018337_RA-5050-12-100-2811.pdf</pdf>
 <img id="2A808624801FDA43AFF4920ADF1AA2D5" type="jpg" modified="Mon, 10 Feb 2014 13:30:22 GMT">http://assets.transistor.ru/img/product/userlogo/2A808624801FDA43AFF4920ADF1AA2D5.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, рифлёный экран, встроенный чип WS2811), 24В, 2.88 Вт, IP67. Габариты 105x105x80 мм.</descript>
+<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, рифлёный экран, встроенный чип WS2811), 24В, 2.88 Вт, IP67. Габариты 105x105x80 мм, расст-е между модулями 18 см.</descript>
 </product>
 <product>
 <article>018337</article>
@@ -14013,15 +13407,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>85</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -14129,15 +13521,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>85</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>5</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -14239,245 +13629,6 @@
 <descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, рифлёный экран, встроенный чип WS2811), каждый модуль c 2 коннекторами XLR IP67, 24В, 2.88 Вт. Габариты 105x105x80 мм.</descript>
 </product>
 <product>
-<article>018407</article>
-<category id="9">Модули и линейки</category>
-<group id="626">Модули и линейки / Флэш-модули / флэш-модули RGB 24V</group>
-<name prefix="">Флэш-модуль RA-5050-12-120-2811 RGB Квадрат</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Пакет</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>928.28</price1>
-<price2>649.6</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Модуль</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="2" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="3" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">12 шт</value>
-</values>
-</param>
-<param order="4" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="5" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">24 V</value>
-</values>
-</param>
-<param order="6" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">2,88 W</value>
-</values>
-</param>
-<param order="7" id="59">
-<name>Каналы</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0"></value>
-</values>
-</param>
-<param order="8" id="57">
-<name>Форма</name>
-    <unit/>
-<values total="1">
-<value order="0">Квадратный</value>
-</values>
-</param>
-<param order="9" id="47">
-<name>Длина</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">120 мм</value>
-</values>
-</param>
-<param order="10" id="48">
-<name>Ширина</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">120 мм</value>
-</values>
-</param>
-<param order="11" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">60 мм</value>
-</values>
-</param>
-<param order="12" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/018407/</techinfo>
-<pdf modified="Mon, 21 Jul 2014 11:30:20 GMT">http://assets.transistor.ru/pdf/module/018407_RA-5050-12-120-2811.pdf</pdf>
-<img id="B5BF2C7A86BAF64D9A8EEB5273A0C55E" type="jpg" modified="Fri, 29 Aug 2014 06:57:41 GMT">http://assets.transistor.ru/img/product/userlogo/B5BF2C7A86BAF64D9A8EEB5273A0C55E.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, экран матовый квадратный, встроенный чип WS2811), IP67, 24В, 2.88 Вт. Габариты 120x120x60 мм.</descript>
-</product>
-<product>
-<article>018401</article>
-<category id="9">Модули и линейки</category>
-<group id="626">Модули и линейки / Флэш-модули / флэш-модули RGB 24V</group>
-<name prefix="">Флэш-модуль RA-5050-12-80-2811 RGB Star</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Пакет</pack>
-<packnorm>1</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>928.28</price1>
-<price2>649.6</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Модуль</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="2" id="5">
-<name>Угол обзора</name>
-<unit>°</unit>
-<values total="1">
-<value order="0">120 °</value>
-</values>
-</param>
-<param order="3" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">12 шт</value>
-</values>
-</param>
-<param order="4" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="5" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">24 V</value>
-</values>
-</param>
-<param order="6" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">2,88 W</value>
-</values>
-</param>
-<param order="7" id="59">
-<name>Каналы</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0"></value>
-</values>
-</param>
-<param order="8" id="57">
-<name>Форма</name>
-    <unit/>
-<values total="1">
-<value order="0">Фигурный</value>
-</values>
-</param>
-<param order="9" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">200 мм</value>
-</values>
-</param>
-<param order="10" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">150 мм</value>
-</values>
-</param>
-<param order="11" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/018401/</techinfo>
-<pdf modified="Mon, 21 Jul 2014 11:30:20 GMT">http://assets.transistor.ru/pdf/module/018401_RA-5050-12-80-2811.pdf</pdf>
-<img id="3349F6A0E26AFB46A8B56A597A2AFA67" type="jpg" modified="Fri, 29 Aug 2014 06:56:14 GMT">http://assets.transistor.ru/img/product/userlogo/3349F6A0E26AFB46A8B56A597A2AFA67.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль (12 св/д smd 5050, экран матовый «звезда», встроенный чип WS2811), каждый модуль c 2 коннекторами XLR IP67, 24В, 2.88 Вт. Габариты D200xH150mm.</descript>
-</product>
-<product>
 <article>017248</article>
 <category id="9">Модули и линейки</category>
 <group id="626">Модули и линейки / Флэш-модули / флэш-модули RGB 24V</group>
@@ -14488,15 +13639,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>144</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -14608,15 +13757,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>140</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>464.14</price1>
-<price2>324.8</price2>
+<price1>450.53</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
@@ -14724,15 +13871,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>200</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>40.61</price1>
-<price2>28.42</price2>
+<price1>56.32</price1>
 <color1/>
 <color2/>
 <color3/>
@@ -14764,20 +13909,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>40</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -14882,21 +14027,19 @@
 <status>0</status>
 <archive>0</archive>
 <stock>2000</stock>
-<possible>-1</possible>
-<waiting>-1</waiting>
+<waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>40</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
-<related><article>018032</article>
-<article>017517</article>
-<article>016214</article>
+<related><article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>017749</article>
 <article>019069</article>
 <article>016999</article>
@@ -14991,234 +14134,6 @@
 <descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (3 св/д smd 5050, прозрачный плоский экран, встроенный чип WS2821), 12В, 0.72Вт, IP67. Габариты 30x30x20 мм</descript>
 </product>
 <product>
-<article>021059</article>
-<category id="9">Модули и линейки</category>
-<group id="603">Модули и линейки / Флэш-модули / DMX-модули RGB 5-24V</group>
-<name prefix="">Модуль герметичный ARL-D30-5050x3-DMX-15cm RGB 12V Прозрачный</name>
-<developer>ARL</developer>
-<case>Закрытый</case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible>0</possible>
-<waiting>-1</waiting>
-<pack>Пакет</pack>
-<packnorm>40</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>118.94</price1>
-<price2>83.23</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related/>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Модуль</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">typ: 625 nm</value>
-<value order="1" color="green">typ: 525 nm</value>
-<value order="2" color="blue">typ: 470 nm</value>
-</values>
-</param>
-<param order="2" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">3 шт</value>
-</values>
-</param>
-<param order="3" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="4" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">12 V</value>
-</values>
-</param>
-<param order="5" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">0,72 W</value>
-</values>
-</param>
-<param order="6" id="59">
-<name>Каналы</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0"></value>
-</values>
-</param>
-<param order="7" id="57">
-<name>Форма</name>
-    <unit/>
-<values total="1">
-<value order="0">Круглый</value>
-</values>
-</param>
-<param order="8" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">30 мм</value>
-</values>
-</param>
-<param order="9" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">20 мм</value>
-</values>
-</param>
-<param order="10" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/021059/</techinfo>
-<pdf modified="Mon, 21 Dec 2015 08:22:23 GMT">http://assets.transistor.ru/pdf/module/018484.pdf</pdf>
-<img id="F54F68D558ABEE469BFE575540D9EDBF" type="jpg" modified="Thu, 11 Feb 2016 08:22:15 GMT">http://assets.transistor.ru/img/product/userlogo/F54F68D558ABEE469BFE575540D9EDBF.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (3 св/д smd 5050, прозрачный плоский экран, встроенный чип WS2821), 12В, 0.72Вт, IP67. Габариты 30x30x20 мм. Отличие от 018484 - расстояние между центрами модулей - 15 см.</descript>
-</product>
-<product>
-<article>018055</article>
-<category id="9">Модули и линейки</category>
-<group id="603">Модули и линейки / Флэш-модули / DMX-модули RGB 5-24V</group>
-<name prefix="">Модуль герметичный ARL-D42-5050x6-DMX RGB 24V Прозрачный</name>
-<developer>ARL</developer>
-<case></case>
-<advstatus>0</advstatus>
-<status>0</status>
-<archive>0</archive>
-<stock>0</stock>
-<possible></possible>
-<waiting>0</waiting>
-<pack>Пакет</pack>
-<packnorm>20</packnorm>
-<unit id="796">шт</unit>
-<pricestatus>0</pricestatus>
-<currency id="643">RUB</currency>
-<price1>127.64</price1>
-<price2>89.32</price2>
-<color1>red</color1>
-<color2>green</color2>
-<color3>blue</color3>
-<related><article>018032</article>
-<article>017517</article>
-<article>016214</article>
-<article>017749</article>
-<article>019069</article>
-<article>016999</article>
-<article>016998</article>
-<article>019517</article>
-<article>017085</article>
-<article>019581</article>
-</related>
-<techdata><param order="0" id="62">
-<name>Тип товара</name>
-    <unit/>
-<values total="1">
-<value order="0">Модуль</value>
-</values>
-</param>
-<param order="1" id="1">
-<name>Длина волны</name>
-<unit>nm</unit>
-<values total="3">
-<value order="0" color="red">Красный</value>
-<value order="1" color="green">Зеленый</value>
-<value order="2" color="blue">Синий</value>
-</values>
-</param>
-<param order="2" id="23">
-<name>Кол-во св.диодов</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0">6 шт</value>
-</values>
-</param>
-<param order="3" id="45">
-<name>Размер светодиода</name>
-    <unit/>
-<values total="1">
-<value order="0">5060 (5x5мм)</value>
-</values>
-</param>
-<param order="4" id="20">
-<name>Напряжение питания</name>
-<unit>V</unit>
-<values total="1">
-<value order="0">24 V</value>
-</values>
-</param>
-<param order="5" id="35">
-<name>Потребляемая мощность</name>
-<unit>W</unit>
-<values total="1">
-<value order="0">1,44 W</value>
-</values>
-</param>
-<param order="6" id="59">
-<name>Каналы</name>
-<unit>шт</unit>
-<values total="1">
-<value order="0"></value>
-</values>
-</param>
-<param order="7" id="57">
-<name>Форма</name>
-    <unit/>
-<values total="1">
-<value order="0">Круглый</value>
-</values>
-</param>
-<param order="8" id="40">
-<name>Диаметр</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">42 мм</value>
-</values>
-</param>
-<param order="9" id="49">
-<name>Высота</name>
-<unit>мм</unit>
-<values total="1">
-<value order="0">20 мм</value>
-</values>
-</param>
-<param order="10" id="44">
-<name>Класс пыле-влагозащиты</name>
-    <unit/>
-<values total="1">
-<value order="0">IP67</value>
-</values>
-</param>
-</techdata>
-<techinfo>http://www.transistor.ru/catalog/reference/018055/</techinfo>
-<pdf/>
-<img id="ECCC33D487B5A44EBBBC4F8B6934FBBD" type="jpg" modified="Fri, 29 Aug 2014 06:37:57 GMT">http://assets.transistor.ru/img/product/userlogo/ECCC33D487B5A44EBBBC4F8B6934FBBD.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (6 св/д smd 5050, прозрачный плоский экран, встроенный чип WS2821), 24В, 1.44Вт, IP67. Габариты 42x42x20мм</descript>
-</product>
-<product>
 <article>018550</article>
 <category id="9">Модули и линейки</category>
 <group id="603">Модули и линейки / Флэш-модули / DMX-модули RGB 5-24V</group>
@@ -15229,20 +14144,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>127.64</price1>
-<price2>89.32</price2>
+<price1>123.9</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -15349,20 +14264,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>1080</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>127.64</price1>
-<price2>89.32</price2>
+<price1>123.9</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -15468,20 +14383,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>1520</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>127.64</price1>
-<price2>89.32</price2>
+<price1>123.9</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -15587,20 +14502,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>560</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>127.64</price1>
-<price2>89.32</price2>
+<price1>123.9</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -15706,20 +14621,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>780</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>127.64</price1>
-<price2>89.32</price2>
+<price1>123.9</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -15825,20 +14740,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>160</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -15931,7 +14846,7 @@
 <techinfo>http://www.transistor.ru/catalog/reference/018545/</techinfo>
 <pdf/>
 <img id="BA54CBBC4A9C204B98D203D960237D1D" type="jpg" modified="Thu, 27 Nov 2014 07:39:54 GMT">http://assets.transistor.ru/img/product/userlogo/BA54CBBC4A9C204B98D203D960237D1D.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (12 св/д smd 5050, прозрачный полукруглый экран типа “кристалл”, встроенный чип WS2821), 24В, 2.88Вт, IP67. Габариты 105x105x80 мм</descript>
+<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (12 св/д smd 5050, прозрачный полукруглый экран типа “кристалл”, встроенный чип WS2821), 24В, 2.88Вт, IP67. Габариты 105x105x80 мм, расст-е между модулями 18 см.</descript>
 </product>
 <product>
 <article>018547</article>
@@ -15944,20 +14859,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>200</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -16050,7 +14965,7 @@
 <techinfo>http://www.transistor.ru/catalog/reference/018547/</techinfo>
 <pdf/>
 <img id="DE60F3974C087749945458F65D72BEAD" type="jpg" modified="Mon, 10 Feb 2014 13:31:13 GMT">http://assets.transistor.ru/img/product/userlogo/DE60F3974C087749945458F65D72BEAD.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (12 св/д smd 5050, матовый полукруглый экран, встроенный чип WS2821), 24В, 2.88Вт, IP67. Габариты 105x105x80 мм</descript>
+<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (12 св/д smd 5050, матовый полукруглый экран, встроенный чип WS2821), 24В, 2.88Вт, IP67. Габариты 105x105x80 мм, расст-е между модулями 18 см.</descript>
 </product>
 <product>
 <article>018544</article>
@@ -16063,20 +14978,20 @@
 <status>0</status>
 <archive>0</archive>
 <stock>180</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>406.12</price1>
-<price2>284.2</price2>
+<price1>394.21</price1>
 <color1>red</color1>
 <color2>green</color2>
 <color3>blue</color3>
 <related><article>018032</article>
 <article>017517</article>
+<article>019860</article>
+<article>019070</article>
 <article>016214</article>
 <article>017749</article>
 <article>019069</article>
@@ -16169,7 +15084,7 @@
 <techinfo>http://www.transistor.ru/catalog/reference/018544/</techinfo>
 <pdf/>
 <img id="2A808624801FDA43AFF4920ADF1AA2D5" type="jpg" modified="Mon, 10 Feb 2014 13:30:22 GMT">http://assets.transistor.ru/img/product/userlogo/2A808624801FDA43AFF4920ADF1AA2D5.jpg</img>
-<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (12 св/д smd 5050, прозрачный рифленый полукруглый экран, встроенный чип WS2821), 24В, 2.88Вт, IP67. Габариты 105x105x80 мм</descript>
+<descript>Герметичный управляемый RGB-Модуль, управление по DMX512 (12 св/д smd 5050, прозрачный рифленый полукруглый экран, встроенный чип WS2821), 24В, 2.88Вт, IP67. Габариты 105x105x80 мм, расст-е между модулями 18 см.</descript>
 </product>
 <product>
 <article>014455</article>
@@ -16181,16 +15096,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>319</stock>
-<possible>0</possible>
+<stock>305</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -16323,16 +15236,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>59</stock>
-<possible>-1</possible>
+<stock>62</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -16466,15 +15377,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>10</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -16607,16 +15516,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>81</stock>
-<possible>0</possible>
+<stock>80</stock>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -16750,15 +15657,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>17</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>blue</color1>
 <color2/>
 <color3/>
@@ -16885,15 +15790,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>41</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>green</color1>
 <color2/>
 <color3/>
@@ -17020,15 +15923,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>23</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>1</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>3086.53</price1>
-<price2>2159.92</price2>
+<price1>2996.01</price1>
 <color1>red</color1>
 <color2/>
 <color3/>
@@ -17155,15 +16056,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17297,15 +16196,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Рулон</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>435.13</price1>
-<price2>304.5</price2>
+<price1>422.37</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17439,15 +16336,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>60</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>20</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>435.13</price1>
-<price2>304.5</price2>
+<price1>422.37</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -17581,15 +16476,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>116.03</price1>
-<price2>81.2</price2>
+<price1>112.63</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -17708,16 +16601,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1828</stock>
-<possible>0</possible>
+<stock>1296</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -17850,16 +16741,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>684</stock>
-<possible>0</possible>
+<stock>680</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -17992,16 +16881,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>896</stock>
-<possible>-1</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -18134,16 +17021,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>56</stock>
-<possible>0</possible>
+<stock>0</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -18276,16 +17161,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1004</stock>
-<possible>-1</possible>
+<stock>832</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -18418,16 +17301,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>72</stock>
-<possible>0</possible>
+<stock>26</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -18560,16 +17441,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>1644</stock>
-<possible>-1</possible>
+<stock>1580</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>197.26</price1>
-<price2>138.04</price2>
+<price1>191.47</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -18702,16 +17581,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>644</stock>
-<possible>0</possible>
+<stock>544</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>290.09</price1>
-<price2>203</price2>
+<price1>281.58</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -18845,15 +17722,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>0</stock>
-<possible></possible>
 <waiting>0</waiting>
 <pack>Коробка</pack>
 <packnorm>8</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>261.08</price1>
-<price2>182.7</price2>
+<price1>253.42</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -18970,6 +17845,125 @@
 <descript>Герметичная алюминиевая линейка 18шт SMD 2835, БЕЛЫЙ 7000К, DC12V, 4 Вт, 370 лм, угол 120°. Размер 623х12х7mm, IP65. Эффективность 93лм/Вт</descript>
 </product>
 <product>
+<article>007475</article>
+<category id="9">Модули и линейки</category>
+<group id="175">Модули и линейки / Линейки / Токовые СС</group>
+<name prefix="">Линейка HP-500 White (7060, 15x0.5W)</name>
+<developer>ARL</developer>
+<case>Открытый</case>
+<advstatus>0</advstatus>
+<status>1</status>
+<archive>0</archive>
+<stock>1</stock>
+<waiting>0</waiting>
+<pack></pack>
+<packnorm></packnorm>
+<unit id="796">шт</unit>
+<pricestatus>0</pricestatus>
+<currency id="643">RUB</currency>
+<price1>337.9</price1>
+<color1>white</color1>
+<color2/>
+<color3/>
+<related/>
+<techdata><param order="0" id="62">
+<name>Тип товара</name>
+    <unit/>
+<values total="1">
+<value order="0">Линейка</value>
+</values>
+</param>
+<param order="1" id="1">
+<name>Цвет свечения</name>
+<unit/>
+<values total="1">
+<value order="0" color="white">Белый</value>
+</values>
+</param>
+<param order="2" id="46">
+<name>Плотность светодиодов</name>
+<unit>шт/м</unit>
+<values total="1">
+<value order="0">30 шт/м</value>
+</values>
+</param>
+<param order="3" id="23">
+<name>Кол-во св.диодов</name>
+<unit>шт</unit>
+<values total="1">
+<value order="0">15 шт</value>
+</values>
+</param>
+<param order="4" id="8">
+<name>Световой поток</name>
+<unit>lm</unit>
+<values total="1">
+<value order="0">typ: 650 lm</value>
+</values>
+</param>
+<param order="5" id="5">
+<name>Угол обзора</name>
+<unit>°</unit>
+<values total="1">
+<value order="0">120 °</value>
+</values>
+</param>
+<param order="6" id="3">
+<name>Потребляемый ток</name>
+<unit>A</unit>
+<values total="1">
+<value order="0">typ: 0,75 A</value>
+</values>
+</param>
+<param order="7" id="35">
+<name>Потребляемая мощность</name>
+<unit>W</unit>
+<values total="1">
+<value order="0">9 W</value>
+</values>
+</param>
+<param order="8" id="57">
+<name>Форма</name>
+    <unit/>
+<values total="1">
+<value order="0">Линейный</value>
+</values>
+</param>
+<param order="9" id="47">
+<name>Длина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">500 мм</value>
+</values>
+</param>
+<param order="10" id="48">
+<name>Ширина</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">13 мм</value>
+</values>
+</param>
+<param order="11" id="49">
+<name>Высота</name>
+<unit>мм</unit>
+<values total="1">
+<value order="0">5 мм</value>
+</values>
+</param>
+<param order="12" id="44">
+<name>Класс пыле-влагозащиты</name>
+    <unit/>
+<values total="1">
+<value order="0">IP33</value>
+</values>
+</param>
+</techdata>
+<techinfo>http://www.transistor.ru/catalog/reference/007475/</techinfo>
+<pdf modified="Thu, 24 Nov 2011 09:08:04 GMT">http://assets.transistor.ru/pdf/arlight/leddevices/strip/Lineyka_HP_500_12V_7060_0.5W.pdf</pdf>
+<img id="EEA211AB7878A148B7C67D11176D9553" type="jpg" modified="Thu, 29 Sep 2011 11:48:14 GMT">http://assets.transistor.ru/img/product/userlogo/EEA211AB7878A148B7C67D11176D9553.jpg</img>
+<descript>БЕЛЫЙ цвет, свет.поток от 600лм. Длина 500мм, ширина 13мм. 15 мощных чип-светодиодов 0.5Вт. Питание 12В (ток 750мА). Мощная светодиодная линейка.</descript>
+</product>
+<product>
 <article>019903</article>
 <category id="9">Модули и линейки</category>
 <group id="175">Модули и линейки / Линейки / Токовые СС</group>
@@ -18980,15 +17974,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>708</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>warm_white</color1>
 <color2/>
 <color3/>
@@ -19130,15 +18122,13 @@
 <status>0</status>
 <archive>0</archive>
 <stock>592</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>day_white</color1>
 <color2/>
 <color3/>
@@ -19279,16 +18269,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>572</stock>
-<possible>0</possible>
+<stock>516</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>white</color1>
 <color2/>
 <color3/>
@@ -19429,16 +18417,14 @@
 <advstatus>0</advstatus>
 <status>0</status>
 <archive>0</archive>
-<stock>760</stock>
-<possible>0</possible>
+<stock>748</stock>
 <waiting>0</waiting>
 <pack>Пакет</pack>
 <packnorm>4</packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>208.86</price1>
-<price2>146.16</price2>
+<price1>202.74</price1>
 <color1>cool_white</color1>
 <color2/>
 <color3/>
@@ -19580,15 +18566,13 @@
 <status>-2</status>
 <archive>0</archive>
 <stock>3</stock>
-<possible>0</possible>
 <waiting>0</waiting>
 <pack></pack>
 <packnorm></packnorm>
 <unit id="796">шт</unit>
 <pricestatus>0</pricestatus>
 <currency id="643">RUB</currency>
-<price1>348.1</price1>
-<price2>243.6</price2>
+<price1>337.9</price1>
 <color1>green</color1>
 <color2/>
 <color3/>

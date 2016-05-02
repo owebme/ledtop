@@ -288,6 +288,8 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 					p_id = $elem.prevAll(".dd-item-links-label:first").data("id"),
 					$item = $elem.closest(".dd-item");
 					
+				_this.loading(true);	
+					
 				$elem.parent().remove();
 				
 				var data = $item.data("links");
@@ -316,6 +318,14 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 				
 				_this.boxLinks.id = null;
 				_this.boxLinks.html = null;
+				
+				$utils.XHR("removeLink", {
+					id: id,
+					p_id: $provider.id,
+					alias: $provider.alias
+				}, function(data){
+					if (data && data === true) _this.loading(false);
+				});
 			});
 		},	
 		
@@ -437,6 +447,8 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 		title: null,
 		
 		color: null,
+		
+		alias: null,
 	
 		controlAction: false,
 		
@@ -446,6 +458,7 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 			this.id = data.id;
 			this.title = data.title;
 			this.color = data.color;
+			this.alias = data.alias;
 			this.tree = this.syncLinks($(data.tree));
 			this.control = $(data.control);
 			
@@ -512,6 +525,7 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 					_this.id = $item.data("id");
 					_this.title = $item.text();
 					_this.color = $item.data("color");
+					_this.alias = $item.data("alias");
 
 					$utils.XHR("changeProvider", {
 						provider: $item.data("alias")
@@ -596,6 +610,7 @@ var script_ajax = '/cgi-bin/admin/modules/catalog_ajax.cgi';
 		id: 1,
 		title: "Alright",
 		color: "red",
+		alias: "alright",
 		tree: "#catalog-secondary",
 		control: "#control-secondary"
 	});

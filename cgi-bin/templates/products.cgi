@@ -342,6 +342,7 @@ sub build_ProductCat
 		}
 		else {
 			$result = $db->query("SELECT p.*, ".$sort_.", pl.cat_id FROM cat_product AS p JOIN cat_product_rel AS pl ON(pl.cat_p_id=p.p_id) JOIN cat_category AS c ON(c.c_id = pl.cat_id) WHERE pl.cat_id ='".$id."' AND p.p_show != '0' ORDER BY ".$sort." ".($current_page!=""?"LIMIT ".($current_page-1)*$count_pages.",".$count_pages."":"LIMIT 0,".$count_pages."")."");
+			#$result = $db->query("SELECT p.* FROM cat_category AS cat JOIN cat_category_links AS link ON(cat.c_id=link.id) JOIN products_alright AS p ON(link.p_cid = p.cat_id) WHERE cat.c_id ='".$id."'");
 		}
 	}
 	foreach my $line(@$result){

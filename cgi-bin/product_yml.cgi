@@ -57,16 +57,11 @@ my $yml ='<?xml version="1.0" encoding="windows-1251"?>
 		$category .='
 			<category id="'.$line->{'c_id'}.'"'.($line->{'c_pid'} ne "0"?' parentId="'.$line->{'c_pid'}.'"':'').'>'.$name.'</category>';	
 		
-		my $res = $db->query("SELECT p.* FROM cat_product AS p JOIN cat_product_rel AS pl ON(pl.cat_p_id=p.p_id) JOIN cat_category AS c ON(c.c_id = pl.cat_id) WHERE pl.cat_id ='".$line->{'c_id'}."' AND pl.cat_main ='1' ORDER BY ".$sort_product);
+		my $res = $db->query("SELECT p.* FROM cat_product AS p JOIN cat_product_rel AS pl ON(pl.cat_p_id=p.p_id) JOIN cat_category AS c ON(c.c_id = pl.cat_id) WHERE pl.cat_id ='".$line->{'c_id'}."' AND pl.cat_main ='1'");
 		foreach my $item(@$res){
-			if ($item->{'p_show'} ne "0" && $item->{'p_price'} > 0){
-				my $num_foto = $item->{'p_id'}+1000;
-				my $name = str_escape($item->{'p_name'});
-				my $art = str_escape($item->{'p_art'});
-				my $desc = str_escape($item->{'p_desc_top'});
-				my $desc_sm = str_escape($item->{'p_desc_sm'});
+			if ($item->{'p_price'} > 0){
 				$products .='
-			<offer id="'.$item->{'p_id'}.'" available="true">
+			<offer id="'.$item->{'p_id'}.'" available="'.($item->{"p_show"} eq "1"?'true':'false').'">
 				<url>http://'.$ENV{"HTTP_HOST"}.'/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'</url>
 				<price>'.$item->{'p_price'}.'</price>
 				<currencyId>RUR</currencyId>
@@ -75,9 +70,9 @@ my $yml ='<?xml version="1.0" encoding="windows-1251"?>
 				<store>true</store>
 				<pickup>true</pickup>
 				<delivery>true</delivery>
-				<name>'.$name.'</name>
-				'.($item->{'p_art'} ne ""?'<vendorCode>'.$art.'</vendorCode>':'').'
-				'.($item->{'p_desc_sm'} ne ""?'<description>'.$desc_sm.'</description>':'').'
+				<name>'.str_escape($item->{'p_name'}).'</name>
+				'.($item->{'p_art'} ne ""?'<vendorCode>'.str_escape($item->{'p_art'}).'</vendorCode>':'').'
+				'.($item->{'p_desc_sm'} ne ""?'<description>'.str_escape($item->{'p_desc_sm'}).'</description>':'').'
 			</offer>';
 			}
 		}

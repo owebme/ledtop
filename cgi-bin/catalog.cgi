@@ -20,22 +20,6 @@ $page_alias=param('alias');
 $page_cat=param('page');
 $adm_act = "catalog";
 
-if ($page_alias eq "t8-1500mm-g13"){
-	$redirect = '/catalog/svetodiodnye-lampy/t8-linejnye/t8-1500mm-g13';
-}
-if ($page_alias eq "t8-600mm-g13"){
-	$redirect = '/catalog/svetodiodnye-lampy/t8-linejnye/t8-600mm-g13';
-}
-elsif ($page_alias eq "t8-lineinye"){
-	$redirect = '/catalog/svetodiodnye-lampy/t8-linejnye';
-}
-elsif ($page_alias eq "alyuminevyj-profil/arlight/ekrany-dlya-arlight"){
-	$redirect = '/catalog/alyuminevyj-profil/arlight/ekrany-dlya-arh';
-}
-elsif ($page_alias eq "t8-lineinye"){
-	$redirect = '/catalog/svetodiodnye-lampy/t8-linejnye';
-}
-
 if ($page_alias){
 	$result_category = $db->query("SELECT * FROM cat_category WHERE cat_category.c_alias = '".$page_alias."' LIMIT 1");
 	foreach my $line(@$result_category){

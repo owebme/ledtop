@@ -138,7 +138,9 @@ $content_html=qq~$content_html<table id="sheet">
 				$result .= $p_id ? ']},' : '';
 				$result .= '{"id":"'.$link->{"p_id"}.'","title":"'.$data_providers{$link->{"p_id"}}->{"title"}.'","color":"'.$data_providers{$link->{"p_id"}}->{"color"}.'","items":[';
 			}
-			$result .='{"id":"'.$link->{"p_cid"}.'","title":"'.$link->{"name"}.'"}';
+			my $name = $link->{"name"};
+			$name =~ s/\"/\\"/g;
+			$result .='{"id":"'.$link->{"p_cid"}.'","title":"'.$name.'"}';
 			$p_id = $link->{"p_id"};
 		}
 		if ($result) {

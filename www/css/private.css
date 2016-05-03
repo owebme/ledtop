@@ -1,125 +1,25 @@
-#private {position:relative}
-#private .table-form {padding-right:70px}
-#private .table-form.f-left {float:left;position:relative;z-index:1}
-#private .table-form.f-right {position:relative;left:-20px}
-#private .table-form.f-right table {width:360px}
-#private .table-form.f-right tr:first-child,#private .table-form.hide {display:none}
-table.form label {display:inline-block;padding:12px 0;cursor:pointer}
-#private-basket {position:absolute;top:-10px;right:0}
-#private-basket.fixed {position:fixed;top:0;right:50%;margin-right:-592px;z-index:1}
-#private-basket a {display:block;text-decoration:none;padding:8px 10px;border-radius:6px;color:#fff;background:#fd8611}
-#private-basket a i {font-size:23px;margin-right:9px}
-#private-basket a span {display:inline-block;font:300 16px Roboto;position:relative;top:-2px;border-bottom:1px dotted #fff}
-body:not([x|x]) #private-basket a span {top:-1px}
-#private-basket a strong {font-weight:700}
-#private-basket a em {font-style:normal}
-#private-basket.fixed a {border-radius:0 0 6px 6px}
-#private-basket.disabled a {cursor:default;background:#c2c2c2!important;color:#fff!important}
-#private-basket.disabled a span {border:none}
-#private-basket a.pulse {transition:all .2s ease-out;-webkit-transition:all .2s ease-out}
-#private-basket a.pulse,#private-basket:hover a {background:#ffd800;color:#3c3c3c}
-#private-basket a.pulse span,#private-basket:hover a span {border:none}
-#private-basket .container {position:absolute;top:41px;right:0;background:#fff;padding-bottom:15px;border-radius:6px;box-shadow:0 10px 20px -6px rgba(0,0,0,.5);display:none;z-index:1}
-#private-basket:hover .container {display:block}
-#private-basket table {width:492px;border-collapse:collapse}
-#private-basket th {text-align:center;background:#fcf8bc;white-space:nowrap;padding:10px 10px 7px;font:700 14.5px 'PT Sans'}
-#private-basket td {text-align:center;padding:5px 9px;height:40px;color:#111;font:300 14px/14px Roboto;border-bottom:1px solid #f0f0f0}
-#private-basket td:first-child {padding-left:20px}
-#private-basket td:last-child {padding-right:15px}
-#private-basket td strong {font-weight:700}
-#private-basket .name {text-align:left}
-#private-basket td.name {font-size:13px;width:40%}
-#private-basket td.cena,#private-basket td.price {white-space:nowrap}
-#private-basket td input {text-align:center;width:48px;padding:2px 0;box-sizing:border-box}
-body:not([x|x]) #private-basket td input {border-radius:2px;border:1px solid #dbdfe6;border-color:#abadb3 #dbdfe6 #e3e9ef #e2e3ea;background:#fff}
-#private-basket .stock span {font-size:13px;font-weight:400}
-#private-basket .stock i {color:#096;font-size:21px;font-weight:400}
-#private-basket .delete {font-size:20px;color:#c0392b;cursor:pointer}
-#private-basket .total {text-align:right;font:300 15px/18px Roboto;padding:15px 15px 0 0}
-#private-basket .total strong {font-weight:700}
-#private-basket p {color:#666;font:13px "Proxima Nova";padding:12px 15px 0}
-#private-panel-top {padding-bottom:20px;}
+#private-panel-top {margin-top:-2px;}
 #private-panel-top select {font-size:14px;border:1px solid #e3e3e3;background:#fafafa;cursor:pointer;padding:6px 8px;height:34px; border-radius:2px;}
 #private-panel-top .select {display:inline-block; font:14px/17px 'Arial', Helvetica, sans-serif;}
-#private-panel-top .select2-container, #private-panel-top select {min-width:400px; width:400px;}
-#private-panel-top p {color:#666;font:13px "Proxima Nova";padding-bottom:5px;margin-left:10px}
-#products-table {margin:0 -20px 45px -9px}
-#products-table table {width:100%;border-collapse:collapse}
-#products-table th {text-align:center;background-color:#ffc;white-space:nowrap;padding:7px 20px 7px 10px;font:700 15.5px 'PT Sans';cursor:pointer;outline:none;}
-#products-table th#th-desc {color:#3c3c3c;font:700 15.5px 'PT Sans'}
-#products-table th:first-child {border-radius:4px 0 0; padding-left:10px;}
-#products-table th:last-child {border-radius:0 4px 0 0}
-#products-table th#th-name {text-align:left}
-#products-table td {padding:7px 9px;height:72px;color:#111;font:300 14px/18px Roboto;border-bottom:1px solid #f0f0f0;transition:background .15s ease-in-out;-webkit-transition:background .15s ease-in-out}
-#products-table tr.add-basket td {background:#eff6e3!important}
-#products-table .art {text-align:center;width:5%}
-#products-table .img {width:8%;text-align:center}
-#products-table img {width:90px;max-height:56px;border-radius:4px}
-#products-table img#empty {max-width:64px;max-height:64px}
-#products-table .name {width:20%}
-#products-table .name a {text-decoration:underline}
-#products-table .name a:hover {color:#e74c3c}
-#products-table .price {font-weight:700;text-align:center;white-space:nowrap;width:4%}
-#products-table td.color {padding:7px 5px;white-space:nowrap}
-#products-table label.color ins {box-shadow:0 1px 2px -1px rgba(125,64,0,.5) inset;-webkit-box-shadow:0 1px 3px -1px rgba(125,64,0,.7) inset}
-#products-table label.color .white {background:#f8f8f8}
-#products-table .count {text-align:center;white-space:nowrap;width:10%}
-#products-table .p-count {position:relative;top:-2px;left:-5px;width:64px;margin:0 auto}
-#products-table input.count {width:48px;padding:2px 0;box-sizing:border-box}
-body:not([x|x]) #products-table input.count {border-radius:2px;border:1px solid #dbdfe6;border-color:#abadb3 #dbdfe6 #e3e9ef #e2e3ea;background:#fff}
-#products-table .p-count em {position:absolute;color:#999;font-size:11px;font-style:normal;bottom:-22px;left:0;width:100%;text-align:center}
-#products-table .basket {position:absolute;top:3px;right:-17px;color:#27ae60;font-size:20px;cursor:pointer}
-#products-table .basket:hover {color:#e74c3c}
-#products-table .unit {text-align:center;white-space:nowrap;width:4%}
-#products-table .stock {text-align:center;white-space:nowrap;width:4%;font-weight:700}
-#products-table .stock span {font-size:13px;font-weight:400}
-#products-table .stock i {color:#096;font-size:22px;font-weight:400}
-#products-table .desc {color:#999;font:11px/17px Arial,Helvetica,sans-serif}
-#products-table .desc a {text-decoration:underline;color:#555}
-#products-table .desc a.related {color:#549959;white-space:nowrap}
-#products-table .desc a:hover {color:#e74c3c}
-#products-table tr:nth-child(2n) td {background:#fafafc}
-#products-table tr:hover td {background:#fffdf5}
-#products-table tr.related td {background:#ecf4fb;border-bottom:1px solid #fff}
-#products-table .loader {display:block;margin:42px auto 43px;}
-#products-table .empty span {display:block;text-align:center;margin:60px auto;font:300 15.5px Roboto}
-#products-table p {color:#666;font:14px 'PT Sans';padding-top:15px;margin-left:10px}
-#products-table.related {margin:-16px 6px 45px 14px}
-#products-table.related .art {width:15%;font-weight:700}
-#products-table.related .name {width:32%;padding-right:0}
-#products-table.related .color {width:10%;text-align:center}
-.color-related {position:relative}
-.color-related:before {top:-2px}
-#products-table label.color-related ins {box-shadow:0 1px 2px -1px rgba(125,64,0,.7) inset;-webkit-box-shadow:0 2px 3px -1px rgba(125,64,0,.5) inset}
-label.color-related:after {content:"";position:absolute;top:0;left:0;width:100%;height:120%;box-shadow:0 1px 0 rgba(125,64,0,.05);-webkit-box-shadow:0 1px 0 rgba(125,64,0,.1);border-radius:5px}
-#products-table.related .price {min-width:108px;text-align:center}
-#products-table.related strong {color:#444;font-weight:700;padding-left:2px}
-#products-table.related .price em {position:relative;top:2px;right:-11px;padding-left:5px;font-size:30px;line-height:10px;font-weight:300;font-style:normal;color:#afafaf}
-body:not([x|x]) #products-table.related .price em {font-size:21px;top:1px;right:-13px}
-#products-table.related td {font-size:16px;line-height:20px}
-#products-table.related tr.add-basket td {background:#f0f7e4!important}
-#products-table td.add_basket {width:15%;text-align:center;padding-right:25px}
-#private-panel-top {margin-left:-10px;margin-right:-10px}
-#private-panel-top .item1 {width:20%}
-#private-panel-top .item2,#private-panel-top .item3 {width:30%}
-#private-panel-top select {max-width:220px}
-#private-panel-top .item {width:auto!important;margin-bottom:15px}
-#private-panel-top p {display:none}
-#products-table {margin:0 0 45px -13px}
+#private-panel-top .select2-container, #private-panel-top select {font:14px/17px 'Arial',Helvetica,sans-serif; min-width:400px; width:400px;}
 #products-table .art {width:8%}
-#products-table.related {margin-left:0;margin-right:0}
-#products-table.related td {font-size:15.5px;line-height:19px}
-#products-table.related .name {font-size:14.5px}
-#products-table.related strong {display:none}
-#products-table td.add_basket {padding-right:15px}
-.add_basket_related {min-width:90px}
+#products-table .price {width:8%; padding-left:15px;}
+#products-table .p-count {left:-5px}
+#products-table input.count {padding:5px 0 3px; font-size:13.5px;}
+#products-table .loader {margin:42px auto 43px;}
+#products-table .stock span {font-weight:normal;}
+#products-table td {transition:none;}
+#products-table table.related {width:calc(100% + 18px); margin:-7px -9px -8px -9px;}
+#products-table table.related td {background:#ecf4fb;border-bottom:1px solid #fff; padding:7px 20px 7px 10px;}
+#private-basket .button {position:absolute; bottom:10px; right:10px; font:bold 15px/20px Roboto; border-radius:6px; padding:6px 10px 8px; transition:background 0.15s ease;}
+#private-basket .button:hover {background:#ffcd33;}
 
 /* BOOTSTRAP */
 
 #datatable-buttons {margin-bottom:29px;}
-#datatable-buttons_wrapper .dt-buttons {position:absolute; top:53px; right:0;}
-#datatable-buttons_filter {position:absolute; top:52px; left:414px; font-size:14px; line-height:30px; font-family:'Arial', Helvetica, sans-serif;}
-#datatable-buttons_filter .form-control {box-sizing: content-box; width: 195px; height: 22px; line-height: 22px; border: 1px solid #ccc;  padding: 3px 7px 3px 7px; font: normal 14px Arial; color: #333; margin-left:10px; border-radius: 3px; background:#fff;}
+#datatable-buttons_wrapper .dt-buttons {position:absolute; top:51px; right:0;}
+#datatable-buttons_filter {position:absolute; top:50px; left:420px; font-size:14px; line-height:30px; font-family:'Arial', Helvetica, sans-serif;}
+#datatable-buttons_filter .form-control {box-sizing: content-box; width: 194px; height: 22px; line-height: 22px; border: 1px solid #ccc;  padding: 3px 7px 3px 7px; font: normal 14px Arial; color: #333; margin-left:10px; border-radius: 3px; background:#fff;}
 #datatable-buttons_filter .form-control:hover {border:1px solid #00aff2;}
 #datatable-buttons_filter .form-control:focus {outline: none; border:1px solid #00aff2;}
 div#datatable-buttons_info, div#datatable-buttons_length {float: left; font-size: 14px; font-family:'Arial', Helvetica, sans-serif; padding-top: 9px; white-space: nowrap;}

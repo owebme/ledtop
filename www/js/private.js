@@ -91,11 +91,6 @@ $(function(){
 	
 	$tbody.html('<td colspan="9" class="empty"><img src="/img/loading.svg" class="loader"></td>');
 	
-	// $dataTable.on("xhr", function(){
-	    // var json = $dataTable.ajax.json();
-		// console.dir(json.data);
-	// });
-	
 	// Изменение категории
 
 	$sel_category.on("change", function(){
@@ -125,13 +120,6 @@ $(function(){
 		}
 	});
 	
-	// $sel_category.on("change", function(){
-		// var cat_id = $(this).val();
-		// if (cat_id > 0){
-			// $dataTable.ajax.url("/ajax/?getPrivateProductsJSON=" + cat_id).load();
-		// }
-	// });	
-	
 	$sel_category.select2();
 	
 	// Добавить товар к заказу
@@ -154,9 +142,16 @@ $(function(){
 				$clone.remove();
 			}, 500);
 		}, 20);
-		var data = $dataTable.row($row).data();
-		var article = data.article;
-		var price = data.price;
+		var article, price;
+		if ($row.closest("table.related").length){
+			article = $row.attr("data-art");
+			price = $row.data("price");
+		}
+		else {
+			var data = $dataTable.row($row).data();
+			article = data.article;
+			price = data.price;
+		}
 		var count = $row.find("input.count").val();
 		if (count > 0){
 			$row.addClass("add-basket");
@@ -220,18 +215,40 @@ $(function(){
 	});
 	
 	// Сопутствующие товары
+	
+	function dataFormatRelated(d) {
+	    return '<tr data-art="'+ d.article +'" data-price="'+ d.price +'">'+
+			'<td class="art">'+ d.article +'</td>'+
+			'<td class="img">'+ d.image +'</td>'+
+			'<td class="name">'+ d.name +'</td>'+
+			'<td class="color">'+ d.color +'</td>'+
+			'<td class="price">'+ d.price +'</td>'+
+			'<td class="count">'+ d.order +'</td>'+
+			'<td class="unit">'+ d.unit +'</td>'+
+			'<td class="stock">'+ d.stock +'</td>'+
+			'<td class="desc">'+ d.desc +'</td>'+
+		'</tr>';
+	}
 
 	$table.find("a.related").live('click', function(){
-		var $row = $(this).parent().parent();
-		var related = $(this).data("related");
+		var $elem = $(this);
+		var $row = $elem.parent().parent();
+		var related = $elem.data("related");
 		var params = new Object();
 		params.relatedPrivateProducts = related;
 		$.post('/ajax/', params, function(data){
 			if (data){
-				$row.after(data);
+				data = JSON.parse(data).data;
+				if (data.length){
+					var size = data.length, html="";
+					for (var i=0; i < size; i++){
+						html += dataFormatRelated(data[i]);
+					}				
+					$dataTable.row($row).child('<table class="related">' + html + '</table>').show();
+				}
 			}
 		});
-		$(this).remove();
+		$elem.remove();
 		
 		return false;
 	});	
@@ -282,9 +299,8 @@ $(function(){
 					if (count != value){
 						$input.data("value", count);
 						var $row = $input.parent().parent();
-						var data = $dataTable.row($row).data();
-						var article = data.article;
-						var price = parseFloat(data.price);
+						var article = $row.attr("data-art");
+						var price = parseFloat($row.data("price"));
 						var cena = parseFloat(price*count).toFixed(2);
 						cena = String(cena).replace(/(\d)(?=((\d{3})+)(\D|$))/, "$1 ");	
 						$row.find(".cena").html(cena);

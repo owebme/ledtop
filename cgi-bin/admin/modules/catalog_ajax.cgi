@@ -62,12 +62,9 @@ if (param('saveCatalog')) {
 			$db->update("UPDATE cat_category SET `c_pos`='".$params->{"pos"}."', `c_pid`='".$params->{"parent"}."' WHERE c_id='".$id."'");
 		}
 		
-		my @binds; my %links=();
-		my $res_links = $db->query("SELECT * FROM cat_category_links");
+		my %links=();
+		my $res_links = $db->query("SELECT p_id, p_cid FROM cat_category_links");
 		foreach my $link(@$res_links){
-			if ($link->{"bind"} eq "0"){
-				push(@binds, $link->{"p_cid"});
-			}
 			if ($links{$link->{"p_id"}}){
 				push($links{$link->{"p_id"}}, $link->{"p_cid"});
 			}
@@ -85,8 +82,6 @@ if (param('saveCatalog')) {
 				
 				my $id = $item->{"id"};
 				
-				#$db->delete("DELETE FROM cat_category_links WHERE id = '".$id."'");
-				
 				if ($item->{"links"}){
 					
 					my $providers = $item->{"links"};
@@ -98,18 +93,12 @@ if (param('saveCatalog')) {
 						
 						foreach my $link(@$items){
 							
-							if ($link->{"id"} ~~ $links{$p_id}) {
-								#print "next => ".$link->{"id"}."\n";
-								next;
-							}
-							else {
-								#print "NOT next => ".$link->{"id"}."\n";
-							}
+							if ($link->{"id"} ~~ $links{$p_id}) {next;}
 							
 							my $title = $link->{"title"};
 							from_to($title, "utf-8", "cp1251");
 							
-							$db->insert("INSERT INTO `cat_category_links` (`id`, `p_id`, `p_cid`, `name`, `bind`) VALUES('".$id."', '".$p_id."', '".$link->{"id"}."', '".$title."', '".($link->{"id"} ~~ @binds ? "0" : "1")."')");							
+							$db->insert("INSERT INTO `cat_category_links` (`id`, `p_id`, `p_cid`, `name`, `bind`) VALUES('".$id."', '".$p_id."', '".$link->{"id"}."', '".$title."', '1')");
 							
 							my $ids = getCatIds($data_providers{$p_id}, $link->{"id"});
 							my $products = $db->query("SELECT p_id FROM cat_product WHERE cat_id IN (".$link->{"id"}.$ids.") AND p_supplier ='".$p_id."'");
@@ -226,8 +215,7 @@ if (param('changeProvider')) {
 		};
 		
 		print $tree;
-	}	
-	
+	}
 }
 
 if (param('name') eq "change") {
@@ -238,6 +226,7 @@ if (param('name') eq "change") {
 	from_to($value, "utf-8", "cp1251");
 	
 	if ($id > 0 && $value){
+		$value =~ s/\'/\\'/g;
 		$db->update("UPDATE cat_category SET `c_name`='".$value."' WHERE c_id='".$id."'");
 	}
 	
@@ -250,6 +239,8 @@ if (param('addCategory')) {
 	my $name = $item->{"value"};
 	
 	from_to($name, "utf-8", "cp1251");
+	
+	$name =~ s/\'/\\'/g;
 	
 	my %params = (
 		'c_name' => $name,

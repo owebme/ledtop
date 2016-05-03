@@ -12,13 +12,13 @@ use strict;
 
 my %FIELDS = (
 				'p_id' => "NULL",
+				'cat_id' => "NULL",
 				'p_name' => "NULL",
 				'p_price' => "NULL",
 				'p_price_opt' => "NULL",
 				'p_price_opt_large' => "NULL",
 				'p_price_cost' => "NULL",
 				'p_price_old' => "NULL",
-				'p_count' => "NULL",
 				'p_hit' => "NULL",
 				'p_spec' => "NULL",
 				'p_news' => "NULL",
@@ -39,6 +39,14 @@ my %FIELDS = (
 				'p_redirect' => "NULL",
 				'p_type_id' => "NULL",
 				'p_color_rel' => "NULL",
+				'p_stock' => "NULL",
+				'p_waiting' => "NULL",
+				'p_possible' => "NULL",
+				'p_color' => "NULL",
+				'p_pack' => "NULL",
+				'p_packnorm' => "NULL",
+				'p_unit' => "NULL",
+				'p_related' => "NULL",
 				'p_raiting' => 0,
 				'p_raiting_count' => 0,
 				'p_maket' => "NULL",
@@ -176,47 +184,39 @@ sub getPrivateCategories {
 sub getPrivateProducts {
 	
 	my $self = shift;
-	my $id = shift;
+	my $query = shift;
 	my $params = shift;
 	my $group_id = shift;
+	my $group_ = shift;
 	
 	use Utils::JSON;
 	
-	my %group = ();
-	if ($group_id > 0){
-		my $result = $self->query("SELECT * FROM users_group_category WHERE group_id = '".$group_id."'");
-		if ($result){
-			foreach my $item(@$result){
-				%group = (%group,
-					$item->{'cat_id'} => $item->{'type'}
-				);
-			}
-		}
-	}
+	my %group = %{$group_};
 	
 	my $products=""; my $result="";
+	
+	my $sql = $group_id > 0 ? 'p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id)' : '* FROM cat_product';
 	
 	if ($params eq "search"){
 	
 		use Lingua::Stem2::Ru;
 		use URI::Escape;
 		
-		my $q = stemmer(uri_unescape($id));
+		my $q = stemmer(uri_unescape($query));
 		
-		$result = $self->query("SELECT * FROM cat_product WHERE p_art LIKE '%".$q."%'");
+		$result = $self->query("SELECT ".$sql." WHERE p_art LIKE '%".$q."%'");
 		if (!$result){
-			$result = $self->query("SELECT * FROM cat_product WHERE p_name LIKE '%".$q."%'");
+			$result = $self->query("SELECT ".$sql." WHERE p_name LIKE '%".$q."%'");
 		}
 	}
 	elsif ($params eq "related"){
-	
-		$result = $self->query("SELECT * FROM cat_product WHERE p_art IN (".$id.")");
+		$result = $self->query("SELECT ".$sql." WHERE p_art IN (".$query.")");
 	}	
 	else {
-		$result = $self->query("SELECT p.* FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE r.cat_id ='".$id."'");
+		$result = $self->query("SELECT p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE r.cat_id ='".$query."'");
 	}
 	if ($result){
-		my %category = (); my @json;
+		my %category = (); my @products;
 		foreach my $item(@$result){
 			my $i = 0; my $colors="";
 			my $color = $item->{'p_color'}."|";
@@ -260,93 +260,128 @@ sub getPrivateProducts {
 
 			my $price = $item->{'p_price'};
 			
-			# if ($group_id > 0){
-				# if (!$category{$item->{'cat_id'}}){
-					# my $group_price = getPrivateGroupPrice($self, $item->{'cat_id'}, \%group);
-					# if ($group_price){
-						# if ($group_price eq "opt_small"){
-							# $price = $item->{'p_price_opt'};
-							# %category = (%category, $item->{'cat_id'} => "opt_small");
-						# }
-						# elsif ($group_price eq "opt_large"){
-							# $price = $item->{'p_price_opt_large'};
-							# %category = (%category, $item->{'cat_id'} => "opt_large");
-						# }
-					# }
-				# }
-				# elsif ($category{$item->{'cat_id'}}){
-					# if ($category{$item->{'cat_id'}} eq "opt_small"){
-						# $price = $item->{'p_price_opt'};
-					# }
-					# elsif ($category{$item->{'cat_id'}} eq "opt_large"){
-						# $price = $item->{'p_price_opt_large'};
-					# }
-				# }
-			# }
+			my $cat_id = $item->{'cat_id'};
+			
+			if ($group_id > 0){
+				my ($price_, $category_) = getDiscountPrice($self, $cat_id, $item->{'p_price'}, $item->{'p_price_opt'}, $item->{'p_price_opt_large'}, \%group, \%category);
+				$price = $price_;
+				%category = %{$category_};
+			}
 			
 			my $related = $item->{'p_related'};
 			if ($related){
 				$related =~ s/\s/, /g;
 				$related =~ s/,\s$//g;
 				$related =~ s/,,/,/g;
-			}			
-			
-			if ($params eq "related"){
-				$products .= '
-					<tr data-art="'.$item->{'p_art'}.'" data-price="'.$price.'"'.($params eq "related"?' class="related"':'').'>
-						<td class="art">'.$item->{'p_art'}.'</td>								
-						<td class="img"><a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'"><img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')"></a></td>
-						<td class="name"><a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'">'.$item->{'p_name'}.'</a></td>
-						<td class="color">'.$colors.'</td>
-						<td class="price">'.$price.'</td>
-						<td class="count">
-							<div class="p-count">
-								<input class="count" name="'.$item->{'p_art'}.'" value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" data-value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" autocomplete="off">
-								<i title="Добавить к заказу" class="fa fa-shopping-cart basket"></i>
-								'.($item->{'p_packnorm'} > 0?'<em>'.$pack.' '.$item->{'p_packnorm'}.' '.$item->{'p_unit'}.'</em>':'').'
-							</div>
-						</td>
-						<td class="unit">'.$item->{'p_unit'}.'</td>
-						<td class="stock">'.getProductStock($item->{'p_stock'}, $item->{'p_waiting'}, $item->{'p_possible'}).'</td>
-						<td class="desc">'.$desc.''.($params ne "related" && $related?'&nbsp; <a class="related" href="#" data-related="'.$related.'">Сопутствующие товары</a>':'').'</td>
-					</tr>';
 			}
-			else {
-				my %params = (
-					"article" => $item->{'p_art'},
-					"image" => '<a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'"><img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')"></a>',
-					"name" => '<a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'">'.$item->{'p_name'}.'</a>',
-					"color" => $colors,
-					"price" => $price,
-					"order" => '<div class="p-count">
+
+			my $order="";
+			if ($item->{'p_show'} eq "1"){
+				$order = '<div class="p-count">
 							<input class="count" name="'.$item->{'p_art'}.'" value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" data-value="'.($item->{'p_packnorm'}?$item->{'p_packnorm'}:'1').'" autocomplete="off">
 							<i title="Добавить к заказу" class="fa fa-shopping-cart basket"></i>
 							'.($item->{'p_packnorm'} > 0?'<em>'.$pack.' '.$item->{'p_packnorm'}.' '.$item->{'p_unit'}.'</em>':'').'
-						</div>',
-					"unit" => $item->{'p_unit'},
-					"stock" => getProductStock($item->{'p_stock'}, $item->{'p_waiting'}, $item->{'p_possible'}),
-					"desc" => $desc.''.($params ne "related" && $related?'&nbsp; <a class="related" href="#" data-related="'.$related.'">Сопутствующие товары</a>':'')
-				);
-				push @json, \%params;
-			}				
+						</div>';
+			}
+			else {
+				$order = '<div class="p-count">
+							<input class="count" autocomplete="off" disabled="disabled">
+							'.($item->{'p_packnorm'} > 0?'<em>'.$pack.' '.$item->{'p_packnorm'}.' '.$item->{'p_unit'}.'</em>':'').'
+						</div>';			
+			}
+			
+			my %product = (
+				"article" => $item->{'p_art'},
+				"image" => '<a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'"><img src="/files/catalog/'.$item->{'p_art'}.'.jpg" onerror="this.src=\'/admin/site/img/no_photo.png\'; this.setAttribute(\'id\', \'empty\')"></a>',
+				"name" => '<a target="_blank" href="/products/'.$item->{'p_art'}.'/'.$item->{'p_alias'}.'">'.$item->{'p_name'}.'</a>',
+				"color" => $colors,
+				"price" => $price,
+				"order" => $order,
+				"unit" => $item->{'p_unit'},
+				"stock" => $item->{'p_show'} eq "1" ? getProductStock($item->{'p_stock'}, $item->{'p_waiting'}, $item->{'p_possible'}) : '<span>В архиве</span>',
+				"desc" => $desc.''.($params ne "related" && $related?'&nbsp; <a class="related" href="#" data-related="'.$related.'">Сопутствующие товары</a>':'')
+			);
+			push @products, \%product;				
 		}
 		
-		if ($params eq "related"){
-			return $products;
-		}
-		else {
-			my %result = (
-				"data" => \@json
-			);
-			return JSON_result(\%result);
-		}
-	}
-	elsif (!$result && $params ne "related"){
-		my @json;
 		my %result = (
-			"data" => \@json
+			"data" => \@products
+		);
+		return JSON_result(\%result);
+	}
+	elsif (!$result){
+		my @products;
+		my %result = (
+			"data" => \@products
 		);
 		return JSON_result(\%result);		
+	}
+}
+
+sub getDiscountPrice {
+
+	my $self = shift;
+	my $id = shift;
+	my $price_old = shift;
+	my $price_opt = shift;
+	my $price_opt_large = shift;
+	my $group_ = shift;
+	my $category_ = shift;
+	
+	if (ref($group_) ne 'HASH') {return $price_old;}
+	
+	my %group = %{$group_};
+	
+	my $price="";
+	
+	if (ref($category_) eq 'HASH'){
+		my %category = %{$category_};
+		if (!$category{$id}){
+			my $group_price = getPrivateGroupPrice($self, $id, \%group);
+			if ($group_price){
+				if ($group_price eq "opt_small"){
+					if ($price_opt > 0) {$price = $price_opt;}
+					%category = (%category, $id => "opt_small");
+				}
+				elsif ($group_price eq "opt_large"){
+					if ($price_opt_large > 0) {$price = $price_opt_large;}
+					%category = (%category, $id => "opt_large");
+				}
+			}
+			else {
+				%category = (%category, $id => "none");
+			}
+		}
+		elsif ($category{$id}){
+			if ($category{$id} eq "none"){
+				$price = $price_old;
+			}
+			elsif ($category{$id} eq "opt_small" && $price_opt > 0){
+				$price = $price_opt;
+			}
+			elsif ($category{$id} eq "opt_large" && $price_opt_large > 0){
+				$price = $price_opt_large;
+			}
+		}
+		if (!$price){
+			$price = $price_old;
+		}	
+		return ($price, \%category);
+	}
+	else {
+		my $group_price = getPrivateGroupPrice($self, $id, \%group);
+		if ($group_price){
+			if ($group_price eq "opt_small" && $price_opt > 0){
+				$price = $price_opt;
+			}
+			elsif ($group_price eq "opt_large" && $price_opt_large > 0){
+				$price = $price_opt_large;
+			}
+		}
+		if (!$price){
+			$price = $price_old;
+		}
+		return $price;
 	}
 }
 
@@ -356,28 +391,34 @@ sub getPrivateGroupPrice {
 	my $id = shift;
 	my $group_ = shift;
 	
-	my %group = ();
-	while (my($key,$value) = each(%{$group_})){
-		%group = (%group, $key => $value);
-	}	
+	if (!$id or ref($group_) ne 'HASH') {return 0;}
+	
+	my %group = %{$group_};
 	
 	my $result="";
 	if ($group{$id} eq "opt_small"){$result = "opt_small";}
 	elsif ($group{$id} eq "opt_large"){$result = "opt_large";}
 	else {
-		my $cat_id="";
-		my $res_ = $self->query("SELECT c_pid FROM catalog_alright WHERE c_id ='".$id."'");
-		my $res = $self->query("SELECT c_id, c_pid FROM catalog_alright WHERE c_id ='".$res_->[0]->{"c_pid"}."'");
-		if ($res){
-			foreach my $item(@$res){
-				if ($group{$item->{'c_id'}} eq "opt_small"){$result = "opt_small"; last;}
-				elsif ($group{$item->{'c_id'}} eq "opt_large"){$result = "opt_large"; last;}
-				else {
-					if ($group{$item->{'c_pid'}} eq "opt_small"){$result = "opt_small"; last;}
-					elsif ($group{$item->{'c_pid'}} eq "opt_large"){$result = "opt_large"; last;}				
+		sub getPrivateGroupPriceRec {
+			my $c_pid="";
+			my $result="";
+			my $id = shift;
+			my $res = $self->query("SELECT c_id, c_pid FROM cat_category WHERE c_id ='".$id."'");
+			if ($res){
+				foreach my $item(@$res){
+					$c_pid = $item->{'c_pid'};
+					if ($group{$item->{'c_id'}} eq "opt_small"){$result = "opt_small"; last;}
+					elsif ($group{$item->{'c_id'}} eq "opt_large"){$result = "opt_large"; last;}
 				}
+			}	
+			if (!$result && $c_pid > 0){
+				return getPrivateGroupPriceRec($c_pid);
+			}
+			else {
+				return $result;
 			}
 		}
+		$result = getPrivateGroupPriceRec($id);
 	}
 	if (!$result){
 		return 0;
@@ -417,10 +458,7 @@ sub getPrivateBasket {
 		}
 		
 		while (my ($key, $value) = each(%idTS)){
-			my $result = $self->query("SELECT p_name, p_stock, p_waiting, p_possible FROM products_alright WHERE p_art ='".$key."'");
-			if (!$result){
-				$result = $self->query("SELECT * FROM cat_product WHERE p_art ='".$key."'");
-			}
+			my $result = $self->query("SELECT * FROM cat_product WHERE p_art ='".$key."'");
 			if ($result){
 				foreach my $item(@$result){
 					$product_orders .='
@@ -468,6 +506,7 @@ sub getPrivateBasket {
 				</table>
 				<div class="total">Итого: <strong><span id="total_price">'.$totalcena.'</span> руб.</strong></div>
 				<p>Отгрузка производится только упаковками.<br> Возможна доставка в Ваш регион.</p>
+				<a href="/basket/" class="button">Оформить</a>
 			</div>
 		</div>';
 	}

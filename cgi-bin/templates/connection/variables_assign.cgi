@@ -100,6 +100,10 @@
 			$banner=""; $sales=""; $que=""; $basket_panel="";
 			$catalog_submenu = $user_status;
 			$body_id = ' id="body-private"';
+			my ($sec, $min, $hour) = localtime((stat $dirs_home.'/js/private.min.js')[9]);
+			$private_js = $sec.$min.$hour;
+			my ($sec, $min, $hour) = localtime((stat $dirs_home.'/css/private.min.css')[9]);
+			$private_css = $sec.$min.$hour;			
 		}
 		elsif ($adm_act eq "basket" or $adm_act eq "pages" && $page_alias eq "delivery"){
 			$basket_panel="";
@@ -192,5 +196,10 @@
 		$tpl->assign(CORE_JS => "$core_js");
 		$tpl->assign(SCRIPTS_ORDER => "$scripts_order");
 		$tpl->assign(SCRIPTS_JS => "$scripts_js");
+		
+		if ($adm_act eq "private"){
+			$tpl->assign(PRIVATE_JS => "$private_js");
+			$tpl->assign(PRIVATE_CSS => "$private_css");
+		}
 
 		1;

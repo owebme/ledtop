@@ -71,13 +71,13 @@ $content_html=qq~$content_html<table id="sheet">
 		if ($result){
 			foreach my $item(@$result){
 				if ($item->{'type'} eq "opt_small"){
-					my $res = $db->query("SELECT c_name FROM catalog_alright WHERE c_id = '".$item->{'cat_id'}."'");
+					my $res = $db->query("SELECT c_name FROM cat_category WHERE c_id = '".$item->{'cat_id'}."'");
 					if ($res->[0]->{"c_name"}){
 						$group1 .='<em data-id="'.$item->{'cat_id'}.'">'.$res->[0]->{"c_name"}.'</em>';
 					}
 				}
 				elsif ($item->{'type'} eq "opt_large"){
-					my $res = $db->query("SELECT c_name FROM catalog_alright WHERE c_id = '".$item->{'cat_id'}."'");
+					my $res = $db->query("SELECT c_name FROM cat_category WHERE c_id = '".$item->{'cat_id'}."'");
 					if ($res->[0]->{"c_name"}){
 						$group2 .='<em data-id="'.$item->{'cat_id'}.'">'.$res->[0]->{"c_name"}.'</em>';
 					}
@@ -91,7 +91,7 @@ $content_html=qq~$content_html<table id="sheet">
 	
 	my $category="";
 	if ($edit_group){
-		my $result = $db->query("SELECT c_id, c_name FROM catalog_alright WHERE c_pid = '0' ORDER BY c_id ASC");
+		my $result = $db->query("SELECT c_id, c_name FROM cat_category WHERE c_pid = '0' ORDER BY c_pos ASC");
 		foreach my $item(@$result){
 			$category .= '<li class="parent subCat'.($hash{$item->{c_id}}?' hide':'').'" data-id="'.$item->{c_id}.'"><button class="a-button a-button-little plus">+</button><em data-id="'.$item->{c_id}.'">'.$item->{c_name}.'</em></li>';
 			if (my $sub = recMenuCategory($item->{c_id}, 0) ){
@@ -99,10 +99,11 @@ $content_html=qq~$content_html<table id="sheet">
 			}
 		}
 	}
+	
 	sub recMenuCategory {
 		my $id = shift;
 		my $level = shift;
-		my $result = $db->query("SELECT c_id, c_name FROM catalog_alright WHERE c_pid = '".$id."' ORDER BY c_id ASC");
+		my $result = $db->query("SELECT c_id, c_name FROM cat_category WHERE c_pid = '".$id."' ORDER BY c_pos ASC");
 		my $text = '<ul class="level'.($level+1).'">';
 		if ($result){
 			foreach my $item(@$result){

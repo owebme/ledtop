@@ -51,21 +51,9 @@ my $db = new Core::DB();
 
 my $product_orders="";
 while (($key, $value) = each(%idTS)){
-	my $result = $db->query("SELECT * FROM products_alright WHERE p_art ='".$key."'");
-	if ($result){
-		foreach my $line(@$result){
-			my $packnorm = $line->{'p_packnorm'};
-			if ($packnorm =~/(\d+)\.5/){
-				$packnorm = $packnorm*2;
-			}
-			$product_orders .= build_TemplateProduct("", $line->{'p_art'}, $line->{'p_name'}, "", "", $value->{'price'}, "", $line->{'p_desc'}, $value->{'count'}, "", 0, "", "", "basket", "", "", "", $packnorm, $line->{'p_unit'});
-		}
-	}
-	else {
-		my $result = $db->query("SELECT * FROM cat_product WHERE p_art ='".$key."'");
-		foreach my $line(@$result){
-			$product_orders .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, "", $value->{'price'}, "", $line->{'p_desc_sm'}, $value->{'count'}, "", 0, "", "", "basket");
-		}
+	my $result = $db->query("SELECT * FROM cat_product WHERE p_art ='".$key."'");
+	foreach my $line(@$result){
+		$product_orders .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, "", $value->{'price'}, "", $line->{'p_desc_sm'}, $value->{'count'}, "", 0, "", "", "basket");
 	}
 }
 

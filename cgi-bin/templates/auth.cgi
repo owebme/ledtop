@@ -2,7 +2,7 @@ my $db = new Core::DB();
 
 # Проверка авторизации
 
-$logined="";
+$logined=""; %user_group_ids = ();
 my $user_login = cookie("private_login");
 if ($user_login) {
 	$user_id=""; $u_name =""; $u_name_f =""; $u_name_o =""; $u_email =""; $u_phone=""; $user_status=""; $user_group="";
@@ -20,6 +20,14 @@ if ($user_login) {
 			if ($user_group > 0){
 				my $group = $db->query("SELECT g_name FROM users_group WHERE g_id = '".$user_group."' LIMIT 1");
 				$user_status = $group->[0]->{g_name};
+				my $result = $db->query("SELECT * FROM users_group_category WHERE group_id = '".$user_group."'");
+				if ($result){
+					foreach my $item(@$result){
+						%user_group_ids = (%user_group_ids,
+							$item->{'cat_id'} => $item->{'type'}
+						);
+					}
+				}
 			}
 		}
 	}

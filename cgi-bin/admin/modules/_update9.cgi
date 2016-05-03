@@ -21,3 +21,5 @@ $db->query("ALTER TABLE `cat_product` ADD COLUMN `p_pack` varchar(255) NULL AFTE
 $db->query("ALTER TABLE `cat_product` ADD COLUMN `p_packnorm` varchar(255) NULL AFTER `p_pack`");
 $db->query("ALTER TABLE `cat_product` ADD COLUMN `p_unit` varchar(255) NULL AFTER `p_packnorm`");
 $db->query("ALTER TABLE `cat_product` ADD COLUMN `p_related` varchar(255) NULL AFTER `p_unit`");
+
+$db->query("ALTER TABLE `cat_product` DROP COLUMN `p_count`");

@@ -138,10 +138,7 @@ elsif ($action eq "paymentAviso"){
 				my $article = $1;
 				my $count = $2;
 				my $price = $3;
-				my $result = $db->query("SELECT p_name FROM products_alright WHERE p_art ='".$article."'");
-				if (!$result){
-					$result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$article."'");
-				}
+				my $result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$article."'");
 				if ($result){
 					foreach my $line(@$result){
 						my %params_product = (
@@ -191,10 +188,7 @@ elsif ($action eq "paymentAviso"){
 					my $count = $2;
 					my $price = $3;
 
-					my $result = $db->query("SELECT p_name FROM products_alright WHERE p_art ='".$article."'");
-					if (!$result){
-						$result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$article."'");
-					}	
+					my $result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$article."'");
 					foreach my $line(@$result){	
 						print MZ "
 						   <tr>\n
@@ -231,10 +225,7 @@ elsif ($action eq "paymentAviso"){
 				my $count = $2;
 				my $price = $3;
 
-				my $result = $db->query("SELECT p_name FROM products_alright WHERE p_art ='".$article."'");
-				if (!$result){
-					$result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$article."'");
-				}
+				my $result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$article."'");
 				foreach my $line(@$result){	
 					print MC "
 					   <tr>\n
@@ -343,7 +334,7 @@ elsif (param("pay") && param("order")){
 						my $products="";
 						my $res = $db->query("SELECT * FROM cat_orders_product WHERE order_id ='".$order_id."'");
 						foreach my $line(@$res){
-							my $pack = $db->query("SELECT p_unit FROM products_alright WHERE p_art ='".$line->{p_art}."'");
+							my $pack = $db->query("SELECT p_unit FROM cat_product WHERE p_art ='".$line->{p_art}."'");
 							$products .= '
 									<tr>
 										<td class="name"><strong>'.$line->{p_art}.'</strong> <a target="_blank" href="/products/'.$line->{p_art}.'">'.$line->{p_name}.'</a></td>

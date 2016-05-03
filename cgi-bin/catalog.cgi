@@ -5,7 +5,10 @@ use CGI qw/:standard/;
 use CGI::Carp qw (fatalsToBrowser);
 use POSIX qw(locale_h);
 require "templates/connection/require.cgi";
-if (cookie("filter_price")){
+if (cookie("private_login")){
+	require "templates/auth.cgi";
+}
+elsif (!cookie("filter_price")){
 	require "admin/engine/lib/Cache/ReadCache.cgi";
 }
 use CGI::FastTemplate; 
@@ -220,6 +223,6 @@ require "templates/connection/variables_assign.cgi";
 $tpl->parse(MAIN => "index");
 $tpl->print();
 
-if (!cookie("filter_price")){
+if (!cookie("filter_price") && !cookie("private_login")){
 	require "admin/engine/lib/Cache/SaveCache.cgi";
 }

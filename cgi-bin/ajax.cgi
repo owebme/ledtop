@@ -47,7 +47,7 @@ if ($logined eq "enter"){
 		my $catalog = new Core::DB::Catalog();
 		
 		my $cat_id = param('getPrivateProducts');
-		my $products = $catalog->getPrivateProducts($cat_id, "", $user_group);
+		my $products = $catalog->getPrivateProducts($cat_id, "", $user_group, \%user_group_ids);
 		
 		print $products;
 	}
@@ -65,7 +65,7 @@ if ($logined eq "enter"){
 		use Core::DB::Catalog;
 		my $catalog = new Core::DB::Catalog();
 
-		my $products = $catalog->getPrivateProducts(param('searchPrivateProducts'), "search", $user_group);
+		my $products = $catalog->getPrivateProducts(param('searchPrivateProducts'), "search", $user_group, \%user_group_ids);
 		
 		print $products;
 	}
@@ -74,7 +74,7 @@ if ($logined eq "enter"){
 		use Core::DB::Catalog;
 		my $catalog = new Core::DB::Catalog();
 
-		my $products = $catalog->getPrivateProducts(param('relatedPrivateProducts'), "related", $user_group);
+		my $products = $catalog->getPrivateProducts(param('relatedPrivateProducts'), "related", $user_group, \%user_group_ids);
 		
 		if ($products){
 			print $products;

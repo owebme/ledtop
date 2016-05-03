@@ -273,11 +273,6 @@ sub build_Private
 		}
 		elsif ($logined eq "enter") {
 
-			# my ($sec, $min, $hour) = localtime((stat $dirs_home.'/js/private.js')[9]);
-			# my $private_js = $sec.$min.$hour;
-
-			# $private .='<script src="/js/private.js?'.$private_js.'" type="text/javascript"></script>';
-
 			$user_status = '<div id="user-status">
 					<h3>Ваш статус</h3>
 					<span>'.(!$user_status?'Розничный покупатель':$user_status).'</span>
@@ -323,7 +318,7 @@ sub build_Private
 						else {$pay = "Ожидает оплаты";}
 						my $res = $db->query("SELECT * FROM cat_orders_product WHERE order_id ='".$order->{id}."'");
 						foreach my $line(@$res){
-							my $pack = $db->query("SELECT p_unit FROM products_alright WHERE p_art ='".$line->{p_art}."'");
+							my $pack = $db->query("SELECT p_unit FROM cat_product WHERE p_art ='".$line->{p_art}."'");
 							$products .= '
 									<tr>
 										<td class="name"><strong>'.$line->{p_art}.'</strong> <a target="_blank" href="/products/'.$line->{p_art}.'">'.$line->{p_name}.'</a></td>
@@ -374,11 +369,9 @@ sub build_Private
 				
 				if ($catalog_category){
 					$private .='
-						<div class="select">
-							<select class="category" data-id="'.$cat_id.'" name="sel_category">
-								'.$catalog_category.'
-							</select>
-						</div>';
+						<select class="category" data-id="'.$cat_id.'" name="sel_category">
+							'.$catalog_category.'
+						</select>';
 				}
 				$private .='<p>Цены указаны в российских рублях с учетом НДС 18% и приводятся за одну единицу измерения (шт, м и т.д.), указанную в таблице в колонке Ед.</p></div>
 				<div id="products-table">
@@ -388,7 +381,7 @@ sub build_Private
 							<th></th>
 							<th id="th-name">Наименование</th>
 							<th></th>
-							<th>Ваша цена</th>
+							<th>Цена</th>
 							<th>Заказ</th>
 							<th>Ед.</th>
 							<th>Склад</th>

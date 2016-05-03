@@ -5,7 +5,12 @@ use CGI qw/:standard/;
 use CGI::Carp qw (fatalsToBrowser);
 use POSIX qw(locale_h);
 require "templates/connection/require.cgi";
-require "admin/engine/lib/Cache/ReadCache.cgi";
+if (cookie("private_login")){
+	require "templates/auth.cgi";
+}
+else {
+	require "admin/engine/lib/Cache/ReadCache.cgi";
+}
 use CGI::FastTemplate; 
 use Core::Config;
 use Core::DB;
@@ -101,6 +106,6 @@ require "templates/connection/variables_assign.cgi";
 $tpl->parse(MAIN => "index");
 $tpl->print();
 
-if (!$error){
+if (!$error && !cookie("private_login")){
 	require "admin/engine/lib/Cache/SaveCache.cgi";
 }

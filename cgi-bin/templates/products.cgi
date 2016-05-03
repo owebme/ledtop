@@ -342,18 +342,30 @@ sub build_ProductCat
 		}
 		else {
 			$result = $db->query("SELECT p.*, ".$sort_.", pl.cat_id FROM cat_product AS p JOIN cat_product_rel AS pl ON(pl.cat_p_id=p.p_id) JOIN cat_category AS c ON(c.c_id = pl.cat_id) WHERE pl.cat_id ='".$id."' AND p.p_show != '0' ORDER BY ".$sort." ".($current_page!=""?"LIMIT ".($current_page-1)*$count_pages.",".$count_pages."":"LIMIT 0,".$count_pages."")."");
-			#$result = $db->query("SELECT p.* FROM cat_category AS cat JOIN cat_category_links AS link ON(cat.c_id=link.id) JOIN products_alright AS p ON(link.p_cid = p.cat_id) WHERE cat.c_id ='".$id."'");
 		}
 	}
+	my $catalog=""; my %category=();
+	if ($logined eq "enter" && $user_group > 0){
+		use Core::DB::Catalog;
+		$catalog = new Core::DB::Catalog();	
+	}
 	foreach my $line(@$result){
-		if($line->{'p_show'} ne "0"){
+		if ($line->{'p_show'} ne "0"){
 			$count++; my $mark="";
 			if ($line->{'p_news'} eq "1"){$mark="new";}
 			if ($line->{'p_hit'} eq "1"){$mark="hit";}
 			if ($line->{'p_spec'} eq "1"){$mark="spec";}
 			my $label = 0;
 			if ($count == 3) {$label = "reflect"; $count="";}
-			$products_cat .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, $label, $mark, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "catalog", $line->{'p_img_url'}, $cat_name, $parent_id, "", "", $line->{'p_color_rel'});
+			
+			my $price = $line->{'p_price'};
+			
+			if ($logined eq "enter" && $user_group > 0){
+				my ($price_, $category_) = $catalog->getDiscountPrice($line->{'cat_id'}, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids, \%category);
+				$price = $price_;
+				%category = %{$category_};
+			}
+			$products_cat .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $price, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, $label, $mark, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "catalog", $line->{'p_img_url'}, $cat_name, $parent_id, "", "", $line->{'p_color_rel'});
 		
 		} else {$products_cat .="";}
 	}
@@ -564,7 +576,19 @@ data-yashareType="link" data-yashareQuickServices="vkontakte,facebook,twitter,od
 		my $p_count="";
 		if ($hide_products_avail ne "1"){
 			$p_count = '<div class="art">Наличие на складе: <em>'.($line->{'p_count'} ne ""?''.$line->{'p_count'}.' шт.':'отсутствует').'</em></div>';
-		}						
+		}
+		
+		my $price = $line->{'p_price'};
+
+		if ($logined eq "enter" && $user_group > 0){
+			my $res = $db->query("SELECT cat_id FROM cat_product_rel WHERE cat_p_id ='".$line->{'p_id'}."' AND cat_main = '1' LIMIT 1");
+			if ($res){
+				use Core::DB::Catalog;
+				my $catalog = new Core::DB::Catalog();	
+				my $cat_id = $res->[0]->{"cat_id"};
+				$price = $catalog->getDiscountPrice($cat_id, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids);
+			}
+		}
 		
 		# Верстка карточки товара //
 		
@@ -573,7 +597,7 @@ data-yashareType="link" data-yashareQuickServices="vkontakte,facebook,twitter,od
 						<div class="info-box">
 							<div class="info">
 								<div class="price-holder">
-									<strong class="price"><span>'.price_trans($line->{'p_price'}).'</span> р.</strong>
+									<strong class="price"><span>'.price_trans($price).'</span> р.</strong>
 									'.(!$price_old?'<span class="old-price">Старая цена: <strong>'.price_old_trans($price_old).'</strong></span>':'').'
 									'.($unit?'<span class="price-title">Цена за 1 '.$unit.'</span>':'').'
 								</div>
@@ -598,7 +622,7 @@ data-yashareType="link" data-yashareQuickServices="vkontakte,facebook,twitter,od
 										<li><span>'.($packnorm*10).'</span></li>
 									</ul>
 								</form>
-								<a href="#" class="add buy_product" data-pack="'.$packnorm.'" data-unit="'.$unit.'" price="'.($line->{'p_price'} > 0?''.$line->{'p_price'}.'':'0').'" p_art="'.$line->{'p_art'}.'">В корзину</a>
+								<a href="#" class="add buy_product" data-pack="'.$packnorm.'" data-unit="'.$unit.'" price="'.($price > 0 ? $price : '0').'" p_art="'.$line->{'p_art'}.'">В корзину</a>
 								<a href="#" class="fast buy_quick" p_id="'.$line->{'p_id'}.'">Купить быстро в 1 клик</a>';
 		}
 		elsif ($line->{'p_show'} ne "1"){

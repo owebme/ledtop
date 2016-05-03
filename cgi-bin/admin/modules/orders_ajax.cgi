@@ -128,11 +128,11 @@ if ($suggestProduct) {
 	use Encode "from_to";
 	from_to($query, "utf-8", "cp1251");
 
-	my $result = $db->query("SELECT * FROM products_alright WHERE p_art = '".$query."' ORDER BY p_name ASC LIMIT 8");
+	my $result = $db->query("SELECT * FROM cat_product WHERE p_art = '".$query."' ORDER BY p_name ASC LIMIT 8");
 
 	if (!$result){
 		$query =~s/ /\%/gi;
-		$result = $db->query("SELECT * FROM products_alright WHERE p_name LIKE '%".$query."%' ORDER BY p_name ASC LIMIT 8");	
+		$result = $db->query("SELECT * FROM cat_product WHERE p_name LIKE '%".$query."%' ORDER BY p_name ASC LIMIT 8");	
 	}
 	my $items="";
 	if ($result){
@@ -199,7 +199,7 @@ if ($changeOrder) {
 			}
 		}
 		else {
-			my $result = $db->query("SELECT * FROM products_alright WHERE p_art = '".$p_art."' LIMIT 1");
+			my $result = $db->query("SELECT p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE p_art = '".$p_art."' LIMIT 1");
 			my $p_name = $result->[0]->{"p_name"};
 			$price = $result->[0]->{"p_price"};
 			if ($user_group > 0){

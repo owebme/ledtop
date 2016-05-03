@@ -363,21 +363,25 @@ sub getPrivateProducts {
 	my $id = shift;
 	my $params = shift;
 	my $group_id = shift;
+	my $group = shift;
 	
 	my $products = new Core::DB::Catalog::Product;
 
-	return $products->getPrivateProducts($id, $params, $group_id);
+	return $products->getPrivateProducts($id, $params, $group_id, $group);
 }
 
-sub getPrivateProductsJSON {
+sub getDiscountPrice {
 	my $self = shift;
 	my $id = shift;
-	my $params = shift;
-	my $group_id = shift;
+	my $price = shift;
+	my $price_opt = shift;
+	my $price_opt_large = shift;
+	my $group = shift;
+	my $category = shift;
 	
 	my $products = new Core::DB::Catalog::Product;
 
-	return $products->getPrivateProductsJSON($id, $params, $group_id);
+	return $products->getDiscountPrice($id, $price, $price_opt, $price_opt_large, $group, $category);
 }
 
 sub getPrivateGroupPrice {
@@ -388,7 +392,7 @@ sub getPrivateGroupPrice {
 	my $products = new Core::DB::Catalog::Product;
 
 	return $products->getPrivateGroupPrice($id, $params);
-}	
+}
 
 sub getPrivateBasket {
 	my $self = shift;

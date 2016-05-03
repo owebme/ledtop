@@ -14,9 +14,6 @@ sub build_ProductRelated
 		$related =~ s/,\s$//g;
 		$related =~ s/,,/,/g;
 		my $res_related = $db->query("SELECT * FROM cat_product WHERE p_art IN (".$related.")");
-		if (!$res_related){
-			$res_related = $db->query("SELECT * FROM products_alright WHERE p_art IN (".$related.")");
-		}
 		if ($res_related){
 			foreach my $line(@$res_related){
 				$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);

@@ -127,10 +127,7 @@ if ($name ne "" && $phone ne "") {
 	
 	while (($key, $value) = each(%idTS)){
 
-		my $result = $db->query("SELECT p_name FROM products_alright WHERE p_art ='".$key."'");
-		if (!$result){
-			$result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$key."'");
-		}
+		my $result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$key."'");
 		if ($result){
 			foreach my $line(@$result){
 			
@@ -187,10 +184,7 @@ print MZ "<table style='width:400px; font-size:13px; border-collapse:collapse;'>
 
 while (($key, $value) = each(%idTS)){
 
-	my $result = $db->query("SELECT p_name FROM products_alright WHERE p_art ='".$key."'");
-	if (!$result){
-		$result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$key."'");
-	}	
+	my $result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$key."'");
 	foreach my $line(@$result){	
 		print MZ "
 		   <tr>\n
@@ -230,10 +224,7 @@ print MC "<table style='width:400px; font-size:13px; border-collapse:collapse;'>
 
 while (($key, $value) = each(%idTS)){
 
-	my $result = $db->query("SELECT p_name FROM products_alright WHERE p_art ='".$key."'");
-	if (!$result){
-		$result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$key."'");
-	}
+	my $result = $db->query("SELECT p_name FROM cat_product WHERE p_art ='".$key."'");
 	foreach my $line(@$result){	
 		print MC "
 		   <tr>\n

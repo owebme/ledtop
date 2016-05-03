@@ -120,7 +120,7 @@ $imagemagik="1";
 	$price_old =~ s/\,/\./g;
 	$price_old =~ s/(\d+)/$1/g;
 	$article=param('article');	
-	$avail=param('avail');
+	$stock=param('stock');
 	$alias=param('alias');
 	if ($num_edit eq "" && $article){
 		$alias = $article;
@@ -275,7 +275,7 @@ $content_html .='
 			$ok_price_cost = $products->{p_price_cost};
 			$ok_price_old = $products->{p_price_old};
 			$ok_article_old = $products->{p_art};
-			$ok_avail_old = $products->{p_count};
+			$ok_stock_old = $products->{p_stock};
 			$ok_sort_old = $products->{p_pos};
 			$ok_elm_old[0] = $products->{p_desc_bottom};
 			$ok_elm_sm_old[0] = $products->{p_desc_top};
@@ -564,7 +564,7 @@ $content_html .='
 					'p_price_opt_large' => "$price_opt_large",
 					'p_price_cost' => "$price_cost",
 					'p_price_old' => "$price_old",	
-					'p_count' => "$avail",
+					'p_stock' => "$stock",
 					'p_hit' => "$hit_ok",
 					'p_spec' => "$spec_ok",
 					'p_news' => "$news_ok",
@@ -1047,7 +1047,7 @@ $product_type_sel
 		if ($hide_products_avail ne "1"){
 			$content_html.= qq~
 			<tr class="help_avail">
-				<td class="name">Кол-во товара</td><td><input class="price" type="text" name="avail" value=""></td>
+				<td class="name">Кол-во товара</td><td><input class="price" type="text" name="stock" value=""></td>
 			</tr>~;
 		}		
 		if ($hide_products_param ne "1"){
@@ -1661,7 +1661,7 @@ $product_type_sel
 		if ($hide_products_avail ne "1"){
 			$content_html.= qq~
 			<tr class="help_avail">
-				<td class="name">Кол-во товара</td><td><input class="price" type="text" name="avail" value="$ok_avail_old"></td>
+				<td class="name">Кол-во товара</td><td><input class="price" type="text" name="stock" value="$ok_stock_old"></td>
 			</tr>~;
 		}		
 		$content_html.= qq~			

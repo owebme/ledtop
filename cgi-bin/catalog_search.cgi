@@ -5,6 +5,9 @@ use CGI qw/:standard/;
 use CGI::Carp qw (fatalsToBrowser);
 use POSIX qw(locale_h);
 require "templates/connection/require.cgi";
+if (cookie("private_login")){
+	require "templates/auth.cgi";
+}
 use CGI::FastTemplate; 
 use URI::Escape;
 use Lingua::Stem2::Ru;
@@ -20,18 +23,25 @@ if ($query){
 	my $q = stemmer(uri_unescape($query));	
 	
 	my $products=""; my $more_products=""; my $c_alias=""; my $i=""; my $first="";
-	my $result = $db->query("SELECT * FROM cat_product WHERE p_art LIKE '%".$q."%'");
+	
+	my $sql = "p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id)";
+	
+	my $result = $db->query("SELECT ".$sql." WHERE p.p_art LIKE '%".$q."%'");
 	if (!$result){
-		$result = $db->query("SELECT * FROM cat_product WHERE p_name LIKE '%".$q."%'");
+		$result = $db->query("SELECT ".$sql." WHERE p.p_name LIKE '%".$q."%'");
 	}
 	if ($result){
-	
 		my $limit_count="";
 		open(BO, "$dirs_catalog_www2/page_settings.txt"); my @pages_count = <BO>; close(BO);
 		foreach my $line(@pages_count){chomp($line);
 		my ($pages_admin, $pages_site) = split(/\|/, $line);
 		$limit_count=qq~$pages_site~;}	
 	
+		my $catalog=""; my %category=();
+		if ($logined eq "enter" && $user_group > 0){
+			use Core::DB::Catalog;
+			$catalog = new Core::DB::Catalog();	
+		}	
 		my $p_ids=""; my $counts=""; my $count="";
 		foreach my $line(@$result){
 			$count++; $i++; my $mark="";
@@ -41,7 +51,13 @@ if ($query){
 			my $label = 0;
 			if ($count == 3) {$label = "reflect"; $count="";}
 			if ($i < ($limit_count+1)){
-				$products .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, "", $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, $label, $mark, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "catalog", $line->{'p_img_url'}, 'Результаты поиска', "", "", "", $line->{'p_color_rel'});
+				my $price = $line->{'p_price'};
+				if ($logined eq "enter" && $user_group > 0){
+					my ($price_, $category_) = $catalog->getDiscountPrice($line->{'cat_id'}, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids, \%category);
+					$price = $price_;
+					%category = %{$category_};
+				}			
+				$products .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, "", $price, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, $label, $mark, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "catalog", $line->{'p_img_url'}, 'Результаты поиска', "", "", "", $line->{'p_color_rel'});
 				if ($i == 1){
 					$first = "/products/".$line->{'p_art'}."/".$line->{'p_alias'};
 				}

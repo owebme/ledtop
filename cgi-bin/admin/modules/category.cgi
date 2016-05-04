@@ -49,41 +49,32 @@ my $db = new Core::DB();
 	if ($hide_products_type ne "1"){
 		$products_type ='<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_type&par=new"><span>'.$pr_type_name.'</span></a></li>';
 	}
-	my $products_param="";
-	if ($hide_products_param ne "1"){
-		$products_param ='<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Параметры</span></a></li>';
-	}	
-	
 
 if ($num_edit eq "") {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
-<li class="activetab" style="margin-left:0px; background:none #fff;"><a id="click_pages" href="#"><span>Категории</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category&par=new"><span>Доб. категорию</span></a></li>
-$products_param
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
+<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
 $products_type~;
 } else {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
-<li class="activetab" style="margin-left:0px; background:none #fff;"><a id="click_pages" href="#"><span>Категории</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category&par=new"><span>Доб. категорию</span></a></li>
-$products_param
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
+<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
 $products_type~;
 }
 if ($par) {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
-<li><a id="click_pages" href="#"><span>Категории</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
-<li class="activetab"><a id="click_pages_new" href="#"><span>Доб. категорию</span></a></li>
-$products_param
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
+<li class="activetab"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
 $products_type~;
 }
 if ($settings) {
-$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Товары</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category"><span>Категории</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Доб. товар</span></a></li>
-<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=category&par=new"><span>Доб. категорию</span></a></li>
-$products_param
+$new_pages =qq~<li class="first"><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products"><span>Все товары</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products&par=new"><span>Добавить товар</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=catalog"><span>Работа с каталогом</span></a></li>
+<li><a href="/cgi-bin/admin/engine/index.cgi?adm_act=products_param"><span>Характеристики</span></a></li>
 $products_type~;
 }
 	
@@ -114,7 +105,10 @@ $content_html=qq~$content_html<table id="sheet">
 	<tr>
 		<td id="contenttd">
 		<div id="content" style="position:relative">
-		<div id="pages">
+		<div id="pages">~;
+		
+if (!$settings) {		
+		$content_html .=qq~
 			<link rel="stylesheet" type="text/css" href="/admin/css/bootstrap/bootstrap.min.css" />
 			<div class="catalog-btn-group">
 				<div class="btn-group">
@@ -125,7 +119,7 @@ $content_html=qq~$content_html<table id="sheet">
 			</div><br><br>
 			<script type="text/javascript" src="/admin/js/ui-jquery/jquery.ui.nestedSortable.js"></script>		
 			<script type="text/javascript" src="/admin/lib/category.js"></script>~;
-		
+}		
 
 	if( param('posup') ne "" ){
 		$catalog->PosUpCat($num_edit);

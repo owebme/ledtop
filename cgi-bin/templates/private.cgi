@@ -359,9 +359,7 @@ sub build_Private
 					}
 				}	
 
-				if ($cat_id) {
-					$catalog_category = $catalog->getPrivateCategories($cat_id);
-				}
+				$catalog_category = $catalog->getPrivateCategories($cat_id);
 
 				$private .= $catalog->getPrivateBasket();
 

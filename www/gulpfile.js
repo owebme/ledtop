@@ -19,7 +19,7 @@ gulp.task('private_css', function() {
 		.pipe(gulp.dest('./css'));
 });
 
-gulp.task('private_js', function() {
+gulp.task('private_libs', function() {
 	gulp.src(['js/select2/select2.min.js',
 		'js/datatables/jquery.dataTables.min.js',
 		'js/datatables/dataTables.bootstrap.js',
@@ -29,9 +29,8 @@ gulp.task('private_js', function() {
 		'js/datatables/pdfmake.min.js',
 		'js/datatables/vfs_fonts.js',
 		'js/datatables/buttons.html5.min.js',
-		'js/datatables/buttons.print.min.js',
-		'js/private.js'])
-		.pipe(concat('private.min.js'))
+		'js/datatables/buttons.print.min.js'])
+		.pipe(concat('private.libs.js'))
 		.pipe(gulp.dest('./js'));	
 });
 
@@ -48,8 +47,7 @@ gulp.task('bootstrap', function() {
 
 gulp.task('watch', function() {	
 	gulp.watch(['admin/css/bootstrap.scss'], ['bootstrap']);
-	gulp.watch(['js/private.js'], ['private_js']);
 	gulp.watch(['css/private.css'], ['private_css']);
 });
 
-gulp.task('default', ['private_js', 'private_css', 'watch']);
+gulp.task('default', ['private_libs', 'private_css', 'watch']);

@@ -100,7 +100,7 @@
 			$banner=""; $sales=""; $que=""; $basket_panel="";
 			$catalog_submenu = $user_status;
 			$body_id = ' id="body-private"';
-			my ($sec, $min, $hour) = localtime((stat $dirs_home.'/js/private.min.js')[9]);
+			my ($sec, $min, $hour) = localtime((stat $dirs_home.'/js/private.js')[9]);
 			$private_js = $sec.$min.$hour;
 			my ($sec, $min, $hour) = localtime((stat $dirs_home.'/css/private.min.css')[9]);
 			$private_css = $sec.$min.$hour;			

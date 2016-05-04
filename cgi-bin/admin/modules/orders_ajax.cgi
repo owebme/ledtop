@@ -127,12 +127,17 @@ if ($suggestProduct) {
 	my $query = $suggestProduct;
 	use Encode "from_to";
 	from_to($query, "utf-8", "cp1251");
-
-	my $result = $db->query("SELECT * FROM cat_product WHERE p_art = '".$query."' ORDER BY p_name ASC LIMIT 8");
-
+	
+	use Lingua::Stem2::Ru;	
+	use URI::Escape;
+	
+	my $q = stemmer(uri_unescape($query));	
+	
+	my $sql = "p.p_art, p.p_name, p.p_price, p.p_packnorm FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id)";
+	
+	my $result = $db->query("SELECT ".$sql." WHERE p.p_art LIKE '%".$q."%' ORDER BY p.p_name ASC LIMIT 8");
 	if (!$result){
-		$query =~s/ /\%/gi;
-		$result = $db->query("SELECT * FROM cat_product WHERE p_name LIKE '%".$query."%' ORDER BY p_name ASC LIMIT 8");	
+		$result = $db->query("SELECT ".$sql." WHERE p.p_name LIKE '%".$q."%' ORDER BY p.p_name ASC LIMIT 8");
 	}
 	my $items="";
 	if ($result){
@@ -203,11 +208,7 @@ if ($changeOrder) {
 			my $p_name = $result->[0]->{"p_name"};
 			$price = $result->[0]->{"p_price"};
 			if ($user_group > 0){
-				my $group_price = $catalog->getPrivateGroupPrice($result->[0]->{"cat_id"}, \%group);
-				if ($group_price){
-					if ($group_price eq "opt_small"){$price = $result->[0]->{'p_price_opt'};}
-					elsif ($group_price eq "opt_large"){$price = $result->[0]->{'p_price_opt_large'};}
-				}
+				$price = $catalog->getDiscountPrice($result->[0]->{'cat_id'}, $result->[0]->{'p_price'}, $result->[0]->{'p_price_opt'}, $result->[0]->{'p_price_opt_large'}, \%group);
 			}			
 			if ($addOrderProduct && $changeOrderProduct){
 				$db->update("UPDATE cat_orders_product SET `p_art`='".$p_art."', `p_name`='".$p_name."', `p_price`='".$price."', `p_count`='".$count."' WHERE order_id = '".$id."' AND p_art = '".$changeOrderProduct."'");
@@ -228,4 +229,18 @@ if ($changeOrder) {
 	}
 	
 	print $total."|".$price;
+}
+
+sub stemmer {
+	my $query = shift;
+	if ($query){
+		my @words = split / /, $query;
+		my $result="";
+		foreach my $item(@words){
+			$result .= stem_word($item)." ";
+		}
+		$result =~s/\s$//g;
+		$result =~s/\s/\%/gi;
+		return $result;
+	}
 }

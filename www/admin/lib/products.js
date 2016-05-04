@@ -2,7 +2,7 @@ var dirs_catalog = '/cgi-bin/admin/modules';
 
 $(document).ready(function(){
 
-	$("div#sheettop li.first a").attr("href", $("div#main_menu div#products a").attr("href"));
+	//$("div#sheettop li.first a").attr("href", $("div#main_menu div#products a").attr("href"));
 
 	// Обработка f5, ctrl+f5 и Esc
 	var isCtrl = false;

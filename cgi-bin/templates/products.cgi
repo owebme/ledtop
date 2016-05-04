@@ -715,18 +715,27 @@ data-yashareType="link" data-yashareQuickServices="vkontakte,facebook,twitter,od
 					if ($line->{'p_desc_top'}){
 						$product .= '<div class="desc_product">'.$line->{'p_desc_top'}.'</div>';						
 					}
+					
+					my $product_color_related="";
 
 					# Связанные по цвету товары				
 					if ($line->{'p_color_rel'} && $line->{'p_show'} eq "1"){
-						$product .= build_ProductColorRelated($line->{'p_color_rel'}, $line->{'p_price'}, $pack, $packnorm, $unit);
-					}	
+						$product_color_related = build_ProductColorRelated($line->{'p_color_rel'}, $price, $pack, $packnorm, $unit);
+					}
+					$product .= $product_color_related;
 
 					# Технические характеристики						
 					if ($techdata){
 						$product .= '
-							<div class="characteristics">
-								<h2>Посмотреть технические характеристики<span>'.$line->{'p_name'}.'</span>:</h2>
-								<table>
+							<div class="characteristics">';
+							if ($product_color_related){
+								$product .= '<h2>Посмотреть технические характеристики<span>'.$line->{'p_name'}.'</span>:</h2>
+								<table>';							
+							}
+							else {
+								$product .= '<table style="display:table">';
+							}
+							$product .= '
 									<tbody>
 										'.$techdata.'
 									</tbody>

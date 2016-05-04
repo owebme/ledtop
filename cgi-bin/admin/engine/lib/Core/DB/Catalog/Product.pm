@@ -195,7 +195,7 @@ sub getPrivateProducts {
 	
 	my $products=""; my $result="";
 	
-	my $sql = $group_id > 0 ? 'p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id)' : '* FROM cat_product';
+	my $sql = "p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id)";
 	
 	if ($params eq "search"){
 	
@@ -213,7 +213,7 @@ sub getPrivateProducts {
 		$result = $self->query("SELECT ".$sql." WHERE p_art IN (".$query.")");
 	}	
 	else {
-		$result = $self->query("SELECT p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE r.cat_id ='".$query."'");
+		$result = $self->query("SELECT ".$sql." WHERE r.cat_id ='".$query."'");
 	}
 	if ($result){
 		my %category = (); my @products;

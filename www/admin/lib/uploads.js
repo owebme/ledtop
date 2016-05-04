@@ -12,7 +12,7 @@ $(document).ready(function(){
 
 	$("body").append('<div style="border: 3px dashed rgb(177, 206, 229); background-color: rgba(234, 242, 248, 0.8); z-index: 3000; position: fixed; left: 5px; right: 5px; top: 5px; bottom: 5px; border-radius:6px; z-index:1001;" id="uplecms-dropzone"><div class="container" style="color: #069; position: absolute; width: 600px; top: 50%; left: 50%; margin-top: -72px; margin-left: -300px; text-shadow: 0 1px 0 #fff; font-size: 30px; line-height:35px; text-align: center; height: 50px;"><span>Перетащите файлы сюда, чтобы<br> загрузить на сайт</span></div></div>');
 	
-	if (getUrlVars()["adm_act"] !== "catalog" && getUrlVars()["adm_act"] !== "products_multi"){
+	if (getUrlVars()["adm_act"] !== "catalog" && getUrlVars()["adm_act"] !== "products" && getUrlVars()["adm_act"] !== "products_multi"){
 		var intervalTimer="";
 		$("body").bind({
 			dragover: function() {

@@ -5,6 +5,9 @@ use CGI qw/:standard/;
 use CGI::Carp qw (fatalsToBrowser);
 use POSIX qw(locale_h);
 require "templates/connection/require.cgi";
+if (cookie("private_login")){
+	require "templates/auth.cgi";
+}
 use CGI::FastTemplate; 
 use Core::Config;
 use Core::DB;
@@ -138,9 +141,14 @@ if ($cid && $c_ids && $gid){
 		$limit_count=qq~$pages_site~;}	
 	
 		my $products=""; $p_ids =~ s/,$//g; my $count=""; my $counts=""; my $i="";
-		my $result = $db->query("SELECT * FROM cat_product WHERE p_id IN (".$p_ids.") AND p_price > ".($price_from-1)." AND p_price < ".($price_to+1)." ORDER BY p_price ASC");
+		my $result = $db->query("SELECT p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE p_id IN (".$p_ids.") AND p_price > ".($price_from-1)." AND p_price < ".($price_to+1)." ORDER BY p_price ASC");
 		$p_ids="";
 		if ($result){
+			my $catalog=""; my %category=();
+			if ($logined eq "enter" && $user_group > 0){
+				use Core::DB::Catalog;
+				$catalog = new Core::DB::Catalog();	
+			}		
 			foreach my $line(@$result){
 				$count++; $i++; my $mark="";
 				if ($line->{'p_news'} eq "1"){$mark="new";}
@@ -149,7 +157,13 @@ if ($cid && $c_ids && $gid){
 				my $label = 0;
 				if ($count == 3) {$label = "reflect"; $count="";}
 				if ($i < ($limit_count+1)){
-					$products .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, "", $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, $label, $mark, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "catalog", $line->{'p_img_url'}, $cat_name, $parent_cid, "", "", $line->{'p_color_rel'});
+					my $price = $line->{'p_price'};
+					if ($logined eq "enter" && $user_group > 0){
+						my ($price_, $category_) = $catalog->getDiscountPrice($line->{'cat_id'}, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids, \%category);
+						$price = $price_;
+						%category = %{$category_};
+					}				
+					$products .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, "", $price, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, $label, $mark, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "catalog", $line->{'p_img_url'}, $cat_name, $parent_cid, "", "", $line->{'p_color_rel'});
 				}
 				else {
 					$counts++;

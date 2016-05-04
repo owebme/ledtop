@@ -25,8 +25,6 @@ alter table cat_category_links add index (p_cid);
 
 alter table catalog_alright add index (c_pid);
 
-alter table products_alright add index (cat_id);
-
 alter table cat_category add index (c_pid);
 
 alter table cat_product add primary key (p_id);
@@ -37,6 +35,7 @@ alter table cat_product add index (cat_id);
 alter table cat_product_rel add index (cat_p_id);
 alter table cat_product_rel add index (cat_id);
 alter table cat_product_rel add index (p_pos);
+alter table cat_product_rel add unique p_id__c_id__main(cat_p_id, cat_id, cat_main);
 
 alter table cat_product_fields add index (p_id);
 

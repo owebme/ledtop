@@ -8,15 +8,26 @@ sub build_ProductRelated
 	my $article = shift;
 	my $related = shift;
 	
+	my $catalog=""; my %category=();
+	if ($logined eq "enter" && $user_group > 0){
+		use Core::DB::Catalog;
+		$catalog = new Core::DB::Catalog();	
+	}
 	my $navigation=""; my $neighboring="";
 	if ($related){
 		$related =~ s/\s/, /g;
 		$related =~ s/,\s$//g;
 		$related =~ s/,,/,/g;
-		my $res_related = $db->query("SELECT * FROM cat_product WHERE p_art IN (".$related.")");
+		my $res_related = $db->query("SELECT p.*, r.cat_id FROM cat_product AS p JOIN cat_product_rel AS r ON(r.cat_p_id=p.p_id) WHERE p_art IN (".$related.")");
 		if ($res_related){
 			foreach my $line(@$res_related){
-				$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);
+				my $price = $line->{'p_price'};
+				if ($logined eq "enter" && $user_group > 0){
+					my ($price_, $category_) = $catalog->getDiscountPrice($line->{'cat_id'}, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids, \%category);
+					$price = $price_;
+					%category = %{$category_};
+				}			
+				$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $price, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);
 			}
 		}
 	}
@@ -45,12 +56,18 @@ sub build_ProductRelated
 			}
 			if ($trend eq "ASC") {$sort_prev = $sort_." DESC"; $sort_next = $sort_." ASC";}
 			elsif ($trend eq "DESC") {$sort_prev = $sort_." DESC"; $sort_next = $sort_." ASC";}
-
+			
 			my $i=""; my $p_id_prev=""; my $p_name_prev=""; my $p_alias_prev="";
 			my $res_prev = $db->query("SELECT p.*, c.c_id, pl.cat_id, pl.cat_main, ".$sort_." FROM cat_product AS p JOIN cat_product_rel AS pl ON(pl.cat_p_id=p.p_id) JOIN cat_category AS c ON(c.c_id = pl.cat_id) WHERE ".$sort_." < '".$sort2."' AND pl.cat_id = '".$c_id."' AND pl.cat_main ='1' AND p.p_show = '1' ORDER BY ".$sort_prev." LIMIT 4");
 			if ($res_prev){
 				foreach my $line(@$res_prev){	
-					$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);
+					my $price = $line->{'p_price'};
+					if ($logined eq "enter" && $user_group > 0){
+						my ($price_, $category_) = $catalog->getDiscountPrice($line->{'cat_id'}, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids, \%category);
+						$price = $price_;
+						%category = %{$category_};
+					}			
+					$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $price, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);
 				}
 			}
 			
@@ -58,7 +75,13 @@ sub build_ProductRelated
 			my $res_next = $db->query("SELECT p.*, c.c_id, pl.cat_id, pl.cat_main, ".$sort_." FROM cat_product AS p JOIN cat_product_rel AS pl ON(pl.cat_p_id=p.p_id) JOIN cat_category AS c ON(c.c_id = pl.cat_id) WHERE ".$sort_." > '".$sort2."' AND pl.cat_id = '".$c_id."' AND pl.cat_main ='1' AND p.p_show = '1' ORDER BY ".$sort_next." LIMIT 4");
 			if ($res_next){
 				foreach my $line(@$res_next){
-					$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $line->{'p_price'}, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);		
+					my $price = $line->{'p_price'};
+					if ($logined eq "enter" && $user_group > 0){
+						my ($price_, $category_) = $catalog->getDiscountPrice($line->{'cat_id'}, $line->{'p_price'}, $line->{'p_price_opt'}, $line->{'p_price_opt_large'}, \%user_group_ids, \%category);
+						$price = $price_;
+						%category = %{$category_};
+					}				
+					$neighboring .= build_TemplateProduct($line->{'p_id'}, $line->{'p_art'}, $line->{'p_name'}, $line->{'p_alias'}, $c_alias, $price, $line->{'p_price_old'}, $line->{'p_desc_sm'}, 0, 0, 0, $line->{'p_raiting'}, $line->{'p_raiting_count'}, "related", $line->{'p_img_url'}, $c_name);		
 				}
 			}
 		}

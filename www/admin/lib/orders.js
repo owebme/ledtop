@@ -307,11 +307,13 @@ $("div.product").find("div.change").find("ins").live("click", function(){
 		params.changeOrder = order_id;		
 		params.deleteOrderProduct = p_art;
 		$.post(dirs_orders+'/orders_ajax.cgi', params, function(data){
-			if (data > 0){
+			if (data){
+				var result = data.split("|");
+				var price = result[0];			
 				var delivery_price = parseFloat($total_price.find("#delivery_price").html())*1;
-				var total = parseFloat(data)*1 + delivery_price;
-				data = String(data).replace(/(\d)(?=((\d{3})+)(\D|$))/, "$1 ");
-				$total_price.find("#totalcena").html(data);
+				var total = parseFloat(price)*1 + delivery_price;
+				price = String(price).replace(/(\d)(?=((\d{3})+)(\D|$))/, "$1 ");
+				$total_price.find("#totalcena").html(price);
 				total = String(total).replace(/(\d)(?=((\d{3})+)(\D|$))/, "$1 ");
 				$total_price.find("#totalcena_pay").html(total);
 			}
@@ -327,10 +329,11 @@ function changeProducts(el, count, price, params){
 	if (params == "edit"){
 		p_art = $el.parent().parent().attr("data-art");
 		var name = $el.parent().parent().find("div.name").find("a").text();
+		$el.parent().parent().addClass("order-edit");
 		$el.parent().replaceWith('<div class="change-product edit"><a class="cancel" href="#">Отмена</a><span>Кол-во:</span><input type="text" class="count" value="'+count+'"><input type="text" class="price" value="'+price+'"><input type="text" class="name" placeholder="Введите название" value="'+name+'"><a title="Внести изменения" class="add" href="#"></a></div>');
 	}
 	else if (params == "new"){
-		$el.parent().parent().parent().find(".total_price").before('<div class="product"><div class="change-product new"><a class="cancel" href="#">Отмена</a><span>Кол-во:</span><input type="text" class="count" value="1"><input type="text" class="name" placeholder="Введите название" value=""><a title="Внести изменения" class="add" href="#"></a></div></div>');
+		$el.parent().parent().parent().find(".total_price").before('<div class="product order-edit"><div class="change-product new"><a class="cancel" href="#">Отмена</a><span>Кол-во:</span><input type="text" class="count" value="1"><input type="text" class="name" placeholder="Введите название" value=""><a title="Внести изменения" class="add" href="#"></a></div></div>');
 	}
 	var $container = $order.find(".change-product");
 	
@@ -340,6 +343,7 @@ function changeProducts(el, count, price, params){
 		$(".suggest").remove();
 		if (params == "edit"){
 			var alias = $(this).parent().parent().find("div.name").find("a").attr("href");
+			$(this).parent().parent().removeClass("order-edit");
 			$(this).parent().replaceWith('<div class="change"><span title="Добавить позицию">+ <em>Добавить</em></span><a href="#" class="edit">Изменить позицию</a><a class="link" target="_blank" href="'+alias+'">На сайте <em>&rarr;</em></a><ins title="Удалить позицию"></ins></div>');
 		}
 		else if (params == "new"){
@@ -382,9 +386,6 @@ function changeProducts(el, count, price, params){
 								}
 								$(input).replaceWith('<div class="name"><a target="_blank" data-price="'+price+'" data-art="'+article+'" href="/products/'+article+'">'+product+'</a>'+(article?'<span class="art">Арт: <strong>'+article+'</strong></span>':'')+'</div>');
 								$(".suggest").remove();
-								if ($parent.find("div.name").find("a").text().length > 52){
-									$parent.css("height", "46px");
-								}
 							});
 						}
 					}
@@ -435,7 +436,7 @@ function changeProducts(el, count, price, params){
 					if (!price){price = $div.attr("data-price");}
 					var article = $div.attr("data-art");
 					$container.parent().replaceWith('<div data-count="'+count+'" data-art="'+article+'" class="product"><div class="count">'+count+' шт. <em>x</em> '+price+' руб.</div><div class="name"><a href="/products/'+article+'" data-price="'+price+'" data-art="'+article+'" target="_blank">'+name+'</a>'+(article?'<span class="art">Арт: <strong>'+article+'</strong></span>':'')+'</div><div class="change"><span title="Добавить позицию">+ <em>Добавить</em></span><a href="#" class="edit">Изменить позицию</a><a class="link" target="_blank" href="/products/'+article+'">На сайте <em>&rarr;</em></a><ins title="Удалить позицию"></ins></div></div>');
-					$container.parent().css("height", "");
+					$container.parent().removeClass("order-edit")
 				}
 			});
 		}

@@ -136,9 +136,7 @@ elsif ($period eq "all"){
 			
 			my $totalcena = $order->{total};
 			if (!$totalcena){$totalcena = 0;}
-			if ($totalcena > 0){
-				$totalcena =~ s/(\d)(?=((\d{3})+)(\D|$))/$1 /g;	
-			}
+			else {$totalcena = price_trans($totalcena);}
 			
 			my $delivery_price = 0;
 			my $totalcena_pay = $order->{total};
@@ -147,9 +145,7 @@ elsif ($period eq "all"){
 			elsif ($order->{delivery} eq "3"){$delivery_price = 300;}
 
 			$totalcena_pay = $totalcena_pay + $delivery_price;
-			if ($totalcena_pay > 0){
-				$totalcena_pay =~ s/(\d)(?=((\d{3})+)(\D|$))/$1 /g;	
-			}
+			$totalcena_pay = price_trans($totalcena_pay);
 				
 			my $name=""; my $phone=""; my $email=""; my $city=""; my $address=""; my $index=""; my $metro=""; 
 			if ($order->{name} eq "") {$name="<span class='edit none'>Имя не указано</span>"} else {$name = '<span class="edit">'.$order->{name}.'</span>';}
@@ -197,7 +193,7 @@ elsif ($period eq "all"){
 				</div>
 				<div class="order_product">
 				'.$product_order.'
-				'.($order->{pay} ne "1"?'<div class="total_price">Итого к оплате &mdash; <span><em id="totalcena">'.$totalcena.'</em> + <em id="delivery_price">'.$delivery_price.'</em> = <em id="totalcena_pay">'.$totalcena_pay.'</em> руб.</span><a target="_blank" href="/payment/?pay='.md5_hex($order->{id}.$order->{phone}).'&order='.$order->{id}.'" class="getLink"><i></i>Счет на оплату</a></div>':'<div class="total_price">Оплачен на сумму &mdash; <span><em id="totalcena">'.$order->{totalPayment}.'</em> руб.</span></div>').'
+				'.($order->{pay} ne "1"?'<div class="total_price">Итого к оплате &mdash; <span><em id="totalcena">'.$totalcena.'</em> + <em id="delivery_price">'.$delivery_price.'</em> = <em id="totalcena_pay">'.$totalcena_pay.'</em> руб.</span><a target="_blank" href="/payment/?pay='.md5_hex($order->{id}.$order->{phone}).'&order='.$order->{id}.'" class="getLink"><i></i>Счет на оплату</a></div>':'<div class="total_price">Оплачен на сумму &mdash; <span><em id="totalcena">'.price_trans($order->{totalPayment}).'</em> руб.</span></div>').'
 				<div class="btn-group ch-delivery">
 					<button data-value="1" class="btn'.($order->{delivery} eq "1"?' active':'').'">По городу</button>
 					<button data-value="2" class="btn'.($order->{delivery} eq "2"?' active':'').'">По области</button>
@@ -292,6 +288,24 @@ $content_html.= qq~
 	</tr>
 </table>~;
 
+
+sub price_trans {
+	my $price = shift;
+	my $fraction = shift;
+	if ($price > 0){
+		if ($fraction){
+			$price = sprintf("%.2f",$price);
+		}
+		else {
+			$price = sprintf("%.0f",$price);
+		}
+		$price =~ s/(\d)(?=((\d{3})+)(\D|$))/$1 /g;
+	}
+	else {
+		$price = 0;
+	}
+	return $price;
+}
 
 
 -1;
